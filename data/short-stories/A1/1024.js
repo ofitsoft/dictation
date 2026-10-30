@@ -1,0 +1,164 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1024"]=[
+ {
+  "id": 1,
+  "start": 1.22,
+  "end": 11.24,
+  "text": "You can watch the weatherman on TV, to find out what the weather will be like."
+ },
+ {
+  "id": 2,
+  "start": 11.21,
+  "end": 13.16,
+  "text": "It might be a nice clear day with no clouds in the sky."
+ },
+ {
+  "id": 3,
+  "start": 13.07,
+  "end": 18.96,
+  "text": "The sun might be shining."
+ },
+ {
+  "id": 4,
+  "start": 19.41,
+  "end": 25.3,
+  "text": "It could be a cloudy day."
+ },
+ {
+  "id": 5,
+  "start": 25.25,
+  "end": 25.72,
+  "text": "Sometimes, cloudy days are just dull."
+ },
+ {
+  "id": 6,
+  "start": 25.66,
+  "end": 27.38,
+  "text": "On some cloudy days, it begins to rain or snow."
+ },
+ {
+  "id": 7,
+  "start": 27.3,
+  "end": 30.96,
+  "text": "Some days are rainy."
+ },
+ {
+  "id": 8,
+  "start": 31.12,
+  "end": 34.08,
+  "text": "You need a raincoat, umbrella and boots on a rainy day."
+ },
+ {
+  "id": 9,
+  "start": 34.35,
+  "end": 38.86,
+  "text": "Rain makes the flowers and grass grow."
+ },
+ {
+  "id": 10,
+  "start": 38.92,
+  "end": 41.99,
+  "text": "The weather forecast might say that it will be windy."
+ },
+ {
+  "id": 11,
+  "start": 42.16,
+  "end": 47.34,
+  "text": "You could have a gentle breeze."
+ },
+ {
+  "id": 12,
+  "start": 47.4,
+  "end": 51.19,
+  "text": "It might be very gusty so that the wind pushes you."
+ },
+ {
+  "id": 13,
+  "start": 51.12,
+  "end": 55.77,
+  "text": "It is dangerous if the wind is very strong."
+ },
+ {
+  "id": 14,
+  "start": 56.16,
+  "end": 60.68,
+  "text": "A hurricane or tornado is very dangerous."
+ },
+ {
+  "id": 15,
+  "start": 60.65,
+  "end": 66.51,
+  "text": "Once in a while, the weatherman says there will be hail."
+ },
+ {
+  "id": 16,
+  "start": 66.53,
+  "end": 71.32,
+  "text": "Hail stones are hard cold pellets of ice that fall from the sky."
+ },
+ {
+  "id": 17,
+  "start": 71.3,
+  "end": 75.81,
+  "text": "Sometimes, the weatherman will say that there will be snow flurries."
+ },
+ {
+  "id": 18,
+  "start": 76.15,
+  "end": 81.11,
+  "text": "Sometimes, there is just a light dusting of snow."
+ },
+ {
+  "id": 19,
+  "start": 81.12,
+  "end": 84.43,
+  "text": "Sometimes, there is a blizzard or a snowstorm."
+ },
+ {
+  "id": 20,
+  "start": 84.66,
+  "end": 89.05,
+  "text": "It can be dangerous driving through a blizzard."
+ },
+ {
+  "id": 21,
+  "start": 89.58,
+  "end": 92.43,
+  "text": "If there is a lot of snow, the streets have to be plowed."
+ },
+ {
+  "id": 22,
+  "start": 92.47,
+  "end": 96.24,
+  "text": "You need a hat, coat, mittens and boots on a very cold day."
+ },
+ {
+  "id": 23,
+  "start": 96.48,
+  "end": 99.91,
+  "text": "Sometimes, the weather forecast is wrong."
+ },
+ {
+  "id": 24,
+  "start": 100.43,
+  "end": 107.07,
+  "text": "The weatherman might say that it will be a sunny day, but then the clouds come in and it rains."
+ },
+ {
+  "id": 25,
+  "start": 107.09,
+  "end": 110.58,
+  "text": "That is not good if you are planning a picnic."
+ },
+ {
+  "id": 26,
+  "start": 110.78,
+  "end": 115.06,
+  "text": "I prefer sunny days that are warm but not too hot."
+ },
+ {
+  "id": 27,
+  "start": 115.3,
+  "end": 119.17,
+  "text": "I like to feel a gentle breeze to cool me down."
+ }
+];

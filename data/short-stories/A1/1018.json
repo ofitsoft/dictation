@@ -1,0 +1,110 @@
+[
+ {
+  "id": 1,
+  "start": 3.57,
+  "end": 5.87,
+  "text": "Amy is 16 years old."
+ },
+ {
+  "id": 2,
+  "start": 6.21,
+  "end": 8.29,
+  "text": "She lives in a small town."
+ },
+ {
+  "id": 3,
+  "start": 8.98,
+  "end": 11.03,
+  "text": "Amy is learning how to drive."
+ },
+ {
+  "id": 4,
+  "start": 11.86,
+  "end": 14.33,
+  "text": "Amy's dad is giving her lessons."
+ },
+ {
+  "id": 5,
+  "start": 14.98,
+  "end": 17.34,
+  "text": "Amy's dad's name is Howard."
+ },
+ {
+  "id": 6,
+  "start": 18.2,
+  "end": 20.4,
+  "text": "Amy has had three lessons."
+ },
+ {
+  "id": 7,
+  "start": 21.22,
+  "end": 24.29,
+  "text": "Amy and her dad argue during the lessons."
+ },
+ {
+  "id": 8,
+  "start": 25.08,
+  "end": 28.14,
+  "text": "Amy's mom is giving her driving lessons."
+ },
+ {
+  "id": 9,
+  "start": 28.73,
+  "end": 31.32,
+  "text": "Amy's mom's name is Jane."
+ },
+ {
+  "id": 10,
+  "start": 32.06,
+  "end": 34.23,
+  "text": "Jane has given Amy a lesson."
+ },
+ {
+  "id": 11,
+  "start": 34.84,
+  "end": 38.15,
+  "text": "Jane has decided to stop giving Amy lessons."
+ },
+ {
+  "id": 12,
+  "start": 38.76,
+  "end": 42.03,
+  "text": "Jane and Amy argue during the lessons too."
+ },
+ {
+  "id": 13,
+  "start": 42.91,
+  "end": 45.87,
+  "text": "Amy's parents call a driving school."
+ },
+ {
+  "id": 14,
+  "start": 46.85,
+  "end": 49.8,
+  "text": "Amy is going to get lessons from a professional."
+ },
+ {
+  "id": 15,
+  "start": 50.52,
+  "end": 54.54,
+  "text": "The classes cost $300 for 10 lessons."
+ },
+ {
+  "id": 16,
+  "start": 55.12,
+  "end": 57.12,
+  "text": "The lessons are very good."
+ },
+ {
+  "id": 17,
+  "start": 57.78,
+  "end": 59.75,
+  "text": "Amy learns how to drive."
+ },
+ {
+  "id": 18,
+  "start": 60.25,
+  "end": 62.15,
+  "text": "Amy gets her licence."
+ }
+]

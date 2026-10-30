@@ -1,0 +1,128 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1066"]=[
+ {
+  "id": 1,
+  "start": 2.93,
+  "end": 5.16,
+  "text": "It rains a lot in the spring."
+ },
+ {
+  "id": 2,
+  "start": 5.56,
+  "end": 10.06,
+  "text": "The trees are full of buds, and the flowers are starting to bloom."
+ },
+ {
+  "id": 3,
+  "start": 10.62,
+  "end": 14.49,
+  "text": "My favorite spring flowers are tulips and daffodils."
+ },
+ {
+  "id": 4,
+  "start": 15.02,
+  "end": 16.99,
+  "text": "The birds come back from the south."
+ },
+ {
+  "id": 5,
+  "start": 17.34,
+  "end": 22.4,
+  "text": "I can always tell that spring is here when I see my first robin of the season."
+ },
+ {
+  "id": 6,
+  "start": 22.93,
+  "end": 25.72,
+  "text": "The robins pull worms from the wet ground."
+ },
+ {
+  "id": 7,
+  "start": 26.66,
+  "end": 31.64,
+  "text": "When it isn't raining, my friends and I go outside and toss a ball around."
+ },
+ {
+  "id": 8,
+  "start": 32.06,
+  "end": 37.36,
+  "text": "We look forward to the summer, but we are glad to get outside after the long winter."
+ },
+ {
+  "id": 9,
+  "start": 37.91,
+  "end": 40.46,
+  "text": "The air smells so fresh in the spring."
+ },
+ {
+  "id": 10,
+  "start": 40.86,
+  "end": 44.91,
+  "text": "My mother always tells me not to track mud into the house."
+ },
+ {
+  "id": 11,
+  "start": 45.47,
+  "end": 48.22,
+  "text": "It's very muddy in our yard in the springtime."
+ },
+ {
+  "id": 12,
+  "start": 48.82,
+  "end": 52.0,
+  "text": "I wipe my muddy feet before I go into the house."
+ },
+ {
+  "id": 13,
+  "start": 52.69,
+  "end": 55.04,
+  "text": "There are a lot of puddles in my yard."
+ },
+ {
+  "id": 14,
+  "start": 55.26,
+  "end": 61.32,
+  "text": "I sometimes splash in the puddles, and I get wet and cold, so I have to go into the house."
+ },
+ {
+  "id": 15,
+  "start": 62.22,
+  "end": 67.38,
+  "text": "I like it when the snow has melted, the rain has stopped, and the sun comes out."
+ },
+ {
+  "id": 16,
+  "start": 67.88,
+  "end": 71.42,
+  "text": "On sunny days I always get together with my friends."
+ },
+ {
+  "id": 17,
+  "start": 71.99,
+  "end": 75.76,
+  "text": "On those days we either ride our bikes or play ball."
+ },
+ {
+  "id": 18,
+  "start": 76.34,
+  "end": 79.52,
+  "text": "My parents like to go for walks on spring evenings."
+ },
+ {
+  "id": 19,
+  "start": 79.81,
+  "end": 82.88,
+  "text": "They also like to clean up the yard in the spring."
+ },
+ {
+  "id": 20,
+  "start": 83.56,
+  "end": 85.81,
+  "text": "Everyone seems to be outside."
+ },
+ {
+  "id": 21,
+  "start": 86.28,
+  "end": 89.45,
+  "text": "The springtime brings people out of their houses."
+ }
+];

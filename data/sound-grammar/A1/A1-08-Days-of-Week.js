@@ -1,0 +1,194 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-08-Days-of-Week"]=[
+ {
+  "id": 1,
+  "start": 1.21,
+  "end": 2.88,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 4.02,
+  "end": 5.66,
+  "text": "Man: What days do you work?"
+ },
+ {
+  "id": 3,
+  "start": 6.8,
+  "end": 13.91,
+  "text": "Woman: I work Monday, Tuesday, Thursday, and Friday. I don't work Wednesday."
+ },
+ {
+  "id": 4,
+  "start": 14.67,
+  "end": 17.48,
+  "text": "Man: Wow, that is a nice schedule."
+ },
+ {
+  "id": 5,
+  "start": 18.52,
+  "end": 23.75,
+  "text": "Woman: Yeah, but I sometimes work on Saturday. What about you?"
+ },
+ {
+  "id": 6,
+  "start": 24.55,
+  "end": 29.5,
+  "text": "Man: I work Monday to Friday. I never work on Saturday or Sunday."
+ },
+ {
+  "id": 7,
+  "start": 30.73,
+  "end": 32.86,
+  "text": "Woman: What do you do on the weekend?"
+ },
+ {
+  "id": 8,
+  "start": 33.06,
+  "end": 34.96,
+  "text": "Man: I work in my garden."
+ },
+ {
+  "id": 9,
+  "start": 37.26,
+  "end": 38.26,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 10,
+  "start": 39.26,
+  "end": 42.12,
+  "text": "Man: When do you study on the weekend?"
+ },
+ {
+  "id": 11,
+  "start": 43.11,
+  "end": 45.49,
+  "text": "Woman: I study on Saturday morning."
+ },
+ {
+  "id": 12,
+  "start": 46.32,
+  "end": 49.57,
+  "text": "Man: Really, I never study on Saturday."
+ },
+ {
+  "id": 13,
+  "start": 50.38,
+  "end": 52.04,
+  "text": "Woman: When do you study?"
+ },
+ {
+  "id": 14,
+  "start": 52.85,
+  "end": 55.28,
+  "text": "Man: I only study on Sunday night."
+ },
+ {
+  "id": 15,
+  "start": 56.48,
+  "end": 61.93,
+  "text": "Woman: Oh, I never study on Sunday. Sunday is my fun day."
+ },
+ {
+  "id": 16,
+  "start": 63.4,
+  "end": 65.07,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 17,
+  "start": 66.17,
+  "end": 68.53,
+  "text": "Man: What days do you have English class?"
+ },
+ {
+  "id": 18,
+  "start": 69.49,
+  "end": 72.94,
+  "text": "Woman: I have class on Monday and Thursday."
+ },
+ {
+  "id": 19,
+  "start": 73.98,
+  "end": 75.93,
+  "text": "Man: When do you have Math class?"
+ },
+ {
+  "id": 20,
+  "start": 77.35,
+  "end": 79.7,
+  "text": "Woman: I have Math class every day."
+ },
+ {
+  "id": 21,
+  "start": 80.61,
+  "end": 82.4,
+  "text": "Man: What about history class?"
+ },
+ {
+  "id": 22,
+  "start": 83.47,
+  "end": 86.15,
+  "text": "Woman: I have history class on Wednesday."
+ },
+ {
+  "id": 23,
+  "start": 86.98,
+  "end": 89.87,
+  "text": "Man: Wow, you have a busy schedule."
+ },
+ {
+  "id": 24,
+  "start": 90.68,
+  "end": 91.97,
+  "text": "Woman: I know!"
+ },
+ {
+  "id": 25,
+  "start": 93.23,
+  "end": 94.97,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 26,
+  "start": 96.67,
+  "end": 98.65,
+  "text": "Woman: When do you play soccer?"
+ },
+ {
+  "id": 27,
+  "start": 99.53,
+  "end": 102.2,
+  "text": "Man: I play on Tuesday and Friday nights."
+ },
+ {
+  "id": 28,
+  "start": 102.79,
+  "end": 108.08,
+  "text": "Woman: Nice, I only play on the weekends."
+ },
+ {
+  "id": 29,
+  "start": 108.51,
+  "end": 109.91,
+  "text": "Man: Really, can I play with you?"
+ },
+ {
+  "id": 30,
+  "start": 110.76,
+  "end": 115.76,
+  "text": "Woman: Yes, we play on Saturday and Sunday at the park at ten."
+ },
+ {
+  "id": 31,
+  "start": 116.63,
+  "end": 118.87,
+  "text": "Man: Great! See you this weekend!"
+ },
+ {
+  "id": 32,
+  "start": 119.84,
+  "end": 120.99,
+  "text": "Woman: See you then!"
+ }
+];

@@ -1,0 +1,128 @@
+[
+ {
+  "id": 1,
+  "start": 3.57,
+  "end": 5.96,
+  "text": "Joe is 18 years old."
+ },
+ {
+  "id": 2,
+  "start": 6.41,
+  "end": 8.64,
+  "text": "Joe works at McDonald's."
+ },
+ {
+  "id": 3,
+  "start": 9.14,
+  "end": 11.32,
+  "text": "Joe saves all his money."
+ },
+ {
+  "id": 4,
+  "start": 12.18,
+  "end": 15.61,
+  "text": "Joe has $2500.00 in the bank."
+ },
+ {
+  "id": 5,
+  "start": 16.47,
+  "end": 18.8,
+  "text": "He wants to buy a sports car."
+ },
+ {
+  "id": 6,
+  "start": 19.79,
+  "end": 22.3,
+  "text": "Joe starts to look for a new car."
+ },
+ {
+  "id": 7,
+  "start": 22.99,
+  "end": 24.81,
+  "text": "Joe looks in the newspaper."
+ },
+ {
+  "id": 8,
+  "start": 25.51,
+  "end": 27.71,
+  "text": "Joe looks in magazines."
+ },
+ {
+  "id": 9,
+  "start": 28.6,
+  "end": 30.85,
+  "text": "Joe finds a car he likes."
+ },
+ {
+  "id": 10,
+  "start": 31.72,
+  "end": 34.59,
+  "text": "Joe goes to see the car with his dad."
+ },
+ {
+  "id": 11,
+  "start": 35.26,
+  "end": 36.94,
+  "text": "He really likes it."
+ },
+ {
+  "id": 12,
+  "start": 37.71,
+  "end": 39.83,
+  "text": "Joe doesn't have enough money."
+ },
+ {
+  "id": 13,
+  "start": 41.06,
+  "end": 44.0,
+  "text": "Joe's dad tells him to keep saving his money."
+ },
+ {
+  "id": 14,
+  "start": 44.82,
+  "end": 47.15,
+  "text": "Joe wants this car a lot."
+ },
+ {
+  "id": 15,
+  "start": 47.98,
+  "end": 50.38,
+  "text": "Joe asks his dad to help him."
+ },
+ {
+  "id": 16,
+  "start": 51.15,
+  "end": 53.84,
+  "text": "Joe and his dad make a deal."
+ },
+ {
+  "id": 17,
+  "start": 54.61,
+  "end": 57.04,
+  "text": "Joe's dad will lend him the money."
+ },
+ {
+  "id": 18,
+  "start": 57.71,
+  "end": 59.56,
+  "text": "Joe must work hard."
+ },
+ {
+  "id": 19,
+  "start": 60.04,
+  "end": 62.63,
+  "text": "He must pay the money back to his dad."
+ },
+ {
+  "id": 20,
+  "start": 63.22,
+  "end": 65.11,
+  "text": "Joe is very happy."
+ },
+ {
+  "id": 21,
+  "start": 65.5,
+  "end": 67.86,
+  "text": "Joe owns his first car."
+ }
+]

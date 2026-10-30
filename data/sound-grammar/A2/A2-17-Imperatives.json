@@ -1,0 +1,272 @@
+[
+ {
+  "id": 1,
+  "start": 0.64,
+  "end": 3.8,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 5.93,
+  "end": 7.54,
+  "text": "Woman: Can you help me cook dinner?"
+ },
+ {
+  "id": 3,
+  "start": 8.15,
+  "end": 9.75,
+  "text": "Man: Sure. How can I help?"
+ },
+ {
+  "id": 4,
+  "start": 9.97,
+  "end": 13.84,
+  "text": "Woman: Please make a fruit salad. Use the fruit on the table."
+ },
+ {
+  "id": 5,
+  "start": 13.96,
+  "end": 17.24,
+  "text": "Man: OK. The bananas, strawberries, and kiwis?"
+ },
+ {
+  "id": 6,
+  "start": 17.51,
+  "end": 26.47,
+  "text": "Woman: Yes, that’s right. Please cut them up and put them in a bowl. Wash them and then add yogurt on top. We will have it for dessert."
+ },
+ {
+  "id": 7,
+  "start": 26.62,
+  "end": 30.06,
+  "text": "Man: SOK, I can do that. What else?"
+ },
+ {
+  "id": 8,
+  "start": 30.06,
+  "end": 36.1,
+  "text": "Woman: Then, set the table. Make places for five people. My friend will join us."
+ },
+ {
+  "id": 9,
+  "start": 36.41,
+  "end": 38.48,
+  "text": "Man: Oh, great! Anything else?"
+ },
+ {
+  "id": 10,
+  "start": 39.02,
+  "end": 44.32,
+  "text": "Woman: Yes, after that, please text the kids. Tell them to be home by six."
+ },
+ {
+  "id": 11,
+  "start": 44.66,
+  "end": 46.96,
+  "text": "Man: Got it. I’m on it."
+ },
+ {
+  "id": 12,
+  "start": 49.28,
+  "end": 57.82,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 13,
+  "start": 58.52,
+  "end": 59.65,
+  "text": "Man: Where is the library?"
+ },
+ {
+  "id": 14,
+  "start": 59.93,
+  "end": 62.91,
+  "text": "Woman: It’s not far from here. It’s in the park."
+ },
+ {
+  "id": 15,
+  "start": 62.86,
+  "end": 64.21,
+  "text": "Man: How do you get there?"
+ },
+ {
+  "id": 16,
+  "start": 64.37,
+  "end": 69.52,
+  "text": "Woman: It’s easy. Go down this road. At the second light, turn left."
+ },
+ {
+  "id": 17,
+  "start": 69.96,
+  "end": 74.68,
+  "text": "Man: OK, so I walk down this road two blocks, and then turn left."
+ },
+ {
+  "id": 18,
+  "start": 75.01,
+  "end": 78.28,
+  "text": "Woman: Yes, that’s right. You will see the park. The library is in the park."
+ },
+ {
+  "id": 19,
+  "start": 78.98,
+  "end": 79.92,
+  "text": "Man: Thanks for your help."
+ },
+ {
+  "id": 20,
+  "start": 80.32,
+  "end": 82.47,
+  "text": "Woman: Don’t mention it."
+ },
+ {
+  "id": 21,
+  "start": 84.17,
+  "end": 87.25,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 22,
+  "start": 89.21,
+  "end": 93.35,
+  "text": "Man: Mrs. Jones, I missed class. What is the homework?"
+ },
+ {
+  "id": 23,
+  "start": 93.62,
+  "end": 98.06,
+  "text": "Woman: Tonight, please write a 100 word essay about your hobby."
+ },
+ {
+  "id": 24,
+  "start": 98.08,
+  "end": 99.35,
+  "text": "Man: Can I write about football?"
+ },
+ {
+  "id": 25,
+  "start": 99.75,
+  "end": 104.52,
+  "text": "Woman: Yes, of course. But, please write in pen, not pencil."
+ },
+ {
+  "id": 26,
+  "start": 104.74,
+  "end": 106.66,
+  "text": "Man: Can I use a computer and print it?"
+ },
+ {
+  "id": 27,
+  "start": 106.86,
+  "end": 110.31,
+  "text": "Woman: No, do not use a computer. Write it by hand."
+ },
+ {
+  "id": 28,
+  "start": 110.49,
+  "end": 112.33,
+  "text": "Man: Can I write it in my notebook?"
+ },
+ {
+  "id": 29,
+  "start": 112.69,
+  "end": 115.02,
+  "text": "Woman: No, use a piece of paper."
+ },
+ {
+  "id": 30,
+  "start": 115.02,
+  "end": 116.0,
+  "text": "Man: Is that all?"
+ },
+ {
+  "id": 31,
+  "start": 116.79,
+  "end": 120.0,
+  "text": "Woman: No, also please read chapter 10 in your book."
+ },
+ {
+  "id": 32,
+  "start": 120.49,
+  "end": 121.3,
+  "text": "Man: Is that it?"
+ },
+ {
+  "id": 33,
+  "start": 121.7,
+  "end": 123.04,
+  "text": "Woman: Yes, that’s it."
+ },
+ {
+  "id": 34,
+  "start": 127.04,
+  "end": 129.3,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 35,
+  "start": 132.62,
+  "end": 137.79,
+  "text": "Man: Lately, I feel sleepy and tired. I have low energy. Do you have any tips?"
+ },
+ {
+  "id": 36,
+  "start": 138.25,
+  "end": 145.35,
+  "text": "Woman: Yes, eat lots of vegetables. Also, don’t eat carbs like bread, rice, and pasta."
+ },
+ {
+  "id": 37,
+  "start": 145.66,
+  "end": 147.35,
+  "text": "Man: OK, what about meat?"
+ },
+ {
+  "id": 38,
+  "start": 147.59,
+  "end": 152.49,
+  "text": "Woman: Some meat is fine, but don’t eat fast food, like fried chicken."
+ },
+ {
+  "id": 39,
+  "start": 152.6,
+  "end": 154.0,
+  "text": "Man: What about drinks?"
+ },
+ {
+  "id": 40,
+  "start": 154.08,
+  "end": 158.26,
+  "text": "Woman: Drink tea or water. Don’t drink beverages with sugar."
+ },
+ {
+  "id": 41,
+  "start": 158.56,
+  "end": 160.34,
+  "text": "Man: What about exercise?"
+ },
+ {
+  "id": 42,
+  "start": 160.67,
+  "end": 164.63,
+  "text": "Woman: Exercise every day, but don’t exercise too much."
+ },
+ {
+  "id": 43,
+  "start": 165.13,
+  "end": 167.42,
+  "text": "Man: I can do that. Any other advise?"
+ },
+ {
+  "id": 44,
+  "start": 167.72,
+  "end": 171.31,
+  "text": "Woman: Yes, get lots of sleep. Sleep 8 hours a day."
+ },
+ {
+  "id": 45,
+  "start": 171.74,
+  "end": 174.67,
+  "text": "Man: Oh, that’s easy. I love sleep."
+ }
+]

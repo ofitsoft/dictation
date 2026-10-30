@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-22-Was-Were"]=[
+ {
+  "id": 1,
+  "start": 0.98,
+  "end": 2.45,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.01,
+  "end": 4.17,
+  "text": "Man: How was the movie?"
+ },
+ {
+  "id": 3,
+  "start": 4.53,
+  "end": 6.26,
+  "text": "Woman: It was really good."
+ },
+ {
+  "id": 4,
+  "start": 6.37,
+  "end": 7.58,
+  "text": "Man: Was it scary?"
+ },
+ {
+  "id": 5,
+  "start": 7.84,
+  "end": 10.19,
+  "text": "Woman: Yes, it was really scary."
+ },
+ {
+  "id": 6,
+  "start": 10.34,
+  "end": 12.38,
+  "text": "Man: Nice. Was it crowded?"
+ },
+ {
+  "id": 7,
+  "start": 12.52,
+  "end": 17.13,
+  "text": "Woman: No, it wasn’t. There weren’t many people there, surprisingly."
+ },
+ {
+  "id": 8,
+  "start": 18.48,
+  "end": 20.02,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 20.56,
+  "end": 22.03,
+  "text": "Man: Where were you last night?"
+ },
+ {
+  "id": 10,
+  "start": 22.38,
+  "end": 23.62,
+  "text": "Woman: I was at work."
+ },
+ {
+  "id": 11,
+  "start": 23.85,
+  "end": 27.08,
+  "text": "Man: Really? I was at your shop. You weren’t there."
+ },
+ {
+  "id": 12,
+  "start": 27.3,
+  "end": 29.58,
+  "text": "Woman: No, I was in the back working."
+ },
+ {
+  "id": 13,
+  "start": 29.83,
+  "end": 30.62,
+  "text": "Man: You were?"
+ },
+ {
+  "id": 14,
+  "start": 31.03,
+  "end": 32.95,
+  "text": "Woman: Really! I was there."
+ },
+ {
+  "id": 15,
+  "start": 35.01,
+  "end": 36.64,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 16,
+  "start": 37.76,
+  "end": 39.01,
+  "text": "Man: How was the test?"
+ },
+ {
+  "id": 17,
+  "start": 39.45,
+  "end": 41.51,
+  "text": "Woman: It was really hard."
+ },
+ {
+  "id": 18,
+  "start": 41.81,
+  "end": 42.95,
+  "text": "Man: How long was it?"
+ },
+ {
+  "id": 19,
+  "start": 43.4,
+  "end": 46.36,
+  "text": "Woman: There were about 20 problems."
+ },
+ {
+  "id": 20,
+  "start": 46.49,
+  "end": 48.41,
+  "text": "Man: Yeah? What was your score?"
+ },
+ {
+  "id": 21,
+  "start": 48.9,
+  "end": 53.99,
+  "text": "Woman: Let’s just say, it wasn’t great, but it wasn’t bad either."
+ },
+ {
+  "id": 22,
+  "start": 55.4,
+  "end": 56.89,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 23,
+  "start": 58.04,
+  "end": 59.67,
+  "text": "Man: Do you know who was at the party?"
+ },
+ {
+  "id": 24,
+  "start": 60.0,
+  "end": 62.65,
+  "text": "Woman: Jason was there. So was Sue."
+ },
+ {
+  "id": 25,
+  "start": 62.83,
+  "end": 64.69,
+  "text": "Man: Oh, were Tom and Katie there?"
+ },
+ {
+  "id": 26,
+  "start": 64.9,
+  "end": 68.19,
+  "text": "Woman: No, they weren’t there, but their son was."
+ },
+ {
+  "id": 27,
+  "start": 68.42,
+  "end": 72.36,
+  "text": "Man: Oh, I see. So, was it fun?"
+ },
+ {
+  "id": 28,
+  "start": 72.61,
+  "end": 74.85,
+  "text": "Woman: Yeah, it was a fun evening."
+ }
+];

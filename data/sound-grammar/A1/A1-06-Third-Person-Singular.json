@@ -1,0 +1,188 @@
+[
+ {
+  "id": 1,
+  "start": 0.97,
+  "end": 2.46,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.77,
+  "end": 5.49,
+  "text": "Woman: What does your mom do?"
+ },
+ {
+  "id": 3,
+  "start": 6.31,
+  "end": 8.14,
+  "text": "Man: She sells women’s clothing."
+ },
+ {
+  "id": 4,
+  "start": 9.25,
+  "end": 11.82,
+  "text": "Woman: Oh, yeah? Where does he work?"
+ },
+ {
+  "id": 5,
+  "start": 12.66,
+  "end": 14.8,
+  "text": "Man: She has a small shop in the mall."
+ },
+ {
+  "id": 6,
+  "start": 15.84,
+  "end": 18.33,
+  "text": "Woman: Does she sell clothing for teens?"
+ },
+ {
+  "id": 7,
+  "start": 18.9,
+  "end": 21.85,
+  "text": "Man: No, she only has stuff for adults."
+ },
+ {
+  "id": 8,
+  "start": 23.55,
+  "end": 25.08,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 25.92,
+  "end": 27.57,
+  "text": "Man: What does your brother do?"
+ },
+ {
+  "id": 10,
+  "start": 28.46,
+  "end": 33.94,
+  "text": "Woman: He is a university student. He studies engineering."
+ },
+ {
+  "id": 11,
+  "start": 34.34,
+  "end": 35.71,
+  "text": "Man: Oh, does he live at home?"
+ },
+ {
+  "id": 12,
+  "start": 36.31,
+  "end": 39.17,
+  "text": "Woman: No, he has a small apartment."
+ },
+ {
+  "id": 13,
+  "start": 40.04,
+  "end": 41.57,
+  "text": "Man: Does he come home much?"
+ },
+ {
+  "id": 14,
+  "start": 42.71,
+  "end": 46.59,
+  "text": "Woman: No, he doesn’t. He doesn’t have much free time."
+ },
+ {
+  "id": 15,
+  "start": 47.15,
+  "end": 49.46,
+  "text": "Man: Oh, when do you see him?"
+ },
+ {
+  "id": 16,
+  "start": 50.64,
+  "end": 55.25,
+  "text": "Woman: On the holidays. He calls my mom every week, though."
+ },
+ {
+  "id": 17,
+  "start": 56.86,
+  "end": 58.5,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 18,
+  "start": 59.34,
+  "end": 61.52,
+  "text": "Man: Where does your daughter go to school?"
+ },
+ {
+  "id": 19,
+  "start": 62.67,
+  "end": 65.09,
+  "text": "Woman: She attends the local high school."
+ },
+ {
+  "id": 20,
+  "start": 66.13,
+  "end": 67.7,
+  "text": "Man: Does she like her school?"
+ },
+ {
+  "id": 21,
+  "start": 68.59,
+  "end": 74.04,
+  "text": "Woman: Yes, she plays sports and participates in many clubs."
+ },
+ {
+  "id": 22,
+  "start": 74.8,
+  "end": 77.45,
+  "text": "Man: Oh, what sports does she play?"
+ },
+ {
+  "id": 23,
+  "start": 78.27,
+  "end": 82.34,
+  "text": "Woman: She plays volleyball. She has a game tomorrow."
+ },
+ {
+  "id": 24,
+  "start": 83.03,
+  "end": 85.21,
+  "text": "Man: Oh, I hope she wins."
+ },
+ {
+  "id": 25,
+  "start": 86.68,
+  "end": 90.28,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 26,
+  "start": 89.98,
+  "end": 91.4,
+  "text": "Man: When does the movie start?"
+ },
+ {
+  "id": 27,
+  "start": 92.67,
+  "end": 95.64,
+  "text": "Woman: It starts in about ten minutes."
+ },
+ {
+  "id": 28,
+  "start": 96.15,
+  "end": 98.47,
+  "text": "Man: Cool! Who is in the movie?"
+ },
+ {
+  "id": 29,
+  "start": 99.5,
+  "end": 103.61,
+  "text": "Woman: Brad Pitt. He plays a policeman in the future."
+ },
+ {
+  "id": 30,
+  "start": 104.58,
+  "end": 106.24,
+  "text": "Man: Does it have good reviews?"
+ },
+ {
+  "id": 31,
+  "start": 107.36,
+  "end": 111.67,
+  "text": "Woman: It does. Everyone says it is a great movie."
+ }
+]

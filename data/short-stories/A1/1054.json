@@ -1,0 +1,116 @@
+[
+ {
+  "id": 1,
+  "start": 3.22,
+  "end": 8.19,
+  "text": "When you go to a restaurant you might see a sign that says, \"Please wait to be seated.\""
+ },
+ {
+  "id": 2,
+  "start": 8.46,
+  "end": 12.11,
+  "text": "A host or hostess will ask you how many people are in your party."
+ },
+ {
+  "id": 3,
+  "start": 12.25,
+  "end": 17.04,
+  "text": "Then they will want to know if you want to sit in the smoking or non-smoking section."
+ },
+ {
+  "id": 4,
+  "start": 17.01,
+  "end": 19.66,
+  "text": "The host or hostess will take you to your seat."
+ },
+ {
+  "id": 5,
+  "start": 19.88,
+  "end": 22.56,
+  "text": "You might sit at a table or at a booth."
+ },
+ {
+  "id": 6,
+  "start": 22.69,
+  "end": 25.52,
+  "text": "The host or hostess will give you a menu to look at."
+ },
+ {
+  "id": 7,
+  "start": 25.57,
+  "end": 29.05,
+  "text": "Sometimes, there are different menus for different meals."
+ },
+ {
+  "id": 8,
+  "start": 28.98,
+  "end": 33.07,
+  "text": "There can be a breakfast menu, a lunch menu and a dinner menu."
+ },
+ {
+  "id": 9,
+  "start": 32.77,
+  "end": 36.77,
+  "text": "Sometimes, there is also a wine list and a dessert menu."
+ },
+ {
+  "id": 10,
+  "start": 36.47,
+  "end": 39.97,
+  "text": "The food and the prices of the food are listed on the menu."
+ },
+ {
+  "id": 11,
+  "start": 40.17,
+  "end": 42.22,
+  "text": "On your table, there will be cutlery."
+ },
+ {
+  "id": 12,
+  "start": 42.36,
+  "end": 45.64,
+  "text": "Cutlery is the knives, forks and spoons."
+ },
+ {
+  "id": 13,
+  "start": 45.54,
+  "end": 47.51,
+  "text": "There will also be a napkin."
+ },
+ {
+  "id": 14,
+  "start": 47.58,
+  "end": 50.67,
+  "text": "You are supposed to put your napkin on your lap when you eat."
+ },
+ {
+  "id": 15,
+  "start": 50.54,
+  "end": 53.43,
+  "text": "Your waiter or waitress will take your order."
+ },
+ {
+  "id": 16,
+  "start": 53.38,
+  "end": 55.89,
+  "text": "You might want an appetizer before your meal."
+ },
+ {
+  "id": 17,
+  "start": 55.87,
+  "end": 59.4,
+  "text": "Some people want a salad or soup before their meal."
+ },
+ {
+  "id": 18,
+  "start": 59.32,
+  "end": 63.2,
+  "text": "After your meal, you might have a dessert, or tea, or coffee."
+ },
+ {
+  "id": 19,
+  "start": 63.55,
+  "end": 68.79,
+  "text": "When it is time to go, you will pay your bill and leave a tip for the waiter or waitress."
+ }
+]

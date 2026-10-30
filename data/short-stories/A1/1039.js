@@ -1,0 +1,188 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1039"]=[
+ {
+  "id": 1,
+  "start": 4.28,
+  "end": 6.59,
+  "text": "On the top of my head, I have hair."
+ },
+ {
+  "id": 2,
+  "start": 8.34,
+  "end": 10.37,
+  "text": "Below my hair is my face."
+ },
+ {
+  "id": 3,
+  "start": 11.89,
+  "end": 13.5,
+  "text": "I have two eyes."
+ },
+ {
+  "id": 4,
+  "start": 15.12,
+  "end": 17.46,
+  "text": "I have eyebrows and eyelashes."
+ },
+ {
+  "id": 5,
+  "start": 18.81,
+  "end": 21.58,
+  "text": "Below my eyes, I have a nose."
+ },
+ {
+  "id": 6,
+  "start": 23.52,
+  "end": 25.36,
+  "text": "My mouth is below my nose."
+ },
+ {
+  "id": 7,
+  "start": 26.75,
+  "end": 28.01,
+  "text": "I have lips."
+ },
+ {
+  "id": 8,
+  "start": 29.54,
+  "end": 32.93,
+  "text": "If I open my lips, you will see my teeth and my tongue."
+ },
+ {
+  "id": 9,
+  "start": 34.52,
+  "end": 36.56,
+  "text": "Below my mouth is my chin."
+ },
+ {
+  "id": 10,
+  "start": 38.37,
+  "end": 41.08,
+  "text": "On the sides of my head, I have two ears."
+ },
+ {
+  "id": 11,
+  "start": 42.93,
+  "end": 45.42,
+  "text": "My cheeks are on either side of my nose."
+ },
+ {
+  "id": 12,
+  "start": 47.31,
+  "end": 49.17,
+  "text": "My neck holds up my head."
+ },
+ {
+  "id": 13,
+  "start": 50.97,
+  "end": 53.56,
+  "text": "My neck attaches my head to my chest."
+ },
+ {
+  "id": 14,
+  "start": 55.21,
+  "end": 57.89,
+  "text": "On either side of my chest are my shoulders."
+ },
+ {
+  "id": 15,
+  "start": 59.31,
+  "end": 61.9,
+  "text": "My arms hang down from my shoulders."
+ },
+ {
+  "id": 16,
+  "start": 63.53,
+  "end": 65.4,
+  "text": "I have wrists on my arms."
+ },
+ {
+  "id": 17,
+  "start": 67.24,
+  "end": 69.32,
+  "text": "My hands are attached to my wrists."
+ },
+ {
+  "id": 18,
+  "start": 71.28,
+  "end": 73.36,
+  "text": "My fingers are part of my hands."
+ },
+ {
+  "id": 19,
+  "start": 75.06,
+  "end": 77.6,
+  "text": "I have ten fingers and ten fingernails."
+ },
+ {
+  "id": 20,
+  "start": 79.34,
+  "end": 81.3,
+  "text": "My back is at the back of me."
+ },
+ {
+  "id": 21,
+  "start": 82.92,
+  "end": 85.06,
+  "text": "Further down, there is my waist."
+ },
+ {
+  "id": 22,
+  "start": 86.75,
+  "end": 89.64,
+  "text": "If I wear a belt, I put it on my waist."
+ },
+ {
+  "id": 23,
+  "start": 91.46,
+  "end": 93.45,
+  "text": "My hips are below my waist."
+ },
+ {
+  "id": 24,
+  "start": 95.12,
+  "end": 97.17,
+  "text": "My legs come down from my hips."
+ },
+ {
+  "id": 25,
+  "start": 99.35,
+  "end": 103.09,
+  "text": "My legs are made up of my thighs, my knees and my calves."
+ },
+ {
+  "id": 26,
+  "start": 104.57,
+  "end": 105.89,
+  "text": "My knees can bend."
+ },
+ {
+  "id": 27,
+  "start": 107.78,
+  "end": 109.72,
+  "text": "My ankles are below my legs."
+ },
+ {
+  "id": 28,
+  "start": 111.33,
+  "end": 113.49,
+  "text": "My feet are attached to my ankles."
+ },
+ {
+  "id": 29,
+  "start": 115.26,
+  "end": 117.24,
+  "text": "My toes are part of my feet."
+ },
+ {
+  "id": 30,
+  "start": 118.51,
+  "end": 121.05,
+  "text": "I have ten toes and ten toenails."
+ },
+ {
+  "id": 31,
+  "start": 122.57,
+  "end": 126.11,
+  "text": "I am me from the top of my head to the tip of my toes."
+ }
+];

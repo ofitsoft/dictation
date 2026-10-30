@@ -1,0 +1,266 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A2/A2-05-Going-To"]=[
+ {
+  "id": 1,
+  "start": 0.6,
+  "end": 2.49,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.58,
+  "end": 6.14,
+  "text": "Woman: What are you going to do tonight?"
+ },
+ {
+  "id": 3,
+  "start": 6.39,
+  "end": 10.27,
+  "text": "Man: I’m just going to stay home. What about you?"
+ },
+ {
+  "id": 4,
+  "start": 11.12,
+  "end": 13.86,
+  "text": "Woman: I’m going to the movies with Karen."
+ },
+ {
+  "id": 5,
+  "start": 13.96,
+  "end": 16.87,
+  "text": "Man: Oh? What are you going to see?"
+ },
+ {
+  "id": 6,
+  "start": 17.49,
+  "end": 22.58,
+  "text": "Woman: We’re going to see the new Marvel movie. Do you want to come?"
+ },
+ {
+  "id": 7,
+  "start": 22.78,
+  "end": 26.96,
+  "text": "Man: No, I’ll pass. But thanks for asking."
+ },
+ {
+  "id": 8,
+  "start": 27.68,
+  "end": 31.33,
+  "text": "Woman: Are you sure? It’s going to be fun."
+ },
+ {
+  "id": 9,
+  "start": 31.58,
+  "end": 35.45,
+  "text": "Man: No thanks. I’m just going to take it easy tonight."
+ },
+ {
+  "id": 10,
+  "start": 35.79,
+  "end": 38.24,
+  "text": "Woman: OK, maybe next time."
+ },
+ {
+  "id": 11,
+  "start": 40.27,
+  "end": 43.63,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 12,
+  "start": 43.81,
+  "end": 45.91,
+  "text": "Man: So, what are you going to do this summer?"
+ },
+ {
+  "id": 13,
+  "start": 46.26,
+  "end": 52.3,
+  "text": "Woman: Nothing. I’m going to visit my grandparents. We’re going to go camping."
+ },
+ {
+  "id": 14,
+  "start": 52.72,
+  "end": 55.94,
+  "text": "Man: That sounds fun. Where are you going?"
+ },
+ {
+  "id": 15,
+  "start": 56.16,
+  "end": 60.06,
+  "text": "Woman: We’re going to stay at a campground near their house."
+ },
+ {
+  "id": 16,
+  "start": 60.28,
+  "end": 63.44,
+  "text": "Man: Oh, are you going to stay in a cabin?"
+ },
+ {
+  "id": 17,
+  "start": 63.9,
+  "end": 69.57,
+  "text": "Woman: No, we’re going to camp by the lake. It’s really beautiful there."
+ },
+ {
+  "id": 18,
+  "start": 69.97,
+  "end": 72.91,
+  "text": "Man: Well, I hope you have a nice trip."
+ },
+ {
+  "id": 19,
+  "start": 73.26,
+  "end": 76.74,
+  "text": "Woman: Thanks. It’s going to be a lot of fun."
+ },
+ {
+  "id": 20,
+  "start": 78.22,
+  "end": 79.86,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 21,
+  "start": 80.95,
+  "end": 85.47,
+  "text": "Woman: We’re going to a barbecue tonight. Care to join us?"
+ },
+ {
+  "id": 22,
+  "start": 85.63,
+  "end": 90.72,
+  "text": "Man: Oh, I love barbecue! What are you going to cook?"
+ },
+ {
+  "id": 23,
+  "start": 91.18,
+  "end": 95.57,
+  "text": "Woman: We are going to grill either chicken or steak."
+ },
+ {
+  "id": 24,
+  "start": 96.07,
+  "end": 101.76,
+  "text": "Man: That sounds delicious, I’d love to go. When should I come over?"
+ },
+ {
+  "id": 25,
+  "start": 102.08,
+  "end": 106.89,
+  "text": "Woman: We’re not going to start until 7, so around then."
+ },
+ {
+  "id": 26,
+  "start": 107.05,
+  "end": 110.24,
+  "text": "Man: Great. Should I bring anything?"
+ },
+ {
+  "id": 27,
+  "start": 110.62,
+  "end": 116.56,
+  "text": "Woman: David is going to bring salad, so maybe you can bring dessert."
+ },
+ {
+  "id": 28,
+  "start": 116.87,
+  "end": 120.11,
+  "text": "Man: Great! How many people are coming?"
+ },
+ {
+  "id": 29,
+  "start": 120.57,
+  "end": 124.78,
+  "text": "Woman: There’s going to be about 10 people."
+ },
+ {
+  "id": 30,
+  "start": 125.07,
+  "end": 128.67,
+  "text": "Man: OK, I’ll bring some ice cream."
+ },
+ {
+  "id": 31,
+  "start": 129.33,
+  "end": 133.23,
+  "text": "Woman: Perfect. Everyone will love that."
+ },
+ {
+  "id": 32,
+  "start": 135.65,
+  "end": 137.36,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 33,
+  "start": 138.17,
+  "end": 140.61,
+  "text": "Man: Where are you going for vacation?"
+ },
+ {
+  "id": 34,
+  "start": 141.04,
+  "end": 143.45,
+  "text": "Woman: I’m going to Hawaii."
+ },
+ {
+  "id": 35,
+  "start": 143.72,
+  "end": 146.93,
+  "text": "Man: Lucky you! When are you going?"
+ },
+ {
+  "id": 36,
+  "start": 147.31,
+  "end": 149.49,
+  "text": "Woman: Next week, on the 5th."
+ },
+ {
+  "id": 37,
+  "start": 150.09,
+  "end": 152.47,
+  "text": "Man: How long are you going to be there?"
+ },
+ {
+  "id": 38,
+  "start": 153.55,
+  "end": 156.62,
+  "text": "Woman: About a week. 8 days."
+ },
+ {
+  "id": 39,
+  "start": 157.3,
+  "end": 159.49,
+  "text": "Man: Where are you going to stay?"
+ },
+ {
+  "id": 40,
+  "start": 159.9,
+  "end": 163.77,
+  "text": "Woman: We’re going to stay at a resort, on the beach."
+ },
+ {
+  "id": 41,
+  "start": 164.16,
+  "end": 166.63,
+  "text": "Man: Are you going to take your kids?"
+ },
+ {
+  "id": 42,
+  "start": 167.38,
+  "end": 174.72,
+  "text": "Woman: No, I’m just going with my husband. My kids are going to stay with their grandparents."
+ },
+ {
+  "id": 43,
+  "start": 175.16,
+  "end": 177.38,
+  "text": "Man: Well, have a nice trip!"
+ },
+ {
+  "id": 44,
+  "start": 178.05,
+  "end": 180.97,
+  "text": "Woman: Thanks, I’m excited about it!"
+ }
+];

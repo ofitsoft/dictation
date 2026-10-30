@@ -1,0 +1,206 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1090"]=[
+ {
+  "id": 1,
+  "start": 2.34,
+  "end": 5.41,
+  "text": "My class took a trip to the Toronto Zoo."
+ },
+ {
+  "id": 2,
+  "start": 5.67,
+  "end": 8.23,
+  "text": "I had a wonderful time there."
+ },
+ {
+  "id": 3,
+  "start": 8.69,
+  "end": 11.25,
+  "text": "My favorite animals were the lions."
+ },
+ {
+  "id": 4,
+  "start": 11.25,
+  "end": 14.39,
+  "text": "They look very powerful and strong."
+ },
+ {
+  "id": 5,
+  "start": 14.48,
+  "end": 21.55,
+  "text": "They say that the lion is the king of the forest, and I think that title suits him."
+ },
+ {
+  "id": 6,
+  "start": 22.46,
+  "end": 23.91,
+  "text": "The monkeys were funny."
+ },
+ {
+  "id": 7,
+  "start": 24.37,
+  "end": 28.03,
+  "text": "They were looking at us just as much as we looked at them."
+ },
+ {
+  "id": 8,
+  "start": 28.13,
+  "end": 33.18,
+  "text": "They were swinging from branches and doing tricks to impress us."
+ },
+ {
+  "id": 9,
+  "start": 33.19,
+  "end": 37.96,
+  "text": "There was a baby monkey that was clinging to its mother's back."
+ },
+ {
+  "id": 10,
+  "start": 38.02,
+  "end": 39.74,
+  "text": "It was very cute."
+ },
+ {
+  "id": 11,
+  "start": 39.84,
+  "end": 43.55,
+  "text": "The tigers were pacing back and forth."
+ },
+ {
+  "id": 12,
+  "start": 43.49,
+  "end": 45.77,
+  "text": "They seemed restless."
+ },
+ {
+  "id": 13,
+  "start": 46.22,
+  "end": 49.36,
+  "text": "The stripes on a tiger are very beautiful."
+ },
+ {
+  "id": 14,
+  "start": 49.47,
+  "end": 55.34,
+  "text": "We watched the tall giraffes as they nibbled leaves off the tallest trees."
+ },
+ {
+  "id": 15,
+  "start": 55.4,
+  "end": 59.91,
+  "text": "We spoke to a colourful parrot that spoke back to us."
+ },
+ {
+  "id": 16,
+  "start": 60.0,
+  "end": 65.04,
+  "text": "We saw exotic animals that we had never seen before."
+ },
+ {
+  "id": 17,
+  "start": 64.74,
+  "end": 67.08,
+  "text": "Some of them were very strange."
+ },
+ {
+  "id": 18,
+  "start": 67.28,
+  "end": 70.11,
+  "text": "There were different types of bears there."
+ },
+ {
+  "id": 19,
+  "start": 70.48,
+  "end": 72.11,
+  "text": "There were black bears."
+ },
+ {
+  "id": 20,
+  "start": 72.3,
+  "end": 76.21,
+  "text": "I saw a black bear once when I was camping up north."
+ },
+ {
+  "id": 21,
+  "start": 76.3,
+  "end": 78.61,
+  "text": "We saw polar bears."
+ },
+ {
+  "id": 22,
+  "start": 78.92,
+  "end": 80.55,
+  "text": "Polar bears are white."
+ },
+ {
+  "id": 23,
+  "start": 80.76,
+  "end": 82.4,
+  "text": "They like the cold."
+ },
+ {
+  "id": 24,
+  "start": 82.67,
+  "end": 85.02,
+  "text": "We even saw panda bears."
+ },
+ {
+  "id": 25,
+  "start": 85.42,
+  "end": 92.98,
+  "text": "One of my friends bought a toy panda bear from the gift shop because she thought that the pandas were so cute."
+ },
+ {
+  "id": 26,
+  "start": 93.72,
+  "end": 95.83,
+  "text": "We saw slithery snakes."
+ },
+ {
+  "id": 27,
+  "start": 95.77,
+  "end": 98.93,
+  "text": "Some of the snakes had very bright skins."
+ },
+ {
+  "id": 28,
+  "start": 99.22,
+  "end": 102.36,
+  "text": "Most of the girls were afraid of the snakes."
+ },
+ {
+  "id": 29,
+  "start": 102.75,
+  "end": 108.12,
+  "text": "The zoo keeper was looking after the snakes, and one of them hissed at him."
+ },
+ {
+  "id": 30,
+  "start": 108.17,
+  "end": 112.36,
+  "text": "He has to be very careful when he works with the snakes."
+ },
+ {
+  "id": 31,
+  "start": 112.52,
+  "end": 116.83,
+  "text": "The last thing that we saw at the zoo was the elephant."
+ },
+ {
+  "id": 32,
+  "start": 117.11,
+  "end": 119.01,
+  "text": "He was enormous."
+ },
+ {
+  "id": 33,
+  "start": 119.36,
+  "end": 124.86,
+  "text": "He looked at us; then he raised his trunk and made a loud sound."
+ },
+ {
+  "id": 34,
+  "start": 125.0,
+  "end": 126.61,
+  "text": "It made us jump."
+ }
+];

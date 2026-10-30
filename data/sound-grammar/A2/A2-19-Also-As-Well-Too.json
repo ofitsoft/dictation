@@ -1,0 +1,170 @@
+[
+ {
+  "id": 1,
+  "start": 0.19,
+  "end": 1.57,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 2.27,
+  "end": 3.41,
+  "text": "Man: Do you have a pet?"
+ },
+ {
+  "id": 3,
+  "start": 3.89,
+  "end": 7.26,
+  "text": "Woman: I do. I have a dog, and I also have a cat."
+ },
+ {
+  "id": 4,
+  "start": 7.6,
+  "end": 10.04,
+  "text": "Man: Oh, really? I have a cat as well."
+ },
+ {
+  "id": 5,
+  "start": 10.33,
+  "end": 11.9,
+  "text": "Woman: Really? What color?"
+ },
+ {
+  "id": 6,
+  "start": 12.06,
+  "end": 13.48,
+  "text": "Man: My cat is black."
+ },
+ {
+  "id": 7,
+  "start": 13.65,
+  "end": 15.64,
+  "text": "Woman: My cat is black, too!"
+ },
+ {
+  "id": 8,
+  "start": 17.58,
+  "end": 18.94,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 19.58,
+  "end": 20.59,
+  "text": "Man: What do you do?"
+ },
+ {
+  "id": 10,
+  "start": 20.96,
+  "end": 22.02,
+  "text": "Woman: I am a teacher."
+ },
+ {
+  "id": 11,
+  "start": 22.22,
+  "end": 24.32,
+  "text": "Man: Cool! I am a teacher, too."
+ },
+ {
+  "id": 12,
+  "start": 24.59,
+  "end": 26.31,
+  "text": "Woman: Really? What do you teach?"
+ },
+ {
+  "id": 13,
+  "start": 26.51,
+  "end": 27.69,
+  "text": "Man: I teach math."
+ },
+ {
+  "id": 14,
+  "start": 27.82,
+  "end": 30.44,
+  "text": "Woman: No way! I also teach math."
+ },
+ {
+  "id": 15,
+  "start": 32.06,
+  "end": 33.47,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 16,
+  "start": 34.34,
+  "end": 35.81,
+  "text": "Man: What shows do you like?"
+ },
+ {
+  "id": 17,
+  "start": 36.11,
+  "end": 38.08,
+  "text": "Woman: I like Game of Thrones."
+ },
+ {
+  "id": 18,
+  "start": 38.3,
+  "end": 40.42,
+  "text": "Man: I love that show, too."
+ },
+ {
+  "id": 19,
+  "start": 40.66,
+  "end": 42.33,
+  "text": "Woman: Who’s your favorite character?"
+ },
+ {
+  "id": 20,
+  "start": 42.6,
+  "end": 44.45,
+  "text": "Man: I really like Jon Snow."
+ },
+ {
+  "id": 21,
+  "start": 44.62,
+  "end": 46.12,
+  "text": "Woman: I like him, as well.."
+ },
+ {
+  "id": 22,
+  "start": 47.14,
+  "end": 48.5,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 23,
+  "start": 49.29,
+  "end": 50.41,
+  "text": "Man: Where do you live?"
+ },
+ {
+  "id": 24,
+  "start": 50.7,
+  "end": 52.01,
+  "text": "Woman: I live downtown."
+ },
+ {
+  "id": 25,
+  "start": 52.56,
+  "end": 54.29,
+  "text": "Man: So do I! Where?"
+ },
+ {
+  "id": 26,
+  "start": 54.51,
+  "end": 55.57,
+  "text": "Woman: By the station."
+ },
+ {
+  "id": 27,
+  "start": 55.71,
+  "end": 58.45,
+  "text": "Man: Me too! I live on B Street."
+ },
+ {
+  "id": 28,
+  "start": 58.81,
+  "end": 61.61,
+  "text": "Woman: Get out of here! I do, as well."
+ }
+]

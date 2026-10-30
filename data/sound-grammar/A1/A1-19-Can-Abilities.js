@@ -1,0 +1,212 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-19-Can-Abilities"]=[
+ {
+  "id": 1,
+  "start": 0.98,
+  "end": 3.22,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.33,
+  "end": 5.47,
+  "text": "Woman: What sports can you play?"
+ },
+ {
+  "id": 3,
+  "start": 5.73,
+  "end": 9.55,
+  "text": "Man: I can play baseball a bit and I can play tennis pretty well."
+ },
+ {
+  "id": 4,
+  "start": 10.0,
+  "end": 11.41,
+  "text": "Woman: Can you play football?"
+ },
+ {
+  "id": 5,
+  "start": 11.54,
+  "end": 15.02,
+  "text": "Man: No, I'm terrible at football. What about you?"
+ },
+ {
+  "id": 6,
+  "start": 15.63,
+  "end": 20.74,
+  "text": "Woman: Yeah. I can play football. I like it a lot, but I'm not great."
+ },
+ {
+  "id": 7,
+  "start": 21.01,
+  "end": 22.76,
+  "text": "Man: I bet you are pretty good."
+ },
+ {
+  "id": 8,
+  "start": 23.07,
+  "end": 26.05,
+  "text": "Woman: No, really. I'm not that good."
+ },
+ {
+  "id": 9,
+  "start": 27.65,
+  "end": 29.18,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 10,
+  "start": 29.26,
+  "end": 32.06,
+  "text": "Man: What languages can you speak?"
+ },
+ {
+  "id": 11,
+  "start": 32.28,
+  "end": 34.56,
+  "text": "Woman: I can speak Japanese and French."
+ },
+ {
+  "id": 12,
+  "start": 35.11,
+  "end": 37.66,
+  "text": "Man: Wow! Can you write in Japanese?"
+ },
+ {
+  "id": 13,
+  "start": 38.42,
+  "end": 41.61,
+  "text": "Woman: I can write a little bit, but not that much."
+ },
+ {
+  "id": 14,
+  "start": 41.9,
+  "end": 45.29,
+  "text": "Man: Yeah. I hear Kanji is really difficult."
+ },
+ {
+  "id": 15,
+  "start": 45.56,
+  "end": 51.41,
+  "text": "Woman: Yeah. It's really difficult. What about you? What languages can you speak?"
+ },
+ {
+  "id": 16,
+  "start": 51.58,
+  "end": 56.0,
+  "text": "Man: I can speak some Spanish, but not great. I can also speak Thai."
+ },
+ {
+  "id": 17,
+  "start": 56.16,
+  "end": 58.02,
+  "text": "Woman: Wow! Can you write in Thai?"
+ },
+ {
+  "id": 18,
+  "start": 58.38,
+  "end": 62.63,
+  "text": "Man: No, but I can read it. Writing is really difficult."
+ },
+ {
+  "id": 19,
+  "start": 63.17,
+  "end": 65.6,
+  "text": "Woman: Still, that's pretty cool!"
+ },
+ {
+  "id": 20,
+  "start": 66.33,
+  "end": 68.2,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 21,
+  "start": 68.79,
+  "end": 71.37,
+  "text": "Man: So, are you a good cook?"
+ },
+ {
+  "id": 22,
+  "start": 71.75,
+  "end": 74.82,
+  "text": "Woman: Not really. But I can cook basic stuff."
+ },
+ {
+  "id": 23,
+  "start": 75.25,
+  "end": 76.95,
+  "text": "Man: Yeah? What can you cook?"
+ },
+ {
+  "id": 24,
+  "start": 77.22,
+  "end": 82.45,
+  "text": "Woman: I can make pasta dishes and some French cuisine. What about you?"
+ },
+ {
+  "id": 25,
+  "start": 83.05,
+  "end": 86.93,
+  "text": "Man: I can't cook anything. I can only make an omelet."
+ },
+ {
+  "id": 26,
+  "start": 87.37,
+  "end": 91.06,
+  "text": "Woman: That's not too bad. Can you make pancakes?"
+ },
+ {
+  "id": 27,
+  "start": 91.28,
+  "end": 93.71,
+  "text": "Man: No, I can't even make that."
+ },
+ {
+  "id": 28,
+  "start": 95.65,
+  "end": 97.17,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 29,
+  "start": 97.78,
+  "end": 99.11,
+  "text": "Man: What are you doing tonight?"
+ },
+ {
+  "id": 30,
+  "start": 99.48,
+  "end": 103.12,
+  "text": "Woman: I am going to karaoke with friends. Do you want to come?"
+ },
+ {
+  "id": 31,
+  "start": 103.41,
+  "end": 106.35,
+  "text": "Man: No, thanks. I can't sing at all."
+ },
+ {
+  "id": 32,
+  "start": 106.89,
+  "end": 109.56,
+  "text": "Woman: Oh, you should come. Singing is fun!"
+ },
+ {
+  "id": 33,
+  "start": 109.96,
+  "end": 113.53,
+  "text": "Man: Maybe for you. I hear you can sing really well."
+ },
+ {
+  "id": 34,
+  "start": 113.97,
+  "end": 117.59,
+  "text": "Woman: I can sing a little bit, but I am not great."
+ },
+ {
+  "id": 35,
+  "start": 117.74,
+  "end": 119.2,
+  "text": "Man: That's not what I heard."
+ }
+];

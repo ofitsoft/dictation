@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-10-Object-Pronouns"]=[
+ {
+  "id": 1,
+  "start": 0.94,
+  "end": 3.44,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 4.14,
+  "end": 5.31,
+  "text": "Man: Did you call me?"
+ },
+ {
+  "id": 3,
+  "start": 6.42,
+  "end": 10.29,
+  "text": "Woman: Yes, I called you. Can you help me today?"
+ },
+ {
+  "id": 4,
+  "start": 11.12,
+  "end": 13.6,
+  "text": "Man: Sure, what can I do for you?"
+ },
+ {
+  "id": 5,
+  "start": 14.79,
+  "end": 16.65,
+  "text": "Woman: Can you take me to school?"
+ },
+ {
+  "id": 6,
+  "start": 17.39,
+  "end": 20.19,
+  "text": "Man: OK, I can pick you up at 10."
+ },
+ {
+  "id": 7,
+  "start": 21.06,
+  "end": 23.45,
+  "text": "Woman: Great! See you then."
+ },
+ {
+  "id": 8,
+  "start": 25.13,
+  "end": 26.73,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 27.79,
+  "end": 29.25,
+  "text": "Man: Who is your best friend?"
+ },
+ {
+  "id": 10,
+  "start": 30.18,
+  "end": 31.72,
+  "text": "Woman: My best friend is Sue."
+ },
+ {
+  "id": 11,
+  "start": 32.52,
+  "end": 34.92,
+  "text": "Man: Do you talk to her every day?"
+ },
+ {
+  "id": 12,
+  "start": 35.86,
+  "end": 40.27,
+  "text": "Woman: Yes, I see her at school. I always meet her for lunch."
+ },
+ {
+  "id": 13,
+  "start": 41.02,
+  "end": 43.61,
+  "text": "Man: Oh, why do you like her?"
+ },
+ {
+  "id": 14,
+  "start": 44.73,
+  "end": 48.43,
+  "text": "Woman: She is nice and funny! She makes me laugh."
+ },
+ {
+  "id": 15,
+  "start": 50.49,
+  "end": 52.07,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 16,
+  "start": 53.02,
+  "end": 54.37,
+  "text": "Man: Who is your teacher?"
+ },
+ {
+  "id": 17,
+  "start": 55.47,
+  "end": 59.16,
+  "text": "Woman: My teacher is Mr. Wilson. I like him a lot."
+ },
+ {
+  "id": 18,
+  "start": 59.88,
+  "end": 61.16,
+  "text": "Man: Why do you like him?"
+ },
+ {
+  "id": 19,
+  "start": 62.33,
+  "end": 67.31,
+  "text": "Woman: Well, he is nice and he always helps me with my homework."
+ },
+ {
+  "id": 20,
+  "start": 68.11,
+  "end": 69.47,
+  "text": "Man: He sounds nice."
+ },
+ {
+  "id": 21,
+  "start": 70.43,
+  "end": 73.37,
+  "text": "Woman: He is. We all love him."
+ },
+ {
+  "id": 22,
+  "start": 74.61,
+  "end": 76.26,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 23,
+  "start": 77.51,
+  "end": 79.32,
+  "text": "Man: Do you have my keys?"
+ },
+ {
+  "id": 24,
+  "start": 80.26,
+  "end": 83.01,
+  "text": "Woman: No. I put them on the table."
+ },
+ {
+  "id": 25,
+  "start": 83.72,
+  "end": 88.84,
+  "text": "Man: Ah, great. I see them. What about my wallet?"
+ },
+ {
+  "id": 26,
+  "start": 90.09,
+  "end": 92.48,
+  "text": "Woman: I think you set it on the counter."
+ },
+ {
+  "id": 27,
+  "start": 93.15,
+  "end": 95.65,
+  "text": "Man: Really, I don't see it."
+ },
+ {
+  "id": 28,
+  "start": 96.83,
+  "end": 100.83,
+  "text": "Woman: Well, I'll help you. One of us will find it."
+ }
+];

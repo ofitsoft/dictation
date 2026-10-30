@@ -1,0 +1,182 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1101"]=[
+ {
+  "id": 1,
+  "start": 2.69,
+  "end": 5.05,
+  "text": "Some things are opposites of each other."
+ },
+ {
+  "id": 2,
+  "start": 5.38,
+  "end": 7.38,
+  "text": "The opposite of black is white."
+ },
+ {
+  "id": 3,
+  "start": 7.6,
+  "end": 9.8,
+  "text": "The opposite of happy is sad."
+ },
+ {
+  "id": 4,
+  "start": 10.1,
+  "end": 16.23,
+  "text": "If I am at the opposite side of the room from you, it means that I am at the other side of the room than you are on."
+ },
+ {
+  "id": 5,
+  "start": 16.3,
+  "end": 20.87,
+  "text": "The opposite of up is down and the opposite of left is right."
+ },
+ {
+  "id": 6,
+  "start": 21.08,
+  "end": 23.58,
+  "text": "Do you know what the opposite of young would be?"
+ },
+ {
+  "id": 7,
+  "start": 24.09,
+  "end": 25.98,
+  "text": "Old is the opposite of young."
+ },
+ {
+  "id": 8,
+  "start": 26.33,
+  "end": 28.03,
+  "text": "What is the opposite of dirty?"
+ },
+ {
+  "id": 9,
+  "start": 28.46,
+  "end": 30.65,
+  "text": "Clean is the opposite of dirty."
+ },
+ {
+  "id": 10,
+  "start": 31.16,
+  "end": 33.18,
+  "text": "Big is the opposite of small."
+ },
+ {
+  "id": 11,
+  "start": 33.77,
+  "end": 35.85,
+  "text": "Man is the opposite of woman."
+ },
+ {
+  "id": 12,
+  "start": 36.26,
+  "end": 38.6,
+  "text": "Boy is the opposite of girl."
+ },
+ {
+  "id": 13,
+  "start": 39.15,
+  "end": 42.52,
+  "text": "Sometimes people think the opposite things than other people."
+ },
+ {
+  "id": 14,
+  "start": 42.39,
+  "end": 45.68,
+  "text": "Someone might be wrong and someone might be right."
+ },
+ {
+  "id": 15,
+  "start": 45.86,
+  "end": 48.25,
+  "text": "The opposite of mother is father."
+ },
+ {
+  "id": 16,
+  "start": 48.41,
+  "end": 50.7,
+  "text": "See if you can think of some opposites."
+ },
+ {
+  "id": 17,
+  "start": 50.95,
+  "end": 54.61,
+  "text": "It is cold in the winter, and it is hot in the summer."
+ },
+ {
+  "id": 18,
+  "start": 54.98,
+  "end": 59.0,
+  "text": "My father is very tall, and my brother is very short."
+ },
+ {
+  "id": 19,
+  "start": 59.16,
+  "end": 62.62,
+  "text": "A rock is hard, but a pillow is soft."
+ },
+ {
+  "id": 20,
+  "start": 63.07,
+  "end": 66.22,
+  "text": "An ocean is deep, but a puddle is shallow."
+ },
+ {
+  "id": 21,
+  "start": 66.22,
+  "end": 69.9,
+  "text": "I might tell the truth, but I might tell a lie."
+ },
+ {
+  "id": 22,
+  "start": 69.95,
+  "end": 72.4,
+  "text": "All of these things are opposites."
+ },
+ {
+  "id": 23,
+  "start": 72.57,
+  "end": 75.53,
+  "text": "The morning is bright, but the night is dark."
+ },
+ {
+  "id": 24,
+  "start": 75.58,
+  "end": 79.2,
+  "text": "A feather is light, but an elephant is heavy."
+ },
+ {
+  "id": 25,
+  "start": 79.62,
+  "end": 82.75,
+  "text": "Sugar is sweet, but a lemon is sour."
+ },
+ {
+  "id": 26,
+  "start": 83.1,
+  "end": 86.6,
+  "text": "A jet plane is fast, but a turtle is slow."
+ },
+ {
+  "id": 27,
+  "start": 87.06,
+  "end": 90.24,
+  "text": "I can go out in the day, or I can go out at night."
+ },
+ {
+  "id": 28,
+  "start": 90.43,
+  "end": 93.37,
+  "text": "I might love to swim, or I might hate to swim."
+ },
+ {
+  "id": 29,
+  "start": 93.27,
+  "end": 96.86,
+  "text": "It is interesting to see how many opposites you can think up."
+ },
+ {
+  "id": 30,
+  "start": 97.01,
+  "end": 100.92,
+  "text": "I could say hello, but I think it's time to say goodbye."
+ }
+];

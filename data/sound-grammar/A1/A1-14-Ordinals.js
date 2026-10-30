@@ -1,0 +1,200 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-14-Ordinals"]=[
+ {
+  "id": 1,
+  "start": 1.3,
+  "end": 2.88,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.71,
+  "end": 5.32,
+  "text": "Man: When is your birthday?"
+ },
+ {
+  "id": 3,
+  "start": 5.55,
+  "end": 9.76,
+  "text": "Woman: It is October 18th. When is your birthday?"
+ },
+ {
+  "id": 4,
+  "start": 10.35,
+  "end": 11.59,
+  "text": "Man: It is May 5th."
+ },
+ {
+  "id": 5,
+  "start": 12.54,
+  "end": 15.79,
+  "text": "Woman: Oh, my sister's birthday is in May."
+ },
+ {
+  "id": 6,
+  "start": 16.32,
+  "end": 18.02,
+  "text": "Man: Oh, what day?"
+ },
+ {
+  "id": 7,
+  "start": 18.75,
+  "end": 19.9,
+  "text": "Woman: May 11th."
+ },
+ {
+  "id": 8,
+  "start": 21.8,
+  "end": 23.27,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 24.17,
+  "end": 25.84,
+  "text": "Man: When is your vacation?"
+ },
+ {
+  "id": 10,
+  "start": 26.7,
+  "end": 30.56,
+  "text": "Woman: It is from the 8th to the 12th. And you?"
+ },
+ {
+  "id": 11,
+  "start": 31.32,
+  "end": 34.62,
+  "text": "Man: It is from the 9th to the 15th."
+ },
+ {
+  "id": 12,
+  "start": 34.93,
+  "end": 39.1,
+  "text": "Woman: Wow, so lucky. I work on the 13th."
+ },
+ {
+  "id": 13,
+  "start": 39.99,
+  "end": 42.09,
+  "text": "Man: Yeah, I am lucky."
+ },
+ {
+  "id": 14,
+  "start": 43.22,
+  "end": 45.38,
+  "text": "Woman: Do you start work on the 16th?"
+ },
+ {
+  "id": 15,
+  "start": 46.43,
+  "end": 49.05,
+  "text": "Man: Yes, I start work on the 16th."
+ },
+ {
+  "id": 16,
+  "start": 50.38,
+  "end": 51.93,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 17,
+  "start": 53.04,
+  "end": 55.74,
+  "text": "Man: Excuse me, where are the books?"
+ },
+ {
+  "id": 18,
+  "start": 56.91,
+  "end": 59.37,
+  "text": "Woman: The books are on the fifth floor."
+ },
+ {
+  "id": 19,
+  "start": 60.03,
+  "end": 64.37,
+  "text": "Man: Fifth floor. Got it. And where are the sporting goods?"
+ },
+ {
+  "id": 20,
+  "start": 65.84,
+  "end": 68.28,
+  "text": "Woman: Sporting goods are on the third floor."
+ },
+ {
+  "id": 21,
+  "start": 68.94,
+  "end": 72.9,
+  "text": "Man: Third floor. Great. And the restrooms?"
+ },
+ {
+  "id": 22,
+  "start": 74.06,
+  "end": 79.34,
+  "text": "Woman: They are on the first, second, fourth and sixth floors."
+ },
+ {
+  "id": 23,
+  "start": 79.75,
+  "end": 81.92,
+  "text": "Man: Great. Thanks so much."
+ },
+ {
+  "id": 24,
+  "start": 82.53,
+  "end": 83.62,
+  "text": "Woman: My pleasure."
+ },
+ {
+  "id": 25,
+  "start": 84.93,
+  "end": 86.45,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 26,
+  "start": 88.03,
+  "end": 89.99,
+  "text": "Man: What do you have first period?"
+ },
+ {
+  "id": 27,
+  "start": 90.89,
+  "end": 93.04,
+  "text": "Woman: I have math. And you?"
+ },
+ {
+  "id": 28,
+  "start": 93.76,
+  "end": 97.13,
+  "text": "Man: I have English. What about second period?"
+ },
+ {
+  "id": 29,
+  "start": 98.15,
+  "end": 101.27,
+  "text": "Woman: I have P.E. What about you?"
+ },
+ {
+  "id": 30,
+  "start": 101.95,
+  "end": 103.67,
+  "text": "Man: I have history class."
+ },
+ {
+  "id": 31,
+  "start": 104.69,
+  "end": 106.92,
+  "text": "Woman: What do you have third period?"
+ },
+ {
+  "id": 32,
+  "start": 107.72,
+  "end": 109.26,
+  "text": "Man: I have art class."
+ },
+ {
+  "id": 33,
+  "start": 110.05,
+  "end": 113.99,
+  "text": "Woman: Really! I have art class third period, too!"
+ }
+];

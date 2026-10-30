@@ -1,0 +1,134 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1019"]=[
+ {
+  "id": 1,
+  "start": 1.31,
+  "end": 8.76,
+  "text": "There is always housework to do when you live in a house."
+ },
+ {
+  "id": 2,
+  "start": 8.93,
+  "end": 12.41,
+  "text": "You have to wash the windows so that you can see outside."
+ },
+ {
+  "id": 3,
+  "start": 13.36,
+  "end": 18.28,
+  "text": "The floors and the carpets need to be vacuumed."
+ },
+ {
+  "id": 4,
+  "start": 18.4,
+  "end": 20.81,
+  "text": "The floors also need to be washed, and some of them need to be waxed."
+ },
+ {
+  "id": 5,
+  "start": 21.07,
+  "end": 23.14,
+  "text": "The furniture has to be polished."
+ },
+ {
+  "id": 6,
+  "start": 23.49,
+  "end": 27.52,
+  "text": "The bathroom has to be kept clean."
+ },
+ {
+  "id": 7,
+  "start": 28.28,
+  "end": 33.25,
+  "text": "After you have a bath, you need to clean out the bathtub."
+ },
+ {
+  "id": 8,
+  "start": 34.06,
+  "end": 39.12,
+  "text": "Laundry needs to be done regularly, or you will run out of clothes to wear."
+ },
+ {
+  "id": 9,
+  "start": 40.16,
+  "end": 43.35,
+  "text": "The clothes go into the washing machine, and then they have to be dried in the dryer."
+ },
+ {
+  "id": 10,
+  "start": 43.54,
+  "end": 45.95,
+  "text": "Sometimes, we hang the clothes out on the line to be dried."
+ },
+ {
+  "id": 11,
+  "start": 46.14,
+  "end": 49.08,
+  "text": "Some of the clothes need to be ironed."
+ },
+ {
+  "id": 12,
+  "start": 49.42,
+  "end": 51.24,
+  "text": "You have to buy groceries and put them away."
+ },
+ {
+  "id": 13,
+  "start": 51.84,
+  "end": 54.29,
+  "text": "Meals need to be made."
+ },
+ {
+  "id": 14,
+  "start": 54.53,
+  "end": 58.74,
+  "text": "You can't let the dishes pile up in the kitchen."
+ },
+ {
+  "id": 15,
+  "start": 59.78,
+  "end": 61.9,
+  "text": "The dishes have to be washed, and the counters need to be wiped."
+ },
+ {
+  "id": 16,
+  "start": 61.91,
+  "end": 66.13,
+  "text": "The stove needs to be cleaned, and sometimes the refrigerator and the cupboards need to be cleaned out."
+ },
+ {
+  "id": 17,
+  "start": 66.61,
+  "end": 69.93,
+  "text": "You can dust the furniture and sweep up the dirt."
+ },
+ {
+  "id": 18,
+  "start": 70.62,
+  "end": 72.03,
+  "text": "You can make the beds."
+ },
+ {
+  "id": 19,
+  "start": 72.12,
+  "end": 74.25,
+  "text": "The beds have to be changed too."
+ },
+ {
+  "id": 20,
+  "start": 74.64,
+  "end": 77.12,
+  "text": "They need to have clean sheets put on them."
+ },
+ {
+  "id": 21,
+  "start": 77.74,
+  "end": 80.37,
+  "text": "There are just so many things to do."
+ },
+ {
+  "id": 22,
+  "start": 80.65,
+  "end": 83.11,
+  "text": "Household chores take up a lot of time."
+ }
+];

@@ -1,0 +1,260 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A2/A2-02-Present-Simple-3rd-Person"]=[
+ {
+  "id": 1,
+  "start": 0.63,
+  "end": 3.08,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.78,
+  "end": 5.44,
+  "text": "Man: What does your dad do?"
+ },
+ {
+  "id": 3,
+  "start": 6.16,
+  "end": 8.43,
+  "text": "Woman: He works in construction."
+ },
+ {
+  "id": 4,
+  "start": 8.55,
+  "end": 10.83,
+  "text": "Man: Oh, what does he do?"
+ },
+ {
+  "id": 5,
+  "start": 11.34,
+  "end": 13.0,
+  "text": "Woman: He builds houses."
+ },
+ {
+  "id": 6,
+  "start": 13.17,
+  "end": 16.18,
+  "text": "Man: Nice, what about your mother?"
+ },
+ {
+  "id": 7,
+  "start": 16.87,
+  "end": 18.76,
+  "text": "Woman: She works for the city."
+ },
+ {
+  "id": 8,
+  "start": 19.12,
+  "end": 20.71,
+  "text": "Man: What does she do?"
+ },
+ {
+  "id": 9,
+  "start": 20.99,
+  "end": 25.59,
+  "text": "Woman: She is a clerk. She helps people at City Hall."
+ },
+ {
+  "id": 10,
+  "start": 27.29,
+  "end": 28.78,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 11,
+  "start": 29.44,
+  "end": 31.53,
+  "text": "Man: Where does your sister live?"
+ },
+ {
+  "id": 12,
+  "start": 32.09,
+  "end": 34.26,
+  "text": "Woman: She lives in the countryside."
+ },
+ {
+  "id": 13,
+  "start": 34.58,
+  "end": 37.15,
+  "text": "Man: Oh? What does she do?"
+ },
+ {
+  "id": 14,
+  "start": 37.79,
+  "end": 41.54,
+  "text": "Woman: She has a farm and she raises animals."
+ },
+ {
+  "id": 15,
+  "start": 41.74,
+  "end": 45.14,
+  "text": "Man: What animals does she have on her farm?"
+ },
+ {
+  "id": 16,
+  "start": 45.58,
+  "end": 50.52,
+  "text": "Woman: She has horses, cows and sheep."
+ },
+ {
+  "id": 17,
+  "start": 50.9,
+  "end": 54.32,
+  "text": "Man: Wow, that’s so cool!"
+ },
+ {
+  "id": 18,
+  "start": 55.18,
+  "end": 59.22,
+  "text": "Woman: Yeah, she also grows her own food."
+ },
+ {
+  "id": 19,
+  "start": 59.54,
+  "end": 61.74,
+  "text": "Man: What food does she grow?"
+ },
+ {
+  "id": 20,
+  "start": 62.48,
+  "end": 69.58,
+  "text": "Woman: She grows corn, beans, tomatoes and potatoes."
+ },
+ {
+  "id": 21,
+  "start": 71.42,
+  "end": 73.28,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 22,
+  "start": 73.94,
+  "end": 77.31,
+  "text": "Man: How does your mother stay so fit?"
+ },
+ {
+  "id": 23,
+  "start": 77.89,
+  "end": 79.95,
+  "text": "Woman: She works out alot."
+ },
+ {
+  "id": 24,
+  "start": 80.24,
+  "end": 83.59,
+  "text": "Man: It shows. She looks great!"
+ },
+ {
+  "id": 25,
+  "start": 84.27,
+  "end": 87.15,
+  "text": "Woman: She also watches what she eats."
+ },
+ {
+  "id": 26,
+  "start": 87.53,
+  "end": 90.16,
+  "text": "Man: Does she follow a special diet?"
+ },
+ {
+  "id": 27,
+  "start": 90.87,
+  "end": 96.34,
+  "text": "Woman: Yes. She doesn’t eat sweets and she doesn’t drink soda."
+ },
+ {
+  "id": 28,
+  "start": 96.8,
+  "end": 98.64,
+  "text": "Man: What about your dad?"
+ },
+ {
+  "id": 29,
+  "start": 99.3,
+  "end": 104.42,
+  "text": "Woman: Oh, he never works out. He also does yoga."
+ },
+ {
+  "id": 30,
+  "start": 104.91,
+  "end": 107.56,
+  "text": "Man: Does he follow a healthy diet too?"
+ },
+ {
+  "id": 31,
+  "start": 107.83,
+  "end": 113.68,
+  "text": "Woman: Not really. He eats sweets, and he loves ice cream."
+ },
+ {
+  "id": 32,
+  "start": 115.86,
+  "end": 117.39,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 33,
+  "start": 119.03,
+  "end": 121.42,
+  "text": "Man: How do you study language?"
+ },
+ {
+  "id": 34,
+  "start": 121.96,
+  "end": 124.84,
+  "text": "Woman: I use an app on my phone."
+ },
+ {
+  "id": 35,
+  "start": 125.37,
+  "end": 127.38,
+  "text": "Man: What does the app do?"
+ },
+ {
+  "id": 36,
+  "start": 127.48,
+  "end": 134.04,
+  "text": "Woman: It teaches vocabulary. It has over 20 languages."
+ },
+ {
+  "id": 37,
+  "start": 134.24,
+  "end": 137.84,
+  "text": "Man: Really? What languages does it teach?"
+ },
+ {
+  "id": 38,
+  "start": 138.04,
+  "end": 146.97,
+  "text": "Woman: It teaches many languages. French, Spanish, Japanese, and lots more."
+ },
+ {
+  "id": 39,
+  "start": 147.28,
+  "end": 148.82,
+  "text": "Man: How does it work?"
+ },
+ {
+  "id": 40,
+  "start": 149.42,
+  "end": 154.78,
+  "text": "Woman: Just type in a word in English, and it shows the translation."
+ },
+ {
+  "id": 41,
+  "start": 155.34,
+  "end": 157.67,
+  "text": "Man: That sounds pretty cool."
+ },
+ {
+  "id": 42,
+  "start": 158.35,
+  "end": 165.29,
+  "text": "Woman: It is. It also pronounces the words, and gives example sentences."
+ },
+ {
+  "id": 43,
+  "start": 165.7,
+  "end": 168.37,
+  "text": "Man: Nice! I want to try it."
+ }
+];

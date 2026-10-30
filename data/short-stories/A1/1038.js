@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1038"]=[
+ {
+  "id": 1,
+  "start": 3.6,
+  "end": 6.1,
+  "text": "There are many different jobs that you can choose from."
+ },
+ {
+  "id": 2,
+  "start": 7.49,
+  "end": 9.54,
+  "text": "You can be a doctor or a nurse."
+ },
+ {
+  "id": 3,
+  "start": 11.54,
+  "end": 14.21,
+  "text": "You could work in a hospital or doctor's office."
+ },
+ {
+  "id": 4,
+  "start": 16.04,
+  "end": 19.05,
+  "text": "You might be a firefighter and put out fires."
+ },
+ {
+  "id": 5,
+  "start": 20.88,
+  "end": 22.93,
+  "text": "A policeman enforces the law."
+ },
+ {
+  "id": 6,
+  "start": 24.79,
+  "end": 27.88,
+  "text": "An actor plays roles on stage or in the movies."
+ },
+ {
+  "id": 7,
+  "start": 29.63,
+  "end": 35.17,
+  "text": "You could drive a taxi or be the pilot of an airplane."
+ },
+ {
+  "id": 8,
+  "start": 34.87,
+  "end": 36.79,
+  "text": "What kinds of things do you like to do?"
+ },
+ {
+  "id": 9,
+  "start": 38.82,
+  "end": 41.1,
+  "text": "You might want to be a sales clerk in a store."
+ },
+ {
+  "id": 10,
+  "start": 43.07,
+  "end": 44.79,
+  "text": "Maybe you are good at a sport."
+ },
+ {
+  "id": 11,
+  "start": 46.46,
+  "end": 49.21,
+  "text": "You could be a baseball player or a hockey player."
+ },
+ {
+  "id": 12,
+  "start": 51.14,
+  "end": 53.01,
+  "text": "Being a dentist is a good job."
+ },
+ {
+  "id": 13,
+  "start": 54.75,
+  "end": 56.46,
+  "text": "A dentist fixes teeth."
+ },
+ {
+  "id": 14,
+  "start": 58.5,
+  "end": 63.81,
+  "text": "If you are good at arguing, you might want to be a lawyer."
+ },
+ {
+  "id": 15,
+  "start": 63.51,
+  "end": 65.23,
+  "text": "Do you like to fix people's hair?"
+ },
+ {
+  "id": 16,
+  "start": 66.94,
+  "end": 69.25,
+  "text": "You could be a hairdresser or a barber."
+ },
+ {
+  "id": 17,
+  "start": 71.48,
+  "end": 75.67,
+  "text": "If you are good with your hands, you might want to be a carpenter or a mechanic."
+ },
+ {
+  "id": 18,
+  "start": 77.54,
+  "end": 81.59,
+  "text": "If you like to travel, you could be a stewardess or a travel agent."
+ },
+ {
+  "id": 19,
+  "start": 83.45,
+  "end": 85.81,
+  "text": "You could be a teacher or a photographer."
+ },
+ {
+  "id": 20,
+  "start": 87.68,
+  "end": 89.87,
+  "text": "Are you artistic or creative?"
+ },
+ {
+  "id": 21,
+  "start": 92.26,
+  "end": 94.63,
+  "text": "You might want to be an artist or a writer."
+ },
+ {
+  "id": 22,
+  "start": 96.92,
+  "end": 99.55,
+  "text": "You could work on construction and build houses."
+ },
+ {
+  "id": 23,
+  "start": 101.69,
+  "end": 104.63,
+  "text": "You could look after animals and be a veterinarian."
+ },
+ {
+  "id": 24,
+  "start": 106.58,
+  "end": 109.86,
+  "text": "If you like to cook, you could be a cook or a chef."
+ },
+ {
+  "id": 25,
+  "start": 111.88,
+  "end": 115.31,
+  "text": "There are so many places to work, and so many jobs to do."
+ },
+ {
+  "id": 26,
+  "start": 117.29,
+  "end": 120.15,
+  "text": "Maybe you could fix computers or work in a library."
+ },
+ {
+  "id": 27,
+  "start": 121.98,
+  "end": 124.85,
+  "text": "You could wash windows or be the captain of a ship."
+ },
+ {
+  "id": 28,
+  "start": 126.77,
+  "end": 128.82,
+  "text": "There is no limit to what you can be."
+ }
+];

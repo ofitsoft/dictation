@@ -1,0 +1,206 @@
+[
+ {
+  "id": 1,
+  "start": 1.04,
+  "end": 2.64,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.45,
+  "end": 4.96,
+  "text": "Man: What time is the meeting?"
+ },
+ {
+  "id": 3,
+  "start": 6.24,
+  "end": 8.32,
+  "text": "Woman: It starts at 6 o'clock."
+ },
+ {
+  "id": 4,
+  "start": 9.22,
+  "end": 10.61,
+  "text": "Man: When is it over?"
+ },
+ {
+  "id": 5,
+  "start": 12.0,
+  "end": 14.68,
+  "text": "Woman: It is over at 7:30."
+ },
+ {
+  "id": 6,
+  "start": 15.34,
+  "end": 17.45,
+  "text": "Man: Wow! So long!"
+ },
+ {
+  "id": 7,
+  "start": 18.42,
+  "end": 21.94,
+  "text": "Woman: Well, it might finish by 7:15."
+ },
+ {
+  "id": 8,
+  "start": 23.31,
+  "end": 24.89,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 25.9,
+  "end": 27.71,
+  "text": "Man: When is your first class?"
+ },
+ {
+  "id": 10,
+  "start": 28.84,
+  "end": 30.64,
+  "text": "Woman: It is at 8:30."
+ },
+ {
+  "id": 11,
+  "start": 31.38,
+  "end": 34.5,
+  "text": "Man: Me too! When is your last class?"
+ },
+ {
+  "id": 12,
+  "start": 35.38,
+  "end": 38.52,
+  "text": "Woman: My last class is at 3:45."
+ },
+ {
+  "id": 13,
+  "start": 39.31,
+  "end": 40.6,
+  "text": "Man: When does it finish?"
+ },
+ {
+  "id": 14,
+  "start": 42.12,
+  "end": 43.96,
+  "text": "Woman: At 5:15"
+ },
+ {
+  "id": 15,
+  "start": 44.66,
+  "end": 46.54,
+  "text": "Man: Wow, so late!"
+ },
+ {
+  "id": 16,
+  "start": 47.13,
+  "end": 48.23,
+  "text": "Woman: I know."
+ },
+ {
+  "id": 17,
+  "start": 49.71,
+  "end": 51.28,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 18,
+  "start": 52.19,
+  "end": 54.72,
+  "text": "Man: Excuse me. What time is it?"
+ },
+ {
+  "id": 19,
+  "start": 56.1,
+  "end": 58.18,
+  "text": "Woman: It is half past ten."
+ },
+ {
+  "id": 20,
+  "start": 59.21,
+  "end": 61.93,
+  "text": "Man: I'm sorry, I don't understand."
+ },
+ {
+  "id": 21,
+  "start": 63.06,
+  "end": 64.75,
+  "text": "Woman: Oh, it is 10:30."
+ },
+ {
+  "id": 22,
+  "start": 65.4,
+  "end": 69.76,
+  "text": "Man: Oh, thanks. Half past ten means 10:30?"
+ },
+ {
+  "id": 23,
+  "start": 70.46,
+  "end": 72.32,
+  "text": "Woman: Yes, it does."
+ },
+ {
+  "id": 24,
+  "start": 73.13,
+  "end": 76.35,
+  "text": "Man: So half past seven means 7:30."
+ },
+ {
+  "id": 25,
+  "start": 77.21,
+  "end": 79.12,
+  "text": "Woman: Yes, you got it."
+ },
+ {
+  "id": 26,
+  "start": 80.55,
+  "end": 82.14,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 27,
+  "start": 83.28,
+  "end": 85.04,
+  "text": "Man: When is the next bus?"
+ },
+ {
+  "id": 28,
+  "start": 86.31,
+  "end": 88.59,
+  "text": "Woman: It is at quarter past eight."
+ },
+ {
+  "id": 29,
+  "start": 89.61,
+  "end": 96.65,
+  "text": "Man: 8:15! That's too early. I want to get a coffee. And when is the next one?"
+ },
+ {
+  "id": 30,
+  "start": 97.78,
+  "end": 101.99,
+  "text": "Woman: The next bus is at quarter to nine."
+ },
+ {
+  "id": 31,
+  "start": 101.38,
+  "end": 105.69,
+  "text": "Man: 8:45. OK, I can take that one."
+ },
+ {
+  "id": 32,
+  "start": 106.74,
+  "end": 110.08,
+  "text": "Woman: There is also one at 9:15."
+ },
+ {
+  "id": 33,
+  "start": 110.18,
+  "end": 115.35,
+  "text": "Man: Hmm. 9:15 is too late. I have class at 9:30."
+ },
+ {
+  "id": 34,
+  "start": 116.31,
+  "end": 117.7,
+  "text": "Woman: Don't miss it then!"
+ }
+]

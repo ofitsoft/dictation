@@ -1,0 +1,176 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1015"]=[
+ {
+  "id": 1,
+  "start": 3.01,
+  "end": 4.75,
+  "text": "Halloween is fun."
+ },
+ {
+  "id": 2,
+  "start": 5.29,
+  "end": 7.0,
+  "text": "My mom buys candy."
+ },
+ {
+  "id": 3,
+  "start": 7.55,
+  "end": 9.66,
+  "text": "My Mom buys potato chips."
+ },
+ {
+  "id": 4,
+  "start": 10.24,
+  "end": 12.7,
+  "text": "My Mom buys chocolate bars."
+ },
+ {
+  "id": 5,
+  "start": 13.27,
+  "end": 15.26,
+  "text": "It is for the trick or treaters."
+ },
+ {
+  "id": 6,
+  "start": 15.88,
+  "end": 17.96,
+  "text": "My Mom buys me a costume."
+ },
+ {
+  "id": 7,
+  "start": 18.45,
+  "end": 20.35,
+  "text": "It is a ghost costume."
+ },
+ {
+  "id": 8,
+  "start": 20.92,
+  "end": 22.97,
+  "text": "I am going to be scary."
+ },
+ {
+  "id": 9,
+  "start": 23.61,
+  "end": 26.8,
+  "text": "My sister is going to dress up as a princess."
+ },
+ {
+  "id": 10,
+  "start": 27.4,
+  "end": 28.98,
+  "text": "She will have a wand."
+ },
+ {
+  "id": 11,
+  "start": 29.53,
+  "end": 31.03,
+  "text": "She will have a crown."
+ },
+ {
+  "id": 12,
+  "start": 31.52,
+  "end": 33.46,
+  "text": "She will look beautiful."
+ },
+ {
+  "id": 13,
+  "start": 34.17,
+  "end": 36.17,
+  "text": "My Dad buys a pumpkin."
+ },
+ {
+  "id": 14,
+  "start": 36.55,
+  "end": 38.93,
+  "text": "It is going to be a Jack O'Lantern."
+ },
+ {
+  "id": 15,
+  "start": 39.51,
+  "end": 41.75,
+  "text": "We draw a face on the pumpkin."
+ },
+ {
+  "id": 16,
+  "start": 42.2,
+  "end": 44.38,
+  "text": "We carve the face with a knife."
+ },
+ {
+  "id": 17,
+  "start": 45.47,
+  "end": 47.8,
+  "text": "Our Jack O'Lantern looks funny."
+ },
+ {
+  "id": 18,
+  "start": 48.7,
+  "end": 50.25,
+  "text": "We go trick or treating."
+ },
+ {
+  "id": 19,
+  "start": 50.83,
+  "end": 52.78,
+  "text": "We knock on the neighbour's door."
+ },
+ {
+  "id": 20,
+  "start": 53.18,
+  "end": 55.27,
+  "text": "We say, \"trick or treat.\""
+ },
+ {
+  "id": 21,
+  "start": 55.99,
+  "end": 57.86,
+  "text": "Our neighbours give us candy."
+ },
+ {
+  "id": 22,
+  "start": 58.36,
+  "end": 59.89,
+  "text": "We say thanks."
+ },
+ {
+  "id": 23,
+  "start": 60.43,
+  "end": 62.29,
+  "text": "We go to many houses."
+ },
+ {
+  "id": 24,
+  "start": 62.59,
+  "end": 63.68,
+  "text": "We go home."
+ },
+ {
+  "id": 25,
+  "start": 64.21,
+  "end": 66.37,
+  "text": "Our parents check our candy."
+ },
+ {
+  "id": 26,
+  "start": 66.75,
+  "end": 67.82,
+  "text": "It's safe."
+ },
+ {
+  "id": 27,
+  "start": 68.41,
+  "end": 70.29,
+  "text": "We eat lots of candy."
+ },
+ {
+  "id": 28,
+  "start": 70.65,
+  "end": 72.5,
+  "text": "We don't feel very good."
+ },
+ {
+  "id": 29,
+  "start": 72.84,
+  "end": 74.03,
+  "text": "We go to bed."
+ }
+];

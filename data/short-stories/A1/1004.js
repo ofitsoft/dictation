@@ -1,0 +1,134 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1004"]=[
+ {
+  "id": 1,
+  "start": 3.37,
+  "end": 6.38,
+  "text": "The Bright family went camping on the weekend."
+ },
+ {
+  "id": 2,
+  "start": 6.83,
+  "end": 9.48,
+  "text": "The Bright family went to Silent Lake."
+ },
+ {
+  "id": 3,
+  "start": 10.0,
+  "end": 12.43,
+  "text": "The Bright family left on Friday."
+ },
+ {
+  "id": 4,
+  "start": 12.91,
+  "end": 15.09,
+  "text": "They camped for three days."
+ },
+ {
+  "id": 5,
+  "start": 15.58,
+  "end": 18.2,
+  "text": "The Bright family brought a big tent."
+ },
+ {
+  "id": 6,
+  "start": 18.54,
+  "end": 20.29,
+  "text": "They brought a lot of food."
+ },
+ {
+  "id": 7,
+  "start": 20.68,
+  "end": 22.74,
+  "text": "They brought insect repellant."
+ },
+ {
+  "id": 8,
+  "start": 23.22,
+  "end": 26.19,
+  "text": "The Bright family had a campfire on Friday."
+ },
+ {
+  "id": 9,
+  "start": 26.6,
+  "end": 28.48,
+  "text": "They roasted marshmallows."
+ },
+ {
+  "id": 10,
+  "start": 28.87,
+  "end": 31.16,
+  "text": "They sang campfire songs."
+ },
+ {
+  "id": 11,
+  "start": 31.8,
+  "end": 34.47,
+  "text": "On Saturday they went canoeing."
+ },
+ {
+  "id": 12,
+  "start": 34.92,
+  "end": 37.61,
+  "text": "On Saturday they went fishing."
+ },
+ {
+  "id": 13,
+  "start": 38.18,
+  "end": 40.93,
+  "text": "On Saturday they went swimming."
+ },
+ {
+  "id": 14,
+  "start": 41.5,
+  "end": 43.52,
+  "text": "They went hiking on Sunday."
+ },
+ {
+  "id": 15,
+  "start": 44.15,
+  "end": 46.55,
+  "text": "The Bright family saw many birds."
+ },
+ {
+  "id": 16,
+  "start": 46.81,
+  "end": 48.49,
+  "text": "They saw blue jays."
+ },
+ {
+  "id": 17,
+  "start": 48.68,
+  "end": 50.47,
+  "text": "They saw hummingbirds."
+ },
+ {
+  "id": 18,
+  "start": 51.04,
+  "end": 53.54,
+  "text": "The Bright family saw many animals."
+ },
+ {
+  "id": 19,
+  "start": 53.91,
+  "end": 55.53,
+  "text": "They saw a raccoon."
+ },
+ {
+  "id": 20,
+  "start": 55.91,
+  "end": 57.44,
+  "text": "They saw a squirrel."
+ },
+ {
+  "id": 21,
+  "start": 57.9,
+  "end": 59.94,
+  "text": "But they didn't see a bear."
+ },
+ {
+  "id": 22,
+  "start": 60.45,
+  "end": 62.99,
+  "text": "The Bright family had a fun vacation."
+ }
+];

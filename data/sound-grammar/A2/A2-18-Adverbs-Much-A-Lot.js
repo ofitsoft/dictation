@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A2/A2-18-Adverbs-Much-A-Lot"]=[
+ {
+  "id": 1,
+  "start": 0.81,
+  "end": 2.24,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.64,
+  "end": 5.26,
+  "text": "Man: Do you watch much TV?"
+ },
+ {
+  "id": 3,
+  "start": 6.04,
+  "end": 11.33,
+  "text": "Woman: Not anymore. I used to watch a lot of TV but not now. And you?"
+ },
+ {
+  "id": 4,
+  "start": 11.84,
+  "end": 14.06,
+  "text": "Man: Yeah, I watch a lot of TV."
+ },
+ {
+  "id": 5,
+  "start": 14.71,
+  "end": 15.91,
+  "text": "Woman: What do you watch?"
+ },
+ {
+  "id": 6,
+  "start": 16.49,
+  "end": 19.34,
+  "text": "Man: I watch a lot of dramas and some news shows."
+ },
+ {
+  "id": 7,
+  "start": 19.92,
+  "end": 23.61,
+  "text": "Woman: I don’t watch the news much, but maybe I should."
+ },
+ {
+  "id": 8,
+  "start": 25.13,
+  "end": 26.51,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 27.35,
+  "end": 29.07,
+  "text": "Man: Do you exercise much?"
+ },
+ {
+  "id": 10,
+  "start": 29.48,
+  "end": 31.64,
+  "text": "Woman: Not that much but some."
+ },
+ {
+  "id": 11,
+  "start": 32.28,
+  "end": 33.27,
+  "text": "Man: What do you do?"
+ },
+ {
+  "id": 12,
+  "start": 34.08,
+  "end": 36.69,
+  "text": "Woman: I go running a lot. What about you?"
+ },
+ {
+  "id": 13,
+  "start": 37.45,
+  "end": 39.31,
+  "text": "Man: I don’t exercise at all."
+ },
+ {
+  "id": 14,
+  "start": 40.09,
+  "end": 42.66,
+  "text": "Woman: That’s too bad. It can be fun!"
+ },
+ {
+  "id": 15,
+  "start": 44.85,
+  "end": 46.46,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 16,
+  "start": 47.22,
+  "end": 48.92,
+  "text": "Man: Do you eat much fast food?"
+ },
+ {
+  "id": 17,
+  "start": 49.69,
+  "end": 52.44,
+  "text": "Woman: Yeah, I eat it way too much!"
+ },
+ {
+  "id": 18,
+  "start": 53.04,
+  "end": 57.04,
+  "text": "Man: Ooh, that’s not good. You should not eat it too much."
+ },
+ {
+  "id": 19,
+  "start": 57.5,
+  "end": 62.76,
+  "text": "Woman: I know, but I do it to save time. Plus, I don’t cook much."
+ },
+ {
+  "id": 20,
+  "start": 63.22,
+  "end": 66.89,
+  "text": "Man: Me too, but I try to eat a lot of ruits and vegetables."
+ },
+ {
+  "id": 21,
+  "start": 67.61,
+  "end": 68.67,
+  "text": "Woman: Good idea."
+ },
+ {
+  "id": 22,
+  "start": 71.46,
+  "end": 73.03,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 23,
+  "start": 73.95,
+  "end": 75.64,
+  "text": "Man: Do speak Spanish much?"
+ },
+ {
+  "id": 24,
+  "start": 76.53,
+  "end": 78.93,
+  "text": "Woman: Yeah, I speak it a lot at work."
+ },
+ {
+  "id": 25,
+  "start": 79.8,
+  "end": 81.1,
+  "text": "Man: That must be nice."
+ },
+ {
+  "id": 26,
+  "start": 81.69,
+  "end": 82.84,
+  "text": "Woman: What about you?"
+ },
+ {
+  "id": 27,
+  "start": 83.55,
+  "end": 87.02,
+  "text": "Man: Not that much. People do not use it much at my work."
+ },
+ {
+  "id": 28,
+  "start": 87.31,
+  "end": 90.82,
+  "text": "Woman: Really! It speaks a lot of my job."
+ }
+];

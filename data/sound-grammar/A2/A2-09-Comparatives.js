@@ -1,0 +1,230 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A2/A2-09-Comparatives"]=[
+ {
+  "id": 1,
+  "start": 0.66,
+  "end": 2.21,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.48,
+  "end": 5.05,
+  "text": "Man: I see you got a new phone."
+ },
+ {
+  "id": 3,
+  "start": 6.01,
+  "end": 8.7,
+  "text": "Woman: Yeah, I just got it yesterday."
+ },
+ {
+  "id": 4,
+  "start": 9.33,
+  "end": 10.47,
+  "text": "Man: How is it?"
+ },
+ {
+  "id": 5,
+  "start": 11.05,
+  "end": 16.73,
+  "text": "Woman: Great. It is better than my last phone. It is also lighter."
+ },
+ {
+  "id": 6,
+  "start": 17.27,
+  "end": 20.79,
+  "text": "Man: How's the camera? Does it take better pictures?"
+ },
+ {
+  "id": 7,
+  "start": 21.38,
+  "end": 30.64,
+  "text": "Woman: Yes. The pictures are great. The images are brighter and sharper. Much prettier than before."
+ },
+ {
+  "id": 8,
+  "start": 31.23,
+  "end": 35.36,
+  "text": "Man: Sounds great. I should get a new phone as well."
+ },
+ {
+  "id": 9,
+  "start": 35.81,
+  "end": 40.82,
+  "text": "Woman: Well, if you do buy it online, it's cheaper."
+ },
+ {
+  "id": 10,
+  "start": 41.52,
+  "end": 44.17,
+  "text": "Man: Good advice. I think I'll do that."
+ },
+ {
+  "id": 11,
+  "start": 45.51,
+  "end": 47.0,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 12,
+  "start": 47.73,
+  "end": 49.91,
+  "text": "Man: How is your online class going?"
+ },
+ {
+  "id": 13,
+  "start": 50.81,
+  "end": 53.96,
+  "text": "Woman: Good. It's better than I expected."
+ },
+ {
+  "id": 14,
+  "start": 54.41,
+  "end": 56.94,
+  "text": "Man: Oh, I'm happy to hear that."
+ },
+ {
+  "id": 15,
+  "start": 57.98,
+  "end": 64.57,
+  "text": "Woman: Yeah, it's more convenient to study at home and it is also more relaxing."
+ },
+ {
+  "id": 16,
+  "start": 65.24,
+  "end": 66.4,
+  "text": "Man: How so?"
+ },
+ {
+  "id": 17,
+  "start": 67.06,
+  "end": 72.22,
+  "text": "Woman: Well, I don't have to get dressed or go sit at a desk."
+ },
+ {
+  "id": 18,
+  "start": 72.86,
+  "end": 75.17,
+  "text": "Man: Plus you can get up later."
+ },
+ {
+  "id": 19,
+  "start": 75.69,
+  "end": 85.34,
+  "text": "Woman: Yes. That is a big advantage. However, it's more interesting to study with people in class."
+ },
+ {
+  "id": 20,
+  "start": 86.29,
+  "end": 90.76,
+  "text": "Man: Yeah, for some, I suppose. But not everyone."
+ },
+ {
+  "id": 21,
+  "start": 92.37,
+  "end": 94.36,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 22,
+  "start": 95.01,
+  "end": 98.79,
+  "text": "Man: So do you prefer cats or dogs?"
+ },
+ {
+  "id": 23,
+  "start": 99.87,
+  "end": 104.26,
+  "text": "Woman: I prefer dogs. They're much more playful."
+ },
+ {
+  "id": 24,
+  "start": 104.69,
+  "end": 111.32,
+  "text": "Man: That may be true, but cats are cheaper. They don't eat as much as dogs."
+ },
+ {
+  "id": 25,
+  "start": 112.14,
+  "end": 123.84,
+  "text": "Woman: That is true. Dogs eat a lot, so they usually are more expensive. However, smaller dogs don't eat so much."
+ },
+ {
+  "id": 26,
+  "start": 124.46,
+  "end": 130.64,
+  "text": "Man: Also, cats are easier to take care of. Dogs are more demanding."
+ },
+ {
+  "id": 27,
+  "start": 131.91,
+  "end": 136.51,
+  "text": "Woman: Usually. Plus you don't have to walk cats."
+ },
+ {
+  "id": 28,
+  "start": 137.34,
+  "end": 143.46,
+  "text": "Man: I want a dog actually, but I need a bigger place if I get one."
+ },
+ {
+  "id": 29,
+  "start": 144.22,
+  "end": 148.24,
+  "text": "Woman: You would. Your place is too small."
+ },
+ {
+  "id": 30,
+  "start": 149.68,
+  "end": 151.37,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 31,
+  "start": 152.25,
+  "end": 154.89,
+  "text": "Man: What do you usually do for dinner?"
+ },
+ {
+  "id": 32,
+  "start": 155.62,
+  "end": 160.42,
+  "text": "Woman: I usually cook at home. I never go out."
+ },
+ {
+  "id": 33,
+  "start": 161.1,
+  "end": 165.97,
+  "text": "Man: Really? I never cook. I always eat out."
+ },
+ {
+  "id": 34,
+  "start": 166.91,
+  "end": 172.05,
+  "text": "Woman: You should cook more. It's much healthier and cheaper"
+ },
+ {
+  "id": 35,
+  "start": 172.63,
+  "end": 178.67,
+  "text": "Man: Maybe, but eating out is more convenient and it's easier."
+ },
+ {
+  "id": 36,
+  "start": 179.73,
+  "end": 189.97,
+  "text": "Woman: Not always. Plus, it is much more expensive to eat out all the time. Cooking is much cheaper."
+ },
+ {
+  "id": 37,
+  "start": 190.59,
+  "end": 203.02,
+  "text": "Man: Not for me. When I buy groceries, I always end up wasting it. Plus cooking is more stressful. It is more relaxing to eat in a restaurant"
+ },
+ {
+  "id": 38,
+  "start": 203.95,
+  "end": 211.48,
+  "text": "Woman: Maybe, but cooking is more enjoyable. I could never eat out every night."
+ }
+];

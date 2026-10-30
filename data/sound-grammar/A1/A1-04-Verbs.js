@@ -1,0 +1,206 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-04-Verbs"]=[
+ {
+  "id": 1,
+  "start": 0.88,
+  "end": 2.53,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.15,
+  "end": 5.04,
+  "text": "Man: What do you do in the morning?"
+ },
+ {
+  "id": 3,
+  "start": 6.11,
+  "end": 13.09,
+  "text": "Woman: I wake up. I take a shower. I get dressed, and I eat breakfast."
+ },
+ {
+  "id": 4,
+  "start": 13.73,
+  "end": 16.01,
+  "text": "Man: Oh! When do you get up?"
+ },
+ {
+  "id": 5,
+  "start": 17.03,
+  "end": 18.85,
+  "text": "Woman: I get up at 6."
+ },
+ {
+  "id": 6,
+  "start": 19.24,
+  "end": 21.25,
+  "text": "Man: Wow! That’s early."
+ },
+ {
+  "id": 7,
+  "start": 22.05,
+  "end": 24.75,
+  "text": "Woman: I know! I like mornings, though."
+ },
+ {
+  "id": 8,
+  "start": 26.56,
+  "end": 28.1,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 29.28,
+  "end": 31.23,
+  "text": "Man: What do you do during the day?"
+ },
+ {
+  "id": 10,
+  "start": 32.05,
+  "end": 35.92,
+  "text": "Woman: Well, I go to school. I teach students."
+ },
+ {
+  "id": 11,
+  "start": 36.26,
+  "end": 38.45,
+  "text": "Man: Ooh! What do you teach?"
+ },
+ {
+  "id": 12,
+  "start": 39.01,
+  "end": 42.55,
+  "text": "Woman: I teach math. What do you do?"
+ },
+ {
+  "id": 13,
+  "start": 43.17,
+  "end": 44.76,
+  "text": "Man: I work at a bike shop."
+ },
+ {
+  "id": 14,
+  "start": 45.67,
+  "end": 48.89,
+  "text": "Woman: Really? What do you do at the shop?"
+ },
+ {
+  "id": 15,
+  "start": 49.96,
+  "end": 51.83,
+  "text": "Man: I fix and sell bikes."
+ },
+ {
+  "id": 16,
+  "start": 52.52,
+  "end": 54.06,
+  "text": "Woman: Sounds fun."
+ },
+ {
+  "id": 17,
+  "start": 54.92,
+  "end": 56.51,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 18,
+  "start": 57.36,
+  "end": 59.19,
+  "text": "Man: What do you do at lunch?"
+ },
+ {
+  "id": 19,
+  "start": 60.01,
+  "end": 62.8,
+  "text": "Woman: I eat with my friends. And you?"
+ },
+ {
+  "id": 20,
+  "start": 63.71,
+  "end": 65.19,
+  "text": "Man: I eat in the park."
+ },
+ {
+  "id": 21,
+  "start": 65.85,
+  "end": 67.32,
+  "text": "Woman: That’s nice."
+ },
+ {
+  "id": 22,
+  "start": 68.09,
+  "end": 70.97,
+  "text": "Man: Yeah, I like to read on my lunch break."
+ },
+ {
+  "id": 23,
+  "start": 71.96,
+  "end": 74.48,
+  "text": "Woman: Ooh, what do you read?"
+ },
+ {
+  "id": 24,
+  "start": 75.09,
+  "end": 76.49,
+  "text": "Man: I read about history."
+ },
+ {
+  "id": 25,
+  "start": 77.26,
+  "end": 78.71,
+  "text": "Woman: Interesting."
+ },
+ {
+  "id": 26,
+  "start": 79.63,
+  "end": 81.24,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 27,
+  "start": 82.06,
+  "end": 83.85,
+  "text": "Man: What do you do on the weekend?"
+ },
+ {
+  "id": 28,
+  "start": 84.73,
+  "end": 88.29,
+  "text": "Woman: I play sports at the park. How about you?"
+ },
+ {
+  "id": 29,
+  "start": 88.96,
+  "end": 90.76,
+  "text": "Man: I study at the library."
+ },
+ {
+  "id": 30,
+  "start": 91.68,
+  "end": 94.84,
+  "text": "Woman: Oh, right! You love books."
+ },
+ {
+  "id": 31,
+  "start": 95.34,
+  "end": 98.82,
+  "text": "Man: Yeah. So, what sports do you play?"
+ },
+ {
+  "id": 32,
+  "start": 99.46,
+  "end": 101.93,
+  "text": "Woman: I play soccer with my friends."
+ },
+ {
+  "id": 33,
+  "start": 102.62,
+  "end": 103.8,
+  "text": "Man: Sounds fun."
+ },
+ {
+  "id": 34,
+  "start": 104.3,
+  "end": 105.25,
+  "text": "Woman: It is!"
+ }
+];

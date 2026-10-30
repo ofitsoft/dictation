@@ -1,0 +1,236 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-23-Past-Tense"]=[
+ {
+  "id": 1,
+  "start": 0.67,
+  "end": 2.2,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.09,
+  "end": 4.79,
+  "text": "Man: What did you do yesterday?"
+ },
+ {
+  "id": 3,
+  "start": 5.6,
+  "end": 12.81,
+  "text": "Woman: Nothing much. I just stayed at home and cleaned the house. And you? What did you do?"
+ },
+ {
+  "id": 4,
+  "start": 13.42,
+  "end": 15.94,
+  "text": "Man: I drove to the mountains and went hiking."
+ },
+ {
+  "id": 5,
+  "start": 16.63,
+  "end": 18.48,
+  "text": "Woman: That sounds fun!"
+ },
+ {
+  "id": 6,
+  "start": 19.39,
+  "end": 24.12,
+  "text": "Man: It was. The weather was perfect, and we saw lots of animals."
+ },
+ {
+  "id": 7,
+  "start": 24.8,
+  "end": 26.84,
+  "text": "Woman: Oh? What did you see?"
+ },
+ {
+  "id": 8,
+  "start": 27.32,
+  "end": 31.52,
+  "text": "Man: We saw some deer, an eagle, and a bear!"
+ },
+ {
+  "id": 9,
+  "start": 31.69,
+  "end": 36.08,
+  "text": "Woman: Wow! How exciting! Did you take any pictures?"
+ },
+ {
+  "id": 10,
+  "start": 36.63,
+  "end": 41.05,
+  "text": "Man: Yes, I took a lot of photos. I'll post them online soon."
+ },
+ {
+  "id": 11,
+  "start": 41.86,
+  "end": 43.09,
+  "text": "Woman: Please do!"
+ },
+ {
+  "id": 12,
+  "start": 45.03,
+  "end": 46.61,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 13,
+  "start": 47.66,
+  "end": 49.67,
+  "text": "Man: Did you do anything this weekend?"
+ },
+ {
+  "id": 14,
+  "start": 50.6,
+  "end": 55.5,
+  "text": "Woman: I did. I took the train to the city and met my friend."
+ },
+ {
+  "id": 15,
+  "start": 56.14,
+  "end": 58.35,
+  "text": "Man: Oh, yeah! What did you do?"
+ },
+ {
+  "id": 16,
+  "start": 59.17,
+  "end": 62.03,
+  "text": "Woman: We had lunch and did some shopping."
+ },
+ {
+  "id": 17,
+  "start": 62.83,
+  "end": 64.29,
+  "text": "Man: Did you buy anything?"
+ },
+ {
+  "id": 18,
+  "start": 64.9,
+  "end": 71.03,
+  "text": "Woman: No, I didn’t. I just went window shopping. I need to save money."
+ },
+ {
+  "id": 19,
+  "start": 71.47,
+  "end": 72.77,
+  "text": "Man: Me, too!"
+ },
+ {
+  "id": 20,
+  "start": 73.51,
+  "end": 75.21,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 21,
+  "start": 75.96,
+  "end": 77.18,
+  "text": "Man: How was your day?"
+ },
+ {
+  "id": 22,
+  "start": 78.04,
+  "end": 81.17,
+  "text": "Woman: Difficult. I was so busy."
+ },
+ {
+  "id": 23,
+  "start": 81.89,
+  "end": 84.5,
+  "text": "Man: How so? What happened at work?"
+ },
+ {
+  "id": 24,
+  "start": 85.39,
+  "end": 96.47,
+  "text": "Woman: A tour bus came in the restaurant for lunch. They ordered a lot of food. We only had two waiters, so we were very busy."
+ },
+ {
+  "id": 25,
+  "start": 97.18,
+  "end": 98.63,
+  "text": "Man: Did you get a big tip?"
+ },
+ {
+  "id": 26,
+  "start": 99.42,
+  "end": 103.86,
+  "text": "Woman: We did. They left us $50!"
+ },
+ {
+  "id": 27,
+  "start": 104.77,
+  "end": 106.41,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 28,
+  "start": 107.17,
+  "end": 110.27,
+  "text": "Man: Welcome home! What did you do tonight?"
+ },
+ {
+  "id": 29,
+  "start": 111.14,
+  "end": 113.93,
+  "text": "Woman: I went to the movies with my friends."
+ },
+ {
+  "id": 30,
+  "start": 114.43,
+  "end": 116.54,
+  "text": "Man: Fun! What did you see?"
+ },
+ {
+  "id": 31,
+  "start": 117.48,
+  "end": 120.34,
+  "text": "Woman: We saw the new James Bond movie."
+ },
+ {
+  "id": 32,
+  "start": 120.96,
+  "end": 123.74,
+  "text": "Man: How was it? I heard it was good."
+ },
+ {
+  "id": 33,
+  "start": 124.67,
+  "end": 128.66,
+  "text": "Woman: It was really good. I liked it a lot."
+ },
+ {
+  "id": 34,
+  "start": 129.35,
+  "end": 131.31,
+  "text": "Man: Did you do anything afterwards?"
+ },
+ {
+  "id": 35,
+  "start": 132.29,
+  "end": 137.21,
+  "text": "Woman: Yes, we went to a cafe after the movie and talked a bit."
+ },
+ {
+  "id": 36,
+  "start": 138.1,
+  "end": 140.81,
+  "text": "Man: Did you eat? We ordered pizza."
+ },
+ {
+  "id": 37,
+  "start": 141.64,
+  "end": 144.59,
+  "text": "Woman: Yes, I had dinner at the cafe."
+ },
+ {
+  "id": 38,
+  "start": 145.48,
+  "end": 149.83,
+  "text": "Man: Well, if you're still hungry, there's still some pizza in the kitchen."
+ },
+ {
+  "id": 39,
+  "start": 150.51,
+  "end": 155.04,
+  "text": "Woman: Thanks, but I'm full. I ate a big sandwich."
+ }
+];

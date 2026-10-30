@@ -1,0 +1,176 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1088"]=[
+ {
+  "id": 1,
+  "start": 3.36,
+  "end": 4.76,
+  "text": "I live in Canada."
+ },
+ {
+  "id": 2,
+  "start": 4.86,
+  "end": 12.09,
+  "text": "It is a very large country that is made up of ten provinces and three territories."
+ },
+ {
+  "id": 3,
+  "start": 12.81,
+  "end": 16.64,
+  "text": "Most of the provinces and territories are quite unique."
+ },
+ {
+  "id": 4,
+  "start": 16.7,
+  "end": 23.45,
+  "text": "For example, in Saskatchewan the land is flat, and it is not surrounded by water."
+ },
+ {
+  "id": 5,
+  "start": 23.67,
+  "end": 26.26,
+  "text": "They grow wheat in Saskatchewan."
+ },
+ {
+  "id": 6,
+  "start": 26.51,
+  "end": 29.45,
+  "text": "British Columbia has mountains."
+ },
+ {
+  "id": 7,
+  "start": 29.86,
+  "end": 34.84,
+  "text": "I have never been to British Columbia, but I hear that it is very beautiful."
+ },
+ {
+  "id": 8,
+  "start": 35.05,
+  "end": 41.54,
+  "text": "Nova Scotia is on the Atlantic Ocean, so there are many fishermen out there."
+ },
+ {
+  "id": 9,
+  "start": 41.79,
+  "end": 45.43,
+  "text": "The people in the provinces are even different from each other."
+ },
+ {
+  "id": 10,
+  "start": 45.46,
+  "end": 49.36,
+  "text": "In Quebec, many of the people speak French."
+ },
+ {
+  "id": 11,
+  "start": 49.4,
+  "end": 55.11,
+  "text": "In the Maritime Provinces, the people like to play their own kind of music."
+ },
+ {
+  "id": 12,
+  "start": 55.25,
+  "end": 61.05,
+  "text": "They play fiddles and accordions, and many of them dance very well."
+ },
+ {
+  "id": 13,
+  "start": 62.51,
+  "end": 66.17,
+  "text": "Nunavut is in the north, so life is quite different there."
+ },
+ {
+  "id": 14,
+  "start": 66.32,
+  "end": 72.87,
+  "text": "The people who live in the new territory of Nunavut are very close to wildlife."
+ },
+ {
+  "id": 15,
+  "start": 72.95,
+  "end": 76.06,
+  "text": "They do a lot of hunting and fishing."
+ },
+ {
+  "id": 16,
+  "start": 76.07,
+  "end": 81.4,
+  "text": "It can get very cold up in the Arctic where Nunavut is."
+ },
+ {
+  "id": 17,
+  "start": 81.52,
+  "end": 84.07,
+  "text": "I live in Ontario."
+ },
+ {
+  "id": 18,
+  "start": 84.14,
+  "end": 88.61,
+  "text": "Even within Ontario life can be quite different."
+ },
+ {
+  "id": 19,
+  "start": 88.79,
+  "end": 92.29,
+  "text": "The capital of Ontario is Toronto."
+ },
+ {
+  "id": 20,
+  "start": 92.46,
+  "end": 99.05,
+  "text": "Toronto is a very busy city with lots of apartments, offices and shops."
+ },
+ {
+  "id": 21,
+  "start": 99.04,
+  "end": 103.68,
+  "text": "Toronto is an exciting place, and it has a lot to offer."
+ },
+ {
+  "id": 22,
+  "start": 103.78,
+  "end": 108.25,
+  "text": "There are theatres and restaurants to suit every taste."
+ },
+ {
+  "id": 23,
+  "start": 108.26,
+  "end": 112.09,
+  "text": "The culture in Toronto is very diverse."
+ },
+ {
+  "id": 24,
+  "start": 112.1,
+  "end": 119.79,
+  "text": "If you drive a few miles north of Toronto, you will find places that are tranquil and peaceful."
+ },
+ {
+  "id": 25,
+  "start": 119.76,
+  "end": 128.39,
+  "text": "Many people leave Toronto on the weekends and drive to their cottages where they find rest and relaxation."
+ },
+ {
+  "id": 26,
+  "start": 128.57,
+  "end": 132.77,
+  "text": "Canada is made up of many different cultures."
+ },
+ {
+  "id": 27,
+  "start": 132.96,
+  "end": 138.5,
+  "text": "People of many different ethnic backgrounds live in harmony in Canada."
+ },
+ {
+  "id": 28,
+  "start": 138.37,
+  "end": 141.14,
+  "text": "That is why I like Canada."
+ },
+ {
+  "id": 29,
+  "start": 141.08,
+  "end": 145.0,
+  "text": "In Canada we celebrate our differences."
+ }
+];

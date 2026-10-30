@@ -1,0 +1,200 @@
+[
+ {
+  "id": 1,
+  "start": 0.8,
+  "end": 2.58,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.37,
+  "end": 5.1,
+  "text": "Man: So, what foods do you like?"
+ },
+ {
+  "id": 3,
+  "start": 6.16,
+  "end": 10.41,
+  "text": "Woman: I like ice cream, and pizza, and apples."
+ },
+ {
+  "id": 4,
+  "start": 10.78,
+  "end": 13.4,
+  "text": "Man: Ooh, I like those foods, too."
+ },
+ {
+  "id": 5,
+  "start": 14.03,
+  "end": 15.69,
+  "text": "Woman: What foods do you like?"
+ },
+ {
+  "id": 6,
+  "start": 16.39,
+  "end": 20.69,
+  "text": "Man: I like fish, vegetables, and bananas."
+ },
+ {
+  "id": 7,
+  "start": 21.5,
+  "end": 22.59,
+  "text": "Woman: Together?"
+ },
+ {
+  "id": 8,
+  "start": 23.18,
+  "end": 25.47,
+  "text": "Man: No, not together!"
+ },
+ {
+  "id": 9,
+  "start": 27.18,
+  "end": 28.79,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 10,
+  "start": 29.62,
+  "end": 31.24,
+  "text": "Man: What drinks do you like?"
+ },
+ {
+  "id": 11,
+  "start": 32.28,
+  "end": 36.17,
+  "text": "Woman: I like tea, and I like juice."
+ },
+ {
+  "id": 12,
+  "start": 36.27,
+  "end": 39.63,
+  "text": "Man: Ooh, hot tea or cold tea?"
+ },
+ {
+  "id": 13,
+  "start": 40.32,
+  "end": 42.93,
+  "text": "Woman: Both. What about you?"
+ },
+ {
+  "id": 14,
+  "start": 43.61,
+  "end": 46.19,
+  "text": "Man: I like coffee and hot chocolate."
+ },
+ {
+  "id": 15,
+  "start": 46.87,
+  "end": 49.94,
+  "text": "Woman: Ooh, I like both, too!"
+ },
+ {
+  "id": 16,
+  "start": 51.13,
+  "end": 52.74,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 17,
+  "start": 53.76,
+  "end": 55.47,
+  "text": "Man: What desserts do you like?"
+ },
+ {
+  "id": 18,
+  "start": 56.54,
+  "end": 59.28,
+  "text": "Woman: I really like ice cream."
+ },
+ {
+  "id": 19,
+  "start": 59.85,
+  "end": 63.38,
+  "text": "Man: Oh! What flavor do you like?"
+ },
+ {
+  "id": 20,
+  "start": 63.48,
+  "end": 68.63,
+  "text": "Woman: Hmm, I like strawberry. I like vanilla, too."
+ },
+ {
+  "id": 21,
+  "start": 69.14,
+  "end": 73.13,
+  "text": "Man: Nice! I like cake, and I like pie."
+ },
+ {
+  "id": 22,
+  "start": 74.37,
+  "end": 76.17,
+  "text": "Woman: What kind of pie?"
+ },
+ {
+  "id": 23,
+  "start": 76.83,
+  "end": 80.07,
+  "text": "Man: I really like apple pie with ice cream."
+ },
+ {
+  "id": 24,
+  "start": 80.9,
+  "end": 81.99,
+  "text": "Woman: Yum!"
+ },
+ {
+  "id": 25,
+  "start": 83.46,
+  "end": 85.15,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 26,
+  "start": 86.0,
+  "end": 87.89,
+  "text": "Man: What snacks do you like?"
+ },
+ {
+  "id": 27,
+  "start": 88.48,
+  "end": 90.38,
+  "text": "Woman: I like to eat fruit."
+ },
+ {
+  "id": 28,
+  "start": 91.18,
+  "end": 93.75,
+  "text": "Man: Oh yeah? And what fruits do you like?"
+ },
+ {
+  "id": 29,
+  "start": 94.48,
+  "end": 98.61,
+  "text": "Woman: I like apples and oranges. And you?"
+ },
+ {
+  "id": 30,
+  "start": 99.31,
+  "end": 102.22,
+  "text": "Man: I like strawberries and watermelon."
+ },
+ {
+  "id": 31,
+  "start": 103.14,
+  "end": 105.14,
+  "text": "Woman: Do you like to eat cookies?"
+ },
+ {
+  "id": 32,
+  "start": 106.0,
+  "end": 109.74,
+  "text": "Man: Of course! I love chocolate chip cookies."
+ },
+ {
+  "id": 33,
+  "start": 110.21,
+  "end": 111.57,
+  "text": "Woman: Me, too!"
+ }
+]

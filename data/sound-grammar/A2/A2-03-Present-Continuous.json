@@ -1,0 +1,248 @@
+[
+ {
+  "id": 1,
+  "start": 0.34,
+  "end": 1.93,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 2.93,
+  "end": 4.47,
+  "text": "Man: What are you doing?"
+ },
+ {
+  "id": 3,
+  "start": 4.99,
+  "end": 7.17,
+  "text": "Woman: I’m writing a report."
+ },
+ {
+  "id": 4,
+  "start": 7.36,
+  "end": 9.49,
+  "text": "Man: What are you writing about?"
+ },
+ {
+  "id": 5,
+  "start": 9.83,
+  "end": 12.41,
+  "text": "Woman: I’m writing about Bitcoin."
+ },
+ {
+  "id": 6,
+  "start": 12.53,
+  "end": 15.2,
+  "text": "Man: Oh, that sounds interesting."
+ },
+ {
+  "id": 7,
+  "start": 15.61,
+  "end": 19.12,
+  "text": "Woman: It is! I’m learning a lot."
+ },
+ {
+  "id": 8,
+  "start": 19.59,
+  "end": 22.17,
+  "text": "Man: Where are you getting your information?"
+ },
+ {
+  "id": 9,
+  "start": 22.51,
+  "end": 26.0,
+  "text": "Woman: Wikipedia and Chat GPT."
+ },
+ {
+  "id": 10,
+  "start": 26.48,
+  "end": 28.21,
+  "text": "Man: That works, I guess."
+ },
+ {
+  "id": 11,
+  "start": 29.04,
+  "end": 31.4,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 12,
+  "start": 31.59,
+  "end": 33.56,
+  "text": "Man: Where is mom?"
+ },
+ {
+  "id": 13,
+  "start": 33.86,
+  "end": 38.25,
+  "text": "Woman: She’s in the kitchen. She’s cooking dinner."
+ },
+ {
+  "id": 14,
+  "start": 38.49,
+  "end": 39.89,
+  "text": "Man: Where’s dad?"
+ },
+ {
+  "id": 15,
+  "start": 40.66,
+  "end": 46.83,
+  "text": "Woman: He’s outside. He’s sitting on the porch. He’s waiting for dinner."
+ },
+ {
+  "id": 16,
+  "start": 47.35,
+  "end": 49.5,
+  "text": "Man: What’s he doing outside?"
+ },
+ {
+  "id": 17,
+  "start": 50.06,
+  "end": 53.27,
+  "text": "Woman: He’s listening to news on the radio."
+ },
+ {
+  "id": 18,
+  "start": 53.64,
+  "end": 56.9,
+  "text": "Man: Why doesn’t he watch the news on TV?"
+ },
+ {
+  "id": 19,
+  "start": 57.29,
+  "end": 59.2,
+  "text": "Woman: The TV isn’t working."
+ },
+ {
+  "id": 20,
+  "start": 59.58,
+  "end": 66.0,
+  "text": "Man: Oh, that’s too bad. Well, it is a nice day to be outside."
+ },
+ {
+  "id": 21,
+  "start": 67.2,
+  "end": 69.0,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 22,
+  "start": 70.32,
+  "end": 73.85,
+  "text": "Man: Hey, what a surprise! What are you doing here?"
+ },
+ {
+  "id": 23,
+  "start": 74.11,
+  "end": 78.32,
+  "text": "Woman: I’m waiting for my friend. I’m meeting him for lunch."
+ },
+ {
+  "id": 24,
+  "start": 78.62,
+  "end": 81.17,
+  "text": "Man: Nice! Where are you going?"
+ },
+ {
+  "id": 25,
+  "start": 81.74,
+  "end": 85.04,
+  "text": "Woman: We’re going to the new Italian restaurant."
+ },
+ {
+  "id": 26,
+  "start": 85.17,
+  "end": 88.61,
+  "text": "Man: Oh, I hear it’s really good."
+ },
+ {
+  "id": 27,
+  "start": 88.96,
+  "end": 94.69,
+  "text": "Woman: What about you? What are you doing? Are you shopping?"
+ },
+ {
+  "id": 28,
+  "start": 95.06,
+  "end": 100.47,
+  "text": "Man: Yeah. I’m picking up a few things, and then I’m going to the gym."
+ },
+ {
+  "id": 29,
+  "start": 100.76,
+  "end": 103.06,
+  "text": "Woman: Well, have a good workout."
+ },
+ {
+  "id": 30,
+  "start": 103.18,
+  "end": 105.45,
+  "text": "Man: Thanks! Enjoy your meal."
+ },
+ {
+  "id": 31,
+  "start": 105.71,
+  "end": 106.58,
+  "text": "Woman: Thanks!"
+ },
+ {
+  "id": 32,
+  "start": 108.73,
+  "end": 110.32,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 33,
+  "start": 111.38,
+  "end": 113.42,
+  "text": "Man: What’s happening outside?"
+ },
+ {
+  "id": 34,
+  "start": 113.98,
+  "end": 117.57,
+  "text": "Woman: I think a car hit a man on a bike."
+ },
+ {
+  "id": 35,
+  "start": 117.97,
+  "end": 120.36,
+  "text": "Man: Oh no! Is he hurt?"
+ },
+ {
+  "id": 36,
+  "start": 120.95,
+  "end": 125.0,
+  "text": "Woman: I’m not sure. He’s lying on the ground."
+ },
+ {
+  "id": 37,
+  "start": 125.26,
+  "end": 128.32,
+  "text": "Man: Oh no. Is it serious?"
+ },
+ {
+  "id": 38,
+  "start": 129.21,
+  "end": 131.94,
+  "text": "Woman: No, he is getting up now."
+ },
+ {
+  "id": 39,
+  "start": 132.18,
+  "end": 134.34,
+  "text": "Man: Well, that’s good."
+ },
+ {
+  "id": 40,
+  "start": 134.84,
+  "end": 139.0,
+  "text": "Woman: He looks OK. He’s smiling and talking now."
+ },
+ {
+  "id": 41,
+  "start": 139.26,
+  "end": 142.72,
+  "text": "Man: Oh, good! That’s good news."
+ }
+]

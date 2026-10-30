@@ -1,0 +1,188 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1022"]=[
+ {
+  "id": 1,
+  "start": 1.27,
+  "end": 4.93,
+  "text": "Breakfast is very rushed at our house."
+ },
+ {
+  "id": 2,
+  "start": 4.99,
+  "end": 9.35,
+  "text": "My brothers and sisters and I have toast or cereal."
+ },
+ {
+  "id": 3,
+  "start": 10.22,
+  "end": 11.94,
+  "text": "We also have orange juice."
+ },
+ {
+  "id": 4,
+  "start": 12.4,
+  "end": 16.77,
+  "text": "On weekends my mother makes bacon and eggs for us."
+ },
+ {
+  "id": 5,
+  "start": 17.18,
+  "end": 20.59,
+  "text": "My father just has a cup of coffee for breakfast."
+ },
+ {
+  "id": 6,
+  "start": 21.24,
+  "end": 24.11,
+  "text": "My mother packs a lunch for all of us."
+ },
+ {
+  "id": 7,
+  "start": 24.92,
+  "end": 30.13,
+  "text": "We usually have a sandwich, a piece of fruit and a drink of juice or milk."
+ },
+ {
+  "id": 8,
+  "start": 30.87,
+  "end": 37.01,
+  "text": "My favorite sandwiches are egg salad, tuna, roast beef and ham."
+ },
+ {
+  "id": 9,
+  "start": 37.41,
+  "end": 41.12,
+  "text": "My brother always wants peanut butter and jam sandwiches."
+ },
+ {
+  "id": 10,
+  "start": 41.49,
+  "end": 44.1,
+  "text": "My mother sometimes packs a treat for us."
+ },
+ {
+  "id": 11,
+  "start": 44.19,
+  "end": 46.83,
+  "text": "Today we had cookies with our lunch."
+ },
+ {
+  "id": 12,
+  "start": 47.36,
+  "end": 53.47,
+  "text": "At supper time, the family sits around the table and talks about what they did all day."
+ },
+ {
+  "id": 13,
+  "start": 54.08,
+  "end": 56.17,
+  "text": "My mother makes good suppers."
+ },
+ {
+  "id": 14,
+  "start": 56.56,
+  "end": 58.27,
+  "text": "We sometimes have spaghetti."
+ },
+ {
+  "id": 15,
+  "start": 58.71,
+  "end": 63.32,
+  "text": "My mother makes a roast of beef with potatoes and vegetables quite often."
+ },
+ {
+  "id": 16,
+  "start": 63.57,
+  "end": 66.48,
+  "text": "She makes many different dishes out of chicken."
+ },
+ {
+  "id": 17,
+  "start": 66.86,
+  "end": 69.16,
+  "text": "She makes soups or stews."
+ },
+ {
+  "id": 18,
+  "start": 69.37,
+  "end": 71.48,
+  "text": "She also makes casseroles."
+ },
+ {
+  "id": 19,
+  "start": 72.35,
+  "end": 75.91,
+  "text": "My brothers and sisters and I have milk with our dinner."
+ },
+ {
+  "id": 20,
+  "start": 76.3,
+  "end": 79.65,
+  "text": "My parents sometimes have wine with their dinner."
+ },
+ {
+  "id": 21,
+  "start": 80.8,
+  "end": 83.76,
+  "text": "Sometimes we have salad before our dinner."
+ },
+ {
+  "id": 22,
+  "start": 84.46,
+  "end": 86.18,
+  "text": "I set the table for my mother."
+ },
+ {
+  "id": 23,
+  "start": 86.65,
+  "end": 89.46,
+  "text": "I put out the forks, the knives and spoons."
+ },
+ {
+  "id": 24,
+  "start": 89.8,
+  "end": 94.51,
+  "text": "I also put out glasses and fill them full of milk or water."
+ },
+ {
+  "id": 25,
+  "start": 95.43,
+  "end": 99.56,
+  "text": "For dessert, we sometimes have ice cream, cake or pie."
+ },
+ {
+  "id": 26,
+  "start": 100.67,
+  "end": 105.1,
+  "text": "My mother said that it is better to have fruit because it is better for you."
+ },
+ {
+  "id": 27,
+  "start": 106.09,
+  "end": 108.3,
+  "text": "Tonight I ate a peach for dessert."
+ },
+ {
+  "id": 28,
+  "start": 109.42,
+  "end": 114.52,
+  "text": "My favorite fruits are apples, peaches, plums and bananas."
+ },
+ {
+  "id": 29,
+  "start": 115.0,
+  "end": 121.07,
+  "text": "After supper, my mother always has a cup of tea with sugar and cream in it."
+ },
+ {
+  "id": 30,
+  "start": 123.04,
+  "end": 126.85,
+  "text": "After dinner, I help my mother with the dishes."
+ },
+ {
+  "id": 31,
+  "start": 126.74,
+  "end": 130.05,
+  "text": "Usually she washes the dishes, and I will dry them."
+ }
+];

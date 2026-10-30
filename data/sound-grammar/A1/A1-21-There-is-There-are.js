@@ -1,0 +1,176 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-21-There-is-There-are"]=[
+ {
+  "id": 1,
+  "start": 1.11,
+  "end": 4.54,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 4.53,
+  "end": 6.29,
+  "text": "Man: Excuse me, is there a gym in the hotel?"
+ },
+ {
+  "id": 3,
+  "start": 6.4,
+  "end": 9.07,
+  "text": "Woman: Yes, there’s one on the first floor."
+ },
+ {
+  "id": 4,
+  "start": 9.1,
+  "end": 11.53,
+  "text": "Man: Great! And is there a pool?"
+ },
+ {
+  "id": 5,
+  "start": 11.61,
+  "end": 13.92,
+  "text": "Woman: Yes, there’s a pool on the roof."
+ },
+ {
+  "id": 6,
+  "start": 14.22,
+  "end": 16.33,
+  "text": "Man: Is there a changing room up there?"
+ },
+ {
+  "id": 7,
+  "start": 16.62,
+  "end": 19.58,
+  "text": "Woman: No, there isn’t, but there’s a restroom."
+ },
+ {
+  "id": 8,
+  "start": 19.73,
+  "end": 21.3,
+  "text": "Man: OK, thanks."
+ },
+ {
+  "id": 9,
+  "start": 22.69,
+  "end": 24.14,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 10,
+  "start": 24.86,
+  "end": 27.48,
+  "text": "Man: So, what is there to do in your town?"
+ },
+ {
+  "id": 11,
+  "start": 27.9,
+  "end": 32.95,
+  "text": "Woman: Well, there is a mall, a cinema, and there are a few parks."
+ },
+ {
+  "id": 12,
+  "start": 33.22,
+  "end": 38.83,
+  "text": "Man: Oh, parks, nice. I love nature. Which one do you recommend?"
+ },
+ {
+  "id": 13,
+  "start": 39.2,
+  "end": 44.11,
+  "text": "Woman: I think Central City park is the best. There’s a huge garden there."
+ },
+ {
+  "id": 14,
+  "start": 44.48,
+  "end": 46.16,
+  "text": "Man: Is there parking nearby?"
+ },
+ {
+  "id": 15,
+  "start": 46.35,
+  "end": 49.68,
+  "text": "Woman: Yeah, there’s a huge parking lot across the street."
+ },
+ {
+  "id": 16,
+  "start": 51.24,
+  "end": 52.73,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 17,
+  "start": 53.67,
+  "end": 54.89,
+  "text": "Man: What is there to eat?"
+ },
+ {
+  "id": 18,
+  "start": 55.24,
+  "end": 58.26,
+  "text": "Woman: Ah, there is some pasta in the fridge."
+ },
+ {
+  "id": 19,
+  "start": 58.4,
+  "end": 62.69,
+  "text": "Man: Mm, I just had pasta for lunch. What else is there?"
+ },
+ {
+  "id": 20,
+  "start": 63.0,
+  "end": 66.12,
+  "text": "Woman: Well, there is some stuff to make sandwiches."
+ },
+ {
+  "id": 21,
+  "start": 66.25,
+  "end": 68.32,
+  "text": "Man: That will do. Where is the bread?"
+ },
+ {
+  "id": 22,
+  "start": 68.55,
+  "end": 70.61,
+  "text": "Woman: There’s some in the cupboard I think."
+ },
+ {
+  "id": 23,
+  "start": 72.18,
+  "end": 73.78,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 24,
+  "start": 74.24,
+  "end": 76.49,
+  "text": "Man: Are there any exchange students at your school?"
+ },
+ {
+  "id": 25,
+  "start": 76.75,
+  "end": 78.55,
+  "text": "Woman: Yes, there are a few."
+ },
+ {
+  "id": 26,
+  "start": 78.77,
+  "end": 81.17,
+  "text": "Man: Really. What countries are they from?"
+ },
+ {
+  "id": 27,
+  "start": 81.49,
+  "end": 88.31,
+  "text": "Woman: Ah, let’s see. There is one student from Italy, and there are a few students from France."
+ },
+ {
+  "id": 28,
+  "start": 88.54,
+  "end": 92.02,
+  "text": "Man: Oh, cool. Is there anyone from Paris?"
+ },
+ {
+  "id": 29,
+  "start": 92.21,
+  "end": 94.54,
+  "text": "Woman: No, they are all from Leon!"
+ }
+];

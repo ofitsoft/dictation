@@ -1,0 +1,128 @@
+[
+ {
+  "id": 1,
+  "start": 3.4,
+  "end": 5.69,
+  "text": "Today is November 26th."
+ },
+ {
+  "id": 2,
+  "start": 6.1,
+  "end": 8.27,
+  "text": "It snowed all day today."
+ },
+ {
+  "id": 3,
+  "start": 8.77,
+  "end": 10.84,
+  "text": "The snow is beautiful."
+ },
+ {
+  "id": 4,
+  "start": 11.55,
+  "end": 13.74,
+  "text": "The snow finally stopped."
+ },
+ {
+  "id": 5,
+  "start": 14.82,
+  "end": 16.98,
+  "text": "My sister and I are excited."
+ },
+ {
+  "id": 6,
+  "start": 17.64,
+  "end": 19.86,
+  "text": "My Mom doesn't like the snow."
+ },
+ {
+  "id": 7,
+  "start": 20.55,
+  "end": 23.06,
+  "text": "My Mom has to shovel the drive way."
+ },
+ {
+  "id": 8,
+  "start": 23.75,
+  "end": 25.96,
+  "text": "My sister and I get to play."
+ },
+ {
+  "id": 9,
+  "start": 26.81,
+  "end": 29.18,
+  "text": "I put on my hat and mittens."
+ },
+ {
+  "id": 10,
+  "start": 29.64,
+  "end": 31.73,
+  "text": "My Mom puts on my scarf."
+ },
+ {
+  "id": 11,
+  "start": 32.32,
+  "end": 34.52,
+  "text": "My Mom zippers my jacket."
+ },
+ {
+  "id": 12,
+  "start": 35.05,
+  "end": 38.02,
+  "text": "My sister puts on her hat and mittens."
+ },
+ {
+  "id": 13,
+  "start": 38.63,
+  "end": 40.89,
+  "text": "My Mom puts on her scarf."
+ },
+ {
+  "id": 14,
+  "start": 41.69,
+  "end": 43.9,
+  "text": "My Mom zippers her jacket."
+ },
+ {
+  "id": 15,
+  "start": 44.55,
+  "end": 47.01,
+  "text": "My sister and I go outside."
+ },
+ {
+  "id": 16,
+  "start": 47.64,
+  "end": 49.84,
+  "text": "We begin to make a snow man."
+ },
+ {
+  "id": 17,
+  "start": 50.46,
+  "end": 52.95,
+  "text": "My Mom starts to shovel the snow."
+ },
+ {
+  "id": 18,
+  "start": 53.55,
+  "end": 56.23,
+  "text": "My sister and I make snow angels."
+ },
+ {
+  "id": 19,
+  "start": 56.66,
+  "end": 59.35,
+  "text": "My sister and I throw snowballs."
+ },
+ {
+  "id": 20,
+  "start": 59.76,
+  "end": 61.74,
+  "text": "It starts to snow again."
+ },
+ {
+  "id": 21,
+  "start": 62.15,
+  "end": 64.84,
+  "text": "We go inside for hot chocolate."
+ }
+]

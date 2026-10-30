@@ -1,0 +1,182 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1105"]=[
+ {
+  "id": 1,
+  "start": 3.28,
+  "end": 7.14,
+  "text": "I have been thinking about what I'd like to be when I grow up."
+ },
+ {
+  "id": 2,
+  "start": 7.44,
+  "end": 9.67,
+  "text": "There are so many choices."
+ },
+ {
+  "id": 3,
+  "start": 10.16,
+  "end": 12.93,
+  "text": "I could be a principal like my father."
+ },
+ {
+  "id": 4,
+  "start": 13.56,
+  "end": 14.8,
+  "text": "I could be a teacher."
+ },
+ {
+  "id": 5,
+  "start": 15.43,
+  "end": 16.88,
+  "text": "I like animals."
+ },
+ {
+  "id": 6,
+  "start": 17.39,
+  "end": 19.56,
+  "text": "Maybe I should be a veterinarian."
+ },
+ {
+  "id": 7,
+  "start": 20.46,
+  "end": 23.47,
+  "text": "My cat just went to the veterinarian to get her shots."
+ },
+ {
+  "id": 8,
+  "start": 24.01,
+  "end": 26.91,
+  "text": "I don't think my cat was too happy to be there."
+ },
+ {
+  "id": 9,
+  "start": 28.31,
+  "end": 30.81,
+  "text": "I could be a farmer and grow vegetables."
+ },
+ {
+  "id": 10,
+  "start": 31.28,
+  "end": 34.06,
+  "text": "Maybe I could be a doctor and cure people."
+ },
+ {
+  "id": 11,
+  "start": 34.89,
+  "end": 39.43,
+  "text": "If I was good enough, I could be a famous sports person or a singer."
+ },
+ {
+  "id": 12,
+  "start": 40.38,
+  "end": 43.65,
+  "text": "I could be an actor on television or in the movies."
+ },
+ {
+  "id": 13,
+  "start": 44.87,
+  "end": 48.11,
+  "text": "Maybe I would like to be a policeman or a fireman."
+ },
+ {
+  "id": 14,
+  "start": 48.57,
+  "end": 49.86,
+  "text": "I could rescue people."
+ },
+ {
+  "id": 15,
+  "start": 50.22,
+  "end": 51.94,
+  "text": "I can play the piano."
+ },
+ {
+  "id": 16,
+  "start": 52.36,
+  "end": 54.59,
+  "text": "Maybe I should be a musician."
+ },
+ {
+  "id": 17,
+  "start": 55.69,
+  "end": 56.98,
+  "text": "I could be a lawyer."
+ },
+ {
+  "id": 18,
+  "start": 57.23,
+  "end": 60.52,
+  "text": "I sometimes watch shows about lawyers defending people."
+ },
+ {
+  "id": 19,
+  "start": 60.98,
+  "end": 63.38,
+  "text": "Lawyers have to be able to speak well."
+ },
+ {
+  "id": 20,
+  "start": 63.99,
+  "end": 66.81,
+  "text": "I could be a carpenter and work with wood, or I could be a welder and work with metal."
+ },
+ {
+  "id": 21,
+  "start": 67.17,
+  "end": 69.8,
+  "text": "There are just so many jobs."
+ },
+ {
+  "id": 22,
+  "start": 70.41,
+  "end": 72.78,
+  "text": "I could work in a restaurant."
+ },
+ {
+  "id": 23,
+  "start": 73.68,
+  "end": 75.41,
+  "text": "I could cook food, or I could serve food."
+ },
+ {
+  "id": 24,
+  "start": 75.7,
+  "end": 79.16,
+  "text": "I could be an airline pilot or the captain of a ship."
+ },
+ {
+  "id": 25,
+  "start": 79.57,
+  "end": 82.74,
+  "text": "I could be a repairman or an artist."
+ },
+ {
+  "id": 26,
+  "start": 83.41,
+  "end": 85.99,
+  "text": "The world is full of jobs."
+ },
+ {
+  "id": 27,
+  "start": 86.4,
+  "end": 88.37,
+  "text": "Some of the jobs require a lot of education."
+ },
+ {
+  "id": 28,
+  "start": 88.67,
+  "end": 91.92,
+  "text": "Some require a little bit of training, and some require a lot of training."
+ },
+ {
+  "id": 29,
+  "start": 92.69,
+  "end": 97.16,
+  "text": "It's all up to me."
+ },
+ {
+  "id": 30,
+  "start": 97.56,
+  "end": 102.56,
+  "text": "I can be whatever I want to be."
+ }
+];

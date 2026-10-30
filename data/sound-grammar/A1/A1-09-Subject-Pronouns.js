@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-09-Subject-Pronouns"]=[
+ {
+  "id": 1,
+  "start": 1.24,
+  "end": 4.65,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 5.35,
+  "end": 6.71,
+  "text": "Man: What does your mom do?"
+ },
+ {
+  "id": 3,
+  "start": 8.02,
+  "end": 10.33,
+  "text": "Woman: She is a chef at a restaurant."
+ },
+ {
+  "id": 4,
+  "start": 11.15,
+  "end": 14.37,
+  "text": "Man: Cool! That means she is a good cook."
+ },
+ {
+  "id": 5,
+  "start": 15.3,
+  "end": 18.23,
+  "text": "Woman: Yes, she is a great cook."
+ },
+ {
+  "id": 6,
+  "start": 19.08,
+  "end": 20.22,
+  "text": "Man: Where does she work?"
+ },
+ {
+  "id": 7,
+  "start": 21.41,
+  "end": 24.01,
+  "text": "Woman: She works at an Italian restaurant."
+ },
+ {
+  "id": 8,
+  "start": 25.76,
+  "end": 27.37,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 28.39,
+  "end": 30.16,
+  "text": "Man: What is your dad like?"
+ },
+ {
+  "id": 10,
+  "start": 31.12,
+  "end": 34.38,
+  "text": "Woman: He is funny. He's very friendly."
+ },
+ {
+  "id": 11,
+  "start": 35.26,
+  "end": 36.51,
+  "text": "Man: What does he look like?"
+ },
+ {
+  "id": 12,
+  "start": 37.74,
+  "end": 39.98,
+  "text": "Woman: He is tall and big."
+ },
+ {
+  "id": 13,
+  "start": 40.76,
+  "end": 41.9,
+  "text": "Man: Oh! How old is he?"
+ },
+ {
+  "id": 14,
+  "start": 43.15,
+  "end": 44.88,
+  "text": "Woman: He is 47."
+ },
+ {
+  "id": 15,
+  "start": 46.95,
+  "end": 48.52,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 16,
+  "start": 49.67,
+  "end": 50.85,
+  "text": "Man: Who are your friends?"
+ },
+ {
+  "id": 17,
+  "start": 52.17,
+  "end": 55.06,
+  "text": "Woman: Betty, Jason and Laura."
+ },
+ {
+  "id": 18,
+  "start": 56.06,
+  "end": 57.39,
+  "text": "Man: Are they students?"
+ },
+ {
+  "id": 19,
+  "start": 58.6,
+  "end": 61.91,
+  "text": "Woman: Yes, they are. They all study business."
+ },
+ {
+  "id": 20,
+  "start": 62.8,
+  "end": 64.44,
+  "text": "Man: Are they from around here?"
+ },
+ {
+  "id": 21,
+  "start": 65.86,
+  "end": 68.89,
+  "text": "Woman: No, they are all from different cities."
+ },
+ {
+  "id": 22,
+  "start": 71.47,
+  "end": 73.03,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 23,
+  "start": 74.21,
+  "end": 75.7,
+  "text": "Man: Are we there yet?"
+ },
+ {
+  "id": 24,
+  "start": 76.87,
+  "end": 79.94,
+  "text": "Woman: No, but we are close, I think."
+ },
+ {
+  "id": 25,
+  "start": 80.61,
+  "end": 82.0,
+  "text": "Man: How close are we?"
+ },
+ {
+  "id": 26,
+  "start": 83.06,
+  "end": 86.19,
+  "text": "Woman: We are ten, maybe 20 minutes away."
+ },
+ {
+  "id": 27,
+  "start": 86.79,
+  "end": 90.35,
+  "text": "Man: What? Twenty minutes! Are we lost?"
+ },
+ {
+  "id": 28,
+  "start": 90.89,
+  "end": 94.59,
+  "text": "Woman: No, we are not lost. Trust me!"
+ }
+];

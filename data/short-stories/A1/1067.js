@@ -1,0 +1,176 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1067"]=[
+ {
+  "id": 1,
+  "start": 3.62,
+  "end": 6.37,
+  "text": "Yesterday I went to a birthday party."
+ },
+ {
+  "id": 2,
+  "start": 6.77,
+  "end": 9.67,
+  "text": "My friend Jane had her tenth birthday."
+ },
+ {
+  "id": 3,
+  "start": 10.17,
+  "end": 13.72,
+  "text": "Her house was decorated with balloons and streamers."
+ },
+ {
+  "id": 4,
+  "start": 14.32,
+  "end": 16.95,
+  "text": "Her mother had baked a big birthday cake."
+ },
+ {
+  "id": 5,
+  "start": 17.45,
+  "end": 21.23,
+  "text": "The cake had \"Happy tenth birthday Jane\" written on it."
+ },
+ {
+  "id": 6,
+  "start": 21.64,
+  "end": 23.74,
+  "text": "There were ten candles on the cake."
+ },
+ {
+  "id": 7,
+  "start": 24.3,
+  "end": 26.97,
+  "text": "Jane blew out the candles and made a wish."
+ },
+ {
+  "id": 8,
+  "start": 27.54,
+  "end": 29.25,
+  "text": "I wonder what she wished for."
+ },
+ {
+  "id": 9,
+  "start": 29.8,
+  "end": 33.64,
+  "text": "Your wish won't come true if you tell anyone what it was."
+ },
+ {
+  "id": 10,
+  "start": 34.11,
+  "end": 36.38,
+  "text": "We sang \"Happy birthday to you.\""
+ },
+ {
+  "id": 11,
+  "start": 37.06,
+  "end": 39.34,
+  "text": "At the party we played some games."
+ },
+ {
+  "id": 12,
+  "start": 39.83,
+  "end": 43.01,
+  "text": "I won one of games so I got a prize."
+ },
+ {
+  "id": 13,
+  "start": 43.38,
+  "end": 46.22,
+  "text": "We also swam in Jane's swimming pool."
+ },
+ {
+  "id": 14,
+  "start": 46.78,
+  "end": 48.36,
+  "text": "Jane opened her gifts."
+ },
+ {
+  "id": 15,
+  "start": 48.59,
+  "end": 51.31,
+  "text": "Her gifts were wrapped in bright paper and bows."
+ },
+ {
+  "id": 16,
+  "start": 51.59,
+  "end": 53.61,
+  "text": "She got lots of nice gifts."
+ },
+ {
+  "id": 17,
+  "start": 53.95,
+  "end": 58.58,
+  "text": "She got some compact discs, some clothes and some computer games."
+ },
+ {
+  "id": 18,
+  "start": 58.88,
+  "end": 60.53,
+  "text": "Jane thanked everyone."
+ },
+ {
+  "id": 19,
+  "start": 60.96,
+  "end": 63.42,
+  "text": "We ate a lot of food at Jane's party."
+ },
+ {
+  "id": 20,
+  "start": 63.72,
+  "end": 65.06,
+  "text": "We had hot dogs."
+ },
+ {
+  "id": 21,
+  "start": 65.26,
+  "end": 68.09,
+  "text": "I put mustard and ketchup on my hot dog."
+ },
+ {
+  "id": 22,
+  "start": 68.32,
+  "end": 70.36,
+  "text": "Then we ate cake and ice cream."
+ },
+ {
+  "id": 23,
+  "start": 71.02,
+  "end": 72.35,
+  "text": "We had pop to drink."
+ },
+ {
+  "id": 24,
+  "start": 72.78,
+  "end": 75.1,
+  "text": "I think I had too much cake and ice cream."
+ },
+ {
+  "id": 25,
+  "start": 75.29,
+  "end": 78.28,
+  "text": "I was very full by the time the party was over."
+ },
+ {
+  "id": 26,
+  "start": 78.54,
+  "end": 81.97,
+  "text": "We thanked Jane and her mother before we all went home."
+ },
+ {
+  "id": 27,
+  "start": 82.16,
+  "end": 83.91,
+  "text": "It was a very good party."
+ },
+ {
+  "id": 28,
+  "start": 84.18,
+  "end": 85.69,
+  "text": "Everyone had a good time."
+ },
+ {
+  "id": 29,
+  "start": 86.07,
+  "end": 88.71,
+  "text": "I hope Jane had a happy tenth birthday."
+ }
+];

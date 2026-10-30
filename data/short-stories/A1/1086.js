@@ -1,0 +1,212 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1086"]=[
+ {
+  "id": 1,
+  "start": 14.6,
+  "end": 15.62,
+  "text": "People move from place to place."
+ },
+ {
+  "id": 2,
+  "start": 21.94,
+  "end": 24.08,
+  "text": "There are lots of ways that you can move around from one place to another."
+ },
+ {
+  "id": 3,
+  "start": 24.2,
+  "end": 26.35,
+  "text": "Sometimes you can just move your feet and walk."
+ },
+ {
+  "id": 4,
+  "start": 34.34,
+  "end": 35.45,
+  "text": "Walking is good for you."
+ },
+ {
+  "id": 5,
+  "start": 35.79,
+  "end": 37.53,
+  "text": "Some places are too far to walk to."
+ },
+ {
+  "id": 6,
+  "start": 38.18,
+  "end": 40.43,
+  "text": "You might have to ride a bicycle or ride on a skateboard."
+ },
+ {
+  "id": 7,
+  "start": 41.05,
+  "end": 43.46,
+  "text": "Some places are too far away to ride your bicycle to."
+ },
+ {
+  "id": 8,
+  "start": 43.68,
+  "end": 45.74,
+  "text": "You might have to drive in a car, or a van, or even a truck."
+ },
+ {
+  "id": 9,
+  "start": 45.63,
+  "end": 47.04,
+  "text": "My father has a car."
+ },
+ {
+  "id": 10,
+  "start": 47.29,
+  "end": 47.77,
+  "text": "My uncle has a van."
+ },
+ {
+  "id": 11,
+  "start": 53.87,
+  "end": 55.47,
+  "text": "I have never been in a big truck."
+ },
+ {
+  "id": 12,
+  "start": 55.33,
+  "end": 58.8,
+  "text": "Trucks are usually used to carry big loads from one city to another."
+ },
+ {
+  "id": 13,
+  "start": 64.8,
+  "end": 66.61,
+  "text": "I would like to be a truck driver."
+ },
+ {
+  "id": 14,
+  "start": 66.58,
+  "end": 68.49,
+  "text": "I would travel all over and sit high up in the cab."
+ },
+ {
+  "id": 15,
+  "start": 70.58,
+  "end": 71.73,
+  "text": "I have been in a taxi cab."
+ },
+ {
+  "id": 16,
+  "start": 72.52,
+  "end": 74.83,
+  "text": "Once, my mother and I took a taxi to the hospital."
+ },
+ {
+  "id": 17,
+  "start": 74.92,
+  "end": 76.86,
+  "text": "There was a special meter in the taxi."
+ },
+ {
+  "id": 18,
+  "start": 81.12,
+  "end": 86.29,
+  "text": "When we finished our taxi ride, the driver looked at the meter to find out how much money we owed him."
+ },
+ {
+  "id": 19,
+  "start": 86.19,
+  "end": 87.37,
+  "text": "I once rode a horse."
+ },
+ {
+  "id": 20,
+  "start": 87.69,
+  "end": 89.9,
+  "text": "I sat in the saddle and held on tight to the reins."
+ },
+ {
+  "id": 21,
+  "start": 90.2,
+  "end": 91.9,
+  "text": "The horse ran very fast."
+ },
+ {
+  "id": 22,
+  "start": 92.17,
+  "end": 95.4,
+  "text": "It was a bumpy ride, and I was afraid that I would fall off the horse."
+ },
+ {
+  "id": 23,
+  "start": 101.01,
+  "end": 103.75,
+  "text": "Not too many people around here use horses for transportation."
+ },
+ {
+  "id": 24,
+  "start": 103.83,
+  "end": 105.36,
+  "text": "They used to use horses for transportation in the old days."
+ },
+ {
+  "id": 25,
+  "start": 106.01,
+  "end": 109.05,
+  "text": "If you want to travel very far away, you have to go on a train, a plane, or a boat."
+ },
+ {
+  "id": 26,
+  "start": 109.22,
+  "end": 111.4,
+  "text": "If you are in a hurry, it is best to take a plane."
+ },
+ {
+  "id": 27,
+  "start": 111.59,
+  "end": 112.62,
+  "text": "Planes fly through the air very fast."
+ },
+ {
+  "id": 28,
+  "start": 112.73,
+  "end": 113.71,
+  "text": "Trains go along the tracks."
+ },
+ {
+  "id": 29,
+  "start": 114.01,
+  "end": 115.91,
+  "text": "Sometimes I can hear the train whistle from my house."
+ },
+ {
+  "id": 30,
+  "start": 118.72,
+  "end": 120.6,
+  "text": "Boats take a long time to cross the ocean."
+ },
+ {
+  "id": 31,
+  "start": 120.46,
+  "end": 121.81,
+  "text": "Great big boats that cross the oceans are called ships."
+ },
+ {
+  "id": 32,
+  "start": 138.54,
+  "end": 143.02,
+  "text": "If you like to take it easy and look out at the water, then ships are a good way to travel."
+ },
+ {
+  "id": 33,
+  "start": 143.19,
+  "end": 145.77,
+  "text": "They say that the world is a lot smaller now because of transportation."
+ },
+ {
+  "id": 34,
+  "start": 157.62,
+  "end": 160.27,
+  "text": "People can travel to all parts of the world quickly and easily."
+ },
+ {
+  "id": 35,
+  "start": 160.52,
+  "end": 164.89,
+  "text": "The world is not really smaller, but it has become easy to get to faraway places."
+ }
+];

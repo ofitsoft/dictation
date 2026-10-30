@@ -1,0 +1,278 @@
+[
+ {
+  "id": 1,
+  "start": 1.0,
+  "end": 2.43,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.15,
+  "end": 4.33,
+  "text": "Man: What do you do?"
+ },
+ {
+  "id": 3,
+  "start": 4.85,
+  "end": 7.03,
+  "text": "Woman: I work at a tech company."
+ },
+ {
+  "id": 4,
+  "start": 7.12,
+  "end": 9.65,
+  "text": "Man: Oh, what do you do there?"
+ },
+ {
+  "id": 5,
+  "start": 10.34,
+  "end": 12.25,
+  "text": "Woman: I design software."
+ },
+ {
+  "id": 6,
+  "start": 12.64,
+  "end": 14.53,
+  "text": "Man: Do you like your job?"
+ },
+ {
+  "id": 7,
+  "start": 15.04,
+  "end": 17.01,
+  "text": "Woman: Yeah, I enjoy it."
+ },
+ {
+  "id": 8,
+  "start": 17.35,
+  "end": 19.29,
+  "text": "Man: Where is your office?"
+ },
+ {
+  "id": 9,
+  "start": 19.6,
+  "end": 22.69,
+  "text": "Woman: I work at the new office downtown."
+ },
+ {
+  "id": 10,
+  "start": 22.91,
+  "end": 26.04,
+  "text": "Man: Nice. How do you get to work?"
+ },
+ {
+  "id": 11,
+  "start": 26.29,
+  "end": 30.2,
+  "text": "Woman: I take the bus. I don’t have a car."
+ },
+ {
+  "id": 12,
+  "start": 30.3,
+  "end": 31.62,
+  "text": "Man: Same here!"
+ },
+ {
+  "id": 13,
+  "start": 33.91,
+  "end": 35.35,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 14,
+  "start": 36.03,
+  "end": 38.35,
+  "text": "Man: Do you belong to a gym?"
+ },
+ {
+  "id": 15,
+  "start": 39.18,
+  "end": 42.51,
+  "text": "Woman: Yes, I go to the gym near my house."
+ },
+ {
+  "id": 16,
+  "start": 42.89,
+  "end": 46.93,
+  "text": "Man: What do you do at the gym? How do you exercise?"
+ },
+ {
+  "id": 17,
+  "start": 47.44,
+  "end": 55.5,
+  "text": "Woman: On Monday and Tuesday I do yoga. The gym has a pool, so I sometimes swim."
+ },
+ {
+  "id": 18,
+  "start": 55.86,
+  "end": 63.27,
+  "text": "Man: Oh, I do yoga too! I do it at home though. I watch videos online."
+ },
+ {
+  "id": 19,
+  "start": 63.51,
+  "end": 66.68,
+  "text": "Woman: Oh, you don’t belong to a gym?"
+ },
+ {
+  "id": 20,
+  "start": 67.16,
+  "end": 76.27,
+  "text": "Man: No, I don’t like gyms. For exercise, I jog in the park, or play soccer with friends."
+ },
+ {
+  "id": 21,
+  "start": 76.74,
+  "end": 81.66,
+  "text": "Woman: Oh, that works. I love running in the park."
+ },
+ {
+  "id": 22,
+  "start": 82.09,
+  "end": 85.55,
+  "text": "Man: Cool! Let’s jog together sometime."
+ },
+ {
+  "id": 23,
+  "start": 86.17,
+  "end": 88.49,
+  "text": "Woman: I’d like that!"
+ },
+ {
+  "id": 24,
+  "start": 89.69,
+  "end": 92.19,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 25,
+  "start": 93.29,
+  "end": 94.99,
+  "text": "Man: What do your parents do?"
+ },
+ {
+  "id": 26,
+  "start": 95.29,
+  "end": 97.22,
+  "text": "Woman: They both work in sales."
+ },
+ {
+  "id": 27,
+  "start": 97.71,
+  "end": 100.27,
+  "text": "Man: Oh, what do they sell?"
+ },
+ {
+  "id": 28,
+  "start": 100.59,
+  "end": 104.98,
+  "text": "Woman: They sell houses. They have a real estate company."
+ },
+ {
+  "id": 29,
+  "start": 105.35,
+  "end": 107.95,
+  "text": "Man: That’s a difficult job."
+ },
+ {
+  "id": 30,
+  "start": 108.34,
+  "end": 115.28,
+  "text": "Woman: It is. They work long hours, but they like it. What about your parents?"
+ },
+ {
+  "id": 31,
+  "start": 115.51,
+  "end": 119.74,
+  "text": "Man: They’re professors. They teach at the university."
+ },
+ {
+  "id": 32,
+  "start": 120.02,
+  "end": 122.25,
+  "text": "Woman: Oh, what do they teach?"
+ },
+ {
+  "id": 33,
+  "start": 122.53,
+  "end": 125.05,
+  "text": "Man: They both teach business."
+ },
+ {
+  "id": 34,
+  "start": 126.83,
+  "end": 128.3,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 35,
+  "start": 128.82,
+  "end": 130.63,
+  "text": "Man: Where do you live?"
+ },
+ {
+  "id": 36,
+  "start": 130.86,
+  "end": 132.81,
+  "text": "Woman: I live near the river."
+ },
+ {
+  "id": 37,
+  "start": 132.98,
+  "end": 139.83,
+  "text": "Man: Oh, I love that area. Do you live in a house or an apartment?"
+ },
+ {
+  "id": 38,
+  "start": 140.13,
+  "end": 141.79,
+  "text": "Woman: I live in a house."
+ },
+ {
+  "id": 39,
+  "start": 142.08,
+  "end": 147.04,
+  "text": "Man: Nice. Do you live alone, or with family?"
+ },
+ {
+  "id": 40,
+  "start": 147.37,
+  "end": 152.81,
+  "text": "Woman: I live with my parents. I don’t pay rent, so I save money."
+ },
+ {
+  "id": 41,
+  "start": 153.1,
+  "end": 155.06,
+  "text": "Man: Do you like it there?"
+ },
+ {
+  "id": 42,
+  "start": 155.89,
+  "end": 161.96,
+  "text": "Woman: Yes, I do, but my house is old. What about you?"
+ },
+ {
+  "id": 43,
+  "start": 162.36,
+  "end": 167.48,
+  "text": "Man: I live in a small apartment downtown near the station."
+ },
+ {
+  "id": 44,
+  "start": 167.83,
+  "end": 169.39,
+  "text": "Woman: Do you live alone?"
+ },
+ {
+  "id": 45,
+  "start": 169.66,
+  "end": 173.5,
+  "text": "Man: Yes, I do, but I want a roommate."
+ },
+ {
+  "id": 46,
+  "start": 173.9,
+  "end": 176.55,
+  "text": "Woman: Really? How much is the rent?"
+ }
+]

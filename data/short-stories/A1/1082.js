@@ -1,0 +1,212 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1082"]=[
+ {
+  "id": 1,
+  "start": 2.73,
+  "end": 4.97,
+  "text": "In December, Christmas comes."
+ },
+ {
+  "id": 2,
+  "start": 4.96,
+  "end": 9.49,
+  "text": "We get a holiday from school, and our parents get a few days off from work."
+ },
+ {
+  "id": 3,
+  "start": 9.55,
+  "end": 13.45,
+  "text": "Our family gets ready for Christmas by decorating the house."
+ },
+ {
+  "id": 4,
+  "start": 13.66,
+  "end": 15.92,
+  "text": "We decorate inside and out."
+ },
+ {
+  "id": 5,
+  "start": 16.15,
+  "end": 20.41,
+  "text": "On the outside of the house we put up lights that twinkle and glow."
+ },
+ {
+  "id": 6,
+  "start": 20.44,
+  "end": 25.23,
+  "text": "We have a wooden Santa Claus and reindeer set that my father puts up on the roof."
+ },
+ {
+  "id": 7,
+  "start": 25.6,
+  "end": 28.2,
+  "text": "Inside, we put up a Christmas tree."
+ },
+ {
+  "id": 8,
+  "start": 28.34,
+  "end": 30.58,
+  "text": "Some years we have a real tree."
+ },
+ {
+  "id": 9,
+  "start": 30.9,
+  "end": 37.1,
+  "text": "Real pine trees smell nice, but you have to be careful that they don't dry out and start a fire."
+ },
+ {
+  "id": 10,
+  "start": 37.15,
+  "end": 39.83,
+  "text": "This year we have an artificial tree."
+ },
+ {
+  "id": 11,
+  "start": 39.92,
+  "end": 42.52,
+  "text": "We hang tinsel and ornaments on the tree."
+ },
+ {
+  "id": 12,
+  "start": 42.53,
+  "end": 47.18,
+  "text": "We also hang strands of lights on the tree and put a star at the top."
+ },
+ {
+  "id": 13,
+  "start": 47.16,
+  "end": 50.85,
+  "text": "Everyone thinks that the tree is beautiful when we turn on the lights."
+ },
+ {
+  "id": 14,
+  "start": 50.83,
+  "end": 52.98,
+  "text": "We place gifts under the tree."
+ },
+ {
+  "id": 15,
+  "start": 52.95,
+  "end": 55.01,
+  "text": "There is a gift for me under the tree."
+ },
+ {
+  "id": 16,
+  "start": 55.35,
+  "end": 59.33,
+  "text": "It is wrapped in red paper, and it has a big green bow on it."
+ },
+ {
+  "id": 17,
+  "start": 59.25,
+  "end": 61.54,
+  "text": "Red and green are the Christmas colours."
+ },
+ {
+  "id": 18,
+  "start": 61.74,
+  "end": 67.38,
+  "text": "On Christmas Eve, my brother and sister and I will hang our stockings near the fireplace."
+ },
+ {
+  "id": 19,
+  "start": 67.54,
+  "end": 72.65,
+  "text": "Santa Claus comes down the chimney and fills our stockings full of toys and goodies."
+ },
+ {
+  "id": 20,
+  "start": 72.98,
+  "end": 77.32,
+  "text": "On Christmas morning, it is exciting to see what Santa has left for you."
+ },
+ {
+  "id": 21,
+  "start": 77.4,
+  "end": 81.41,
+  "text": "My mother will make a big turkey dinner for us on Christmas day."
+ },
+ {
+  "id": 22,
+  "start": 81.4,
+  "end": 85.54,
+  "text": "We will have lots of vegetables and good tasting foods to go with the turkey."
+ },
+ {
+  "id": 23,
+  "start": 85.65,
+  "end": 87.61,
+  "text": "We will have dessert too."
+ },
+ {
+  "id": 24,
+  "start": 87.75,
+  "end": 92.58,
+  "text": "Some of my family like Christmas pudding, but I will just have ice cream."
+ },
+ {
+  "id": 25,
+  "start": 92.96,
+  "end": 95.26,
+  "text": "Last year some carolers came to the door."
+ },
+ {
+  "id": 26,
+  "start": 95.25,
+  "end": 96.76,
+  "text": "It was snowing outside."
+ },
+ {
+  "id": 27,
+  "start": 96.63,
+  "end": 100.14,
+  "text": "They stood in the snow and sang Christmas carols to us."
+ },
+ {
+  "id": 28,
+  "start": 100.14,
+  "end": 105.44,
+  "text": "My father gave them some money, and my mother gave them some hot chocolate to warm them up."
+ },
+ {
+  "id": 29,
+  "start": 105.67,
+  "end": 109.58,
+  "text": "They had lovely voices, and they sang some of my favorite carols."
+ },
+ {
+  "id": 30,
+  "start": 109.71,
+  "end": 116.37,
+  "text": "We also collect food, gifts and money for some of the people in town who cannot afford to have Christmas."
+ },
+ {
+  "id": 31,
+  "start": 116.5,
+  "end": 120.47,
+  "text": "My family is collecting things for a poor family who live near here."
+ },
+ {
+  "id": 32,
+  "start": 120.73,
+  "end": 124.6,
+  "text": "We had fun deciding which toys to buy for the children in that family."
+ },
+ {
+  "id": 33,
+  "start": 124.7,
+  "end": 128.92,
+  "text": "It is a good feeling to share with people who do not have as much as you do."
+ },
+ {
+  "id": 34,
+  "start": 129.05,
+  "end": 134.73,
+  "text": "My parents have always taught us that Christmas is a time for giving, not receiving."
+ },
+ {
+  "id": 35,
+  "start": 135.08,
+  "end": 136.35,
+  "text": "I think they're right."
+ }
+];

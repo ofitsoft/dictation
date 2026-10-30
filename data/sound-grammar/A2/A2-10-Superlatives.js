@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A2/A2-10-Superlatives"]=[
+ {
+  "id": 1,
+  "start": 0.1,
+  "end": 3.26,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 6.96,
+  "end": 9.53,
+  "text": "Woman: What is the fastest way to get to the airport?"
+ },
+ {
+  "id": 3,
+  "start": 10.14,
+  "end": 12.84,
+  "text": "Man: By taxi, but it’s the most expensive."
+ },
+ {
+  "id": 4,
+  "start": 13.51,
+  "end": 14.82,
+  "text": "Woman: What’s the cheapest?"
+ },
+ {
+  "id": 5,
+  "start": 15.62,
+  "end": 19.7,
+  "text": "Man: The local bus. But, it's by far the slowest way to get there."
+ },
+ {
+  "id": 6,
+  "start": 20.25,
+  "end": 23.73,
+  "text": "Woman: Hmm, I'd better spring for a taxi then."
+ },
+ {
+  "id": 7,
+  "start": 24.54,
+  "end": 30.22,
+  "text": "Man: Yeah, it’s best if you do."
+ },
+ {
+  "id": 8,
+  "start": 32.52,
+  "end": 34.58,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 39.28,
+  "end": 41.99,
+  "text": "Woman: What is the best place to visit in your country?"
+ },
+ {
+  "id": 10,
+  "start": 42.92,
+  "end": 46.2,
+  "text": "Man: I think the west coast. It has the best weather."
+ },
+ {
+  "id": 11,
+  "start": 46.85,
+  "end": 48.29,
+  "text": "Woman: What about the cost?"
+ },
+ {
+  "id": 12,
+  "start": 49.3,
+  "end": 52.95,
+  "text": "Man: The costs are very high. Our most expensive cities are there."
+ },
+ {
+  "id": 13,
+  "start": 53.49,
+  "end": 57.02,
+  "text": "Woman: Oh, that’s too bad. What about the food?"
+ },
+ {
+  "id": 14,
+  "start": 57.85,
+  "end": 61.56,
+  "text": "Man: It’s great. It has the best restaurants in the country."
+ },
+ {
+  "id": 15,
+  "start": 67.65,
+  "end": 69.05,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 16,
+  "start": 73.01,
+  "end": 74.8,
+  "text": "Woman: How was the movie last night?"
+ },
+ {
+  "id": 17,
+  "start": 75.0,
+  "end": 79.78,
+  "text": "Man: Oh, it was great. It was the scariest movie I’ve ever seen."
+ },
+ {
+  "id": 18,
+  "start": 80.1,
+  "end": 82.53,
+  "text": "Woman: Oh, really? That scary?"
+ },
+ {
+  "id": 19,
+  "start": 83.02,
+  "end": 85.61,
+  "text": "Man: Yes, I was screaming throughout the film."
+ },
+ {
+  "id": 20,
+  "start": 86.14,
+  "end": 87.2,
+  "text": "Woman: Was it crowded?"
+ },
+ {
+  "id": 21,
+  "start": 87.66,
+  "end": 94.66,
+  "text": "Man: Yeah, it was the most packed I’ve ever seen the theater."
+ },
+ {
+  "id": 22,
+  "start": 94.26,
+  "end": 100.52,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 23,
+  "start": 101.22,
+  "end": 103.31,
+  "text": "Woman: What is the oldest city in your country?"
+ },
+ {
+  "id": 24,
+  "start": 104.26,
+  "end": 105.82,
+  "text": "Man: I think it is the capital."
+ },
+ {
+  "id": 25,
+  "start": 106.75,
+  "end": 107.98,
+  "text": "Woman: Is it the biggest?"
+ },
+ {
+  "id": 26,
+  "start": 108.6,
+  "end": 110.52,
+  "text": "Man: It was, but not anymore."
+ },
+ {
+  "id": 27,
+  "start": 111.15,
+  "end": 112.81,
+  "text": "Woman: Why are people moving out?"
+ },
+ {
+  "id": 28,
+  "start": 113.81,
+  "end": 116.63,
+  "text": "Man: Well, it’s not the most modern place to live."
+ }
+];

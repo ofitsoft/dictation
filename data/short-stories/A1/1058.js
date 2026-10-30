@@ -1,0 +1,110 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1058"]=[
+ {
+  "id": 1,
+  "start": 3.26,
+  "end": 5.21,
+  "text": "Which direction should I go in?"
+ },
+ {
+  "id": 2,
+  "start": 5.39,
+  "end": 6.63,
+  "text": "Should I go up?"
+ },
+ {
+  "id": 3,
+  "start": 6.58,
+  "end": 9.52,
+  "text": "If I go up, I will head toward the sky."
+ },
+ {
+  "id": 4,
+  "start": 9.69,
+  "end": 11.33,
+  "text": "I can go up the stairs."
+ },
+ {
+  "id": 5,
+  "start": 11.72,
+  "end": 13.0,
+  "text": "Should I go down?"
+ },
+ {
+  "id": 6,
+  "start": 13.13,
+  "end": 15.39,
+  "text": "I can go down the stairs to the basement."
+ },
+ {
+  "id": 7,
+  "start": 15.51,
+  "end": 17.63,
+  "text": "I can climb down into a hole."
+ },
+ {
+  "id": 8,
+  "start": 18.33,
+  "end": 20.21,
+  "text": "Should I go left or right?"
+ },
+ {
+  "id": 9,
+  "start": 20.26,
+  "end": 23.61,
+  "text": "I am right-handed, so I know which way right is."
+ },
+ {
+  "id": 10,
+  "start": 24.3,
+  "end": 25.68,
+  "text": "Should I go backwards?"
+ },
+ {
+  "id": 11,
+  "start": 26.06,
+  "end": 31.08,
+  "text": "I would be going away from the things that I am facing now if I went backwards."
+ },
+ {
+  "id": 12,
+  "start": 31.28,
+  "end": 35.99,
+  "text": "If I went backwards from the thing that I am facing, I would go away from it."
+ },
+ {
+  "id": 13,
+  "start": 36.43,
+  "end": 37.81,
+  "text": "Should I go forward?"
+ },
+ {
+  "id": 14,
+  "start": 38.18,
+  "end": 40.87,
+  "text": "I will just go straight ahead if I go forward."
+ },
+ {
+  "id": 15,
+  "start": 40.82,
+  "end": 47.01,
+  "text": "If I am facing something and I go forward, then I will go toward the thing that I am facing."
+ },
+ {
+  "id": 16,
+  "start": 47.57,
+  "end": 52.7,
+  "text": "Maybe I should go sideways, but which side, left or right?"
+ },
+ {
+  "id": 17,
+  "start": 52.98,
+  "end": 56.44,
+  "text": "It sounds very complicated, but it is not."
+ },
+ {
+  "id": 18,
+  "start": 56.54,
+  "end": 61.32,
+  "text": "Directions are very easy to follow if you just stop and think about them."
+ }
+];

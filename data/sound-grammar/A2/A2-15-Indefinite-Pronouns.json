@@ -1,0 +1,176 @@
+[
+ {
+  "id": 1,
+  "start": 0.64,
+  "end": 2.19,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.31,
+  "end": 4.78,
+  "text": "Man: Do you want something to eat?"
+ },
+ {
+  "id": 3,
+  "start": 5.47,
+  "end": 8.83,
+  "text": "Woman: I want something, but not just anything."
+ },
+ {
+  "id": 4,
+  "start": 9.63,
+  "end": 11.04,
+  "text": "Man: What are you the mood for?"
+ },
+ {
+  "id": 5,
+  "start": 12.18,
+  "end": 14.52,
+  "text": "Woman: I’m in the mood for something spicy."
+ },
+ {
+  "id": 6,
+  "start": 15.22,
+  "end": 17.21,
+  "text": "Man: What about spicy Thai soup?"
+ },
+ {
+  "id": 7,
+  "start": 17.84,
+  "end": 22.25,
+  "text": "Woman: That sounds great. But you know what? Anything is fine."
+ },
+ {
+  "id": 8,
+  "start": 24.01,
+  "end": 25.45,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 26.3,
+  "end": 28.15,
+  "text": "Man: Did you go anywhere this weekend?"
+ },
+ {
+  "id": 10,
+  "start": 28.98,
+  "end": 31.48,
+  "text": "Woman: Nowhere special, just the mall."
+ },
+ {
+  "id": 11,
+  "start": 32.21,
+  "end": 33.38,
+  "text": "Man: Did you buy anything?"
+ },
+ {
+  "id": 12,
+  "start": 33.84,
+  "end": 35.86,
+  "text": "Woman: No, I had no money."
+ },
+ {
+  "id": 13,
+  "start": 36.68,
+  "end": 38.11,
+  "text": "Man: Did you see anyone there?"
+ },
+ {
+  "id": 14,
+  "start": 38.68,
+  "end": 40.46,
+  "text": "Woman: No, I didn’t see anyone."
+ },
+ {
+  "id": 15,
+  "start": 43.81,
+  "end": 45.45,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 16,
+  "start": 46.52,
+  "end": 48.02,
+  "text": "Man: Where did you go yesterday?"
+ },
+ {
+  "id": 17,
+  "start": 49.13,
+  "end": 49.99,
+  "text": "Woman: Nowhere."
+ },
+ {
+  "id": 18,
+  "start": 50.73,
+  "end": 54.56,
+  "text": "Man: Nowhere! Come on. I’m sure you went somewhere."
+ },
+ {
+  "id": 19,
+  "start": 55.33,
+  "end": 59.21,
+  "text": "Woman: No, really, I didn’t go anywhere. I stayed home."
+ },
+ {
+  "id": 20,
+  "start": 59.75,
+  "end": 61.34,
+  "text": "Man: I didn’t go anywhere either."
+ },
+ {
+  "id": 21,
+  "start": 61.86,
+  "end": 65.07,
+  "text": "Woman: My gosh. We are so boring!"
+ },
+ {
+  "id": 22,
+  "start": 66.05,
+  "end": 67.58,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 23,
+  "start": 68.43,
+  "end": 69.8,
+  "text": "Man: Did anyone call?"
+ },
+ {
+  "id": 24,
+  "start": 70.71,
+  "end": 72.22,
+  "text": "Woman: No. No one."
+ },
+ {
+  "id": 25,
+  "start": 72.87,
+  "end": 73.99,
+  "text": "Man: Nobody called?"
+ },
+ {
+  "id": 26,
+  "start": 74.84,
+  "end": 77.74,
+  "text": "Woman: No. Were you expecting someone to call you?"
+ },
+ {
+  "id": 27,
+  "start": 78.52,
+  "end": 80.19,
+  "text": "Man: Yes, someone."
+ },
+ {
+  "id": 28,
+  "start": 80.99,
+  "end": 83.65,
+  "text": "Woman: Ooh, who is this someone?"
+ },
+ {
+  "id": 29,
+  "start": 84.41,
+  "end": 87.21,
+  "text": "Man: Just someone. Nobody you know."
+ }
+]

@@ -1,0 +1,146 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1068"]=[
+ {
+  "id": 1,
+  "start": 3.52,
+  "end": 5.74,
+  "text": "My classroom is a large room."
+ },
+ {
+  "id": 2,
+  "start": 6.24,
+  "end": 8.46,
+  "text": "It is full of brightly coloured pictures."
+ },
+ {
+  "id": 3,
+  "start": 8.58,
+  "end": 11.38,
+  "text": "My teacher hangs pictures up all over the walls."
+ },
+ {
+  "id": 4,
+  "start": 11.64,
+  "end": 14.09,
+  "text": "There are blackboards at the front of the room."
+ },
+ {
+  "id": 5,
+  "start": 14.35,
+  "end": 17.78,
+  "text": "My teacher always has writing all over the blackboards."
+ },
+ {
+  "id": 6,
+  "start": 18.05,
+  "end": 21.43,
+  "text": "Sometimes the chalk squeaks when she writes on the blackboard."
+ },
+ {
+  "id": 7,
+  "start": 21.63,
+  "end": 23.9,
+  "text": "We cover our ears when that happens."
+ },
+ {
+  "id": 8,
+  "start": 24.36,
+  "end": 26.63,
+  "text": "Our classroom is full of desks."
+ },
+ {
+  "id": 9,
+  "start": 27.0,
+  "end": 29.51,
+  "text": "There are a lot of students in our class."
+ },
+ {
+  "id": 10,
+  "start": 29.56,
+  "end": 32.96,
+  "text": "Our desks are full of books, notebooks and pens."
+ },
+ {
+  "id": 11,
+  "start": 33.11,
+  "end": 37.39,
+  "text": "I try to keep my desk neat, but I have a lot of things in there."
+ },
+ {
+  "id": 12,
+  "start": 37.68,
+  "end": 41.38,
+  "text": "My ruler and pencils are always falling out of my desk."
+ },
+ {
+  "id": 13,
+  "start": 41.92,
+  "end": 45.13,
+  "text": "At the back of the room is a bookcase full of books."
+ },
+ {
+  "id": 14,
+  "start": 45.27,
+  "end": 48.79,
+  "text": "We can sign those books out and take them home to read."
+ },
+ {
+  "id": 15,
+  "start": 49.19,
+  "end": 51.25,
+  "text": "I have read a lot of the books."
+ },
+ {
+  "id": 16,
+  "start": 51.41,
+  "end": 56.24,
+  "text": "I like mysteries and biographies, so I have taken many of those home."
+ },
+ {
+  "id": 17,
+  "start": 56.67,
+  "end": 59.44,
+  "text": "There are also tables at the back of the room."
+ },
+ {
+  "id": 18,
+  "start": 59.64,
+  "end": 61.44,
+  "text": "That is where we do our artwork."
+ },
+ {
+  "id": 19,
+  "start": 61.69,
+  "end": 66.38,
+  "text": "We spread out big sheets of paper, and we use paints or crayons to make pictures."
+ },
+ {
+  "id": 20,
+  "start": 66.51,
+  "end": 72.0,
+  "text": "Sometimes we cut things out of magazines with scissors and we glue pictures to the paper."
+ },
+ {
+  "id": 21,
+  "start": 72.23,
+  "end": 73.66,
+  "text": "I like art class."
+ },
+ {
+  "id": 22,
+  "start": 74.16,
+  "end": 78.29,
+  "text": "After school, my friends and I often erase the blackboards for the teacher."
+ },
+ {
+  "id": 23,
+  "start": 78.38,
+  "end": 83.65,
+  "text": "Then we take the erasers outside and clap them together to get the chalk dust out of them."
+ },
+ {
+  "id": 24,
+  "start": 83.73,
+  "end": 90.49,
+  "text": "My friends and I walk home together and talk about what we did in school and what we're going to do after supper."
+ }
+];

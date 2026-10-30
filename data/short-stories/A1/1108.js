@@ -1,0 +1,188 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1108"]=[
+ {
+  "id": 1,
+  "start": 2.22,
+  "end": 4.37,
+  "text": "My grandfather is getting old."
+ },
+ {
+  "id": 2,
+  "start": 4.52,
+  "end": 10.08,
+  "text": "When I was younger, my grandfather would carry me on his shoulders, and we would go for a walk."
+ },
+ {
+  "id": 3,
+  "start": 10.43,
+  "end": 13.4,
+  "text": "Now, my grandfather cannot put me on his shoulders."
+ },
+ {
+  "id": 4,
+  "start": 13.62,
+  "end": 16.75,
+  "text": "He has a hard time walking, and he uses a cane."
+ },
+ {
+  "id": 5,
+  "start": 17.56,
+  "end": 19.88,
+  "text": "My grandfather used to have lots of hair."
+ },
+ {
+  "id": 6,
+  "start": 20.18,
+  "end": 21.84,
+  "text": "Now he is bald."
+ },
+ {
+  "id": 7,
+  "start": 22.11,
+  "end": 24.41,
+  "text": "His skin doesn't look like it used to."
+ },
+ {
+  "id": 8,
+  "start": 24.81,
+  "end": 26.24,
+  "text": "It is more wrinkled."
+ },
+ {
+  "id": 9,
+  "start": 26.77,
+  "end": 29.55,
+  "text": "My grandfather takes more naps than he used to."
+ },
+ {
+  "id": 10,
+  "start": 29.82,
+  "end": 33.04,
+  "text": "He goes to the doctor's, and he takes pills for his heart."
+ },
+ {
+  "id": 11,
+  "start": 33.6,
+  "end": 36.09,
+  "text": "I love my grandfather very much."
+ },
+ {
+  "id": 12,
+  "start": 36.29,
+  "end": 42.61,
+  "text": "I don't like the fact that he is getting older, but my mother says that growing older is just a fact of life."
+ },
+ {
+  "id": 13,
+  "start": 42.82,
+  "end": 45.64,
+  "text": "She says that we will all get older."
+ },
+ {
+  "id": 14,
+  "start": 46.33,
+  "end": 49.05,
+  "text": "Sometimes my grandfather forgets things."
+ },
+ {
+  "id": 15,
+  "start": 49.09,
+  "end": 50.96,
+  "text": "My mother says to be patient."
+ },
+ {
+  "id": 16,
+  "start": 51.14,
+  "end": 52.49,
+  "text": "I am patient."
+ },
+ {
+  "id": 17,
+  "start": 52.55,
+  "end": 55.64,
+  "text": "I try to help my grandfather as much as I can."
+ },
+ {
+  "id": 18,
+  "start": 55.85,
+  "end": 58.16,
+  "text": "I sometimes go for walks with him."
+ },
+ {
+  "id": 19,
+  "start": 58.28,
+  "end": 60.59,
+  "text": "I help him to walk when he has trouble."
+ },
+ {
+  "id": 20,
+  "start": 61.4,
+  "end": 64.37,
+  "text": "I cheer him up if I think he might be sad."
+ },
+ {
+  "id": 21,
+  "start": 64.69,
+  "end": 68.34,
+  "text": "I get things for him, and I even read to him at night."
+ },
+ {
+  "id": 22,
+  "start": 68.78,
+  "end": 70.89,
+  "text": "He used to read to me when I was little."
+ },
+ {
+  "id": 23,
+  "start": 71.24,
+  "end": 75.3,
+  "text": "Now his eyesight is bad, and he can't see very well."
+ },
+ {
+  "id": 24,
+  "start": 76.24,
+  "end": 79.55,
+  "text": "My grandfather tells me stories about when he was a boy."
+ },
+ {
+  "id": 25,
+  "start": 79.86,
+  "end": 83.13,
+  "text": "The world was a very different place then he tells me."
+ },
+ {
+  "id": 26,
+  "start": 83.54,
+  "end": 85.79,
+  "text": "His stories are interesting."
+ },
+ {
+  "id": 27,
+  "start": 86.03,
+  "end": 91.82,
+  "text": "Sometimes I wish we could trade places for a day so that I would know what it felt like to be old."
+ },
+ {
+  "id": 28,
+  "start": 92.26,
+  "end": 94.45,
+  "text": "My grandfather doesn't complain."
+ },
+ {
+  "id": 29,
+  "start": 94.68,
+  "end": 96.84,
+  "text": "He jokes about his old bones."
+ },
+ {
+  "id": 30,
+  "start": 96.96,
+  "end": 99.6,
+  "text": "I spend a lot of time with my grandfather."
+ },
+ {
+  "id": 31,
+  "start": 99.63,
+  "end": 102.83,
+  "text": "I hope that he is around for a long time."
+ }
+];

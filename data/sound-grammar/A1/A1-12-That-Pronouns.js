@@ -1,0 +1,284 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-12-That-Pronouns"]=[
+ {
+  "id": 1,
+  "start": 0.9,
+  "end": 2.45,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.69,
+  "end": 7.17,
+  "text": "Man: I like your family photos. Who is this?"
+ },
+ {
+  "id": 3,
+  "start": 8.08,
+  "end": 11.46,
+  "text": "Woman: That is my dad. He is a doctor."
+ },
+ {
+  "id": 4,
+  "start": 12.15,
+  "end": 14.67,
+  "text": "Man: Wow. He is very tall."
+ },
+ {
+  "id": 5,
+  "start": 15.41,
+  "end": 17.41,
+  "text": "Woman: Yes, he is."
+ },
+ {
+  "id": 6,
+  "start": 18.02,
+  "end": 20.79,
+  "text": "Man: Who is this? Is this your mom?"
+ },
+ {
+  "id": 7,
+  "start": 21.7,
+  "end": 23.9,
+  "text": "Woman: Yes, that is my mom."
+ },
+ {
+  "id": 8,
+  "start": 24.83,
+  "end": 27.57,
+  "text": "Man: In this picture, they are so young."
+ },
+ {
+  "id": 9,
+  "start": 28.55,
+  "end": 33.98,
+  "text": "Woman: Yes, they are. They are both 25 years old in that picture."
+ },
+ {
+  "id": 10,
+  "start": 34.83,
+  "end": 36.29,
+  "text": "Man: How old are they now?"
+ },
+ {
+  "id": 11,
+  "start": 37.42,
+  "end": 39.41,
+  "text": "Woman: They are both 60."
+ },
+ {
+  "id": 12,
+  "start": 40.2,
+  "end": 43.61,
+  "text": "Man: Wow! This is 35 years ago?"
+ },
+ {
+  "id": 13,
+  "start": 44.09,
+  "end": 48.16,
+  "text": "Woman: Yes, it is! Time flies."
+ },
+ {
+  "id": 14,
+  "start": 49.21,
+  "end": 51.02,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 15,
+  "start": 52.01,
+  "end": 53.35,
+  "text": "Man: Who are these people?"
+ },
+ {
+  "id": 16,
+  "start": 54.62,
+  "end": 59.06,
+  "text": "Woman: That is my husband. In this picture, he is at work."
+ },
+ {
+  "id": 17,
+  "start": 60.22,
+  "end": 62.14,
+  "text": "Man: Is he a fireman?"
+ },
+ {
+  "id": 18,
+  "start": 62.33,
+  "end": 66.19,
+  "text": "Woman: Yes, he is. And this is my daughter."
+ },
+ {
+  "id": 19,
+  "start": 67.11,
+  "end": 70.59,
+  "text": "Man: Who is the boy with your daughter? Is that your son?"
+ },
+ {
+  "id": 20,
+  "start": 71.65,
+  "end": 75.57,
+  "text": "Woman: No, that is her friend. She is at school."
+ },
+ {
+  "id": 21,
+  "start": 76.45,
+  "end": 81.04,
+  "text": "Man: Wow, what a nice picture. How old is she?"
+ },
+ {
+  "id": 22,
+  "start": 82.05,
+  "end": 83.51,
+  "text": "Woman: She is nine."
+ },
+ {
+  "id": 23,
+  "start": 84.07,
+  "end": 85.69,
+  "text": "Man: She is very cute."
+ },
+ {
+  "id": 24,
+  "start": 86.65,
+  "end": 89.23,
+  "text": "Woman: Yes, she is cute!"
+ },
+ {
+  "id": 25,
+  "start": 90.57,
+  "end": 92.52,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 26,
+  "start": 93.32,
+  "end": 96.57,
+  "text": "Man: Who are the people in this picture?"
+ },
+ {
+  "id": 27,
+  "start": 97.46,
+  "end": 102.22,
+  "text": "Woman: That is my older sister. She is a pilot."
+ },
+ {
+  "id": 28,
+  "start": 103.28,
+  "end": 104.42,
+  "text": "Man: Who is the man?"
+ },
+ {
+  "id": 29,
+  "start": 105.61,
+  "end": 109.43,
+  "text": "Woman: That is her husband. He is a pilot too."
+ },
+ {
+  "id": 30,
+  "start": 110.2,
+  "end": 114.51,
+  "text": "Man: I see. What about this picture? Who is this?"
+ },
+ {
+  "id": 31,
+  "start": 115.61,
+  "end": 120.06,
+  "text": "Woman: That is my younger brother. He is a football coach."
+ },
+ {
+  "id": 32,
+  "start": 120.97,
+  "end": 123.64,
+  "text": "Man: Who is the woman? Is that his wife?"
+ },
+ {
+  "id": 33,
+  "start": 124.54,
+  "end": 128.97,
+  "text": "Woman: No, that is his girlfriend. She is a teacher."
+ },
+ {
+  "id": 34,
+  "start": 129.65,
+  "end": 130.88,
+  "text": "Man: Where are they?"
+ },
+ {
+  "id": 35,
+  "start": 131.73,
+  "end": 137.48,
+  "text": "Woman: They are at work. That is their school. It is not far from here."
+ },
+ {
+  "id": 36,
+  "start": 138.04,
+  "end": 140.34,
+  "text": "Man: Wow. Nice couple!"
+ },
+ {
+  "id": 37,
+  "start": 141.62,
+  "end": 143.24,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 38,
+  "start": 144.27,
+  "end": 145.9,
+  "text": "Man: And who are these people?"
+ },
+ {
+  "id": 39,
+  "start": 146.94,
+  "end": 149.35,
+  "text": "Woman: Those are my grandparents."
+ },
+ {
+  "id": 40,
+  "start": 150.17,
+  "end": 151.35,
+  "text": "Man: Who are the children?"
+ },
+ {
+  "id": 41,
+  "start": 152.46,
+  "end": 158.4,
+  "text": "Woman: They are my cousins. That is my aunt's son, and my uncle's daughter."
+ },
+ {
+  "id": 42,
+  "start": 159.26,
+  "end": 160.35,
+  "text": "Man: Where are they?"
+ },
+ {
+  "id": 43,
+  "start": 161.57,
+  "end": 167.37,
+  "text": "Woman: That is their farm. They have sheep, cows, and chickens."
+ },
+ {
+  "id": 44,
+  "start": 167.66,
+  "end": 170.86,
+  "text": "Man: Wow, those are big cows."
+ },
+ {
+  "id": 45,
+  "start": 172.23,
+  "end": 175.95,
+  "text": "Woman: Yes, the cows are very big."
+ },
+ {
+  "id": 46,
+  "start": 176.55,
+  "end": 178.37,
+  "text": "Man: What a nice place!"
+ },
+ {
+  "id": 47,
+  "start": 178.98,
+  "end": 183.98,
+  "text": "Woman: Yeah, it's fun there! I go there often with my daughter."
+ }
+];

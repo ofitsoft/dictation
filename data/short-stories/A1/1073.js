@@ -1,0 +1,152 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1073"]=[
+ {
+  "id": 1,
+  "start": 1.74,
+  "end": 4.02,
+  "text": "Some people call autumn the \"fall.\""
+ },
+ {
+  "id": 2,
+  "start": 4.17,
+  "end": 5.9,
+  "text": "You can call it either one."
+ },
+ {
+  "id": 3,
+  "start": 6.35,
+  "end": 9.26,
+  "text": "Autumn is the time when the leaves change colour."
+ },
+ {
+  "id": 4,
+  "start": 9.5,
+  "end": 14.36,
+  "text": "They change from green to beautiful shades of gold, orange and red."
+ },
+ {
+  "id": 5,
+  "start": 14.59,
+  "end": 18.57,
+  "text": "It looks like an artist has come along and painted all the trees."
+ },
+ {
+  "id": 6,
+  "start": 18.77,
+  "end": 21.74,
+  "text": "The air starts to get a little cooler in the autumn."
+ },
+ {
+  "id": 7,
+  "start": 21.91,
+  "end": 24.13,
+  "text": "We begin to wear jackets or sweaters."
+ },
+ {
+  "id": 8,
+  "start": 24.52,
+  "end": 26.44,
+  "text": "We go back to school in the autumn."
+ },
+ {
+  "id": 9,
+  "start": 26.61,
+  "end": 29.98,
+  "text": "The teacher sometimes gets us to make leaf collections."
+ },
+ {
+  "id": 10,
+  "start": 30.18,
+  "end": 34.04,
+  "text": "We collect different types of leaves and make a display of them."
+ },
+ {
+  "id": 11,
+  "start": 34.54,
+  "end": 40.82,
+  "text": "Autumn is the time when old friends get back together and talk about what they did on their summer vacations."
+ },
+ {
+  "id": 12,
+  "start": 41.37,
+  "end": 43.11,
+  "text": "Halloween comes in the autumn."
+ },
+ {
+  "id": 13,
+  "start": 43.25,
+  "end": 44.89,
+  "text": "We dress up in costumes."
+ },
+ {
+  "id": 14,
+  "start": 45.06,
+  "end": 47.97,
+  "text": "Some of them are scary, and some of them are funny."
+ },
+ {
+  "id": 15,
+  "start": 48.08,
+  "end": 52.82,
+  "text": "We go from door to door and say \"Trick or treat\" and people give us candies."
+ },
+ {
+  "id": 16,
+  "start": 53.08,
+  "end": 56.82,
+  "text": "We wear masks on our faces, and we have a lot of fun."
+ },
+ {
+  "id": 17,
+  "start": 57.12,
+  "end": 59.44,
+  "text": "The autumn winds start to blow."
+ },
+ {
+  "id": 18,
+  "start": 59.76,
+  "end": 64.68,
+  "text": "The wind blows the leaves right off the trees until the trees have bare branches."
+ },
+ {
+  "id": 19,
+  "start": 64.97,
+  "end": 70.09,
+  "text": "My friends and I like to have a lot of fun outside before the winter leaves us shivering."
+ },
+ {
+  "id": 20,
+  "start": 70.39,
+  "end": 72.86,
+  "text": "We play football and soccer at school."
+ },
+ {
+  "id": 21,
+  "start": 73.21,
+  "end": 77.09,
+  "text": "After school, we ride our bikes through piles of dry leaves."
+ },
+ {
+  "id": 22,
+  "start": 77.38,
+  "end": 80.79,
+  "text": "The leaves go flying through the air as we drive through them."
+ },
+ {
+  "id": 23,
+  "start": 81.18,
+  "end": 85.07,
+  "text": "My parents rake the leaves up and put them in big pile."
+ },
+ {
+  "id": 24,
+  "start": 85.12,
+  "end": 90.68,
+  "text": "I like to jump in the big piles of leaves, but then my parents just have to rake them up again."
+ },
+ {
+  "id": 25,
+  "start": 90.77,
+  "end": 100.0,
+  "text": "The skies get a little cloudier in the autumn, and we know that soon there will be snow, so we enjoy the brisk autumn weather while we can."
+ }
+];

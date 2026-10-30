@@ -1,0 +1,152 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1063"]=[
+ {
+  "id": 1,
+  "start": 3.31,
+  "end": 4.87,
+  "text": "I am special."
+ },
+ {
+  "id": 2,
+  "start": 5.39,
+  "end": 8.46,
+  "text": "Nobody in the world is exactly like I am."
+ },
+ {
+  "id": 3,
+  "start": 9.04,
+  "end": 12.06,
+  "text": "They might have the same colour hair and eyes that I do, but they are not exactly like me."
+ },
+ {
+  "id": 4,
+  "start": 12.3,
+  "end": 14.79,
+  "text": "I am the only person in the world who thinks my thoughts."
+ },
+ {
+  "id": 5,
+  "start": 15.36,
+  "end": 23.38,
+  "text": "No two people in the world are exactly alike."
+ },
+ {
+  "id": 6,
+  "start": 23.77,
+  "end": 26.19,
+  "text": "It is good to be your own person."
+ },
+ {
+  "id": 7,
+  "start": 26.68,
+  "end": 30.01,
+  "text": "It is good to be creative and be natural."
+ },
+ {
+  "id": 8,
+  "start": 30.66,
+  "end": 33.96,
+  "text": "People have to follow the laws and the rules."
+ },
+ {
+  "id": 9,
+  "start": 34.41,
+  "end": 37.17,
+  "text": "People should always be kind to others."
+ },
+ {
+  "id": 10,
+  "start": 37.4,
+  "end": 39.93,
+  "text": "I try to follow all the rules."
+ },
+ {
+  "id": 11,
+  "start": 40.18,
+  "end": 42.02,
+  "text": "I am kind to others."
+ },
+ {
+  "id": 12,
+  "start": 42.67,
+  "end": 46.88,
+  "text": "I am a lot like many other people, yet I am different."
+ },
+ {
+  "id": 13,
+  "start": 47.71,
+  "end": 53.23,
+  "text": "I am like my friend Jane, but she has red hair and I have dark hair."
+ },
+ {
+  "id": 14,
+  "start": 53.84,
+  "end": 61.19,
+  "text": "She has a loud voice, and I have a soft voice."
+ },
+ {
+  "id": 15,
+  "start": 61.64,
+  "end": 64.09,
+  "text": "She likes to eat vegetables, and I do not."
+ },
+ {
+  "id": 16,
+  "start": 64.59,
+  "end": 68.69,
+  "text": "Jane and I are the same height."
+ },
+ {
+  "id": 17,
+  "start": 69.1,
+  "end": 74.2,
+  "text": "We both like movies, and we are both afraid of spiders."
+ },
+ {
+  "id": 18,
+  "start": 74.5,
+  "end": 79.51,
+  "text": "We wear the same size shoes, and we both have the same favorite colour."
+ },
+ {
+  "id": 19,
+  "start": 80.12,
+  "end": 84.76,
+  "text": "We are best friends, but sometimes we disagree about things."
+ },
+ {
+  "id": 20,
+  "start": 85.12,
+  "end": 91.2,
+  "text": "We are alike in many ways, and different in many ways."
+ },
+ {
+  "id": 21,
+  "start": 91.79,
+  "end": 95.87,
+  "text": "If we were all exactly the same, the world would be a very boring place."
+ },
+ {
+  "id": 22,
+  "start": 96.41,
+  "end": 98.39,
+  "text": "I am myself, and I am glad that I am special."
+ },
+ {
+  "id": 23,
+  "start": 98.89,
+  "end": 103.4,
+  "text": "You are special too."
+ },
+ {
+  "id": 24,
+  "start": 104.12,
+  "end": 107.19,
+  "text": "Use your own special talents, and take the time to meet other people."
+ },
+ {
+  "id": 25,
+  "start": 107.49,
+  "end": 110.34,
+  "text": "The world is made up of a lot of different people; that's what makes life exciting."
+ }
+];

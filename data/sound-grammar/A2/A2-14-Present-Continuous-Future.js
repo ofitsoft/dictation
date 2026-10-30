@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A2/A2-14-Present-Continuous-Future"]=[
+ {
+  "id": 1,
+  "start": 0.04,
+  "end": 1.43,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 1.78,
+  "end": 3.27,
+  "text": "Man: Why are you leaving early?"
+ },
+ {
+  "id": 3,
+  "start": 3.54,
+  "end": 5.04,
+  "text": "Woman: I’m going to the dentist."
+ },
+ {
+  "id": 4,
+  "start": 5.16,
+  "end": 6.88,
+  "text": "Man: Why? Do you have a toothache?"
+ },
+ {
+  "id": 5,
+  "start": 7.05,
+  "end": 9.12,
+  "text": "Woman: No, I’m getting my teeth cleaned."
+ },
+ {
+  "id": 6,
+  "start": 9.3,
+  "end": 12.63,
+  "text": "Man: Well, if you are leaving early, I’m leaving early too."
+ },
+ {
+  "id": 7,
+  "start": 12.79,
+  "end": 13.87,
+  "text": "Woman: Fine with me!"
+ },
+ {
+  "id": 8,
+  "start": 15.59,
+  "end": 16.92,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 17.78,
+  "end": 18.97,
+  "text": "Man: What are you doing tonight?"
+ },
+ {
+  "id": 10,
+  "start": 19.48,
+  "end": 21.25,
+  "text": "Woman: I’m meeting my mom for dinner."
+ },
+ {
+  "id": 11,
+  "start": 21.49,
+  "end": 23.18,
+  "text": "Man: Oh! Where are you going?"
+ },
+ {
+  "id": 12,
+  "start": 23.6,
+  "end": 26.71,
+  "text": "Woman: We are going to the new Thai restaurant. Join us!"
+ },
+ {
+  "id": 13,
+  "start": 26.9,
+  "end": 30.05,
+  "text": "Man: Thanks, but I can’t. I’m playing futsal tonight."
+ },
+ {
+  "id": 14,
+  "start": 30.3,
+  "end": 31.88,
+  "text": "Woman: Well, maybe next time."
+ },
+ {
+  "id": 15,
+  "start": 33.61,
+  "end": 34.94,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 16,
+  "start": 35.89,
+  "end": 37.96,
+  "text": "Man: What classes are you taking next term?"
+ },
+ {
+  "id": 17,
+  "start": 38.51,
+  "end": 40.77,
+  "text": "Woman: I’m taking math and history."
+ },
+ {
+  "id": 18,
+  "start": 40.88,
+  "end": 43.12,
+  "text": "Man: Nice, I’m taking math too!"
+ },
+ {
+  "id": 19,
+  "start": 43.38,
+  "end": 45.1,
+  "text": "Woman: Who is teaching the class?"
+ },
+ {
+  "id": 20,
+  "start": 45.44,
+  "end": 47.11,
+  "text": "Man: Professor Smith is teaching it."
+ },
+ {
+  "id": 21,
+  "start": 47.6,
+  "end": 49.92,
+  "text": "Woman: Oh no, I hear he is hard!"
+ },
+ {
+  "id": 22,
+  "start": 51.19,
+  "end": 52.54,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 23,
+  "start": 53.33,
+  "end": 54.83,
+  "text": "Man: What is going on tonight?"
+ },
+ {
+  "id": 24,
+  "start": 55.0,
+  "end": 56.38,
+  "text": "Woman: Bill is having a party."
+ },
+ {
+  "id": 25,
+  "start": 56.65,
+  "end": 58.68,
+  "text": "Man: Oh, really? When and where?"
+ },
+ {
+  "id": 26,
+  "start": 59.15,
+  "end": 62.32,
+  "text": "Woman: He’s having it at his house. It is starting at six."
+ },
+ {
+  "id": 27,
+  "start": 62.81,
+  "end": 63.66,
+  "text": "Man: Who is going?"
+ },
+ {
+  "id": 28,
+  "start": 64.09,
+  "end": 66.48,
+  "text": "Woman: Everyone’s going. You should come!"
+ }
+];

@@ -1,0 +1,206 @@
+[
+ {
+  "id": 1,
+  "start": 2.5,
+  "end": 5.78,
+  "text": "The kitchen is where we make and eat our meals."
+ },
+ {
+  "id": 2,
+  "start": 5.65,
+  "end": 7.73,
+  "text": "There is a stove in the kitchen."
+ },
+ {
+  "id": 3,
+  "start": 7.87,
+  "end": 11.4,
+  "text": "Inside the stove there is an oven where you bake things."
+ },
+ {
+  "id": 4,
+  "start": 11.34,
+  "end": 14.08,
+  "text": "You can put a cake into the oven to bake."
+ },
+ {
+  "id": 5,
+  "start": 14.11,
+  "end": 16.91,
+  "text": "On top of the stove are burners."
+ },
+ {
+  "id": 6,
+  "start": 16.99,
+  "end": 18.83,
+  "text": "The burners get hot."
+ },
+ {
+  "id": 7,
+  "start": 18.9,
+  "end": 22.03,
+  "text": "You put pots or pans on the burners."
+ },
+ {
+  "id": 8,
+  "start": 22.32,
+  "end": 27.13,
+  "text": "The refrigerator is where we store the food that needs to be kept cold."
+ },
+ {
+  "id": 9,
+  "start": 27.25,
+  "end": 32.09,
+  "text": "We keep milk, eggs, cheese and vegetables in the refrigerator."
+ },
+ {
+  "id": 10,
+  "start": 32.58,
+  "end": 35.53,
+  "text": "At the top of the refrigerator is the freezer."
+ },
+ {
+  "id": 11,
+  "start": 35.67,
+  "end": 38.09,
+  "text": "The freezer keeps things frozen."
+ },
+ {
+  "id": 12,
+  "start": 38.48,
+  "end": 42.87,
+  "text": "We have frozen vegetables, ice cream and ice cubes in the freezer."
+ },
+ {
+  "id": 13,
+  "start": 43.24,
+  "end": 45.43,
+  "text": "We have a toaster in the kitchen."
+ },
+ {
+  "id": 14,
+  "start": 45.58,
+  "end": 49.0,
+  "text": "You put the bread in the toaster, and it turns into toast."
+ },
+ {
+  "id": 15,
+  "start": 49.28,
+  "end": 51.27,
+  "text": "We have an electric kettle."
+ },
+ {
+  "id": 16,
+  "start": 51.44,
+  "end": 53.83,
+  "text": "We boil water to make tea in the kettle."
+ },
+ {
+  "id": 17,
+  "start": 54.16,
+  "end": 56.81,
+  "text": "There is a double sink in the kitchen."
+ },
+ {
+  "id": 18,
+  "start": 56.66,
+  "end": 58.72,
+  "text": "That is where we wash the dishes."
+ },
+ {
+  "id": 19,
+  "start": 59.0,
+  "end": 64.16,
+  "text": "We turn on the hot tap, and put some dish detergent into the sink to wash the dishes."
+ },
+ {
+  "id": 20,
+  "start": 64.22,
+  "end": 69.92,
+  "text": "Sometimes we put the dishes into the dishwasher, and the dishwasher washes the dishes."
+ },
+ {
+  "id": 21,
+  "start": 70.39,
+  "end": 72.44,
+  "text": "There are other things in the kitchen."
+ },
+ {
+  "id": 22,
+  "start": 72.29,
+  "end": 76.33,
+  "text": "There are utensils like knives, forks and spoons."
+ },
+ {
+  "id": 23,
+  "start": 76.31,
+  "end": 79.05,
+  "text": "There are tea towels and dish clothes."
+ },
+ {
+  "id": 24,
+  "start": 79.22,
+  "end": 83.43,
+  "text": "There are oven mitts and pot holders to take hot things out of the oven."
+ },
+ {
+  "id": 25,
+  "start": 83.74,
+  "end": 86.5,
+  "text": "There are pots to cook and boil things in."
+ },
+ {
+  "id": 26,
+  "start": 86.44,
+  "end": 88.9,
+  "text": "There are pans to fry things."
+ },
+ {
+  "id": 27,
+  "start": 88.6,
+  "end": 91.12,
+  "text": "We have dishes that we eat from."
+ },
+ {
+  "id": 28,
+  "start": 90.82,
+  "end": 95.15,
+  "text": "We have plates for our dinner, and bowls that we can put our soup in."
+ },
+ {
+  "id": 29,
+  "start": 95.26,
+  "end": 98.62,
+  "text": "We drink from cups, or coffee mugs, or glasses."
+ },
+ {
+  "id": 30,
+  "start": 98.62,
+  "end": 101.83,
+  "text": "We keep our juice in a pitcher or a jug."
+ },
+ {
+  "id": 31,
+  "start": 102.13,
+  "end": 105.03,
+  "text": "There is a timer that you can set when you are cooking."
+ },
+ {
+  "id": 32,
+  "start": 104.95,
+  "end": 107.88,
+  "text": "The timer buzzes when the food is ready."
+ },
+ {
+  "id": 33,
+  "start": 108.31,
+  "end": 111.46,
+  "text": "We also have a microwave oven in the kitchen."
+ },
+ {
+  "id": 34,
+  "start": 111.77,
+  "end": 115.74,
+  "text": "If we are in a hurry, we cook our food in the microwave."
+ }
+]

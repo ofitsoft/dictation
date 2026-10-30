@@ -1,0 +1,230 @@
+[
+ {
+  "id": 1,
+  "start": 0.49,
+  "end": 2.07,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 2.81,
+  "end": 5.51,
+  "text": "Man: Do you have a pen? I forgot mine."
+ },
+ {
+  "id": 3,
+  "start": 5.95,
+  "end": 9.3,
+  "text": "Woman: I don't have a pen, but I have a pencil."
+ },
+ {
+  "id": 4,
+  "start": 10.0,
+  "end": 12.87,
+  "text": "Man: That works. Do you have an eraser?"
+ },
+ {
+  "id": 5,
+  "start": 13.9,
+  "end": 16.02,
+  "text": "Woman: The pencil has an eraser."
+ },
+ {
+  "id": 6,
+  "start": 16.6,
+  "end": 19.38,
+  "text": "Man: Perfect. And, do you have any paper?"
+ },
+ {
+  "id": 7,
+  "start": 20.11,
+  "end": 23.8,
+  "text": "Woman: My gosh, you don’t have anything!"
+ },
+ {
+  "id": 8,
+  "start": 24.93,
+  "end": 26.47,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 27.46,
+  "end": 29.08,
+  "text": "Man: Would you like a sandwich?"
+ },
+ {
+  "id": 10,
+  "start": 29.92,
+  "end": 32.04,
+  "text": "Woman: I would love a sandwich."
+ },
+ {
+  "id": 11,
+  "start": 32.52,
+  "end": 34.52,
+  "text": "Man: And some chips?"
+ },
+ {
+  "id": 12,
+  "start": 35.12,
+  "end": 37.04,
+  "text": "Woman: Some chips sound lovely."
+ },
+ {
+  "id": 13,
+  "start": 37.24,
+  "end": 42.48,
+  "text": "Man: How about a drink? Do you want a soda, or some iced tea?"
+ },
+ {
+  "id": 14,
+  "start": 43.72,
+  "end": 46.26,
+  "text": "Woman: I’m OK. I have a water."
+ },
+ {
+  "id": 15,
+  "start": 46.99,
+  "end": 49.46,
+  "text": "Man: Do you want the water in a glass with ice?"
+ },
+ {
+  "id": 16,
+  "start": 50.27,
+  "end": 52.81,
+  "text": "Woman: No, the bottle is fine."
+ },
+ {
+  "id": 17,
+  "start": 53.77,
+  "end": 55.45,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 18,
+  "start": 56.47,
+  "end": 58.31,
+  "text": "Man: How do you like your new house?"
+ },
+ {
+  "id": 19,
+  "start": 58.86,
+  "end": 65.29,
+  "text": "Woman: It’s nice. It has a kitchen, a big bedroom, and a nice bathroom."
+ },
+ {
+  "id": 20,
+  "start": 65.75,
+  "end": 67.14,
+  "text": "Man: What is the kitchen like?"
+ },
+ {
+  "id": 21,
+  "start": 68.19,
+  "end": 71.58,
+  "text": "Woman: It is big, and it has a big stove."
+ },
+ {
+  "id": 22,
+  "start": 72.43,
+  "end": 73.88,
+  "text": "Man: What about the bathroom?"
+ },
+ {
+  "id": 23,
+  "start": 74.83,
+  "end": 78.8,
+  "text": "Woman: It does not have a bathtub, but it has a shower."
+ },
+ {
+  "id": 24,
+  "start": 79.67,
+  "end": 80.98,
+  "text": "Man: Do you have a yard?"
+ },
+ {
+  "id": 25,
+  "start": 82.09,
+  "end": 87.65,
+  "text": "Woman: Yes, but the yard is small. It does have a nice tree though."
+ },
+ {
+  "id": 26,
+  "start": 88.43,
+  "end": 91.26,
+  "text": "Man: Nice! Do you have a nice view?"
+ },
+ {
+  "id": 27,
+  "start": 91.76,
+  "end": 97.41,
+  "text": "Woman: No, the view is terrible. There is a tall building next door."
+ },
+ {
+  "id": 28,
+  "start": 98.55,
+  "end": 100.24,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 29,
+  "start": 101.36,
+  "end": 104.31,
+  "text": "Man: How was the wedding party? Did you have fun?"
+ },
+ {
+  "id": 30,
+  "start": 105.18,
+  "end": 109.71,
+  "text": "Woman: Yes, it was fun. The food was delicious."
+ },
+ {
+  "id": 31,
+  "start": 110.21,
+  "end": 111.79,
+  "text": "Man: What food did they have?"
+ },
+ {
+  "id": 32,
+  "start": 112.68,
+  "end": 117.42,
+  "text": "Woman: There was a salad bar, a drink bar, and a buffet."
+ },
+ {
+  "id": 33,
+  "start": 118.11,
+  "end": 121.1,
+  "text": "Man: That sounds nice! Was there a band?"
+ },
+ {
+  "id": 34,
+  "start": 121.83,
+  "end": 124.47,
+  "text": "Woman: No, but there was a DJ."
+ },
+ {
+  "id": 35,
+  "start": 125.24,
+  "end": 127.74,
+  "text": "Man: Cool! How was the music?"
+ },
+ {
+  "id": 36,
+  "start": 128.6,
+  "end": 133.76,
+  "text": "Woman: Not great. All the songs they played were really old."
+ },
+ {
+  "id": 37,
+  "start": 134.46,
+  "end": 136.62,
+  "text": "Man: That sounds like a boring party."
+ },
+ {
+  "id": 38,
+  "start": 137.36,
+  "end": 143.6,
+  "text": "Woman: No, it was fun. The atmosphere was good. Everyone had a good time."
+ }
+]

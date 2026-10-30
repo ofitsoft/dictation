@@ -1,0 +1,128 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1006"]=[
+ {
+  "id": 1,
+  "start": 3.53,
+  "end": 5.17,
+  "text": "My name is Sarah."
+ },
+ {
+  "id": 2,
+  "start": 5.59,
+  "end": 7.57,
+  "text": "I am 14 years old."
+ },
+ {
+  "id": 3,
+  "start": 7.94,
+  "end": 9.71,
+  "text": "I have a pet cat."
+ },
+ {
+  "id": 4,
+  "start": 10.29,
+  "end": 12.65,
+  "text": "My cat's name is Milo."
+ },
+ {
+  "id": 5,
+  "start": 13.16,
+  "end": 15.46,
+  "text": "My cat is black and white."
+ },
+ {
+  "id": 6,
+  "start": 16.02,
+  "end": 18.39,
+  "text": "Milo's paws are white."
+ },
+ {
+  "id": 7,
+  "start": 18.99,
+  "end": 21.2,
+  "text": "Milo's body is black."
+ },
+ {
+  "id": 8,
+  "start": 21.67,
+  "end": 23.54,
+  "text": "She is very cute."
+ },
+ {
+  "id": 9,
+  "start": 24.09,
+  "end": 26.77,
+  "text": "Milo's fur is very soft."
+ },
+ {
+  "id": 10,
+  "start": 27.37,
+  "end": 29.94,
+  "text": "Milo was a very small kitten."
+ },
+ {
+  "id": 11,
+  "start": 30.58,
+  "end": 33.24,
+  "text": "Milo is a very big cat."
+ },
+ {
+  "id": 12,
+  "start": 33.84,
+  "end": 36.2,
+  "text": "Milo cannot have kittens."
+ },
+ {
+  "id": 13,
+  "start": 36.55,
+  "end": 38.1,
+  "text": "She is fixed."
+ },
+ {
+  "id": 14,
+  "start": 38.77,
+  "end": 40.5,
+  "text": "Milo likes to eat."
+ },
+ {
+  "id": 15,
+  "start": 41.11,
+  "end": 43.5,
+  "text": "Milo likes to play outside."
+ },
+ {
+  "id": 16,
+  "start": 44.2,
+  "end": 47.0,
+  "text": "Milo likes to hunt for birds."
+ },
+ {
+  "id": 17,
+  "start": 47.64,
+  "end": 50.01,
+  "text": "Milo likes to hunt for mice."
+ },
+ {
+  "id": 18,
+  "start": 50.71,
+  "end": 52.97,
+  "text": "She likes her ears scratched."
+ },
+ {
+  "id": 19,
+  "start": 53.6,
+  "end": 56.24,
+  "text": "Milo likes to sit in my lap."
+ },
+ {
+  "id": 20,
+  "start": 57.06,
+  "end": 59.64,
+  "text": "Milo likes to sleep on my bed."
+ },
+ {
+  "id": 21,
+  "start": 60.21,
+  "end": 62.43,
+  "text": "Milo is a good pet."
+ }
+];

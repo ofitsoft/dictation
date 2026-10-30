@@ -1,0 +1,158 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1072"]=[
+ {
+  "id": 1,
+  "start": 2.81,
+  "end": 7.87,
+  "text": "Once the fall is over and the snowflakes start to fall I get very excited."
+ },
+ {
+  "id": 2,
+  "start": 7.89,
+  "end": 12.56,
+  "text": "I can hardly wait for the ground to be covered with a blanket of white snow."
+ },
+ {
+  "id": 3,
+  "start": 13.04,
+  "end": 20.15,
+  "text": "I put on my mittens, my scarf, my hat, coat and winter boots, and I run out into the fluffy snow."
+ },
+ {
+  "id": 4,
+  "start": 20.63,
+  "end": 23.48,
+  "text": "I have to be careful not to slip on the ice."
+ },
+ {
+  "id": 5,
+  "start": 24.01,
+  "end": 26.68,
+  "text": "It can get very icy and cold in the winter."
+ },
+ {
+  "id": 6,
+  "start": 27.05,
+  "end": 30.08,
+  "text": "The first thing that I do is to build a snowman."
+ },
+ {
+  "id": 7,
+  "start": 30.16,
+  "end": 32.37,
+  "text": "I sometimes build a snow fort too."
+ },
+ {
+  "id": 8,
+  "start": 32.37,
+  "end": 35.53,
+  "text": "My friends and I like to have a good snowball fight."
+ },
+ {
+  "id": 9,
+  "start": 35.91,
+  "end": 39.6,
+  "text": "We laugh a lot, and our cheeks and noses get very red."
+ },
+ {
+  "id": 10,
+  "start": 40.11,
+  "end": 44.78,
+  "text": "When we get too cold, we go into the house and have a cup of hot chocolate."
+ },
+ {
+  "id": 11,
+  "start": 45.28,
+  "end": 50.33,
+  "text": "My father fills the backyard with water that freezes and turns into an ice rink."
+ },
+ {
+  "id": 12,
+  "start": 50.52,
+  "end": 55.95,
+  "text": "When the ice is hard enough, my friends and I get our skates and we go out on the ice to play hockey."
+ },
+ {
+  "id": 13,
+  "start": 56.21,
+  "end": 58.67,
+  "text": "All of my friends own hockey sticks."
+ },
+ {
+  "id": 14,
+  "start": 58.94,
+  "end": 63.77,
+  "text": "I am usually the goalie, and I have to keep the puck from going into the net."
+ },
+ {
+  "id": 15,
+  "start": 64.18,
+  "end": 67.61,
+  "text": "My sister and her friends don't really like to play hockey."
+ },
+ {
+  "id": 16,
+  "start": 67.79,
+  "end": 70.33,
+  "text": "They would rather just skate around on the ice."
+ },
+ {
+  "id": 17,
+  "start": 70.65,
+  "end": 74.36,
+  "text": "I took skating lessons, so I don't usually fall down."
+ },
+ {
+  "id": 18,
+  "start": 74.73,
+  "end": 79.14,
+  "text": "My little brother is just learning to skate, so he falls down a lot."
+ },
+ {
+  "id": 19,
+  "start": 79.15,
+  "end": 83.26,
+  "text": "My father has to shovel the snow off the paths and the driveway in the winter."
+ },
+ {
+  "id": 20,
+  "start": 83.42,
+  "end": 84.3,
+  "text": "I help him."
+ },
+ {
+  "id": 21,
+  "start": 84.46,
+  "end": 86.9,
+  "text": "Shovelling snow is hard work."
+ },
+ {
+  "id": 22,
+  "start": 86.88,
+  "end": 93.95,
+  "text": "When my Dad and I finish shovelling the driveway, we go into the house and warm our hands and feet in front of the fireplace."
+ },
+ {
+  "id": 23,
+  "start": 94.42,
+  "end": 99.49,
+  "text": "There is probably nothing more beautiful than fresh fallen snow on the trees."
+ },
+ {
+  "id": 24,
+  "start": 99.42,
+  "end": 103.54,
+  "text": "In the morning, when the sun shines on the snow, it glistens."
+ },
+ {
+  "id": 25,
+  "start": 103.77,
+  "end": 106.09,
+  "text": "I like to leave my footprints in the snow."
+ },
+ {
+  "id": 26,
+  "start": 106.29,
+  "end": 109.67,
+  "text": "Winter can be very beautiful and exciting."
+ }
+];

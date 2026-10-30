@@ -1,0 +1,200 @@
+[
+ {
+  "id": 1,
+  "start": 0.84,
+  "end": 2.38,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.26,
+  "end": 4.63,
+  "text": "Man: Do you play sports?"
+ },
+ {
+  "id": 3,
+  "start": 5.42,
+  "end": 9.07,
+  "text": "Woman: Yes, I do. I really love basketball."
+ },
+ {
+  "id": 4,
+  "start": 9.75,
+  "end": 11.15,
+  "text": "Man: Do you play on a team?"
+ },
+ {
+  "id": 5,
+  "start": 11.97,
+  "end": 15.05,
+  "text": "Woman: Yes, but we do not play in winter."
+ },
+ {
+  "id": 6,
+  "start": 15.73,
+  "end": 18.06,
+  "text": "Man: Oh, do you play in summer?"
+ },
+ {
+  "id": 7,
+  "start": 18.95,
+  "end": 22.57,
+  "text": "Woman: Yes, we play in spring and summer."
+ },
+ {
+  "id": 8,
+  "start": 23.51,
+  "end": 25.66,
+  "text": "Man: Do you play at the gym in town?"
+ },
+ {
+  "id": 9,
+  "start": 26.61,
+  "end": 29.07,
+  "text": "Woman: No, we play at a high school."
+ },
+ {
+  "id": 10,
+  "start": 30.86,
+  "end": 32.66,
+  "text": "Conversation 2 ."
+ },
+ {
+  "id": 11,
+  "start": 33.16,
+  "end": 35.26,
+  "text": "Man: Do you have any pets?"
+ },
+ {
+  "id": 12,
+  "start": 35.39,
+  "end": 40.96,
+  "text": "Woman: Yes, I have a cat. What about you? Do you?"
+ },
+ {
+  "id": 13,
+  "start": 41.58,
+  "end": 44.73,
+  "text": "Man: I don't have a cat, but I have a dog."
+ },
+ {
+  "id": 14,
+  "start": 45.65,
+  "end": 48.85,
+  "text": "Woman: Nice! Do you have a big yard?"
+ },
+ {
+  "id": 15,
+  "start": 49.52,
+  "end": 54.21,
+  "text": "Man: Yes, I have a big yard, so it is perfect for my dog."
+ },
+ {
+  "id": 16,
+  "start": 55.12,
+  "end": 59.68,
+  "text": "Woman: Yeah, I don't have a yard, so I can only have a cat."
+ },
+ {
+  "id": 17,
+  "start": 61.8,
+  "end": 63.36,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 18,
+  "start": 64.42,
+  "end": 66.28,
+  "text": "Man: Do you cook much?"
+ },
+ {
+  "id": 19,
+  "start": 66.75,
+  "end": 71.1,
+  "text": "Woman: Yes, I cook all the time. Do you cook?"
+ },
+ {
+  "id": 20,
+  "start": 72.04,
+  "end": 75.14,
+  "text": "Man: No, I don't like to cook very much."
+ },
+ {
+  "id": 21,
+  "start": 75.94,
+  "end": 78.99,
+  "text": "Woman: Oh, so do you buy your dinner?"
+ },
+ {
+  "id": 22,
+  "start": 79.84,
+  "end": 82.38,
+  "text": "Man: Yes, I buy it at the supermarket."
+ },
+ {
+  "id": 23,
+  "start": 83.23,
+  "end": 85.99,
+  "text": "Woman: Do you buy dinner every night?"
+ },
+ {
+  "id": 24,
+  "start": 86.65,
+  "end": 89.11,
+  "text": "Man: Yes, I never cook."
+ },
+ {
+  "id": 25,
+  "start": 89.83,
+  "end": 92.73,
+  "text": "Woman: Wow! That is expensive."
+ },
+ {
+  "id": 26,
+  "start": 94.32,
+  "end": 95.95,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 27,
+  "start": 96.96,
+  "end": 98.63,
+  "text": "Man: Do you live downtown?"
+ },
+ {
+  "id": 28,
+  "start": 99.62,
+  "end": 102.69,
+  "text": "Woman: Yes, I live near the train station."
+ },
+ {
+  "id": 29,
+  "start": 103.78,
+  "end": 105.71,
+  "text": "Man: Do you take the train to work?"
+ },
+ {
+  "id": 30,
+  "start": 106.8,
+  "end": 110.29,
+  "text": "Woman: Yes, most days. What about you?"
+ },
+ {
+  "id": 31,
+  "start": 111.05,
+  "end": 114.29,
+  "text": "Man: I live far away, so I drive to work."
+ },
+ {
+  "id": 32,
+  "start": 115.5,
+  "end": 117.44,
+  "text": "Woman: Do you have a nice car?"
+ },
+ {
+  "id": 33,
+  "start": 118.02,
+  "end": 121.64,
+  "text": "Man: No, my car is old, but I like it."
+ }
+]

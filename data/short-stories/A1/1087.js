@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1087"]=[
+ {
+  "id": 1,
+  "start": 2.96,
+  "end": 4.64,
+  "text": "Do you watch television?"
+ },
+ {
+  "id": 2,
+  "start": 5.14,
+  "end": 8.6,
+  "text": "My mother says that I watch too much television."
+ },
+ {
+  "id": 3,
+  "start": 9.02,
+  "end": 11.96,
+  "text": "I watch cartoons on Saturday mornings."
+ },
+ {
+  "id": 4,
+  "start": 12.49,
+  "end": 14.45,
+  "text": "Cartoons make me laugh."
+ },
+ {
+  "id": 5,
+  "start": 14.97,
+  "end": 18.89,
+  "text": "My brother and I each have our favorite cartoons."
+ },
+ {
+  "id": 6,
+  "start": 19.21,
+  "end": 22.94,
+  "text": "We have trouble deciding which cartoons we will watch."
+ },
+ {
+  "id": 7,
+  "start": 23.66,
+  "end": 27.6,
+  "text": "On Saturday afternoons we like to watch sports."
+ },
+ {
+  "id": 8,
+  "start": 28.04,
+  "end": 37.24,
+  "text": "My brother really likes to watch baseball, but usually my mother tells us to go out and play on a Saturday afternoon."
+ },
+ {
+  "id": 9,
+  "start": 37.72,
+  "end": 42.26,
+  "text": "On week nights we have our own favorite shows."
+ },
+ {
+  "id": 10,
+  "start": 42.16,
+  "end": 45.92,
+  "text": "I like shows about outer space and monsters."
+ },
+ {
+  "id": 11,
+  "start": 45.96,
+  "end": 48.51,
+  "text": "My brother likes comedies."
+ },
+ {
+  "id": 12,
+  "start": 48.79,
+  "end": 50.61,
+  "text": "He likes to laugh."
+ },
+ {
+  "id": 13,
+  "start": 50.88,
+  "end": 54.93,
+  "text": "My mother likes shows about real life situations."
+ },
+ {
+  "id": 14,
+  "start": 55.36,
+  "end": 57.6,
+  "text": "She likes to watch the news."
+ },
+ {
+  "id": 15,
+  "start": 57.9,
+  "end": 61.02,
+  "text": "She says that the news is important."
+ },
+ {
+  "id": 16,
+  "start": 61.19,
+  "end": 66.41,
+  "text": "She watches the news and weather to find out what is going on in the world."
+ },
+ {
+  "id": 17,
+  "start": 67.06,
+  "end": 71.83,
+  "text": "Sometimes she watches real life shows about doctors or policemen."
+ },
+ {
+  "id": 18,
+  "start": 72.51,
+  "end": 75.41,
+  "text": "My father doesn't watch television."
+ },
+ {
+  "id": 19,
+  "start": 75.3,
+  "end": 80.57,
+  "text": "He says that he would rather read a good book or the newspaper."
+ },
+ {
+  "id": 20,
+  "start": 81.18,
+  "end": 84.81,
+  "text": "My dad gets all his news from the newspaper."
+ },
+ {
+  "id": 21,
+  "start": 85.3,
+  "end": 93.13,
+  "text": "My favorite thing is to sit in front of the television with a bag of popcorn and a bottle of pop."
+ },
+ {
+  "id": 22,
+  "start": 93.26,
+  "end": 97.88,
+  "text": "I sit there and change the channels with the remote control."
+ },
+ {
+  "id": 23,
+  "start": 97.93,
+  "end": 102.21,
+  "text": "I change channels and watch a few different shows at once."
+ },
+ {
+  "id": 24,
+  "start": 102.85,
+  "end": 105.97,
+  "text": "My mother won't let me watch too much television."
+ },
+ {
+  "id": 25,
+  "start": 106.15,
+  "end": 108.74,
+  "text": "She doesn't want me to get lazy."
+ },
+ {
+  "id": 26,
+  "start": 108.91,
+  "end": 113.95,
+  "text": "Television is good if you don't spend too much time watching it."
+ },
+ {
+  "id": 27,
+  "start": 114.47,
+  "end": 119.6,
+  "text": "You can learn a lot from television if you watch the educational channels."
+ },
+ {
+  "id": 28,
+  "start": 119.93,
+  "end": 126.47,
+  "text": "I learned about dinosaurs and rainforests last week just from watching television."
+ }
+];

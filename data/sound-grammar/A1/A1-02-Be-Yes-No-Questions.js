@@ -1,0 +1,218 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-02-Be-Yes-No-Questions"]=[
+ {
+  "id": 1,
+  "start": 0.86,
+  "end": 2.38,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.28,
+  "end": 4.28,
+  "text": "Man: Are you hot?"
+ },
+ {
+  "id": 3,
+  "start": 5.38,
+  "end": 7.79,
+  "text": "Woman: Yes, I am very hot."
+ },
+ {
+  "id": 4,
+  "start": 8.34,
+  "end": 10.19,
+  "text": "Man: Is the air-conditioning on?"
+ },
+ {
+  "id": 5,
+  "start": 11.02,
+  "end": 12.51,
+  "text": "Woman: No, it is off."
+ },
+ {
+  "id": 6,
+  "start": 13.12,
+  "end": 14.56,
+  "text": "Man: Can I turn it on?"
+ },
+ {
+  "id": 7,
+  "start": 15.35,
+  "end": 19.68,
+  "text": "Woman: Yes, please do. And can you turn on the radio, too?"
+ },
+ {
+  "id": 8,
+  "start": 20.29,
+  "end": 23.37,
+  "text": "Man: Of course. Is jazz music alright?"
+ },
+ {
+  "id": 9,
+  "start": 23.89,
+  "end": 26.42,
+  "text": "Woman: Yes, I love jazz music."
+ },
+ {
+  "id": 10,
+  "start": 28.18,
+  "end": 29.64,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 11,
+  "start": 30.53,
+  "end": 32.23,
+  "text": "Man: Is your house big?"
+ },
+ {
+  "id": 12,
+  "start": 32.87,
+  "end": 35.02,
+  "text": "Woman: Yes, it is pretty big."
+ },
+ {
+  "id": 13,
+  "start": 35.53,
+  "end": 36.67,
+  "text": "Man: Is it new?"
+ },
+ {
+  "id": 14,
+  "start": 37.15,
+  "end": 39.56,
+  "text": "Woman: No, it is very old."
+ },
+ {
+  "id": 15,
+  "start": 40.23,
+  "end": 41.44,
+  "text": "Man: Is it nice?"
+ },
+ {
+  "id": 16,
+  "start": 42.18,
+  "end": 45.4,
+  "text": "Woman: Not really. It is cold in winter."
+ },
+ {
+  "id": 17,
+  "start": 45.9,
+  "end": 48.47,
+  "text": "Man: Oh, no! That’s not good."
+ },
+ {
+  "id": 18,
+  "start": 49.67,
+  "end": 51.35,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 19,
+  "start": 52.19,
+  "end": 54.93,
+  "text": "Man: I like your shoes. Are they new?"
+ },
+ {
+  "id": 20,
+  "start": 55.54,
+  "end": 57.22,
+  "text": "Woman: Yes, they are."
+ },
+ {
+  "id": 21,
+  "start": 57.79,
+  "end": 59.25,
+  "text": "Man: Are they expensive?"
+ },
+ {
+  "id": 22,
+  "start": 59.92,
+  "end": 62.39,
+  "text": "Woman: No, they are very cheap."
+ },
+ {
+  "id": 23,
+  "start": 63.15,
+  "end": 64.62,
+  "text": "Man: Are they comfortable?"
+ },
+ {
+  "id": 24,
+  "start": 65.26,
+  "end": 68.07,
+  "text": "Woman: Yes, they are very comfortable."
+ },
+ {
+  "id": 25,
+  "start": 69.32,
+  "end": 71.68,
+  "text": "Man: Are they from the discount shoe shop?"
+ },
+ {
+  "id": 26,
+  "start": 72.3,
+  "end": 74.81,
+  "text": "Woman: Yes! How did you guess?"
+ },
+ {
+  "id": 27,
+  "start": 76.37,
+  "end": 77.99,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 28,
+  "start": 78.74,
+  "end": 80.22,
+  "text": "Man: Are you hungry?"
+ },
+ {
+  "id": 29,
+  "start": 80.82,
+  "end": 83.71,
+  "text": "Woman: Yes, I am very hungry."
+ },
+ {
+  "id": 30,
+  "start": 84.17,
+  "end": 85.68,
+  "text": "Man: Do you want pizza?"
+ },
+ {
+  "id": 31,
+  "start": 86.19,
+  "end": 88.62,
+  "text": "Woman: Yes, let's get some."
+ },
+ {
+  "id": 32,
+  "start": 89.18,
+  "end": 91.14,
+  "text": "Man: Is the pizza shop still open?"
+ },
+ {
+  "id": 33,
+  "start": 91.79,
+  "end": 94.45,
+  "text": "Woman: Yes, it is open until 10."
+ },
+ {
+  "id": 34,
+  "start": 95.69,
+  "end": 97.29,
+  "text": "Man: What time is it now?"
+ },
+ {
+  "id": 35,
+  "start": 98.54,
+  "end": 102.01,
+  "text": "Woman: Eight. It’s open for two more hours."
+ },
+ {
+  "id": 36,
+  "start": 102.41,
+  "end": 104.73,
+  "text": "Man: Great! I’m starving."
+ }
+];

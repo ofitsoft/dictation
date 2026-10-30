@@ -1,0 +1,248 @@
+[
+ {
+  "id": 1,
+  "start": 0.89,
+  "end": 2.46,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.32,
+  "end": 6.73,
+  "text": "Man: Where is Sue? She is not in class today."
+ },
+ {
+  "id": 3,
+  "start": 7.94,
+  "end": 11.74,
+  "text": "Woman: She may have a game. She is on the basketball team."
+ },
+ {
+  "id": 4,
+  "start": 12.44,
+  "end": 17.9,
+  "text": "Man: No, that can’t be it, the season is over. Maybe she is sick."
+ },
+ {
+  "id": 5,
+  "start": 18.91,
+  "end": 22.8,
+  "text": "Woman: She might be sick. She looked tired yesterday."
+ },
+ {
+  "id": 6,
+  "start": 23.43,
+  "end": 27.39,
+  "text": "Man: That might be it. I’ll call her and see if she’s OK."
+ },
+ {
+  "id": 7,
+  "start": 27.8,
+  "end": 31.73,
+  "text": "Woman: No, don’t do that. She might be sleeping."
+ },
+ {
+  "id": 8,
+  "start": 32.35,
+  "end": 35.86,
+  "text": "Man: You’re right. I will wait for her to contact us."
+ },
+ {
+  "id": 9,
+  "start": 36.39,
+  "end": 40.86,
+  "text": "Woman: Who knows? She might come today, she may just be late."
+ },
+ {
+  "id": 10,
+  "start": 42.38,
+  "end": 43.9,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 11,
+  "start": 44.96,
+  "end": 46.55,
+  "text": "Man: When will you retire?"
+ },
+ {
+  "id": 12,
+  "start": 47.58,
+  "end": 50.05,
+  "text": "Woman: I might retire next year."
+ },
+ {
+  "id": 13,
+  "start": 50.57,
+  "end": 55.12,
+  "text": "Man: Really? So soon! What will you do after you retire?"
+ },
+ {
+  "id": 14,
+  "start": 56.39,
+  "end": 60.01,
+  "text": "Woman: I will probably travel. I love travelling."
+ },
+ {
+  "id": 15,
+  "start": 60.57,
+  "end": 63.32,
+  "text": "Man: That sounds fun. Where will you go?"
+ },
+ {
+  "id": 16,
+  "start": 64.32,
+  "end": 68.77,
+  "text": "Woman: I’ll probably go to Europe, but I may go to Asia."
+ },
+ {
+  "id": 17,
+  "start": 69.33,
+  "end": 73.27,
+  "text": "Man: Well, you will have lots of time. You can do both."
+ },
+ {
+  "id": 18,
+  "start": 74.11,
+  "end": 76.97,
+  "text": "Woman: You’re right. I might do both."
+ },
+ {
+  "id": 19,
+  "start": 77.87,
+  "end": 81.46,
+  "text": "Man: What about hobbies? I know you like to play golf."
+ },
+ {
+  "id": 20,
+  "start": 82.73,
+  "end": 87.66,
+  "text": "Woman: I probably won’t play golf that much. It’s too expensive."
+ },
+ {
+  "id": 21,
+  "start": 89.35,
+  "end": 90.98,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 22,
+  "start": 92.24,
+  "end": 96.51,
+  "text": "Man: The mall is so crowded today. I cannot find parking."
+ },
+ {
+  "id": 23,
+  "start": 97.66,
+  "end": 103.53,
+  "text": "Woman: I know! It’s full. There might be a sale at the department store."
+ },
+ {
+  "id": 24,
+  "start": 104.1,
+  "end": 107.87,
+  "text": "Man: Maybe, or there might be a special event."
+ },
+ {
+  "id": 25,
+  "start": 108.85,
+  "end": 111.6,
+  "text": "Woman: Perhaps. What could it be?"
+ },
+ {
+  "id": 26,
+  "start": 112.35,
+  "end": 114.79,
+  "text": "Man: There might be a concert or festival."
+ },
+ {
+  "id": 27,
+  "start": 115.6,
+  "end": 120.31,
+  "text": "Woman: That could be it. I didn’t hear anything on the news, though."
+ },
+ {
+  "id": 28,
+  "start": 120.47,
+  "end": 125.37,
+  "text": "Man: Well, there might not be any parking for a while. Should we go home?"
+ },
+ {
+  "id": 29,
+  "start": 126.08,
+  "end": 130.82,
+  "text": "Woman: No, let’s wait. A space might open up soon."
+ },
+ {
+  "id": 30,
+  "start": 131.48,
+  "end": 135.21,
+  "text": "Man: Look! Here comes someone. They might be leaving."
+ },
+ {
+  "id": 31,
+  "start": 136.21,
+  "end": 139.54,
+  "text": "Woman: They may be. Let’s see if they leave."
+ },
+ {
+  "id": 32,
+  "start": 140.76,
+  "end": 142.41,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 33,
+  "start": 143.46,
+  "end": 144.86,
+  "text": "Man: Where are the kids?"
+ },
+ {
+  "id": 34,
+  "start": 145.98,
+  "end": 150.33,
+  "text": "Woman: No one is home yet. They may not come home for dinner."
+ },
+ {
+  "id": 35,
+  "start": 151.04,
+  "end": 153.86,
+  "text": "Man: How come? Where is Jason?"
+ },
+ {
+  "id": 36,
+  "start": 154.49,
+  "end": 159.07,
+  "text": "Woman: I think he’s with his friends. They might be at the mall."
+ },
+ {
+  "id": 37,
+  "start": 160.27,
+  "end": 161.79,
+  "text": "Man: What about Melanie?"
+ },
+ {
+  "id": 38,
+  "start": 162.97,
+  "end": 167.01,
+  "text": "Woman: She’s not home yet. She might still be at school."
+ },
+ {
+  "id": 39,
+  "start": 167.58,
+  "end": 171.01,
+  "text": "Man: Well, I’m hungry. Let’s eat without them."
+ },
+ {
+  "id": 40,
+  "start": 172.32,
+  "end": 177.57,
+  "text": "Woman: No, let’s wait a little longer. They might be home soon."
+ },
+ {
+  "id": 41,
+  "start": 178.33,
+  "end": 181.25,
+  "text": "Man: OK, but not too much longer."
+ }
+]

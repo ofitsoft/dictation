@@ -1,0 +1,236 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A1/A1-07-Adjectives"]=[
+ {
+  "id": 1,
+  "start": 1.15,
+  "end": 2.77,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.76,
+  "end": 5.26,
+  "text": "Man: How are your classes?"
+ },
+ {
+  "id": 3,
+  "start": 6.15,
+  "end": 10.31,
+  "text": "Woman: Good. I really like my English class."
+ },
+ {
+  "id": 4,
+  "start": 10.92,
+  "end": 14.65,
+  "text": "Man: That’s good. My English class is fun, too."
+ },
+ {
+  "id": 5,
+  "start": 15.8,
+  "end": 17.87,
+  "text": "Woman: How is your Math class?"
+ },
+ {
+  "id": 6,
+  "start": 18.58,
+  "end": 22.43,
+  "text": "Man: It’s easy, but the room is small and hot."
+ },
+ {
+  "id": 7,
+  "start": 23.46,
+  "end": 24.88,
+  "text": "Woman: Who is the teacher?"
+ },
+ {
+  "id": 8,
+  "start": 25.86,
+  "end": 30.85,
+  "text": "Man: Mrs. Jones. She is really nice and her classes are interesting."
+ },
+ {
+  "id": 9,
+  "start": 32.01,
+  "end": 34.78,
+  "text": "Woman: And what about your Science class?"
+ },
+ {
+  "id": 10,
+  "start": 35.43,
+  "end": 38.34,
+  "text": "Man: It’s really hard. I hate it!"
+ },
+ {
+  "id": 11,
+  "start": 39.79,
+  "end": 41.41,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 12,
+  "start": 42.61,
+  "end": 44.48,
+  "text": "Woman: Hello, can I help you?"
+ },
+ {
+  "id": 13,
+  "start": 45.43,
+  "end": 48.48,
+  "text": "Man: Yes, can I have a cafe mocha?"
+ },
+ {
+  "id": 14,
+  "start": 49.45,
+  "end": 51.99,
+  "text": "Woman: OK, hot or cold?"
+ },
+ {
+  "id": 15,
+  "start": 52.79,
+  "end": 55.83,
+  "text": "Man: Iced mocha, please. Is it sweet?"
+ },
+ {
+  "id": 16,
+  "start": 56.85,
+  "end": 60.29,
+  "text": "Woman: Yes, a little. Do you still want it?"
+ },
+ {
+  "id": 17,
+  "start": 60.95,
+  "end": 62.47,
+  "text": "Man: Yes, I do."
+ },
+ {
+  "id": 18,
+  "start": 63.45,
+  "end": 65.36,
+  "text": "Woman: What size do you want?"
+ },
+ {
+  "id": 19,
+  "start": 66.07,
+  "end": 67.41,
+  "text": "Man: Large, please."
+ },
+ {
+  "id": 20,
+  "start": 68.47,
+  "end": 71.63,
+  "text": "Woman: OK, that will be 6.50."
+ },
+ {
+  "id": 21,
+  "start": 72.32,
+  "end": 74.75,
+  "text": "Man: Wow! That’s expensive."
+ },
+ {
+  "id": 22,
+  "start": 75.56,
+  "end": 77.72,
+  "text": "Woman: Yeah, it’s not cheap."
+ },
+ {
+  "id": 23,
+  "start": 79.38,
+  "end": 81.01,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 24,
+  "start": 82.06,
+  "end": 84.02,
+  "text": "Man: What a beautiful day!"
+ },
+ {
+  "id": 25,
+  "start": 84.92,
+  "end": 87.88,
+  "text": "Woman: Yes, the weather is perfect."
+ },
+ {
+  "id": 26,
+  "start": 88.74,
+  "end": 90.74,
+  "text": "Man: How is the wifi speed?"
+ },
+ {
+  "id": 27,
+  "start": 91.13,
+  "end": 94.88,
+  "text": "Woman: It’s fast, but my computer is slow."
+ },
+ {
+  "id": 28,
+  "start": 95.58,
+  "end": 100.84,
+  "text": "Man: My computer is slow, too. It's very old. I want a new one."
+ },
+ {
+  "id": 29,
+  "start": 101.59,
+  "end": 106.36,
+  "text": "Woman: Me, too, but new computers are so expensive."
+ },
+ {
+  "id": 30,
+  "start": 106.88,
+  "end": 109.57,
+  "text": "Man: I know. They cost a lot."
+ },
+ {
+  "id": 31,
+  "start": 111.02,
+  "end": 112.66,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 32,
+  "start": 114.3,
+  "end": 115.58,
+  "text": "Man: How is your food?"
+ },
+ {
+  "id": 33,
+  "start": 116.6,
+  "end": 120.17,
+  "text": "Woman: It is OK, but it’s a little spicy."
+ },
+ {
+  "id": 34,
+  "start": 120.8,
+  "end": 122.79,
+  "text": "Man: My food is spicy, too."
+ },
+ {
+  "id": 35,
+  "start": 123.67,
+  "end": 124.89,
+  "text": "Woman: Do you like it?"
+ },
+ {
+  "id": 36,
+  "start": 125.65,
+  "end": 129.78,
+  "text": "Man: Yes, it’s very delicious, but I am full."
+ },
+ {
+  "id": 37,
+  "start": 131.01,
+  "end": 133.64,
+  "text": "Woman: Really, I am still hungry."
+ },
+ {
+  "id": 38,
+  "start": 134.35,
+  "end": 138.07,
+  "text": "Man: Oh, then please have mine. I am finished."
+ },
+ {
+  "id": 39,
+  "start": 139.01,
+  "end": 142.67,
+  "text": "Woman: Thank you! That’s so nice of you."
+ }
+];

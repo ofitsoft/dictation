@@ -1,0 +1,182 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A2/A2-21-Stative-Verbs"]=[
+ {
+  "id": 1,
+  "start": 1.01,
+  "end": 2.68,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.66,
+  "end": 6.72,
+  "text": "Man: What are you cooking? It smells great."
+ },
+ {
+  "id": 3,
+  "start": 7.57,
+  "end": 9.75,
+  "text": "Woman: I am making chicken stew."
+ },
+ {
+  "id": 4,
+  "start": 10.37,
+  "end": 12.87,
+  "text": "Man: Oh, it looks so good."
+ },
+ {
+  "id": 5,
+  "start": 13.54,
+  "end": 15.26,
+  "text": "Woman: Here, have a taste."
+ },
+ {
+  "id": 6,
+  "start": 16.12,
+  "end": 19.24,
+  "text": "Man: Oh my gosh! This tastes fantastic."
+ },
+ {
+  "id": 7,
+  "start": 19.73,
+  "end": 22.04,
+  "text": "Woman: I am so glad you like it!"
+ },
+ {
+  "id": 8,
+  "start": 23.19,
+  "end": 24.82,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 25.67,
+  "end": 28.28,
+  "text": "Man: Wow! You look stunning."
+ },
+ {
+  "id": 10,
+  "start": 29.04,
+  "end": 31.37,
+  "text": "Woman: Thanks. I have a date."
+ },
+ {
+  "id": 11,
+  "start": 31.95,
+  "end": 34.04,
+  "text": "Man: Ooh. Where are you going?"
+ },
+ {
+  "id": 12,
+  "start": 34.75,
+  "end": 37.23,
+  "text": "Woman: I’m going to the new Mexican restaurant."
+ },
+ {
+  "id": 13,
+  "start": 38.0,
+  "end": 39.18,
+  "text": "Man: That sounds fun."
+ },
+ {
+  "id": 14,
+  "start": 39.89,
+  "end": 42.17,
+  "text": "Woman: I’d invite you but…"
+ },
+ {
+  "id": 15,
+  "start": 42.57,
+  "end": 46.26,
+  "text": "Man: Yeah, yeah, I know. It’s a date. Have fun!"
+ },
+ {
+  "id": 16,
+  "start": 47.23,
+  "end": 48.92,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 17,
+  "start": 49.98,
+  "end": 52.91,
+  "text": "Man: What’s wrong? You look terrible."
+ },
+ {
+  "id": 18,
+  "start": 53.81,
+  "end": 56.95,
+  "text": "Woman: I feel terrible. I have a cold."
+ },
+ {
+  "id": 19,
+  "start": 57.41,
+  "end": 59.48,
+  "text": "Man: Oh, sorry to hear that."
+ },
+ {
+  "id": 20,
+  "start": 60.19,
+  "end": 61.53,
+  "text": "Woman: Any advice?"
+ },
+ {
+  "id": 21,
+  "start": 62.45,
+  "end": 65.35,
+  "text": "Man: Well, I hear vinegar and lemon juice helps."
+ },
+ {
+  "id": 22,
+  "start": 66.01,
+  "end": 69.57,
+  "text": "Woman: That sounds awful. No thanks."
+ },
+ {
+  "id": 23,
+  "start": 70.75,
+  "end": 72.41,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 24,
+  "start": 73.19,
+  "end": 76.05,
+  "text": "Man: I like your sweater. Is it wool?"
+ },
+ {
+  "id": 25,
+  "start": 76.76,
+  "end": 79.64,
+  "text": "Woman: No, it is cotton. Feel it?"
+ },
+ {
+  "id": 26,
+  "start": 80.47,
+  "end": 82.84,
+  "text": "Man: Wow, it feels so soft."
+ },
+ {
+  "id": 27,
+  "start": 83.28,
+  "end": 86.45,
+  "text": "Woman: It is. It is so comfy too."
+ },
+ {
+  "id": 28,
+  "start": 87.07,
+  "end": 89.49,
+  "text": "Man: It looks comfy. I want one."
+ },
+ {
+  "id": 29,
+  "start": 90.15,
+  "end": 95.25,
+  "text": "Woman: Well, Christmas is almost here. Maybe someone special might get you one."
+ },
+ {
+  "id": 30,
+  "start": 95.49,
+  "end": 98.08,
+  "text": "Man: Ooh! That sounds promising."
+ }
+];

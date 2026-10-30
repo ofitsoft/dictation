@@ -1,0 +1,212 @@
+[
+ {
+  "id": 1,
+  "start": 0.7,
+  "end": 2.8,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.97,
+  "end": 5.73,
+  "text": "Man: Is this your book?"
+ },
+ {
+  "id": 3,
+  "start": 6.8,
+  "end": 9.31,
+  "text": "Woman: Yes, that is my book."
+ },
+ {
+  "id": 4,
+  "start": 10.35,
+  "end": 12.97,
+  "text": "Man: And is this your pencil?"
+ },
+ {
+  "id": 5,
+  "start": 14.13,
+  "end": 20.18,
+  "text": "Woman: No, that is not my pencil. It belongs to my friend."
+ },
+ {
+  "id": 6,
+  "start": 21.09,
+  "end": 23.67,
+  "text": "Man: What about these glasses?"
+ },
+ {
+  "id": 7,
+  "start": 25.02,
+  "end": 29.57,
+  "text": "Woman: I think those glasses belong to the teacher."
+ },
+ {
+  "id": 8,
+  "start": 30.43,
+  "end": 34.43,
+  "text": "Man: Okay, let's leave them here."
+ },
+ {
+  "id": 9,
+  "start": 35.23,
+  "end": 37.43,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 10,
+  "start": 38.23,
+  "end": 40.63,
+  "text": "Man: I like these jeans."
+ },
+ {
+  "id": 11,
+  "start": 41.23,
+  "end": 43.23,
+  "text": "Woman: I like those, too."
+ },
+ {
+  "id": 12,
+  "start": 44.43,
+  "end": 46.53,
+  "text": "Man: Do you like this shirt?"
+ },
+ {
+  "id": 13,
+  "start": 47.53,
+  "end": 52.03,
+  "text": "Woman: No, but I like that shirt."
+ },
+ {
+  "id": 14,
+  "start": 52.23,
+  "end": 54.28,
+  "text": "Man: The blue one?"
+ },
+ {
+  "id": 15,
+  "start": 54.58,
+  "end": 57.43,
+  "text": "Woman: No, the green one."
+ },
+ {
+  "id": 16,
+  "start": 58.62,
+  "end": 62.34,
+  "text": "Man: Hmm, I don't like that color."
+ },
+ {
+  "id": 17,
+  "start": 63.37,
+  "end": 66.15,
+  "text": "Woman: Really, I like it!"
+ },
+ {
+  "id": 18,
+  "start": 67.7,
+  "end": 69.53,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 19,
+  "start": 70.57,
+  "end": 73.43,
+  "text": "Man: How much is this coffee maker?"
+ },
+ {
+  "id": 20,
+  "start": 74.44,
+  "end": 76.81,
+  "text": "Woman: That is ten dollars."
+ },
+ {
+  "id": 21,
+  "start": 77.59,
+  "end": 80.61,
+  "text": "Man: And how much are these plates?"
+ },
+ {
+  "id": 22,
+  "start": 82.15,
+  "end": 85.47,
+  "text": "Woman: Those are five dollars each."
+ },
+ {
+  "id": 23,
+  "start": 86.59,
+  "end": 88.67,
+  "text": "Man: What about these spoons?"
+ },
+ {
+  "id": 24,
+  "start": 90.17,
+  "end": 93.96,
+  "text": "Woman: Those spoons are one dollar each."
+ },
+ {
+  "id": 25,
+  "start": 94.67,
+  "end": 96.15,
+  "text": "Man: I'll take them."
+ },
+ {
+  "id": 26,
+  "start": 97.01,
+  "end": 98.08,
+  "text": "Woman: Sold!"
+ },
+ {
+  "id": 27,
+  "start": 99.57,
+  "end": 101.28,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 28,
+  "start": 102.44,
+  "end": 105.13,
+  "text": "Man: I don’t like this table."
+ },
+ {
+  "id": 29,
+  "start": 106.5,
+  "end": 109.84,
+  "text": "Woman: Why? What is wrong with it?"
+ },
+ {
+  "id": 30,
+  "start": 110.69,
+  "end": 115.55,
+  "text": "Man: It is small. And these chairs are not comfortable."
+ },
+ {
+  "id": 31,
+  "start": 116.66,
+  "end": 120.59,
+  "text": "Woman: Okay, where do you want to sit?"
+ },
+ {
+  "id": 32,
+  "start": 121.79,
+  "end": 125.47,
+  "text": "Man: Let’s sit at that table over there."
+ },
+ {
+  "id": 33,
+  "start": 126.34,
+  "end": 131.31,
+  "text": "Woman: Okay, but those chairs look small, too."
+ },
+ {
+  "id": 34,
+  "start": 132.19,
+  "end": 136.29,
+  "text": "Man: Maybe, but the table is very big."
+ },
+ {
+  "id": 35,
+  "start": 137.53,
+  "end": 140.88,
+  "text": "Woman: Okay! Let’s change tables."
+ }
+]

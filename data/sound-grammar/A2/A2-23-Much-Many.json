@@ -1,0 +1,200 @@
+[
+ {
+  "id": 1,
+  "start": 0.65,
+  "end": 2.23,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.41,
+  "end": 5.61,
+  "text": "Man: Is your town a nice place to live?"
+ },
+ {
+  "id": 3,
+  "start": 6.5,
+  "end": 10.05,
+  "text": "Woman: Yes, there are many nice places in my town."
+ },
+ {
+  "id": 4,
+  "start": 10.55,
+  "end": 12.61,
+  "text": "Man: Oh, yeah. What, for example?"
+ },
+ {
+  "id": 5,
+  "start": 13.32,
+  "end": 17.91,
+  "text": "Woman: Well, we have many nice parks and many nice restaurants."
+ },
+ {
+  "id": 6,
+  "start": 18.53,
+  "end": 21.83,
+  "text": "Man: What about cafes? I like to study at cafes."
+ },
+ {
+  "id": 7,
+  "start": 22.51,
+  "end": 26.05,
+  "text": "Woman: We have a few cafes, but they are not great."
+ },
+ {
+  "id": 8,
+  "start": 26.89,
+  "end": 28.52,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 29.26,
+  "end": 31.92,
+  "text": "Man: I am going to the supermarket. What do we need?"
+ },
+ {
+  "id": 10,
+  "start": 32.46,
+  "end": 35.88,
+  "text": "Woman: We need some milk, some bread and some juice."
+ },
+ {
+  "id": 11,
+  "start": 36.46,
+  "end": 37.75,
+  "text": "Man: Do we need any eggs?"
+ },
+ {
+  "id": 12,
+  "start": 38.23,
+  "end": 40.17,
+  "text": "Woman: No, we have a lot of eggs."
+ },
+ {
+  "id": 13,
+  "start": 40.81,
+  "end": 42.12,
+  "text": "Man: Do we need any butter?"
+ },
+ {
+  "id": 14,
+  "start": 42.91,
+  "end": 45.77,
+  "text": "Woman: Yes, we have a little butter but we need more."
+ },
+ {
+  "id": 15,
+  "start": 46.54,
+  "end": 48.03,
+  "text": "Man: Do we have any apples?"
+ },
+ {
+  "id": 16,
+  "start": 48.61,
+  "end": 51.89,
+  "text": "Woman: We have a few apples but we need some more, I think."
+ },
+ {
+  "id": 17,
+  "start": 53.11,
+  "end": 54.72,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 18,
+  "start": 55.79,
+  "end": 57.51,
+  "text": "Man: Is there a gym at your school?"
+ },
+ {
+  "id": 19,
+  "start": 58.55,
+  "end": 61.02,
+  "text": "Woman: Yes, but it is not very good."
+ },
+ {
+  "id": 20,
+  "start": 61.52,
+  "end": 63.22,
+  "text": "Man: Oh, why is that?"
+ },
+ {
+  "id": 21,
+  "start": 64.0,
+  "end": 66.15,
+  "text": "Woman: Well, there isn’t much equipment."
+ },
+ {
+  "id": 22,
+  "start": 66.63,
+  "end": 70.21,
+  "text": "Man: Oh, that’s too bad. My school has a nice gym."
+ },
+ {
+  "id": 23,
+  "start": 71.04,
+  "end": 72.73,
+  "text": "Woman: Does it have nice equipment?"
+ },
+ {
+  "id": 24,
+  "start": 73.3,
+  "end": 77.24,
+  "text": "Man: Yes, it has lots of weight machines but not many free weights."
+ },
+ {
+  "id": 25,
+  "start": 78.01,
+  "end": 80.08,
+  "text": "Woman: Sounds a lot better than my gym!"
+ },
+ {
+  "id": 26,
+  "start": 81.57,
+  "end": 83.17,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 27,
+  "start": 84.0,
+  "end": 85.94,
+  "text": "Man: Do you want to go to the movies on Friday?"
+ },
+ {
+  "id": 28,
+  "start": 86.77,
+  "end": 90.34,
+  "text": "Woman: I can’t. I don’t have much money right now."
+ },
+ {
+  "id": 29,
+  "start": 91.14,
+  "end": 93.82,
+  "text": "Man: That is OK. I can pay for you."
+ },
+ {
+  "id": 30,
+  "start": 94.25,
+  "end": 99.71,
+  "text": "Woman: Oh, that’s sweet of you to offer. But, I don’t have much free time either."
+ },
+ {
+  "id": 31,
+  "start": 100.21,
+  "end": 102.04,
+  "text": "Man: Oh, are you busy?"
+ },
+ {
+  "id": 32,
+  "start": 102.75,
+  "end": 105.85,
+  "text": "Woman: Yes, I have many assignments for school."
+ },
+ {
+  "id": 33,
+  "start": 106.57,
+  "end": 108.92,
+  "text": "Man: OK, maybe next time."
+ }
+]

@@ -1,0 +1,140 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1009"]=[
+ {
+  "id": 1,
+  "start": 3.35,
+  "end": 6.17,
+  "text": "Samantha is going to an Easter egg hunt."
+ },
+ {
+  "id": 2,
+  "start": 6.54,
+  "end": 9.26,
+  "text": "Tracey is going to an Easter egg hunt."
+ },
+ {
+  "id": 3,
+  "start": 9.72,
+  "end": 12.43,
+  "text": "The Easter egg hunt is at Sydney's house."
+ },
+ {
+  "id": 4,
+  "start": 12.73,
+  "end": 14.46,
+  "text": "It is going to be fun."
+ },
+ {
+  "id": 5,
+  "start": 15.11,
+  "end": 17.97,
+  "text": "Sydney's mom hid chocolate eggs."
+ },
+ {
+  "id": 6,
+  "start": 18.3,
+  "end": 20.91,
+  "text": "Sydney's mom hid chocolate bunnies."
+ },
+ {
+  "id": 7,
+  "start": 21.46,
+  "end": 23.02,
+  "text": "Everybody is here."
+ },
+ {
+  "id": 8,
+  "start": 23.69,
+  "end": 26.18,
+  "text": "Everybody has an Easter basket."
+ },
+ {
+  "id": 9,
+  "start": 26.91,
+  "end": 29.18,
+  "text": "The Easter egg hunt can start."
+ },
+ {
+  "id": 10,
+  "start": 29.22,
+  "end": 32.56,
+  "text": "Everybody must close their eyes."
+ },
+ {
+  "id": 11,
+  "start": 32.95,
+  "end": 35.97,
+  "text": "One, two, three, go!"
+ },
+ {
+  "id": 12,
+  "start": 36.66,
+  "end": 38.93,
+  "text": "Samantha finds an Easter egg."
+ },
+ {
+  "id": 13,
+  "start": 39.41,
+  "end": 41.7,
+  "text": "The Easter egg is behind a table."
+ },
+ {
+  "id": 14,
+  "start": 42.07,
+  "end": 43.95,
+  "text": "She puts it in her basket."
+ },
+ {
+  "id": 15,
+  "start": 44.56,
+  "end": 47.03,
+  "text": "Tracey finds a chocolate Easter bunny."
+ },
+ {
+  "id": 16,
+  "start": 47.36,
+  "end": 49.08,
+  "text": "It's under the couch."
+ },
+ {
+  "id": 17,
+  "start": 49.61,
+  "end": 51.76,
+  "text": "Tracey puts in her basket."
+ },
+ {
+  "id": 18,
+  "start": 52.52,
+  "end": 55.41,
+  "text": "Sydney finds a chocolate Easter bunny too."
+ },
+ {
+  "id": 19,
+  "start": 55.95,
+  "end": 57.94,
+  "text": "It's in front of the television."
+ },
+ {
+  "id": 20,
+  "start": 58.58,
+  "end": 60.47,
+  "text": "She puts in her basket."
+ },
+ {
+  "id": 21,
+  "start": 61.36,
+  "end": 64.04,
+  "text": "Everybody finds lots of chocolate."
+ },
+ {
+  "id": 22,
+  "start": 64.48,
+  "end": 66.8,
+  "text": "Everybody shares their chocolate."
+ },
+ {
+  "id": 23,
+  "start": 67.34,
+  "end": 71.07,
+  "text": "Samantha, Tracey, and Sydney love Easter."
+ }
+];

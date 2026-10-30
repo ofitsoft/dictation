@@ -1,0 +1,158 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1049"]=[
+ {
+  "id": 1,
+  "start": 3.04,
+  "end": 5.55,
+  "text": "Vegetables are very good for you."
+ },
+ {
+  "id": 2,
+  "start": 5.74,
+  "end": 9.99,
+  "text": "They say that you should have three servings of vegetables every day."
+ },
+ {
+  "id": 3,
+  "start": 10.14,
+  "end": 12.28,
+  "text": "I like green peas."
+ },
+ {
+  "id": 4,
+  "start": 12.29,
+  "end": 14.13,
+  "text": "Peas come in pods."
+ },
+ {
+  "id": 5,
+  "start": 14.16,
+  "end": 16.38,
+  "text": "I also like snow peas."
+ },
+ {
+  "id": 6,
+  "start": 16.28,
+  "end": 18.87,
+  "text": "You eat the pods on the snow peas."
+ },
+ {
+  "id": 7,
+  "start": 19.02,
+  "end": 21.9,
+  "text": "I like corn when it is on the cob."
+ },
+ {
+  "id": 8,
+  "start": 22.18,
+  "end": 24.57,
+  "text": "Carrots are good to eat raw."
+ },
+ {
+  "id": 9,
+  "start": 24.97,
+  "end": 26.58,
+  "text": "Beans are good for you."
+ },
+ {
+  "id": 10,
+  "start": 26.82,
+  "end": 29.28,
+  "text": "There are many different types of beans."
+ },
+ {
+  "id": 11,
+  "start": 29.44,
+  "end": 35.11,
+  "text": "There are string beans, kidney beans, baked beans and lots of other types of beans."
+ },
+ {
+  "id": 12,
+  "start": 35.59,
+  "end": 39.91,
+  "text": "Some people don't like green vegetables like broccoli and Brussels sprouts."
+ },
+ {
+  "id": 13,
+  "start": 39.89,
+  "end": 42.22,
+  "text": "I like broccoli and Brussels sprouts."
+ },
+ {
+  "id": 14,
+  "start": 42.42,
+  "end": 47.0,
+  "text": "You can make a salad and put lots of different vegetables into the salad."
+ },
+ {
+  "id": 15,
+  "start": 47.15,
+  "end": 54.85,
+  "text": "In my salads, I like lettuce, tomatoes, celery, cucumber, radishes, cauliflower and spring onions."
+ },
+ {
+  "id": 16,
+  "start": 55.06,
+  "end": 58.34,
+  "text": "I try to have a salad with dressing on it every day."
+ },
+ {
+  "id": 17,
+  "start": 58.53,
+  "end": 62.59,
+  "text": "My dad likes root vegetables like beets and parsnips."
+ },
+ {
+  "id": 18,
+  "start": 62.81,
+  "end": 65.29,
+  "text": "My brother will only eat potatoes."
+ },
+ {
+  "id": 19,
+  "start": 65.55,
+  "end": 67.5,
+  "text": "He likes his potatoes baked."
+ },
+ {
+  "id": 20,
+  "start": 67.83,
+  "end": 70.89,
+  "text": "My mother likes to buy her vegetables at the market."
+ },
+ {
+  "id": 21,
+  "start": 70.81,
+  "end": 72.83,
+  "text": "She says they are fresher there."
+ },
+ {
+  "id": 22,
+  "start": 73.07,
+  "end": 75.44,
+  "text": "My mother buys a lot of onions."
+ },
+ {
+  "id": 23,
+  "start": 75.39,
+  "end": 79.12,
+  "text": "She puts onions in almost all the meals that she cooks."
+ },
+ {
+  "id": 24,
+  "start": 79.37,
+  "end": 81.86,
+  "text": "Some children won't eat their vegetables."
+ },
+ {
+  "id": 25,
+  "start": 81.94,
+  "end": 86.44,
+  "text": "I didn't like some vegetables at first, but I have become used to them."
+ },
+ {
+  "id": 26,
+  "start": 86.59,
+  "end": 89.27,
+  "text": "I like having vegetables with my meals."
+ }
+];

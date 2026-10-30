@@ -1,0 +1,170 @@
+[
+ {
+  "id": 1,
+  "start": 0.39,
+  "end": 1.94,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 2.76,
+  "end": 4.45,
+  "text": "Man: What do you do on the weekend?"
+ },
+ {
+  "id": 3,
+  "start": 4.77,
+  "end": 8.74,
+  "text": "Woman: I usually stay home, but sometimes I go out."
+ },
+ {
+  "id": 4,
+  "start": 8.89,
+  "end": 10.71,
+  "text": "Man: Oh, where do you go?"
+ },
+ {
+  "id": 5,
+  "start": 11.01,
+  "end": 14.96,
+  "text": "Woman: Sometimes I go to the beach. Sometimes, I go to the park."
+ },
+ {
+  "id": 6,
+  "start": 15.12,
+  "end": 18.49,
+  "text": "Man: I often go there, too. Do you ever go to the lake?"
+ },
+ {
+  "id": 7,
+  "start": 19.0,
+  "end": 22.95,
+  "text": "Woman: No, very rarely. It is too far from my house."
+ },
+ {
+  "id": 8,
+  "start": 24.37,
+  "end": 25.78,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 9,
+  "start": 26.63,
+  "end": 28.53,
+  "text": "Man: What do you usually have for dinner?"
+ },
+ {
+  "id": 10,
+  "start": 28.71,
+  "end": 33.18,
+  "text": "Woman: I try to eat healthy, so I usually cook vegetables."
+ },
+ {
+  "id": 11,
+  "start": 33.24,
+  "end": 35.77,
+  "text": "Man: Really? What kind of stuff do you make?"
+ },
+ {
+  "id": 12,
+  "start": 36.0,
+  "end": 39.97,
+  "text": "Woman: Sometimes, I make soups. Sometimes, I make stir-fry."
+ },
+ {
+  "id": 13,
+  "start": 40.03,
+  "end": 42.76,
+  "text": "Man: Stir-fry! That”s not very healthy."
+ },
+ {
+  "id": 14,
+  "start": 42.87,
+  "end": 45.48,
+  "text": "Woman: I know, but I don't eat it often."
+ },
+ {
+  "id": 15,
+  "start": 46.62,
+  "end": 48.06,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 16,
+  "start": 49.65,
+  "end": 51.35,
+  "text": "Woman: Do you take the bus to work?"
+ },
+ {
+  "id": 17,
+  "start": 51.47,
+  "end": 55.13,
+  "text": "Man: No, I never take the bus. I always drive."
+ },
+ {
+  "id": 18,
+  "start": 55.32,
+  "end": 58.2,
+  "text": "Woman: Yeah, it's so much easier to drive."
+ },
+ {
+  "id": 19,
+  "start": 58.44,
+  "end": 59.8,
+  "text": "Man: Do you drive to work?"
+ },
+ {
+  "id": 20,
+  "start": 60.01,
+  "end": 65.5,
+  "text": "Woman: Actually, I rarely drive. I usually walk to work. I live near the office."
+ },
+ {
+  "id": 21,
+  "start": 65.91,
+  "end": 67.4,
+  "text": "Man: Lucky you!"
+ },
+ {
+  "id": 22,
+  "start": 69.3,
+  "end": 70.78,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 23,
+  "start": 71.47,
+  "end": 73.18,
+  "text": "Man: Do you ever go to the movies?"
+ },
+ {
+  "id": 24,
+  "start": 73.38,
+  "end": 77.66,
+  "text": "Woman: I rarely do. It is too expensive. Do you?"
+ },
+ {
+  "id": 25,
+  "start": 77.91,
+  "end": 81.79,
+  "text": "Man: No, not often. I usually rent DVDs."
+ },
+ {
+  "id": 26,
+  "start": 82.02,
+  "end": 86.24,
+  "text": "Woman: Really? I never do that. I usually stream movies."
+ },
+ {
+  "id": 27,
+  "start": 86.59,
+  "end": 89.56,
+  "text": "Man: Nice. Do you have fast Internet?"
+ },
+ {
+  "id": 28,
+  "start": 89.7,
+  "end": 94.07,
+  "text": "Woman: Yeah, usually it is fast, but sometimes it’s slow."
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "id": 1,
+  "start": 3.62,
+  "end": 5.59,
+  "text": "Susan is getting married."
+ },
+ {
+  "id": 2,
+  "start": 6.08,
+  "end": 8.6,
+  "text": "Her fiancee's name is Michael."
+ },
+ {
+  "id": 3,
+  "start": 9.11,
+  "end": 10.67,
+  "text": "They are in love."
+ },
+ {
+  "id": 4,
+  "start": 11.17,
+  "end": 13.17,
+  "text": "They are getting married today."
+ },
+ {
+  "id": 5,
+  "start": 13.92,
+  "end": 15.74,
+  "text": "Susan wakes up early."
+ },
+ {
+  "id": 6,
+  "start": 16.41,
+  "end": 18.33,
+  "text": "She is getting her hair done."
+ },
+ {
+  "id": 7,
+  "start": 18.88,
+  "end": 21.47,
+  "text": "Susan is having her make up done too."
+ },
+ {
+  "id": 8,
+  "start": 21.88,
+  "end": 23.88,
+  "text": "Susan looks beautiful."
+ },
+ {
+  "id": 9,
+  "start": 24.55,
+  "end": 26.87,
+  "text": "She puts on her white wedding dress."
+ },
+ {
+  "id": 10,
+  "start": 27.36,
+  "end": 29.04,
+  "text": "She puts on her veil."
+ },
+ {
+  "id": 11,
+  "start": 29.8,
+  "end": 32.07,
+  "text": "Susan needs something blue."
+ },
+ {
+  "id": 12,
+  "start": 32.62,
+  "end": 34.33,
+  "text": "Her garter is blue."
+ },
+ {
+  "id": 13,
+  "start": 34.97,
+  "end": 37.07,
+  "text": "Susan needs something old."
+ },
+ {
+  "id": 14,
+  "start": 37.36,
+  "end": 39.94,
+  "text": "Her grandmother's ring is old."
+ },
+ {
+  "id": 15,
+  "start": 40.63,
+  "end": 42.86,
+  "text": "Susan needs something borrowed."
+ },
+ {
+  "id": 16,
+  "start": 43.28,
+  "end": 45.56,
+  "text": "She is wearing her mother's jewellery."
+ },
+ {
+  "id": 17,
+  "start": 46.25,
+  "end": 48.39,
+  "text": "Susan needs something new."
+ },
+ {
+  "id": 18,
+  "start": 48.83,
+  "end": 51.22,
+  "text": "Her shoes and dress are new."
+ },
+ {
+  "id": 19,
+  "start": 51.77,
+  "end": 54.18,
+  "text": "Susan needs a penny for her shoe."
+ },
+ {
+  "id": 20,
+  "start": 54.43,
+  "end": 56.44,
+  "text": "It will bring her good luck."
+ },
+ {
+  "id": 21,
+  "start": 56.87,
+  "end": 59.31,
+  "text": "Susan is ready to get married."
+ }
+]

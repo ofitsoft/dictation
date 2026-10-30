@@ -1,0 +1,146 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1042"]=[
+ {
+  "id": 1,
+  "start": 2.98,
+  "end": 4.81,
+  "text": "Some animals are wild."
+ },
+ {
+  "id": 2,
+  "start": 4.81,
+  "end": 7.34,
+  "text": "They don't live in homes or cages."
+ },
+ {
+  "id": 3,
+  "start": 7.26,
+  "end": 10.33,
+  "text": "They live in jungles or on plains."
+ },
+ {
+  "id": 4,
+  "start": 10.53,
+  "end": 13.39,
+  "text": "The lion is the king of the beasts."
+ },
+ {
+  "id": 5,
+  "start": 13.46,
+  "end": 15.02,
+  "text": "He is very mighty."
+ },
+ {
+  "id": 6,
+  "start": 15.21,
+  "end": 16.91,
+  "text": "He roars loudly."
+ },
+ {
+  "id": 7,
+  "start": 17.42,
+  "end": 19.81,
+  "text": "The giraffe has a long neck."
+ },
+ {
+  "id": 8,
+  "start": 20.01,
+  "end": 23.02,
+  "text": "He eats leaves from the tallest trees."
+ },
+ {
+  "id": 9,
+  "start": 23.5,
+  "end": 26.0,
+  "text": "The elephant is very large."
+ },
+ {
+  "id": 10,
+  "start": 25.9,
+  "end": 28.55,
+  "text": "He has a trunk and two tusks."
+ },
+ {
+  "id": 11,
+  "start": 29.3,
+  "end": 31.05,
+  "text": "A tiger has stripes."
+ },
+ {
+  "id": 12,
+  "start": 31.43,
+  "end": 34.75,
+  "text": "Some bears are black, and some are brown."
+ },
+ {
+  "id": 13,
+  "start": 35.21,
+  "end": 38.46,
+  "text": "There are even white bears called polar bears."
+ },
+ {
+  "id": 14,
+  "start": 39.09,
+  "end": 41.98,
+  "text": "A kangaroo lives in Australia."
+ },
+ {
+  "id": 15,
+  "start": 42.11,
+  "end": 46.94,
+  "text": "That is the only place that you would find a kangaroo, except in a zoo."
+ },
+ {
+  "id": 16,
+  "start": 47.75,
+  "end": 51.78,
+  "text": "It might be frightening to run into a wolf or a fox."
+ },
+ {
+  "id": 17,
+  "start": 51.98,
+  "end": 54.85,
+  "text": "Monkeys run and play in the trees."
+ },
+ {
+  "id": 18,
+  "start": 55.37,
+  "end": 60.86,
+  "text": "In Canada, we don't see lions, tigers, giraffes or monkeys running wild."
+ },
+ {
+  "id": 19,
+  "start": 61.01,
+  "end": 63.54,
+  "text": "There are squirrels in my back yard."
+ },
+ {
+  "id": 20,
+  "start": 63.46,
+  "end": 67.02,
+  "text": "Sometimes, I see a raccoon or a chipmunk."
+ },
+ {
+  "id": 21,
+  "start": 67.37,
+  "end": 71.9,
+  "text": "In northern Ontario, you might see a moose or a bear."
+ },
+ {
+  "id": 22,
+  "start": 72.29,
+  "end": 74.66,
+  "text": "I have seen a deer in the forest."
+ },
+ {
+  "id": 23,
+  "start": 75.0,
+  "end": 77.19,
+  "text": "There are many wild animals."
+ },
+ {
+  "id": 24,
+  "start": 77.16,
+  "end": 80.35,
+  "text": "You can see wild animals if you go to the zoo."
+ }
+];

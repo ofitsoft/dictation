@@ -1,0 +1,152 @@
+[
+ {
+  "id": 1,
+  "start": 2.6,
+  "end": 5.73,
+  "text": "If you were in an orchestra, what would you play?"
+ },
+ {
+  "id": 2,
+  "start": 6.08,
+  "end": 9.43,
+  "text": "Would you play a tuba, a trumpet or a saxophone?"
+ },
+ {
+  "id": 3,
+  "start": 9.94,
+  "end": 14.12,
+  "text": "Perhaps you would prefer a stringed instrument like a violin or a cello."
+ },
+ {
+  "id": 4,
+  "start": 14.74,
+  "end": 16.9,
+  "text": "Maybe you would enjoy percussion more."
+ },
+ {
+  "id": 5,
+  "start": 17.16,
+  "end": 18.88,
+  "text": "You could play the kettle drum."
+ },
+ {
+  "id": 6,
+  "start": 19.43,
+  "end": 21.71,
+  "text": "There are instruments that have keyboards."
+ },
+ {
+  "id": 7,
+  "start": 21.62,
+  "end": 24.38,
+  "text": "A piano and an organ have keyboards."
+ },
+ {
+  "id": 8,
+  "start": 24.46,
+  "end": 27.25,
+  "text": "There are instruments that have strings on them."
+ },
+ {
+  "id": 9,
+  "start": 27.31,
+  "end": 30.96,
+  "text": "A guitar, banjo and mandolin have strings on them."
+ },
+ {
+  "id": 10,
+  "start": 31.47,
+  "end": 33.72,
+  "text": "There are instruments that you blow into."
+ },
+ {
+  "id": 11,
+  "start": 33.67,
+  "end": 38.58,
+  "text": "A flute, a French horn and a harmonica are all instruments that you blow into."
+ },
+ {
+  "id": 12,
+  "start": 38.9,
+  "end": 41.76,
+  "text": "There are instruments that you hit with a stick."
+ },
+ {
+  "id": 13,
+  "start": 42.04,
+  "end": 45.82,
+  "text": "A drum and a cymbal are two things that you would hit with a stick."
+ },
+ {
+  "id": 14,
+  "start": 46.58,
+  "end": 50.34,
+  "text": "If you are in an orchestra, you have to watch the conductor."
+ },
+ {
+  "id": 15,
+  "start": 50.71,
+  "end": 53.23,
+  "text": "He will lead you through the piece of music."
+ },
+ {
+  "id": 16,
+  "start": 53.7,
+  "end": 56.44,
+  "text": "You might just want to be in a band for fun."
+ },
+ {
+  "id": 17,
+  "start": 56.71,
+  "end": 59.82,
+  "text": "You could join a rock band or a dance band."
+ },
+ {
+  "id": 18,
+  "start": 60.32,
+  "end": 62.35,
+  "text": "Some people learn to read music."
+ },
+ {
+  "id": 19,
+  "start": 62.6,
+  "end": 65.16,
+  "text": "Music notes are written on a staff."
+ },
+ {
+  "id": 20,
+  "start": 65.32,
+  "end": 67.55,
+  "text": "Each note represents a sound."
+ },
+ {
+  "id": 21,
+  "start": 67.54,
+  "end": 72.1,
+  "text": "There are whole notes, half notes, quarter notes and eighth notes."
+ },
+ {
+  "id": 22,
+  "start": 72.35,
+  "end": 75.66,
+  "text": "Each one of these is held for a different number of beats."
+ },
+ {
+  "id": 23,
+  "start": 76.08,
+  "end": 77.99,
+  "text": "It is good to learn about music."
+ },
+ {
+  "id": 24,
+  "start": 78.17,
+  "end": 81.93,
+  "text": "You have to learn your scales, and learn about sharps and flats."
+ },
+ {
+  "id": 25,
+  "start": 82.3,
+  "end": 87.21,
+  "text": "If you want to learn how to play an instrument, it is best to take music lessons."
+ }
+]

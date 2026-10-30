@@ -1,0 +1,212 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1031"]=[
+ {
+  "id": 1,
+  "start": 3.24,
+  "end": 5.76,
+  "text": "There are hundreds of different types of flowers."
+ },
+ {
+  "id": 2,
+  "start": 6.73,
+  "end": 8.7,
+  "text": "Most people like roses."
+ },
+ {
+  "id": 3,
+  "start": 10.05,
+  "end": 13.05,
+  "text": "Roses grow on bushes, and they smell beautiful."
+ },
+ {
+  "id": 4,
+  "start": 14.47,
+  "end": 18.14,
+  "text": "You have to be careful that you don't prick your finger on a rose thorn."
+ },
+ {
+  "id": 5,
+  "start": 19.45,
+  "end": 21.33,
+  "text": "Roses come in many colours."
+ },
+ {
+  "id": 6,
+  "start": 22.51,
+  "end": 26.06,
+  "text": "There are red, pink, yellow and white roses."
+ },
+ {
+  "id": 7,
+  "start": 27.39,
+  "end": 29.76,
+  "text": "In the spring, tulips are in bloom."
+ },
+ {
+  "id": 8,
+  "start": 31.05,
+  "end": 33.37,
+  "text": "In Ottawa, there are many tulips."
+ },
+ {
+  "id": 9,
+  "start": 34.64,
+  "end": 37.9,
+  "text": "Some people go there just to see all the tulips in the spring."
+ },
+ {
+  "id": 10,
+  "start": 39.25,
+  "end": 42.01,
+  "text": "Forget-me-nots are also spring flowers."
+ },
+ {
+  "id": 11,
+  "start": 43.3,
+  "end": 45.15,
+  "text": "They are tiny and blue."
+ },
+ {
+  "id": 12,
+  "start": 47.02,
+  "end": 49.65,
+  "text": "Lilies of the valley look like white bells."
+ },
+ {
+  "id": 13,
+  "start": 51.42,
+  "end": 55.52,
+  "text": "Where I live, many of the trees have blossoms on them in the springtime."
+ },
+ {
+  "id": 14,
+  "start": 57.03,
+  "end": 61.78,
+  "text": "The apple and cherry trees look particularly beautiful when they are in blossom."
+ },
+ {
+  "id": 15,
+  "start": 63.19,
+  "end": 65.77,
+  "text": "We have a blossom festival in my town."
+ },
+ {
+  "id": 16,
+  "start": 67.38,
+  "end": 72.19,
+  "text": "My neighbors like to plant geraniums, petunias and marigolds in the summer."
+ },
+ {
+  "id": 17,
+  "start": 73.57,
+  "end": 75.66,
+  "text": "Some people plant sunflowers."
+ },
+ {
+  "id": 18,
+  "start": 76.79,
+  "end": 79.16,
+  "text": "Sunflowers grow very tall."
+ },
+ {
+  "id": 19,
+  "start": 80.37,
+  "end": 82.82,
+  "text": "They have bright yellow petals."
+ },
+ {
+  "id": 20,
+  "start": 84.32,
+  "end": 87.28,
+  "text": "All of those flowers grow best in the sunshine."
+ },
+ {
+  "id": 21,
+  "start": 88.66,
+  "end": 92.28,
+  "text": "If your garden is shady, you have to plant different things."
+ },
+ {
+  "id": 22,
+  "start": 93.0,
+  "end": 95.84,
+  "text": "Hostas grow well in a shady garden."
+ },
+ {
+  "id": 23,
+  "start": 97.12,
+  "end": 99.27,
+  "text": "Chrysanthemums are fall flowers."
+ },
+ {
+  "id": 24,
+  "start": 100.41,
+  "end": 103.19,
+  "text": "Chrysanthemums come in many colours also."
+ },
+ {
+  "id": 25,
+  "start": 104.71,
+  "end": 107.77,
+  "text": "There are purple, yellow and white chrysanthemums."
+ },
+ {
+  "id": 26,
+  "start": 111.1,
+  "end": 113.17,
+  "text": "Flowers are good to give as gifts."
+ },
+ {
+  "id": 27,
+  "start": 115.05,
+  "end": 118.27,
+  "text": "Women like to receive a dozen roses on Valentine's Day."
+ },
+ {
+  "id": 28,
+  "start": 120.9,
+  "end": 123.13,
+  "text": "Carnations also make a nice gift."
+ },
+ {
+  "id": 29,
+  "start": 124.79,
+  "end": 126.61,
+  "text": "They have a very sweet smell."
+ },
+ {
+  "id": 30,
+  "start": 128.04,
+  "end": 130.91,
+  "text": "Many people give away lilies for Easter."
+ },
+ {
+  "id": 31,
+  "start": 131.97,
+  "end": 135.03,
+  "text": "Poinsettias are very festive at Christmas time."
+ },
+ {
+  "id": 32,
+  "start": 136.08,
+  "end": 140.81,
+  "text": "If someone goes to a dance, they often give their partner a flower to wear."
+ },
+ {
+  "id": 33,
+  "start": 142.2,
+  "end": 145.19,
+  "text": "Sometimes a girl will get an orchid for her date."
+ },
+ {
+  "id": 34,
+  "start": 146.83,
+  "end": 150.62,
+  "text": "If you go to a wedding, you will probably see a lot of flowers there."
+ },
+ {
+  "id": 35,
+  "start": 152.18,
+  "end": 154.43,
+  "text": "Flowers help to make places beautiful."
+ }
+];

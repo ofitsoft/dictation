@@ -1,0 +1,146 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1075"]=[
+ {
+  "id": 1,
+  "start": 2.95,
+  "end": 5.1,
+  "text": "I didn't feel very well last week."
+ },
+ {
+  "id": 2,
+  "start": 5.05,
+  "end": 6.97,
+  "text": "I had a sore throat and a fever."
+ },
+ {
+  "id": 3,
+  "start": 7.35,
+  "end": 9.45,
+  "text": "My mother took me to see the doctor."
+ },
+ {
+  "id": 4,
+  "start": 9.71,
+  "end": 14.72,
+  "text": "When we got there, the nurse took my name and said that the doctor would be with me soon."
+ },
+ {
+  "id": 5,
+  "start": 15.05,
+  "end": 18.06,
+  "text": "The doctor was a very nice man in a white jacket."
+ },
+ {
+  "id": 6,
+  "start": 18.43,
+  "end": 22.47,
+  "text": "I had seen the doctor before when I had my tonsils out at the hospital."
+ },
+ {
+  "id": 7,
+  "start": 22.69,
+  "end": 25.7,
+  "text": "The doctor took a light and looked in my ears."
+ },
+ {
+  "id": 8,
+  "start": 25.87,
+  "end": 29.98,
+  "text": "He put a stick on my tongue, and he shone his light into my mouth."
+ },
+ {
+  "id": 9,
+  "start": 30.38,
+  "end": 31.75,
+  "text": "He looked at my throat."
+ },
+ {
+  "id": 10,
+  "start": 32.11,
+  "end": 35.42,
+  "text": "He said that my throat was a bit swollen and red."
+ },
+ {
+  "id": 11,
+  "start": 35.51,
+  "end": 38.88,
+  "text": "He felt my neck and said that my glands were swollen."
+ },
+ {
+  "id": 12,
+  "start": 39.11,
+  "end": 42.15,
+  "text": "He took my temperature and said that it was quite high."
+ },
+ {
+  "id": 13,
+  "start": 42.58,
+  "end": 45.63,
+  "text": "He listened to my heart, and he made me cough."
+ },
+ {
+  "id": 14,
+  "start": 46.01,
+  "end": 47.64,
+  "text": "He asked me some questions."
+ },
+ {
+  "id": 15,
+  "start": 47.92,
+  "end": 50.22,
+  "text": "He said that he might have to do some tests."
+ },
+ {
+  "id": 16,
+  "start": 50.63,
+  "end": 53.47,
+  "text": "He sent me to get some blood taken out of my arm."
+ },
+ {
+  "id": 17,
+  "start": 53.51,
+  "end": 56.3,
+  "text": "I was scared, but it didn't really hurt."
+ },
+ {
+  "id": 18,
+  "start": 56.74,
+  "end": 61.75,
+  "text": "The doctor gave me some pills and told me to take one in the morning and one at night."
+ },
+ {
+  "id": 19,
+  "start": 62.03,
+  "end": 64.22,
+  "text": "He told me to drink a lot of fluids."
+ },
+ {
+  "id": 20,
+  "start": 64.37,
+  "end": 66.31,
+  "text": "He told me to get plenty of sleep."
+ },
+ {
+  "id": 21,
+  "start": 66.49,
+  "end": 69.43,
+  "text": "I did exactly what the doctor told me to do."
+ },
+ {
+  "id": 22,
+  "start": 69.54,
+  "end": 72.68,
+  "text": "It wasn't very long before I was feeling well again."
+ },
+ {
+  "id": 23,
+  "start": 72.99,
+  "end": 76.3,
+  "text": "I think that I might like to be a doctor when I grow up."
+ },
+ {
+  "id": 24,
+  "start": 76.46,
+  "end": 78.49,
+  "text": "I would like to make people feel better."
+ }
+];

@@ -1,0 +1,128 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1059"]=[
+ {
+  "id": 1,
+  "start": 2.5,
+  "end": 4.77,
+  "text": "Some people work in an office."
+ },
+ {
+  "id": 2,
+  "start": 4.72,
+  "end": 8.79,
+  "text": "There are special tools that people in an office need to do their work."
+ },
+ {
+  "id": 3,
+  "start": 9.02,
+  "end": 11.02,
+  "text": "There is a computer in the office."
+ },
+ {
+  "id": 4,
+  "start": 10.94,
+  "end": 12.26,
+  "text": "There is a telephone."
+ },
+ {
+  "id": 5,
+  "start": 12.33,
+  "end": 15.53,
+  "text": "Most of the time, the secretary answers the telephone."
+ },
+ {
+  "id": 6,
+  "start": 15.53,
+  "end": 17.98,
+  "text": "The secretary sits at a desk."
+ },
+ {
+  "id": 7,
+  "start": 18.16,
+  "end": 21.33,
+  "text": "The secretary has pens and pencils on the desk."
+ },
+ {
+  "id": 8,
+  "start": 21.52,
+  "end": 23.98,
+  "text": "The secretary writes on a note pad."
+ },
+ {
+  "id": 9,
+  "start": 24.53,
+  "end": 49.31,
+  "text": "Some other things that you would find in an office would include the following: a stapler to staple pages together, a photocopier to copy pages, a pencil sharpener to sharpen pencils, a water cooler where the employees could get a drink of water, a hole punch to make holes in sheets of paper, and liquid paper which is used to blank out errors on a page."
+ },
+ {
+  "id": 10,
+  "start": 49.77,
+  "end": 52.62,
+  "text": "Some offices have many employees in them."
+ },
+ {
+  "id": 11,
+  "start": 52.48,
+  "end": 55.31,
+  "text": "All of the employees have their own desks."
+ },
+ {
+  "id": 12,
+  "start": 55.39,
+  "end": 58.42,
+  "text": "Other offices just have one person at a desk."
+ },
+ {
+  "id": 13,
+  "start": 58.59,
+  "end": 65.51,
+  "text": "In some offices, there is a secretary or a receptionist, and then there is the boss in another room."
+ },
+ {
+  "id": 14,
+  "start": 65.45,
+  "end": 68.68,
+  "text": "There are often many important papers in an office."
+ },
+ {
+  "id": 15,
+  "start": 68.71,
+  "end": 71.64,
+  "text": "Important papers can be called documents."
+ },
+ {
+  "id": 16,
+  "start": 71.88,
+  "end": 75.82,
+  "text": "You might have to sign a document or fill out a form in an office."
+ },
+ {
+  "id": 17,
+  "start": 76.02,
+  "end": 79.09,
+  "text": "Some offices have bookshelves filled with books."
+ },
+ {
+  "id": 18,
+  "start": 79.1,
+  "end": 82.98,
+  "text": "The books are filled with information that the people in the office need."
+ },
+ {
+  "id": 19,
+  "start": 83.35,
+  "end": 85.72,
+  "text": "You will have to visit an office sometime."
+ },
+ {
+  "id": 20,
+  "start": 85.98,
+  "end": 89.65,
+  "text": "Maybe it will be a doctor's office or a lawyer's office."
+ },
+ {
+  "id": 21,
+  "start": 89.7,
+  "end": 92.32,
+  "text": "There are many different types of offices."
+ }
+];

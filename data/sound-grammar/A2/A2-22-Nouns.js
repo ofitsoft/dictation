@@ -1,0 +1,242 @@
+window.DICT=window.DICT||{};DICT["sound-grammar/A2/A2-22-Nouns"]=[
+ {
+  "id": 1,
+  "start": 0.55,
+  "end": 2.09,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.63,
+  "end": 5.71,
+  "text": "Man: Do you have a big apartment?"
+ },
+ {
+  "id": 3,
+  "start": 6.86,
+  "end": 14.41,
+  "text": "Woman: No, it is very small. It has a kitchen, a living room and two bedrooms."
+ },
+ {
+  "id": 4,
+  "start": 15.32,
+  "end": 17.28,
+  "text": "Man: How many bathrooms does it have?"
+ },
+ {
+  "id": 5,
+  "start": 18.48,
+  "end": 20.65,
+  "text": "Woman: It has two bathrooms."
+ },
+ {
+  "id": 6,
+  "start": 21.32,
+  "end": 22.75,
+  "text": "Man: Do you have a balcony?"
+ },
+ {
+  "id": 7,
+  "start": 23.79,
+  "end": 29.45,
+  "text": "Woman: No, but I have a view of the lake and the mountains."
+ },
+ {
+  "id": 8,
+  "start": 29.68,
+  "end": 32.18,
+  "text": "Man: What is the apartment building like?"
+ },
+ {
+  "id": 9,
+  "start": 32.38,
+  "end": 38.98,
+  "text": "Woman: It is nice. It has a pool, a laundry room and a gym."
+ },
+ {
+  "id": 10,
+  "start": 39.25,
+  "end": 43.26,
+  "text": "Man: Wow, sounds like a nice place!"
+ },
+ {
+  "id": 11,
+  "start": 44.56,
+  "end": 48.3,
+  "text": "Woman: It’s alright. Not great, but not bad."
+ },
+ {
+  "id": 12,
+  "start": 51.15,
+  "end": 52.62,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 13,
+  "start": 53.85,
+  "end": 56.89,
+  "text": "Man: What food do you have? I’m hungry."
+ },
+ {
+  "id": 14,
+  "start": 58.35,
+  "end": 64.64,
+  "text": "Woman: We have some fruit. We have some oranges, an apple and two bananas."
+ },
+ {
+  "id": 15,
+  "start": 65.12,
+  "end": 69.4,
+  "text": "Man: Yeah, I don’t want fruit. I’m not hungry for that."
+ },
+ {
+  "id": 16,
+  "start": 70.46,
+  "end": 74.53,
+  "text": "Woman: Well, we have some chips, and some peanuts."
+ },
+ {
+  "id": 17,
+  "start": 75.2,
+  "end": 80.7,
+  "text": "Man: Yeah, I don’t want a snack, I want a meal. What else do we have?"
+ },
+ {
+  "id": 18,
+  "start": 81.83,
+  "end": 87.16,
+  "text": "Woman: We have some leftovers. We have some pizza and some salad."
+ },
+ {
+  "id": 19,
+  "start": 87.89,
+  "end": 90.93,
+  "text": "Man: That sounds perfect. Do you want some?"
+ },
+ {
+  "id": 20,
+  "start": 91.69,
+  "end": 95.3,
+  "text": "Woman: No, I’m not hungry. Thank you though."
+ },
+ {
+  "id": 21,
+  "start": 96.52,
+  "end": 98.1,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 22,
+  "start": 99.65,
+  "end": 101.07,
+  "text": "Woman: What are you doing?"
+ },
+ {
+  "id": 23,
+  "start": 102.08,
+  "end": 106.78,
+  "text": "Man: Shopping for clothes online. I need some clothes for my ski trip."
+ },
+ {
+  "id": 24,
+  "start": 107.88,
+  "end": 109.12,
+  "text": "Woman: What do you need?"
+ },
+ {
+  "id": 25,
+  "start": 110.1,
+  "end": 113.64,
+  "text": "Man: I need a ski jacket, some gloves and a scarf."
+ },
+ {
+  "id": 26,
+  "start": 114.78,
+  "end": 117.38,
+  "text": "Woman: I have a scarf. Do you want it?"
+ },
+ {
+  "id": 27,
+  "start": 118.2,
+  "end": 122.63,
+  "text": "Man: No, thank you. I have an old scarf, but I want a new one."
+ },
+ {
+  "id": 28,
+  "start": 123.88,
+  "end": 129.3,
+  "text": "Woman: What about skis? I have some skis. Do you want to use them?"
+ },
+ {
+  "id": 29,
+  "start": 130.04,
+  "end": 133.28,
+  "text": "Man: Yes, I do. Thank you for the offer."
+ },
+ {
+  "id": 30,
+  "start": 134.58,
+  "end": 139.1,
+  "text": "Woman: My pleasure! Please, come and get them any time."
+ },
+ {
+  "id": 31,
+  "start": 140.05,
+  "end": 142.34,
+  "text": "Man: Thank you, I appreciate that."
+ },
+ {
+  "id": 32,
+  "start": 143.86,
+  "end": 145.51,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 33,
+  "start": 146.66,
+  "end": 149.0,
+  "text": "Man: What is your favorite place in town?"
+ },
+ {
+  "id": 34,
+  "start": 150.25,
+  "end": 156.86,
+  "text": "Woman: I like the park. It has many trees and flowers, and lots of grass."
+ },
+ {
+  "id": 35,
+  "start": 157.66,
+  "end": 161.37,
+  "text": "Man: I like the park, too. My favorite place is the mall."
+ },
+ {
+  "id": 36,
+  "start": 162.14,
+  "end": 164.98,
+  "text": "Woman: The mall? What do you like about it?"
+ },
+ {
+  "id": 37,
+  "start": 165.82,
+  "end": 171.21,
+  "text": "Man: Well, it has some nice cafes and cheap stores for shopping."
+ },
+ {
+  "id": 38,
+  "start": 171.44,
+  "end": 175.45,
+  "text": "Woman: True. It also has some good restaurants."
+ },
+ {
+  "id": 39,
+  "start": 175.91,
+  "end": 179.51,
+  "text": "Man: It does. It has a really good Korean restaurant."
+ },
+ {
+  "id": 40,
+  "start": 180.23,
+  "end": 184.96,
+  "text": "Woman: Oh, I love that place! It’s really good."
+ }
+];

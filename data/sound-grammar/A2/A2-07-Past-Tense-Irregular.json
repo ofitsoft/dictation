@@ -1,0 +1,230 @@
+[
+ {
+  "id": 1,
+  "start": 0.86,
+  "end": 2.31,
+  "text": "Conversation 1."
+ },
+ {
+  "id": 2,
+  "start": 3.07,
+  "end": 4.5,
+  "text": "Man: What did you do last night?"
+ },
+ {
+  "id": 3,
+  "start": 5.47,
+  "end": 8.64,
+  "text": "Woman: I just stayed home and took it easy. And you?"
+ },
+ {
+  "id": 4,
+  "start": 9.23,
+  "end": 11.04,
+  "text": "Man: I went to the park and played football."
+ },
+ {
+  "id": 5,
+  "start": 11.74,
+  "end": 13.38,
+  "text": "Woman: Oh, did you win?"
+ },
+ {
+  "id": 6,
+  "start": 13.84,
+  "end": 16.57,
+  "text": "Man: Yeah, we won! I was so happy."
+ },
+ {
+  "id": 7,
+  "start": 17.77,
+  "end": 20.58,
+  "text": "Woman: Oh, I am glad you had a good time."
+ },
+ {
+  "id": 8,
+  "start": 21.01,
+  "end": 23.87,
+  "text": "Man: I hurt my ankle though, so it wasn’t all perfect."
+ },
+ {
+  "id": 9,
+  "start": 24.5,
+  "end": 26.44,
+  "text": "Woman: Well, at least you won!"
+ },
+ {
+  "id": 10,
+  "start": 27.63,
+  "end": 29.3,
+  "text": "Conversation 2."
+ },
+ {
+  "id": 11,
+  "start": 30.38,
+  "end": 31.96,
+  "text": "Man: How was your trip to Brazil?"
+ },
+ {
+  "id": 12,
+  "start": 32.63,
+  "end": 36.54,
+  "text": "Woman: It was wonderful. I had such a great time."
+ },
+ {
+  "id": 13,
+  "start": 36.93,
+  "end": 38.06,
+  "text": "Man: How was the food?"
+ },
+ {
+  "id": 14,
+  "start": 38.71,
+  "end": 44.18,
+  "text": "Woman: It was all so good. I ate so much. I think I put on some weight."
+ },
+ {
+  "id": 15,
+  "start": 44.87,
+  "end": 46.04,
+  "text": "Man: What did you do there?"
+ },
+ {
+  "id": 16,
+  "start": 46.74,
+  "end": 51.84,
+  "text": "Woman: Well, we spent a lot of time at the beach, but we also went out at night."
+ },
+ {
+  "id": 17,
+  "start": 52.42,
+  "end": 54.75,
+  "text": "Man: I hear the nightlife there is really good."
+ },
+ {
+  "id": 18,
+  "start": 55.05,
+  "end": 58.56,
+  "text": "Woman: It is! We had so much fun!"
+ },
+ {
+  "id": 19,
+  "start": 59.75,
+  "end": 61.53,
+  "text": "Conversation 3."
+ },
+ {
+  "id": 20,
+  "start": 62.44,
+  "end": 64.01,
+  "text": "Man: What did you do over the weekend?"
+ },
+ {
+  "id": 21,
+  "start": 65.15,
+  "end": 67.06,
+  "text": "Woman: I met some friends for dinner."
+ },
+ {
+  "id": 22,
+  "start": 67.62,
+  "end": 69.49,
+  "text": "Man: Oh, where did you go?"
+ },
+ {
+  "id": 23,
+  "start": 70.37,
+  "end": 73.29,
+  "text": "Woman: We ate at the new pizza place near the station."
+ },
+ {
+  "id": 24,
+  "start": 73.73,
+  "end": 77.52,
+  "text": "Man: Oh, I went there last week. I really liked it."
+ },
+ {
+  "id": 25,
+  "start": 78.23,
+  "end": 81.21,
+  "text": "Woman: So did we. What did you eat?"
+ },
+ {
+  "id": 26,
+  "start": 81.66,
+  "end": 84.73,
+  "text": "Man: We tried the pan-style pizza. It was so good"
+ },
+ {
+  "id": 27,
+  "start": 85.35,
+  "end": 88.78,
+  "text": "Woman: I didn’t try that, but I heard it was really good."
+ },
+ {
+  "id": 28,
+  "start": 89.24,
+  "end": 94.17,
+  "text": "Man: Yeah, my friend told me to try it. He said it was good and he was right."
+ },
+ {
+  "id": 29,
+  "start": 94.87,
+  "end": 96.76,
+  "text": "Woman: I’ll try it next time."
+ },
+ {
+  "id": 30,
+  "start": 97.84,
+  "end": 99.65,
+  "text": "Conversation 4."
+ },
+ {
+  "id": 31,
+  "start": 100.82,
+  "end": 102.76,
+  "text": "Man: What did you do over the holidays?"
+ },
+ {
+  "id": 32,
+  "start": 103.76,
+  "end": 106.6,
+  "text": "Woman: Not much. I bought a new car, though."
+ },
+ {
+  "id": 33,
+  "start": 107.01,
+  "end": 109.09,
+  "text": "Man: Really, what did you buy?"
+ },
+ {
+  "id": 34,
+  "start": 109.75,
+  "end": 113.35,
+  "text": "Woman: I bought a new Lexus. It is so nice."
+ },
+ {
+  "id": 35,
+  "start": 113.93,
+  "end": 116.74,
+  "text": "Man: Can I ask? How much did you pay for it?"
+ },
+ {
+  "id": 36,
+  "start": 117.59,
+  "end": 122.43,
+  "text": "Woman: It cost about 50,000 dollars. I took out a loan though."
+ },
+ {
+  "id": 37,
+  "start": 122.9,
+  "end": 129.53,
+  "text": "Man: Wow, you paid a lot! I think I spent about 5,000 pounds for my car, but I bought it used."
+ },
+ {
+  "id": 38,
+  "start": 130.6,
+  "end": 135.57,
+  "text": "Woman: Yeah, I really wanted a new car. I think I got what I paid for though."
+ }
+]

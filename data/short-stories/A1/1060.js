@@ -1,0 +1,140 @@
+window.DICT=window.DICT||{};DICT["short-stories/A1/1060"]=[
+ {
+  "id": 1,
+  "start": 2.2,
+  "end": 4.21,
+  "text": "I keep my money in the bank."
+ },
+ {
+  "id": 2,
+  "start": 4.16,
+  "end": 5.9,
+  "text": "I have saved up my money."
+ },
+ {
+  "id": 3,
+  "start": 6.14,
+  "end": 8.52,
+  "text": "I saved all my pennies in a jar."
+ },
+ {
+  "id": 4,
+  "start": 8.7,
+  "end": 11.06,
+  "text": "A penny is only worth one cent."
+ },
+ {
+  "id": 5,
+  "start": 11.38,
+  "end": 12.68,
+  "text": "I have nickels."
+ },
+ {
+  "id": 6,
+  "start": 12.38,
+  "end": 14.44,
+  "text": "A nickel is worth five cents."
+ },
+ {
+  "id": 7,
+  "start": 14.43,
+  "end": 16.31,
+  "text": "A dime is worth ten cents."
+ },
+ {
+  "id": 8,
+  "start": 16.49,
+  "end": 18.96,
+  "text": "A quarter is worth twenty-five cents."
+ },
+ {
+  "id": 9,
+  "start": 19.29,
+  "end": 21.48,
+  "text": "A quarter is a quarter of a dollar."
+ },
+ {
+  "id": 10,
+  "start": 21.45,
+  "end": 23.49,
+  "text": "Four quarters make up a dollar."
+ },
+ {
+  "id": 11,
+  "start": 23.49,
+  "end": 26.18,
+  "text": "A dollar is worth one hundred cents."
+ },
+ {
+  "id": 12,
+  "start": 26.44,
+  "end": 28.7,
+  "text": "I saved up all of my dollars."
+ },
+ {
+  "id": 13,
+  "start": 29.1,
+  "end": 32.5,
+  "text": "Our dollars used to be paper, but now they are coins."
+ },
+ {
+  "id": 14,
+  "start": 32.58,
+  "end": 34.61,
+  "text": "We call our dollars loonies."
+ },
+ {
+  "id": 15,
+  "start": 34.58,
+  "end": 35.9,
+  "text": "It is a funny name."
+ },
+ {
+  "id": 16,
+  "start": 36.32,
+  "end": 38.47,
+  "text": "We also have two dollar coins."
+ },
+ {
+  "id": 17,
+  "start": 38.17,
+  "end": 39.66,
+  "text": "We call those toonies."
+ },
+ {
+  "id": 18,
+  "start": 40.07,
+  "end": 43.0,
+  "text": "We have five dollar bills and ten dollar bills."
+ },
+ {
+  "id": 19,
+  "start": 43.09,
+  "end": 48.64,
+  "text": "If you are lucky you will have twenty dollar bills, fifty dollar bills and even hundred dollar bills."
+ },
+ {
+  "id": 20,
+  "start": 48.93,
+  "end": 51.76,
+  "text": "Our bills in Canada are different colours."
+ },
+ {
+  "id": 21,
+  "start": 51.67,
+  "end": 55.67,
+  "text": "That makes them easy to recognize if you go somewhere to spend them."
+ },
+ {
+  "id": 22,
+  "start": 55.59,
+  "end": 57.43,
+  "text": "It is wise to save your money."
+ },
+ {
+  "id": 23,
+  "start": 57.39,
+  "end": 61.46,
+  "text": "If you save enough, you could have hundreds or thousands of dollars."
+ }
+];
