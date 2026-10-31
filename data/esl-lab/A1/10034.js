@@ -1,0 +1,86 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/10034"]=[
+ {
+  "id": 1,
+  "start": 1.38,
+  "end": 5.08,
+  "text": "Man: Uh, let me finish the newspaper first?"
+ },
+ {
+  "id": 2,
+  "start": 4.78,
+  "end": 7.25,
+  "text": "Woman: You’ve been saying that forever!"
+ },
+ {
+  "id": 3,
+  "start": 6.95,
+  "end": 10.54,
+  "text": "Man: Well, how about reading the business section of the newspaper together?"
+ },
+ {
+  "id": 4,
+  "start": 10.47,
+  "end": 12.53,
+  "text": "Woman: That’s boring."
+ },
+ {
+  "id": 5,
+  "start": 12.23,
+  "end": 13.9,
+  "text": "Let’s read this book."
+ },
+ {
+  "id": 6,
+  "start": 13.6,
+  "end": 19.57,
+  "text": "It’s about a bear and cat that becomes friends. [Okay] And these books too."
+ },
+ {
+  "id": 7,
+  "start": 19.27,
+  "end": 20.01,
+  "text": "Man: Whoa."
+ },
+ {
+  "id": 8,
+  "start": 19.71,
+  "end": 21.17,
+  "text": "I thought you said one book."
+ },
+ {
+  "id": 9,
+  "start": 20.87,
+  "end": 22.54,
+  "text": "There must be ten here."
+ },
+ {
+  "id": 10,
+  "start": 22.24,
+  "end": 28.86,
+  "text": "Woman: My teacher, Mrs. Green, says you have to read to me every night, and the newspaper doesn’t count."
+ },
+ {
+  "id": 11,
+  "start": 28.87,
+  "end": 32.73,
+  "text": "And let’s eat some popcorn and cookies while we’re reading."
+ },
+ {
+  "id": 12,
+  "start": 32.43,
+  "end": 34.67,
+  "text": "Man: Well, it’s bedtime right now."
+ },
+ {
+  "id": 13,
+  "start": 34.57,
+  "end": 36.83,
+  "text": "So, okay, here we go."
+ },
+ {
+  "id": 14,
+  "start": 36.53,
+  "end": 41.82,
+  "text": "Once upon a time in a deep, dark forest, lived a brown bear . . ."
+ }
+];

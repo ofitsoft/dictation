@@ -1,0 +1,200 @@
+[
+ {
+  "id": 1,
+  "start": 0.72,
+  "end": 2.13,
+  "text": "Emily: Welcome home, Dad."
+ },
+ {
+  "id": 2,
+  "start": 2.16,
+  "end": 4.23,
+  "text": "Man: Oh, Emily."
+ },
+ {
+  "id": 3,
+  "start": 3.26,
+  "end": 4.18,
+  "text": "How are you today?"
+ },
+ {
+  "id": 4,
+  "start": 4.28,
+  "end": 5.26,
+  "text": "Emily: Fine."
+ },
+ {
+  "id": 5,
+  "start": 4.96,
+  "end": 5.85,
+  "text": "Man: Good."
+ },
+ {
+  "id": 6,
+  "start": 5.55,
+  "end": 6.92,
+  "text": "And how was school today?"
+ },
+ {
+  "id": 7,
+  "start": 6.85,
+  "end": 8.51,
+  "text": "Emily: Really fun."
+ },
+ {
+  "id": 8,
+  "start": 8.41,
+  "end": 9.0,
+  "text": "Man: Good."
+ },
+ {
+  "id": 9,
+  "start": 8.7,
+  "end": 9.76,
+  "text": "And what did you do?"
+ },
+ {
+  "id": 10,
+  "start": 10.3,
+  "end": 11.97,
+  "text": "Emily: We made things."
+ },
+ {
+  "id": 11,
+  "start": 12.13,
+  "end": 14.04,
+  "text": "Man: Like what types of things did you make?"
+ },
+ {
+  "id": 12,
+  "start": 14.01,
+  "end": 15.65,
+  "text": "Emily: We made books."
+ },
+ {
+  "id": 13,
+  "start": 15.65,
+  "end": 17.35,
+  "text": "Man: You made books!"
+ },
+ {
+  "id": 14,
+  "start": 17.24,
+  "end": 18.42,
+  "text": "Okay."
+ },
+ {
+  "id": 15,
+  "start": 17.28,
+  "end": 18.06,
+  "text": "And what else?"
+ },
+ {
+  "id": 16,
+  "start": 18.33,
+  "end": 23.2,
+  "text": "Emily: We . . . we made paper kangaroos."
+ },
+ {
+  "id": 17,
+  "start": 22.9,
+  "end": 24.71,
+  "text": "Man: You made paper kangaroos?"
+ },
+ {
+  "id": 18,
+  "start": 24.59,
+  "end": 27.89,
+  "text": "Okay, and what did you need to make your paper kangaroos?"
+ },
+ {
+  "id": 19,
+  "start": 27.59,
+  "end": 29.74,
+  "text": "What kind of supplies did you need?"
+ },
+ {
+  "id": 20,
+  "start": 29.44,
+  "end": 37.46,
+  "text": "Emily: We used crayons, papers, glue, and we had to follow directions."
+ },
+ {
+  "id": 21,
+  "start": 37.16,
+  "end": 38.22,
+  "text": "Man: Well good."
+ },
+ {
+  "id": 22,
+  "start": 37.92,
+  "end": 39.79,
+  "text": "And what did you do after school?"
+ },
+ {
+  "id": 23,
+  "start": 39.72,
+  "end": 42.64,
+  "text": "Emily: We went home, played games."
+ },
+ {
+  "id": 24,
+  "start": 42.56,
+  "end": 43.45,
+  "text": "Man: And did . . ."
+ },
+ {
+  "id": 25,
+  "start": 43.15,
+  "end": 45.6,
+  "text": "Mom said you went to the junior high school."
+ },
+ {
+  "id": 26,
+  "start": 45.58,
+  "end": 48.11,
+  "text": "Emily: I rode my bike in the tennis court."
+ },
+ {
+  "id": 27,
+  "start": 48.04,
+  "end": 49.34,
+  "text": "Man: Did you go by yourself?"
+ },
+ {
+  "id": 28,
+  "start": 49.21,
+  "end": 54.24,
+  "text": "Emily: I went with the whole family, and we went with Nathan, Sara, Rachael."
+ },
+ {
+  "id": 29,
+  "start": 53.94,
+  "end": 55.4,
+  "text": "Man: You went with your cousins."
+ },
+ {
+  "id": 30,
+  "start": 55.31,
+  "end": 56.84,
+  "text": "Emily: And my mom."
+ },
+ {
+  "id": 31,
+  "start": 56.54,
+  "end": 57.78,
+  "text": "Man: Well, that’s great."
+ },
+ {
+  "id": 32,
+  "start": 57.48,
+  "end": 59.0,
+  "text": "Well, let’s get ready for dinner."
+ },
+ {
+  "id": 33,
+  "start": 58.7,
+  "end": 59.69,
+  "text": "Emily: Okay."
+ }
+]

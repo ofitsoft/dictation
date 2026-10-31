@@ -1,0 +1,248 @@
+[
+ {
+  "id": 1,
+  "start": 4.93,
+  "end": 5.78,
+  "text": "Woman: Hello."
+ },
+ {
+  "id": 2,
+  "start": 5.48,
+  "end": 6.92,
+  "text": "This is the front desk."
+ },
+ {
+  "id": 3,
+  "start": 6.8,
+  "end": 8.22,
+  "text": "Tess, speaking, How can I help you?"
+ },
+ {
+  "id": 4,
+  "start": 8.3,
+  "end": 10.82,
+  "text": "Man: Yes, I’d like to order room service."
+ },
+ {
+  "id": 5,
+  "start": 10.52,
+  "end": 11.2,
+  "text": "Woman: Okay."
+ },
+ {
+  "id": 6,
+  "start": 10.9,
+  "end": 12.04,
+  "text": "What can I get for you?"
+ },
+ {
+  "id": 7,
+  "start": 12.62,
+  "end": 13.78,
+  "text": "Man: Well."
+ },
+ {
+  "id": 8,
+  "start": 13.48,
+  "end": 14.25,
+  "text": "Okay."
+ },
+ {
+  "id": 9,
+  "start": 13.95,
+  "end": 20.7,
+  "text": "I’d like to order a grilled chicken sandwich [ Okay. ], some fries, and a small salad."
+ },
+ {
+  "id": 10,
+  "start": 20.59,
+  "end": 21.07,
+  "text": "Woman: Okay."
+ },
+ {
+  "id": 11,
+  "start": 20.93,
+  "end": 22.06,
+  "text": "What kind of dressing?"
+ },
+ {
+  "id": 12,
+  "start": 22.58,
+  "end": 25.45,
+  "text": "Man: Okay, well, I’ll . . . . how about Ranch?"
+ },
+ {
+  "id": 13,
+  "start": 25.99,
+  "end": 28.34,
+  "text": "But I’d like it on the side."
+ },
+ {
+  "id": 14,
+  "start": 27.48,
+  "end": 27.78,
+  "text": "Woman: Okay."
+ },
+ {
+  "id": 15,
+  "start": 27.64,
+  "end": 28.28,
+  "text": "On the side."
+ },
+ {
+  "id": 16,
+  "start": 28.32,
+  "end": 29.52,
+  "text": "Anything else for you?"
+ },
+ {
+  "id": 17,
+  "start": 29.72,
+  "end": 31.19,
+  "text": "Man: Uh, yeah."
+ },
+ {
+  "id": 18,
+  "start": 30.89,
+  "end": 32.96,
+  "text": "How about a glass of orange juice?"
+ },
+ {
+  "id": 19,
+  "start": 32.66,
+  "end": 33.76,
+  "text": "Woman: Okay."
+ },
+ {
+  "id": 20,
+  "start": 33.18,
+  "end": 34.52,
+  "text": "Large or small?"
+ },
+ {
+  "id": 21,
+  "start": 34.34,
+  "end": 37.43,
+  "text": "Man: Well, let’s, let’s go with a large."
+ },
+ {
+  "id": 22,
+  "start": 36.82,
+  "end": 37.4,
+  "text": "Woman: Okay."
+ },
+ {
+  "id": 23,
+  "start": 37.74,
+  "end": 39.11,
+  "text": "And what room are you in?"
+ },
+ {
+  "id": 24,
+  "start": 39.4,
+  "end": 42.86,
+  "text": "Man: I’m in . . ."
+ },
+ {
+  "id": 25,
+  "start": 41.92,
+  "end": 42.22,
+  "text": "I’m in . . . , let’s see."
+ },
+ {
+  "id": 26,
+  "start": 42.84,
+  "end": 43.29,
+  "text": "Well, I can’t remember!"
+ },
+ {
+  "id": 27,
+  "start": 42.99,
+  "end": 43.67,
+  "text": "Oh, yeah."
+ },
+ {
+  "id": 28,
+  "start": 43.37,
+  "end": 45.02,
+  "text": "I’m in room 640."
+ },
+ {
+  "id": 29,
+  "start": 44.92,
+  "end": 45.68,
+  "text": "Woman: And your name?"
+ },
+ {
+  "id": 30,
+  "start": 45.81,
+  "end": 47.12,
+  "text": "Man: It’s James."
+ },
+ {
+  "id": 31,
+  "start": 47.3,
+  "end": 48.53,
+  "text": "Woman: Alright."
+ },
+ {
+  "id": 32,
+  "start": 48.96,
+  "end": 49.88,
+  "text": "Man: And, uh."
+ },
+ {
+  "id": 33,
+  "start": 49.58,
+  "end": 50.32,
+  "text": "Oh, yeah."
+ },
+ {
+  "id": 34,
+  "start": 50.02,
+  "end": 51.33,
+  "text": "How long will it take?"
+ },
+ {
+  "id": 35,
+  "start": 51.27,
+  "end": 53.61,
+  "text": "Woman: Oh, it shouldn’t be more than about 30 minutes."
+ },
+ {
+  "id": 36,
+  "start": 53.31,
+  "end": 54.65,
+  "text": "Man: Okay and okay."
+ },
+ {
+  "id": 37,
+  "start": 54.5,
+  "end": 55.78,
+  "text": "Well, what time is it now?"
+ },
+ {
+  "id": 38,
+  "start": 55.63,
+  "end": 57.02,
+  "text": "Woman: [ It’s ] six, forty-five (6:45)."
+ },
+ {
+  "id": 39,
+  "start": 57.0,
+  "end": 57.81,
+  "text": "Man: Alright."
+ },
+ {
+  "id": 40,
+  "start": 57.51,
+  "end": 58.23,
+  "text": "Thank you."
+ },
+ {
+  "id": 41,
+  "start": 57.93,
+  "end": 58.37,
+  "text": "Woman: Perfect."
+ }
+]

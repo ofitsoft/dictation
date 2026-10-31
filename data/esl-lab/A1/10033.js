@@ -1,0 +1,308 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/10033"]=[
+ {
+  "id": 1,
+  "start": 5.56,
+  "end": 6.81,
+  "text": "Man: Hi."
+ },
+ {
+  "id": 2,
+  "start": 6.51,
+  "end": 8.77,
+  "text": "Uh, are you Sarah?"
+ },
+ {
+  "id": 3,
+  "start": 8.96,
+  "end": 9.83,
+  "text": "Woman: No, I’m not."
+ },
+ {
+  "id": 4,
+  "start": 9.75,
+  "end": 10.97,
+  "text": "I’m her older sister."
+ },
+ {
+  "id": 5,
+  "start": 11.25,
+  "end": 12.88,
+  "text": "Man: Well, I’m here to talk to her . . ."
+ },
+ {
+  "id": 6,
+  "start": 12.77,
+  "end": 14.0,
+  "text": "Woman: I know why you’re here."
+ },
+ {
+  "id": 7,
+  "start": 14.29,
+  "end": 14.74,
+  "text": "Man: Good."
+ },
+ {
+  "id": 8,
+  "start": 14.69,
+  "end": 17.23,
+  "text": "Uh, Is Sarah here?"
+ },
+ {
+  "id": 9,
+  "start": 17.13,
+  "end": 21.18,
+  "text": "Woman: Um, I first have a couple of questions, and you [had] better answer them."
+ },
+ {
+  "id": 10,
+  "start": 20.88,
+  "end": 21.8,
+  "text": "First of all, what is your name?"
+ },
+ {
+  "id": 11,
+  "start": 22.74,
+  "end": 25.26,
+  "text": "Man: Uh, my name?"
+ },
+ {
+  "id": 12,
+  "start": 24.96,
+  "end": 26.04,
+  "text": "I’m Nick . . ."
+ },
+ {
+  "id": 13,
+  "start": 25.74,
+  "end": 27.53,
+  "text": "Woman: I thought so."
+ },
+ {
+  "id": 14,
+  "start": 26.66,
+  "end": 27.52,
+  "text": "Where are you from?"
+ },
+ {
+  "id": 15,
+  "start": 27.7,
+  "end": 28.72,
+  "text": "Man: Um."
+ },
+ {
+  "id": 16,
+  "start": 28.42,
+  "end": 29.92,
+  "text": "I’m from Brownsville."
+ },
+ {
+  "id": 17,
+  "start": 30.19,
+  "end": 31.44,
+  "text": "Why are you asking me . . ."
+ },
+ {
+  "id": 18,
+  "start": 31.14,
+  "end": 31.88,
+  "text": "Woman: Okay."
+ },
+ {
+  "id": 19,
+  "start": 31.58,
+  "end": 32.83,
+  "text": "How old are you?"
+ },
+ {
+  "id": 20,
+  "start": 32.81,
+  "end": 33.81,
+  "text": "Man: What!?"
+ },
+ {
+  "id": 21,
+  "start": 33.51,
+  "end": 34.72,
+  "text": "Woman: How old are you?"
+ },
+ {
+  "id": 22,
+  "start": 34.89,
+  "end": 36.11,
+  "text": "Man: Does that matter?"
+ },
+ {
+  "id": 23,
+  "start": 35.81,
+  "end": 37.12,
+  "text": "Woman: Of course, it matters."
+ },
+ {
+  "id": 24,
+  "start": 36.82,
+  "end": 38.89,
+  "text": "I wouldn’t be asking otherwise."
+ },
+ {
+  "id": 25,
+  "start": 38.59,
+  "end": 39.72,
+  "text": "Man: Really?"
+ },
+ {
+  "id": 26,
+  "start": 39.42,
+  "end": 40.28,
+  "text": "Woman: Really."
+ },
+ {
+  "id": 27,
+  "start": 39.98,
+  "end": 40.87,
+  "text": "Yeah."
+ },
+ {
+  "id": 28,
+  "start": 40.57,
+  "end": 42.11,
+  "text": "Sarah’s only 19."
+ },
+ {
+  "id": 29,
+  "start": 42.18,
+  "end": 44.71,
+  "text": "Man: Okay, I’m 22."
+ },
+ {
+  "id": 30,
+  "start": 44.88,
+  "end": 46.31,
+  "text": "Now, is Sarah here?"
+ },
+ {
+  "id": 31,
+  "start": 46.26,
+  "end": 49.73,
+  "text": "Woman: Where did you first meet Sarah and why do you like her so much?"
+ },
+ {
+  "id": 32,
+  "start": 49.72,
+  "end": 50.66,
+  "text": "Man: Like her?"
+ },
+ {
+  "id": 33,
+  "start": 50.85,
+  "end": 52.17,
+  "text": "What do you mean?"
+ },
+ {
+  "id": 34,
+  "start": 51.87,
+  "end": 53.65,
+  "text": "I’ve only met her once in . . ."
+ },
+ {
+  "id": 35,
+  "start": 53.35,
+  "end": 54.99,
+  "text": "Woman: Don’t lie to me, Nick."
+ },
+ {
+  "id": 36,
+  "start": 55.36,
+  "end": 57.91,
+  "text": "Man: Are you sure you have the right guy?"
+ },
+ {
+  "id": 37,
+  "start": 58.32,
+  "end": 59.22,
+  "text": "Listen."
+ },
+ {
+  "id": 38,
+  "start": 59.24,
+  "end": 61.67,
+  "text": "Are you sure? [I’m sure, I’m sure.] Listen."
+ },
+ {
+  "id": 39,
+  "start": 61.37,
+  "end": 62.39,
+  "text": "I’m leaving."
+ },
+ {
+  "id": 40,
+  "start": 62.09,
+  "end": 64.42,
+  "text": "I don’t need the money THAT much."
+ },
+ {
+  "id": 41,
+  "start": 64.59,
+  "end": 65.33,
+  "text": "Woman: Money?"
+ },
+ {
+  "id": 42,
+  "start": 65.21,
+  "end": 65.91,
+  "text": "Wait!"
+ },
+ {
+  "id": 43,
+  "start": 65.61,
+  "end": 66.74,
+  "text": "What do you mean?"
+ },
+ {
+  "id": 44,
+  "start": 67.09,
+  "end": 67.82,
+  "text": "Man: Listen."
+ },
+ {
+  "id": 45,
+  "start": 67.82,
+  "end": 73.1,
+  "text": "I’m a teaching assistant at the university, and I met Sarah in the Spanish class last week."
+ },
+ {
+  "id": 46,
+  "start": 73.02,
+  "end": 77.04,
+  "text": "She asked me if I could teach her, you know, help her with her class."
+ },
+ {
+  "id": 47,
+  "start": 76.74,
+  "end": 85.99,
+  "text": "Woman: So, you’re not Nick Roberts, that guy that drives that crazy motorcycle? [No!] The one with the large tattoo of a large snake across his back?"
+ },
+ {
+  "id": 48,
+  "start": 85.69,
+  "end": 87.07,
+  "text": "Man: No! What?"
+ },
+ {
+  "id": 49,
+  "start": 87.27,
+  "end": 89.07,
+  "text": "You’ve got the wrong guy."
+ },
+ {
+  "id": 50,
+  "start": 89.0,
+  "end": 90.07,
+  "text": "I’m leaving."
+ },
+ {
+  "id": 51,
+  "start": 89.77,
+  "end": 91.48,
+  "text": "This whole thing is crazy."
+ }
+];

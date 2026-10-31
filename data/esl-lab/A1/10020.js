@@ -1,0 +1,284 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/10020"]=[
+ {
+  "id": 1,
+  "start": 0.64,
+  "end": 1.35,
+  "text": "Man: Uh, hi."
+ },
+ {
+  "id": 2,
+  "start": 1.05,
+  "end": 2.87,
+  "text": "Do you need some help with those weights?"
+ },
+ {
+  "id": 3,
+  "start": 3.09,
+  "end": 4.87,
+  "text": "I can move them for you."
+ },
+ {
+  "id": 4,
+  "start": 4.93,
+  "end": 7.0,
+  "text": "Rachel: Uh, no. I can do it myself."
+ },
+ {
+  "id": 5,
+  "start": 6.7,
+  "end": 8.86,
+  "text": "I just have to put them back over there."
+ },
+ {
+  "id": 6,
+  "start": 8.56,
+  "end": 10.18,
+  "text": "Man: No, let me help you."
+ },
+ {
+  "id": 7,
+  "start": 10.72,
+  "end": 11.25,
+  "text": "Uh, Oh, Hmpf."
+ },
+ {
+  "id": 8,
+  "start": 11.69,
+  "end": 15.65,
+  "text": "Rachel: Oh, it’s okay."
+ },
+ {
+  "id": 9,
+  "start": 15.58,
+  "end": 17.82,
+  "text": "Man: Oh, my back!"
+ },
+ {
+  "id": 10,
+  "start": 17.52,
+  "end": 19.18,
+  "text": "Woman: It’s okay, it’s okay."
+ },
+ {
+  "id": 11,
+  "start": 18.88,
+  "end": 20.36,
+  "text": "Are you okay?"
+ },
+ {
+  "id": 12,
+  "start": 20.67,
+  "end": 22.95,
+  "text": "Man: I just need to lie down here."
+ },
+ {
+  "id": 13,
+  "start": 23.27,
+  "end": 24.05,
+  "text": "Uh."
+ },
+ {
+  "id": 14,
+  "start": 23.75,
+  "end": 25.28,
+  "text": "Do you come here often?"
+ },
+ {
+  "id": 15,
+  "start": 25.29,
+  "end": 25.89,
+  "text": "Woman: Yeah."
+ },
+ {
+  "id": 16,
+  "start": 25.59,
+  "end": 28.41,
+  "text": "I usually come five times a week."
+ },
+ {
+  "id": 17,
+  "start": 28.41,
+  "end": 30.7,
+  "text": "Man: Oh, oh man."
+ },
+ {
+  "id": 18,
+  "start": 30.6,
+  "end": 32.49,
+  "text": "By the way, my name’s Justin."
+ },
+ {
+  "id": 19,
+  "start": 32.44,
+  "end": 33.37,
+  "text": "Woman: I’m Rachel."
+ },
+ {
+  "id": 20,
+  "start": 33.79,
+  "end": 35.87,
+  "text": "Man: Uh, so, where are you from?"
+ },
+ {
+  "id": 21,
+  "start": 35.97,
+  "end": 38.54,
+  "text": "Woman: I’m originally from California . . ."
+ },
+ {
+  "id": 22,
+  "start": 38.24,
+  "end": 39.9,
+  "text": "Are you sure you’re okay?"
+ },
+ {
+  "id": 23,
+  "start": 39.88,
+  "end": 43.16,
+  "text": "Man: (Said in agony) Yeah, um, I’m okay."
+ },
+ {
+  "id": 24,
+  "start": 43.08,
+  "end": 44.59,
+  "text": "Where are you from?"
+ },
+ {
+  "id": 25,
+  "start": 44.8,
+  "end": 50.46,
+  "text": "Woman: Um, I spent most of my life in a small town in Utah called Spanish Fork actually."
+ },
+ {
+  "id": 26,
+  "start": 50.99,
+  "end": 55.32,
+  "text": "Man: Oh, um, I just need to lie here."
+ },
+ {
+  "id": 27,
+  "start": 55.18,
+  "end": 58.59,
+  "text": "Woman: Um, so, where are you from, Justin?"
+ },
+ {
+  "id": 28,
+  "start": 58.46,
+  "end": 60.16,
+  "text": "I’m going to call the manager."
+ },
+ {
+  "id": 29,
+  "start": 60.13,
+  "end": 62.89,
+  "text": "Man: No, no, no, no, no! I just need to rest."
+ },
+ {
+  "id": 30,
+  "start": 63.15,
+  "end": 67.03,
+  "text": "Oh yeah, I’m from, from, uh, from Spanish Fork."
+ },
+ {
+  "id": 31,
+  "start": 67.37,
+  "end": 68.16,
+  "text": "Woman: Wait."
+ },
+ {
+  "id": 32,
+  "start": 67.86,
+  "end": 68.87,
+  "text": "Are you sure?"
+ },
+ {
+  "id": 33,
+  "start": 68.57,
+  "end": 70.24,
+  "text": "You’re just not thinking right."
+ },
+ {
+  "id": 34,
+  "start": 69.94,
+  "end": 72.55,
+  "text": "Man: No, no, no. Not Spanish . . . ."
+ },
+ {
+  "id": 35,
+  "start": 72.73,
+  "end": 74.61,
+  "text": "Ah, No, I’m from Salt Lake City."
+ },
+ {
+  "id": 36,
+  "start": 74.92,
+  "end": 77.64,
+  "text": "So, what do you do for a living anyway?"
+ },
+ {
+  "id": 37,
+  "start": 77.68,
+  "end": 80.12,
+  "text": "Are you a bodybuilder or something?"
+ },
+ {
+  "id": 38,
+  "start": 80.1,
+  "end": 81.63,
+  "text": "Woman: No, no. I’m a teacher."
+ },
+ {
+  "id": 39,
+  "start": 81.72,
+  "end": 85.36,
+  "text": "Man: Oh, so what do you teach?"
+ },
+ {
+  "id": 40,
+  "start": 85.55,
+  "end": 90.5,
+  "text": "Woman: I teach math and science, and it doesn’t take a science teacher to tell me that you need a doctor."
+ },
+ {
+  "id": 41,
+  "start": 90.67,
+  "end": 93.0,
+  "text": "Man: No, I’m okay, I’m okay."
+ },
+ {
+  "id": 42,
+  "start": 93.38,
+  "end": 95.81,
+  "text": "I’ll stand here in a minute."
+ },
+ {
+  "id": 43,
+  "start": 96.38,
+  "end": 98.84,
+  "text": "Uh, could I have your phone number?"
+ },
+ {
+  "id": 44,
+  "start": 98.81,
+  "end": 100.67,
+  "text": "You know, just in case."
+ },
+ {
+  "id": 45,
+  "start": 100.99,
+  "end": 102.24,
+  "text": "Woman: I don’t think so."
+ },
+ {
+  "id": 46,
+  "start": 101.94,
+  "end": 104.66,
+  "text": "I think 911 is the number you need at this point."
+ },
+ {
+  "id": 47,
+  "start": 104.69,
+  "end": 106.31,
+  "text": "Man: (Crying in pain) Ohhhh!"
+ }
+];

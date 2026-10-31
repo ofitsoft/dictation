@@ -1,0 +1,110 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/10024"]=[
+ {
+  "id": 1,
+  "start": 1.43,
+  "end": 3.14,
+  "text": "Man: Next."
+ },
+ {
+  "id": 2,
+  "start": 3.06,
+  "end": 3.93,
+  "text": "Uh, your passport please."
+ },
+ {
+  "id": 3,
+  "start": 3.52,
+  "end": 4.04,
+  "text": "Woman: Okay."
+ },
+ {
+  "id": 4,
+  "start": 3.88,
+  "end": 5.99,
+  "text": "Man: Uh, what is the purpose of your visit?"
+ },
+ {
+  "id": 5,
+  "start": 6.15,
+  "end": 12.71,
+  "text": "Woman: I’m here to attend a teaching convention for the first part of my trip, and then I plan on touring the capital for a few days."
+ },
+ {
+  "id": 6,
+  "start": 12.63,
+  "end": 14.66,
+  "text": "Man: And where will you be staying?"
+ },
+ {
+  "id": 7,
+  "start": 14.36,
+  "end": 18.17,
+  "text": "Woman: I’ll be staying in a room at a hotel downtown for the entire week."
+ },
+ {
+  "id": 8,
+  "start": 18.06,
+  "end": 21.88,
+  "text": "Man: And uh, what do you have in your luggage?"
+ },
+ {
+  "id": 9,
+  "start": 21.87,
+  "end": 27.3,
+  "text": "Woman: Uh, well, just, just my personal belongings um, . . . clothes, a few books, and a CD player."
+ },
+ {
+  "id": 10,
+  "start": 27.37,
+  "end": 29.65,
+  "text": "Man: Okay."
+ },
+ {
+  "id": 11,
+  "start": 29.79,
+  "end": 34.97,
+  "text": "Uh, please open your bag."
+ },
+ {
+  "id": 12,
+  "start": 34.67,
+  "end": 35.76,
+  "text": "Woman: Sure."
+ },
+ {
+  "id": 13,
+  "start": 35.46,
+  "end": 36.2,
+  "text": "Man: Okay . . ."
+ },
+ {
+  "id": 14,
+  "start": 35.9,
+  "end": 37.5,
+  "text": "Everything’s fine. [Great]."
+ },
+ {
+  "id": 15,
+  "start": 37.39,
+  "end": 40.19,
+  "text": "Uh, by the way, is this your first visit to the country?"
+ },
+ {
+  "id": 16,
+  "start": 40.07,
+  "end": 48.81,
+  "text": "Woman: Well, yes and no. Actually, I was born here when my parents were working in the capital many years ago, but this is my first trip back since then."
+ },
+ {
+  "id": 17,
+  "start": 48.75,
+  "end": 50.25,
+  "text": "Man: Well, enjoy your trip."
+ },
+ {
+  "id": 18,
+  "start": 49.95,
+  "end": 50.81,
+  "text": "Woman: Thanks."
+ }
+];

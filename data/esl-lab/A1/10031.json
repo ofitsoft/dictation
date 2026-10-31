@@ -1,0 +1,200 @@
+[
+ {
+  "id": 1,
+  "start": 3.23,
+  "end": 3.68,
+  "text": "Woman: Hello."
+ },
+ {
+  "id": 2,
+  "start": 3.38,
+  "end": 4.69,
+  "text": "Man: He, he.., hello?"
+ },
+ {
+  "id": 3,
+  "start": 4.55,
+  "end": 6.11,
+  "text": "Uh, yeah."
+ },
+ {
+  "id": 4,
+  "start": 5.81,
+  "end": 7.28,
+  "text": "Is . . . uh . . . your dad home?"
+ },
+ {
+  "id": 5,
+  "start": 7.16,
+  "end": 8.96,
+  "text": "Woman: Just a minute please."
+ },
+ {
+  "id": 6,
+  "start": 9.01,
+  "end": 10.26,
+  "text": "Woman: Hello."
+ },
+ {
+  "id": 7,
+  "start": 10.2,
+  "end": 11.9,
+  "text": "Man: Uh . . . yeah . . . uh hello?"
+ },
+ {
+  "id": 8,
+  "start": 11.83,
+  "end": 14.64,
+  "text": "Yeah, um . . . is . . . uh . . ."
+ },
+ {
+  "id": 9,
+  "start": 14.52,
+  "end": 15.17,
+  "text": "Nick home please?"
+ },
+ {
+  "id": 10,
+  "start": 14.87,
+  "end": 16.88,
+  "text": "Woman: Oh, he can’t come to the phone right now."
+ },
+ {
+  "id": 11,
+  "start": 16.91,
+  "end": 20.77,
+  "text": "Man: Okay, well, um, yeah, I need to talk to your dad."
+ },
+ {
+  "id": 12,
+  "start": 20.63,
+  "end": 23.65,
+  "text": "Um, yeah, could you . . . um . . . take a message?"
+ },
+ {
+  "id": 13,
+  "start": 23.5,
+  "end": 24.62,
+  "text": "Woman: Yeah."
+ },
+ {
+  "id": 14,
+  "start": 24.32,
+  "end": 25.01,
+  "text": "Man: Yeah."
+ },
+ {
+  "id": 15,
+  "start": 24.71,
+  "end": 28.13,
+  "text": "This is . . . my name’s Nick Johnson."
+ },
+ {
+  "id": 16,
+  "start": 27.12,
+  "end": 27.62,
+  "text": "And if . . ."
+ },
+ {
+  "id": 17,
+  "start": 28.13,
+  "end": 29.0,
+  "text": "Woman: The phone number?"
+ },
+ {
+  "id": 18,
+  "start": 28.89,
+  "end": 30.41,
+  "text": "Man: Yeah if you could tell him."
+ },
+ {
+  "id": 19,
+  "start": 30.11,
+  "end": 35.54,
+  "text": "Yeah, the phone number is 589 [Uh-huh] 7248."
+ },
+ {
+  "id": 20,
+  "start": 35.48,
+  "end": 37.39,
+  "text": "Woman: 589-7248?"
+ },
+ {
+  "id": 21,
+  "start": 37.09,
+  "end": 42.52,
+  "text": "Man: Yeah, right and if you could tell him to call me tonight between 7:00 and 8:30?"
+ },
+ {
+  "id": 22,
+  "start": 42.22,
+  "end": 43.38,
+  "text": "Woman: Okay."
+ },
+ {
+  "id": 23,
+  "start": 43.08,
+  "end": 44.97,
+  "text": "Man: Alright, and uh."
+ },
+ {
+  "id": 24,
+  "start": 44.85,
+  "end": 46.06,
+  "text": "Now, I think . . . are you his daughter?"
+ },
+ {
+  "id": 25,
+  "start": 46.3,
+  "end": 47.57,
+  "text": "Woman: Yeah."
+ },
+ {
+  "id": 26,
+  "start": 47.43,
+  "end": 48.52,
+  "text": "Man: Yeah, now what’s your name?"
+ },
+ {
+  "id": 27,
+  "start": 48.47,
+  "end": 49.03,
+  "text": "Woman: I . . ."
+ },
+ {
+  "id": 28,
+  "start": 48.73,
+  "end": 50.25,
+  "text": "I’m not supposed to tell that."
+ },
+ {
+  "id": 29,
+  "start": 49.95,
+  "end": 51.8,
+  "text": "Man: Ah, that’s really smart."
+ },
+ {
+  "id": 30,
+  "start": 51.5,
+  "end": 53.31,
+  "text": "Alright, well just tell him I called."
+ },
+ {
+  "id": 31,
+  "start": 53.19,
+  "end": 53.86,
+  "text": "Woman: (O)kay."
+ },
+ {
+  "id": 32,
+  "start": 53.56,
+  "end": 55.09,
+  "text": "Man: Okay, bye."
+ },
+ {
+  "id": 33,
+  "start": 54.97,
+  "end": 55.3,
+  "text": "Woman: Bye."
+ }
+]

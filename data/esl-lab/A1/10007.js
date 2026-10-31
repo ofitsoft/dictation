@@ -1,0 +1,176 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/10007"]=[
+ {
+  "id": 1,
+  "start": 0.31,
+  "end": 3.29,
+  "text": "Man: Well, Christmas is almost here."
+ },
+ {
+  "id": 2,
+  "start": 2.99,
+  "end": 4.98,
+  "text": "So, what do you want from Santa this year?"
+ },
+ {
+  "id": 3,
+  "start": 5.15,
+  "end": 8.44,
+  "text": "Micky: A toy car and walkie-talkies."
+ },
+ {
+  "id": 4,
+  "start": 8.14,
+  "end": 8.98,
+  "text": "Man: Really?"
+ },
+ {
+  "id": 5,
+  "start": 8.68,
+  "end": 10.65,
+  "text": "Well, and what about you, Emily?"
+ },
+ {
+  "id": 6,
+  "start": 10.35,
+  "end": 11.83,
+  "text": "What do you want for Christmas?"
+ },
+ {
+  "id": 7,
+  "start": 11.53,
+  "end": 16.52,
+  "text": "Emily: If I can’t have a Barbie radio, um, I would have some fragile dolls."
+ },
+ {
+  "id": 8,
+  "start": 16.22,
+  "end": 21.16,
+  "text": "And if I can’t have some fragile dolls, it doesn’t really matter what I get."
+ },
+ {
+  "id": 9,
+  "start": 20.86,
+  "end": 21.47,
+  "text": "Man: Wow."
+ },
+ {
+  "id": 10,
+  "start": 21.17,
+  "end": 23.81,
+  "text": "Well, I’m excited, and Santa is coming."
+ },
+ {
+  "id": 11,
+  "start": 23.51,
+  "end": 25.97,
+  "text": "And how is Santa going to get inside the house, Micky?"
+ },
+ {
+  "id": 12,
+  "start": 25.85,
+  "end": 29.24,
+  "text": "Micky: Um, go down the chimney . . ."
+ },
+ {
+  "id": 13,
+  "start": 28.94,
+  "end": 32.51,
+  "text": "Man: Okay, so he’s going to go down the chimney, and should we prepare anything for Santa?"
+ },
+ {
+  "id": 14,
+  "start": 32.38,
+  "end": 33.45,
+  "text": "Micky: Yeah!"
+ },
+ {
+  "id": 15,
+  "start": 33.15,
+  "end": 35.48,
+  "text": "Man: What are we going to prepare for him, Emily?"
+ },
+ {
+  "id": 16,
+  "start": 35.18,
+  "end": 36.01,
+  "text": "Emily: Um."
+ },
+ {
+  "id": 17,
+  "start": 35.71,
+  "end": 46.63,
+  "text": "We could prepare some cookies for him and some hot chocolate, and, um, we could give Rudolph some, um, hot chocolate in a bowl and a cookie."
+ },
+ {
+  "id": 18,
+  "start": 46.33,
+  "end": 50.28,
+  "text": "And we could give some of the reindeer some cookies and some hot chocolate in a bowl."
+ },
+ {
+  "id": 19,
+  "start": 49.98,
+  "end": 51.35,
+  "text": "Man: Well, what do you think?"
+ },
+ {
+  "id": 20,
+  "start": 51.05,
+  "end": 55.12,
+  "text": "They, Um, reindeer probably don’t eat cookies, but what else could we give them, Micky?"
+ },
+ {
+  "id": 21,
+  "start": 54.82,
+  "end": 56.79,
+  "text": "Micky: Um, apples."
+ },
+ {
+  "id": 22,
+  "start": 56.49,
+  "end": 58.86,
+  "text": "Man: Ah, that’s good."
+ },
+ {
+  "id": 23,
+  "start": 58.56,
+  "end": 59.46,
+  "text": "And, uh . . ."
+ },
+ {
+  "id": 24,
+  "start": 59.16,
+  "end": 60.93,
+  "text": "Emily: Oranges and bananas."
+ },
+ {
+  "id": 25,
+  "start": 60.63,
+  "end": 63.19,
+  "text": "Man: Okay and what time do you think we should go to bed?"
+ },
+ {
+  "id": 26,
+  "start": 62.89,
+  "end": 64.29,
+  "text": "Emily: Um, seven."
+ },
+ {
+  "id": 27,
+  "start": 63.99,
+  "end": 65.67,
+  "text": "Man: About seven o’clock."
+ },
+ {
+  "id": 28,
+  "start": 65.37,
+  "end": 67.25,
+  "text": "Well, that’s exciting."
+ },
+ {
+  "id": 29,
+  "start": 66.95,
+  "end": 69.48,
+  "text": "I’m really happy that Christmas is coming."
+ }
+];

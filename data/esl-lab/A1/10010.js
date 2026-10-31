@@ -1,0 +1,128 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/10010"]=[
+ {
+  "id": 1,
+  "start": 2.28,
+  "end": 4.88,
+  "text": "Man: Yahoo!"
+ },
+ {
+  "id": 2,
+  "start": 4.58,
+  "end": 7.17,
+  "text": "Freedom at last."
+ },
+ {
+  "id": 3,
+  "start": 6.87,
+  "end": 8.44,
+  "text": "Woman: Hey, why are you so happy?"
+ },
+ {
+  "id": 4,
+  "start": 8.14,
+  "end": 10.41,
+  "text": "Did you win a million dollars?"
+ },
+ {
+  "id": 5,
+  "start": 9.5,
+  "end": 10.28,
+  "text": "Man: What?"
+ },
+ {
+  "id": 6,
+  "start": 10.33,
+  "end": 11.45,
+  "text": "No!"
+ },
+ {
+  "id": 7,
+  "start": 11.15,
+  "end": 14.42,
+  "text": "Woman: Well, did you finally move out of your parents house?"
+ },
+ {
+  "id": 8,
+  "start": 14.12,
+  "end": 16.03,
+  "text": "I mean you weren’t paying rent."
+ },
+ {
+  "id": 9,
+  "start": 15.73,
+  "end": 24.15,
+  "text": "Man: No. I just found out that I only need to take three more classes to finish, so I’m graduating in the summer."
+ },
+ {
+  "id": 10,
+  "start": 23.85,
+  "end": 24.94,
+  "text": "Woman: Whoa."
+ },
+ {
+  "id": 11,
+  "start": 24.64,
+  "end": 25.94,
+  "text": "That’s so cool."
+ },
+ {
+  "id": 12,
+  "start": 25.64,
+  "end": 27.49,
+  "text": "What classes do you have left?"
+ },
+ {
+  "id": 13,
+  "start": 27.19,
+  "end": 30.67,
+  "text": "Man: I have two business classes and a Spanish class."
+ },
+ {
+  "id": 14,
+  "start": 30.37,
+  "end": 32.07,
+  "text": "Woman: That sounds great."
+ },
+ {
+  "id": 15,
+  "start": 31.77,
+  "end": 35.26,
+  "text": "So, what are you going to do with your finance degree after you graduate?"
+ },
+ {
+  "id": 16,
+  "start": 35.37,
+  "end": 40.12,
+  "text": "Man: Well, that’s still up in the air, but I’m thinking about working for my dad."
+ },
+ {
+  "id": 17,
+  "start": 39.99,
+  "end": 44.72,
+  "text": "He owns a computer software company, and he needs help in their accounting department."
+ },
+ {
+  "id": 18,
+  "start": 44.42,
+  "end": 48.69,
+  "text": "And if I don’t do that, I might go back to school and get an MBA."
+ },
+ {
+  "id": 19,
+  "start": 48.39,
+  "end": 50.27,
+  "text": "Woman: And how are you going to pay for that?"
+ },
+ {
+  "id": 20,
+  "start": 49.97,
+  "end": 53.22,
+  "text": "Man: I’m not sure you, but I might have to take out a loan."
+ },
+ {
+  "id": 21,
+  "start": 52.92,
+  "end": 54.57,
+  "text": "We’ll see."
+ }
+];

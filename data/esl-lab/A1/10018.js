@@ -1,0 +1,296 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/10018"]=[
+ {
+  "id": 1,
+  "start": 2.09,
+  "end": 3.59,
+  "text": "Woman: He’s here."
+ },
+ {
+  "id": 2,
+  "start": 3.29,
+  "end": 4.97,
+  "text": "Bye Dad."
+ },
+ {
+  "id": 3,
+  "start": 4.67,
+  "end": 5.88,
+  "text": "Man: Wait, wait, wait . . ."
+ },
+ {
+  "id": 4,
+  "start": 5.58,
+  "end": 6.85,
+  "text": "Where are you going?"
+ },
+ {
+  "id": 5,
+  "start": 6.72,
+  "end": 7.37,
+  "text": "Woman: Dad."
+ },
+ {
+  "id": 6,
+  "start": 7.25,
+  "end": 8.56,
+  "text": "I’ve already told mom."
+ },
+ {
+  "id": 7,
+  "start": 8.26,
+  "end": 9.75,
+  "text": "I’m going out tonight."
+ },
+ {
+  "id": 8,
+  "start": 10.03,
+  "end": 10.94,
+  "text": "Man: Who with?"
+ },
+ {
+  "id": 9,
+  "start": 10.88,
+  "end": 12.8,
+  "text": "You mean you’re going on a date?"
+ },
+ {
+  "id": 10,
+  "start": 12.82,
+  "end": 13.45,
+  "text": "Woman: Yeah."
+ },
+ {
+  "id": 11,
+  "start": 13.47,
+  "end": 17.37,
+  "text": "Mom met Dirk yesterday. [Dirk!?] He’s sooo cool."
+ },
+ {
+  "id": 12,
+  "start": 17.32,
+  "end": 19.99,
+  "text": "We’re going on a double-date with Cindy and Evan."
+ },
+ {
+  "id": 13,
+  "start": 20.29,
+  "end": 20.92,
+  "text": "Man: Dirk."
+ },
+ {
+  "id": 14,
+  "start": 20.81,
+  "end": 22.33,
+  "text": "Woman: I have to go."
+ },
+ {
+  "id": 15,
+  "start": 22.19,
+  "end": 22.58,
+  "text": "Man: Wait, wait."
+ },
+ {
+  "id": 16,
+  "start": 22.28,
+  "end": 24.66,
+  "text": "I want to meet this guy."
+ },
+ {
+  "id": 17,
+  "start": 24.78,
+  "end": 26.02,
+  "text": "Woman: He’s waiting for me."
+ },
+ {
+  "id": 18,
+  "start": 25.96,
+  "end": 27.62,
+  "text": "Man: Well, so what are you going to do tonight?"
+ },
+ {
+  "id": 19,
+  "start": 27.32,
+  "end": 28.85,
+  "text": "Going to the library?"
+ },
+ {
+  "id": 20,
+  "start": 28.79,
+  "end": 29.6,
+  "text": "Woman: Dad!"
+ },
+ {
+  "id": 21,
+  "start": 29.8,
+  "end": 32.6,
+  "text": "We’re going out to eat, and then we’re going to catch a movie."
+ },
+ {
+  "id": 22,
+  "start": 32.59,
+  "end": 34.5,
+  "text": "Man: What movie and what is it rated?"
+ },
+ {
+  "id": 23,
+  "start": 34.2,
+  "end": 38.51,
+  "text": "Woman: It’s a science fiction thriller called . . . well, I don’t know what it is called, but it’s rated PG."
+ },
+ {
+  "id": 24,
+  "start": 38.56,
+  "end": 40.01,
+  "text": "Man: And where’s the movie showing?"
+ },
+ {
+  "id": 25,
+  "start": 40.13,
+  "end": 42.51,
+  "text": "Woman: Down at the Campus Plaza Movie Theater."
+ },
+ {
+  "id": 26,
+  "start": 42.5,
+  "end": 45.79,
+  "text": "Man: Hey, I was thinking about seeing a movie down there tonight, too."
+ },
+ {
+  "id": 27,
+  "start": 45.9,
+  "end": 47.12,
+  "text": "Woman: Ah, Dad."
+ },
+ {
+  "id": 28,
+  "start": 46.97,
+  "end": 48.94,
+  "text": "Man: Hey, Let me meet that guy."
+ },
+ {
+  "id": 29,
+  "start": 49.22,
+  "end": 49.9,
+  "text": "[Father looks out the living room window . . ."
+ },
+ {
+  "id": 30,
+  "start": 50.94,
+  "end": 52.56,
+  "text": "Hey, that guy has a moustache!"
+ },
+ {
+  "id": 31,
+  "start": 52.55,
+  "end": 53.47,
+  "text": "Woman: Dad."
+ },
+ {
+  "id": 32,
+  "start": 53.17,
+  "end": 55.55,
+  "text": "That’s not Dirk."
+ },
+ {
+  "id": 33,
+  "start": 55.42,
+  "end": 56.71,
+  "text": "That’s his older brother."
+ },
+ {
+  "id": 34,
+  "start": 55.56,
+  "end": 56.94,
+  "text": "He’s taking us there!"
+ },
+ {
+  "id": 35,
+  "start": 56.67,
+  "end": 58.04,
+  "text": "Can I go now?"
+ },
+ {
+  "id": 36,
+  "start": 57.74,
+  "end": 59.23,
+  "text": "Man: Well . . ."
+ },
+ {
+  "id": 37,
+  "start": 58.93,
+  "end": 61.73,
+  "text": "Woman: Mom said I could, and mom knows his parents."
+ },
+ {
+  "id": 38,
+  "start": 61.43,
+  "end": 62.91,
+  "text": "Man: Well . . ."
+ },
+ {
+  "id": 39,
+  "start": 62.61,
+  "end": 63.86,
+  "text": "Woman: Dad."
+ },
+ {
+  "id": 40,
+  "start": 63.91,
+  "end": 66.35,
+  "text": "Man: Okay, but be home by 8:00."
+ },
+ {
+  "id": 41,
+  "start": 66.21,
+  "end": 67.07,
+  "text": "Woman: Eight!?"
+ },
+ {
+  "id": 42,
+  "start": 66.97,
+  "end": 69.44,
+  "text": "The movie doesn’t start until 7:30."
+ },
+ {
+  "id": 43,
+  "start": 69.14,
+  "end": 70.96,
+  "text": "Come on, Dad."
+ },
+ {
+  "id": 44,
+  "start": 70.66,
+  "end": 71.73,
+  "text": "Man: Okay."
+ },
+ {
+  "id": 45,
+  "start": 71.43,
+  "end": 72.64,
+  "text": "Be back by 11:00."
+ },
+ {
+  "id": 46,
+  "start": 72.7,
+  "end": 73.76,
+  "text": "Woman: Love you, Dad."
+ },
+ {
+  "id": 47,
+  "start": 73.68,
+  "end": 74.68,
+  "text": "Man: Love you, too."
+ },
+ {
+  "id": 48,
+  "start": 74.79,
+  "end": 75.64,
+  "text": "Woman: Bye."
+ },
+ {
+  "id": 49,
+  "start": 75.34,
+  "end": 76.01,
+  "text": "Dad:Bye."
+ }
+];

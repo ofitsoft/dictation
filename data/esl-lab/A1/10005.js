@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/10005"]=[
+ {
+  "id": 1,
+  "start": 0.88,
+  "end": 8.33,
+  "text": "Man: Sara, I’ve been looking forward to our yearly campout for three weeks. [Me too.] It’s going to be a wonderful day for hiking tomorrow."
+ },
+ {
+  "id": 2,
+  "start": 8.03,
+  "end": 9.47,
+  "text": "The great outdoors."
+ },
+ {
+  "id": 3,
+  "start": 9.17,
+  "end": 11.19,
+  "text": "Camping under the stars ."
+ },
+ {
+  "id": 4,
+  "start": 10.89,
+  "end": 12.58,
+  "text": "This is the life."
+ },
+ {
+  "id": 5,
+  "start": 12.28,
+  "end": 15.75,
+  "text": "Woman: Yeah, but Paul, I’m a little bit worried about the weather though."
+ },
+ {
+  "id": 6,
+  "start": 15.45,
+  "end": 18.45,
+  "text": "The weatherman said it was going to rain later tonight."
+ },
+ {
+  "id": 7,
+  "start": 18.15,
+  "end": 19.91,
+  "text": "Man: Ah. nonsense."
+ },
+ {
+  "id": 8,
+  "start": 19.61,
+  "end": 22.05,
+  "text": "Nothing can spoil our adventure."
+ },
+ {
+  "id": 9,
+  "start": 21.75,
+  "end": 24.37,
+  "text": "Those weather reports are never right."
+ },
+ {
+  "id": 10,
+  "start": 24.07,
+  "end": 26.47,
+  "text": "Woman: And it said there was a chance of high winds."
+ },
+ {
+  "id": 11,
+  "start": 26.17,
+  "end": 29.95,
+  "text": "Man: Ah."
+ },
+ {
+  "id": 12,
+  "start": 29.65,
+  "end": 33.1,
+  "text": "Don’t worry."
+ },
+ {
+  "id": 13,
+  "start": 32.8,
+  "end": 33.82,
+  "text": "Woman: Paul."
+ },
+ {
+  "id": 14,
+  "start": 33.52,
+  "end": 34.57,
+  "text": "Paul."
+ },
+ {
+  "id": 15,
+  "start": 34.27,
+  "end": 37.57,
+  "text": "Did you remember to bring our raincoats just in case, like I told you?"
+ },
+ {
+  "id": 16,
+  "start": 37.77,
+  "end": 42.58,
+  "text": "Man: Uh . . . no. I left them on the front porch."
+ },
+ {
+  "id": 17,
+  "start": 42.28,
+  "end": 44.19,
+  "text": "Woman: What are we going to do now?"
+ },
+ {
+  "id": 18,
+  "start": 43.89,
+  "end": 45.92,
+  "text": "Man: We’ll have to sleep in the car!"
+ },
+ {
+  "id": 19,
+  "start": 45.62,
+  "end": 47.53,
+  "text": "Hurry get in!"
+ },
+ {
+  "id": 20,
+  "start": 47.23,
+  "end": 50.23,
+  "text": "Woman: So, Paul, what are we going to do now?"
+ },
+ {
+  "id": 21,
+  "start": 49.93,
+  "end": 52.94,
+  "text": "Man: How about playing a card game?"
+ },
+ {
+  "id": 22,
+  "start": 52.64,
+  "end": 54.06,
+  "text": "Woman: Uhh."
+ },
+ {
+  "id": 23,
+  "start": 53.76,
+  "end": 61.16,
+  "text": "I left them next to the picnic table. [Hmmm] Hey, you don’t want me to go out in this rain and get them, do you?"
+ },
+ {
+  "id": 24,
+  "start": 60.86,
+  "end": 63.66,
+  "text": "Man: No. That’s okay."
+ },
+ {
+  "id": 25,
+  "start": 63.36,
+  "end": 65.29,
+  "text": "So what now?"
+ },
+ {
+  "id": 26,
+  "start": 64.99,
+  "end": 70.47,
+  "text": "Woman: Well, we could head down the mountain and stay at that hotel we passed on the way up, or go home."
+ },
+ {
+  "id": 27,
+  "start": 70.17,
+  "end": 74.14,
+  "text": "Man: Hmm, why don’t we just make the best of it here and hope the weather clears."
+ },
+ {
+  "id": 28,
+  "start": 73.84,
+  "end": 76.36,
+  "text": "Woman: That’s a good idea."
+ }
+];

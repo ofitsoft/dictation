@@ -30,5 +30,17 @@ window.DICT=window.DICT||{};DICT["topics"]=[
     "count": 0
    }
   ]
+ },
+ {
+  "id": "esl-lab",
+  "title": "Esl Lab",
+  "levels": "A1",
+  "lessons": 42,
+  "groups": [
+   {
+    "title": "A1 ESL Lab",
+    "count": 42
+   }
+  ]
  }
 ];

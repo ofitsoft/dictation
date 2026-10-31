@@ -1,0 +1,230 @@
+[
+ {
+  "id": 1,
+  "start": 0.8,
+  "end": 2.46,
+  "text": "Woman: Hi Sweetie."
+ },
+ {
+  "id": 2,
+  "start": 1.66,
+  "end": 2.42,
+  "text": "Welcome home."
+ },
+ {
+  "id": 3,
+  "start": 2.43,
+  "end": 3.64,
+  "text": "We’re ready to eat."
+ },
+ {
+  "id": 4,
+  "start": 3.83,
+  "end": 6.51,
+  "text": "Man: Well, there’s something I . . ."
+ },
+ {
+  "id": 5,
+  "start": 6.72,
+  "end": 11.19,
+  "text": "Woman: We have salmon and your favorite salad."
+ },
+ {
+  "id": 6,
+  "start": 11.52,
+  "end": 13.01,
+  "text": "Man: Oh, yeah."
+ },
+ {
+  "id": 7,
+  "start": 12.71,
+  "end": 14.43,
+  "text": "That sounds . . . great."
+ },
+ {
+  "id": 8,
+  "start": 15.25,
+  "end": 16.79,
+  "text": "Woman: Um, what’s . . . what’s the deal?"
+ },
+ {
+  "id": 9,
+  "start": 16.67,
+  "end": 19.03,
+  "text": "I worked really hard."
+ },
+ {
+  "id": 10,
+  "start": 18.73,
+  "end": 19.99,
+  "text": "Look, Look."
+ },
+ {
+  "id": 11,
+  "start": 19.92,
+  "end": 21.94,
+  "text": "For dessert, I made apple pie."
+ },
+ {
+  "id": 12,
+  "start": 22.42,
+  "end": 26.62,
+  "text": "Man: Well . . . under most circumstances . . ."
+ },
+ {
+  "id": 13,
+  "start": 26.62,
+  "end": 27.19,
+  "text": "Woman: Hon."
+ },
+ {
+  "id": 14,
+  "start": 27.19,
+  "end": 27.7,
+  "text": "What’s?"
+ },
+ {
+  "id": 15,
+  "start": 27.69,
+  "end": 28.35,
+  "text": "You . . ."
+ },
+ {
+  "id": 16,
+  "start": 28.05,
+  "end": 29.76,
+  "text": "I’ve never made a pie before."
+ },
+ {
+  "id": 17,
+  "start": 29.46,
+  "end": 31.8,
+  "text": "It took me like three hours."
+ },
+ {
+  "id": 18,
+  "start": 31.83,
+  "end": 33.44,
+  "text": "Man: Well, to be honest . . ."
+ },
+ {
+  "id": 19,
+  "start": 33.57,
+  "end": 37.73,
+  "text": "Woman: What’s wrong? [ Man laughing. ] Don’t you like my cooking?"
+ },
+ {
+  "id": 20,
+  "start": 37.43,
+  "end": 38.68,
+  "text": "Man: No, no, no."
+ },
+ {
+  "id": 21,
+  "start": 38.38,
+  "end": 39.84,
+  "text": "Woman: I worked really hard!"
+ },
+ {
+  "id": 22,
+  "start": 39.54,
+  "end": 45.71,
+  "text": "Man: I know, I know, I know, but to be honest, I just had a hamburger, fries, and a chocolate shake."
+ },
+ {
+  "id": 23,
+  "start": 47.13,
+  "end": 49.32,
+  "text": "Woman: Why?"
+ },
+ {
+  "id": 24,
+  "start": 49.02,
+  "end": 51.0,
+  "text": "WHY?"
+ },
+ {
+  "id": 25,
+  "start": 50.12,
+  "end": 50.84,
+  "text": "Man: I’m sorry."
+ },
+ {
+  "id": 26,
+  "start": 50.89,
+  "end": 52.0,
+  "text": "I didn’t know."
+ },
+ {
+  "id": 27,
+  "start": 51.7,
+  "end": 54.61,
+  "text": "Woman: I told you this morning I was making something nice."
+ },
+ {
+  "id": 28,
+  "start": 54.6,
+  "end": 56.22,
+  "text": "Didn’t you listen?"
+ },
+ {
+  "id": 29,
+  "start": 56.11,
+  "end": 58.57,
+  "text": "Man: I’m sorry, I forgot."
+ },
+ {
+  "id": 30,
+  "start": 58.6,
+  "end": 59.24,
+  "text": "I mean . . ."
+ },
+ {
+  "id": 31,
+  "start": 59.32,
+  "end": 59.92,
+  "text": "Wait . . ."
+ },
+ {
+  "id": 32,
+  "start": 59.62,
+  "end": 61.12,
+  "text": "Woman: Serious."
+ },
+ {
+  "id": 33,
+  "start": 61.32,
+  "end": 62.01,
+  "text": "Man: Yeah, wait."
+ },
+ {
+  "id": 34,
+  "start": 61.97,
+  "end": 63.05,
+  "text": "Wait, wait."
+ },
+ {
+  "id": 35,
+  "start": 62.0,
+  "end": 63.08,
+  "text": "What are you doing?"
+ },
+ {
+  "id": 36,
+  "start": 63.08,
+  "end": 65.42,
+  "text": "Why are you putting the food in my shoes?"
+ },
+ {
+  "id": 37,
+  "start": 65.12,
+  "end": 68.23,
+  "text": "Woman: So you can enjoy it as you walk to work tomorrow."
+ },
+ {
+  "id": 38,
+  "start": 67.93,
+  "end": 69.91,
+  "text": "Man: Oh, no. I’m sorry!"
+ }
+]

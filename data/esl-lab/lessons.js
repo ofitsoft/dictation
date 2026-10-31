@@ -1,0 +1,380 @@
+window.DICT=window.DICT||{};DICT["esl-lab/lessons"]=[
+ {
+  "id": "10001",
+  "title": "Spending Money",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 1,
+  "parts": 23
+ },
+ {
+  "id": "10002",
+  "title": "A Fun Day",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 2,
+  "parts": 23
+ },
+ {
+  "id": "10003",
+  "title": "Acting School and Movie Stars",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 3,
+  "parts": 31
+ },
+ {
+  "id": "10004",
+  "title": "Apartments for Rent",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 4,
+  "parts": 24
+ },
+ {
+  "id": "10005",
+  "title": "Camping Gear",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 5,
+  "parts": 28
+ },
+ {
+  "id": "10006",
+  "title": "Casino Gambling",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 6,
+  "parts": 27
+ },
+ {
+  "id": "10007",
+  "title": "Christmas is Coming",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 7,
+  "parts": 29
+ },
+ {
+  "id": "10008",
+  "title": "Class Reunion",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 8,
+  "parts": 49
+ },
+ {
+  "id": "10009",
+  "title": "Clothing Styles",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 9,
+  "parts": 27
+ },
+ {
+  "id": "10010",
+  "title": "College Graduation",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 10,
+  "parts": 21
+ },
+ {
+  "id": "10011",
+  "title": "College Life",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 11,
+  "parts": 34
+ },
+ {
+  "id": "10012",
+  "title": "Daily Schedule",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 12,
+  "parts": 24
+ },
+ {
+  "id": "10013",
+  "title": "Donating Cars",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 13,
+  "parts": 21
+ },
+ {
+  "id": "10014",
+  "title": "Drugs and Medication",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 14,
+  "parts": 24
+ },
+ {
+  "id": "10015",
+  "title": "DVD Movie Rentals",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 15,
+  "parts": 17
+ },
+ {
+  "id": "10016",
+  "title": "Family Activities",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 16,
+  "parts": 33
+ },
+ {
+  "id": "10017",
+  "title": "Family Relationships",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 17,
+  "parts": 22
+ },
+ {
+  "id": "10018",
+  "title": "First Date",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 18,
+  "parts": 49
+ },
+ {
+  "id": "10019",
+  "title": "Gourmet Cooking",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 19,
+  "parts": 38
+ },
+ {
+  "id": "10020",
+  "title": "Health Club",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 20,
+  "parts": 47
+ },
+ {
+  "id": "10021",
+  "title": "Health Insurance",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 21,
+  "parts": 25
+ },
+ {
+  "id": "10022",
+  "title": "Heavenly Pies Restaurant",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 22,
+  "parts": 36
+ },
+ {
+  "id": "10023",
+  "title": "Hotel Reservations",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 23,
+  "parts": 33
+ },
+ {
+  "id": "10024",
+  "title": "Immigration and Customs",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 24,
+  "parts": 18
+ },
+ {
+  "id": "10025",
+  "title": "Law Offices",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 25,
+  "parts": 17
+ },
+ {
+  "id": "10026",
+  "title": "New Friends",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 26,
+  "parts": 30
+ },
+ {
+  "id": "10027",
+  "title": "Nice to Meet You",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 27,
+  "parts": 28
+ },
+ {
+  "id": "10028",
+  "title": "Office Supplies Company",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 28,
+  "parts": 32
+ },
+ {
+  "id": "10029",
+  "title": "Party Invitations",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 29,
+  "parts": 36
+ },
+ {
+  "id": "10030",
+  "title": "Party Time",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 30,
+  "parts": 25
+ },
+ {
+  "id": "10031",
+  "title": "Phone Message",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 31,
+  "parts": 33
+ },
+ {
+  "id": "10032",
+  "title": "Physical Therapy",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 32,
+  "parts": 21
+ },
+ {
+  "id": "10033",
+  "title": "Private Language Tutor",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 33,
+  "parts": 51
+ },
+ {
+  "id": "10034",
+  "title": "Reading Books",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 34,
+  "parts": 14
+ },
+ {
+  "id": "10035",
+  "title": "Restaurant Order",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 35,
+  "parts": 41
+ },
+ {
+  "id": "10036",
+  "title": "Saturday's Chores",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 36,
+  "parts": 23
+ },
+ {
+  "id": "10037",
+  "title": "Shopping for the Day",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 37,
+  "parts": 37
+ },
+ {
+  "id": "10038",
+  "title": "Sightseeing Tours",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 38,
+  "parts": 20
+ },
+ {
+  "id": "10039",
+  "title": "Snack Time",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 39,
+  "parts": 25
+ },
+ {
+  "id": "10040",
+  "title": "Tokyo Travel Guide",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 40,
+  "parts": 22
+ },
+ {
+  "id": "10041",
+  "title": "Train Tickets",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 41,
+  "parts": 22
+ },
+ {
+  "id": "10042",
+  "title": "Hotel Room Service",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1 ESL Lab",
+  "no": 42,
+  "parts": 41
+ }
+];

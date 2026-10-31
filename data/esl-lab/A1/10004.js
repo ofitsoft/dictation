@@ -1,0 +1,146 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/10004"]=[
+ {
+  "id": 1,
+  "start": 0.52,
+  "end": 1.48,
+  "text": "Man: Hello?"
+ },
+ {
+  "id": 2,
+  "start": 1.18,
+  "end": 2.34,
+  "text": "Woman: Hello Roger?"
+ },
+ {
+  "id": 3,
+  "start": 2.04,
+  "end": 3.29,
+  "text": "This is Ann."
+ },
+ {
+  "id": 4,
+  "start": 2.99,
+  "end": 4.06,
+  "text": "Man: Oh hi, Ann."
+ },
+ {
+  "id": 5,
+  "start": 3.76,
+  "end": 4.8,
+  "text": "How have you been?"
+ },
+ {
+  "id": 6,
+  "start": 4.5,
+  "end": 6.7,
+  "text": "And how’s your new apartment working out?"
+ },
+ {
+  "id": 7,
+  "start": 6.4,
+  "end": 8.56,
+  "text": "Woman: Well, that’s what I’m calling about."
+ },
+ {
+  "id": 8,
+  "start": 8.26,
+  "end": 11.16,
+  "text": "You see, I’ve decided to look for a new place."
+ },
+ {
+  "id": 9,
+  "start": 10.86,
+  "end": 13.6,
+  "text": "Man: Oh, what’s the problem with your place now?"
+ },
+ {
+  "id": 10,
+  "start": 13.3,
+  "end": 15.0,
+  "text": "I thought you liked the apartment."
+ },
+ {
+  "id": 11,
+  "start": 14.7,
+  "end": 18.92,
+  "text": "Woman: Oh, I do, but it’s a little far from campus, and the commute is just killing me."
+ },
+ {
+  "id": 12,
+  "start": 18.62,
+  "end": 20.2,
+  "text": "Do you think you could help?"
+ },
+ {
+  "id": 13,
+  "start": 19.9,
+  "end": 24.0,
+  "text": "I thought you might know more about the housing situation near the school."
+ },
+ {
+  "id": 14,
+  "start": 23.7,
+  "end": 25.92,
+  "text": "Man: Okay, what’s your budget like?"
+ },
+ {
+  "id": 15,
+  "start": 25.62,
+  "end": 28.28,
+  "text": "I mean how much do you want to spend on rent?"
+ },
+ {
+  "id": 16,
+  "start": 27.98,
+  "end": 33.16,
+  "text": "Ann:Uh, somewhere under $200 a month, including utilities, if I could."
+ },
+ {
+  "id": 17,
+  "start": 32.86,
+  "end": 36.19,
+  "text": "Oh, and I’d prefer to rent a furnished apartment."
+ },
+ {
+  "id": 18,
+  "start": 36.08,
+  "end": 37.16,
+  "text": "Man: Hmm."
+ },
+ {
+  "id": 19,
+  "start": 36.86,
+  "end": 38.36,
+  "text": "And anything else?"
+ },
+ {
+  "id": 20,
+  "start": 38.06,
+  "end": 39.97,
+  "text": "Ann:Yeah, I need a parking space."
+ },
+ {
+  "id": 21,
+  "start": 39.91,
+  "end": 45.41,
+  "text": "Man: Well, I know there’s an apartment complex around the corner that seems to have a few vacancies."
+ },
+ {
+  "id": 22,
+  "start": 45.11,
+  "end": 47.73,
+  "text": "I’ll drop by there on my way to class today."
+ },
+ {
+  "id": 23,
+  "start": 47.43,
+  "end": 48.8,
+  "text": "Woman: Hey, thanks a lot."
+ },
+ {
+  "id": 24,
+  "start": 48.5,
+  "end": 49.41,
+  "text": "Man: No problem."
+ }
+];

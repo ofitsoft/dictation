@@ -204,20 +204,40 @@
       if (b) { tab = "dict"; goto(+b.dataset.k, true); }
     });
 
-    function stop() { cancelAnimationFrame(raf); audio.pause(); setPlaying(false); contState = "idle"; syncCont(); }
+    // LEAD: phát sớm hơn đầu câu một chút (iOS khởi động âm thanh chậm + seek mp3 không chính xác tuyệt đối)
+    // TAIL: phát muộn hơn cuối câu một chút để không cụt âm cuối. Chỉnh LEAD lên 0.25 nếu iPhone vẫn mất đầu từ.
+    const LEAD = 0.18, TAIL = 0.08;
+    let playTok = 0;             // mỗi lần phát/dừng tăng 1, để callback của lần cũ tự bỏ qua
+
+    function stop() { playTok++; cancelAnimationFrame(raf); audio.pause(); setPlaying(false); contState = "idle"; syncCont(); }
     function setPlaying(v) {
       const b = document.getElementById("play");
       if (b) b.textContent = v ? "Đang phát" : "Nghe lại";
     }
     function playSeg(k) {
       stop();
+      const tok = ++playTok;
       const s = sents[k];
       if (tab === "full") { from = k; markCur(k); }
+      const t0 = Math.max(0, s.start - LEAD), t1 = s.end + TAIL;
       audio.playbackRate = speed;
-      audio.currentTime = s.start;
-      audio.play().then(() => setPlaying(true)).catch(() => {});
+      let started = false, tries = 0;
+      const seek = () => { try { audio.currentTime = t0; } catch {} };
+      // iOS: chưa có metadata thì currentTime bị bỏ qua và audio phát từ đầu file -> đợi metadata rồi seek lại
+      if (audio.readyState >= 1) seek();
+      else audio.addEventListener("loadedmetadata", () => { if (tok === playTok) seek(); }, { once: true });
+      audio.addEventListener("playing", () => { if (tok === playTok) started = true; }, { once: true });
+      audio.play().then(() => { if (tok === playTok) setPlaying(true); })
+        .catch(() => { if (tok === playTok) { playTok++; cancelAnimationFrame(raf); setPlaying(false); } });
       const tick = () => {
-        if (audio.currentTime >= s.end - 0.02 || audio.ended) { audio.pause(); setPlaying(false); return; }
+        if (tok !== playTok) return;
+        const t = audio.currentTime;
+        if (started && !audio.seeking && (t < t0 - 0.3 || t > t1 + 0.3)) {
+          // seek không trúng (hay gặp trên iOS) -> thử lại tối đa 3 lần
+          if (tries++ < 3) { seek(); raf = requestAnimationFrame(tick); return; }
+          audio.pause(); setPlaying(false); return;
+        }
+        if (started && (t >= t1 || audio.ended)) { audio.pause(); setPlaying(false); return; }
         raf = requestAnimationFrame(tick);
       };
       raf = requestAnimationFrame(tick);
@@ -350,7 +370,7 @@
     }
     // câu đang đọc tại thời điểm t của audio
     function idxAt(t) {
-      for (let k = sents.length - 1; k > 0; k--) if (t >= sents[k].start - 0.05) return k;
+      for (let k = sents.length - 1; k > 0; k--) if (t >= sents[k].start - LEAD) return k;
       return 0;
     }
     function runCont() {
@@ -369,7 +389,7 @@
       stop();
       from = Math.max(0, Math.min(sents.length - 1, k || 0));
       markCur(from);
-      audio.currentTime = Math.max(0, sents[from].start - 0.05);
+      audio.currentTime = Math.max(0, sents[from].start - LEAD);
       contState = "play"; syncCont();
       runCont();
     }
@@ -388,7 +408,7 @@
       k = Math.max(0, Math.min(sents.length - 1, k));
       if (contState === "idle") { playSeg(k); return; }
       from = k; markCur(k);
-      audio.currentTime = Math.max(0, sents[k].start - 0.05);
+      audio.currentTime = Math.max(0, sents[k].start - LEAD);
     }
 
     function renderFull() {
