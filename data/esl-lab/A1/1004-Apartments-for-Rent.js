@@ -1,0 +1,128 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1004-Apartments-for-Rent"]=[
+ {
+  "id": 1,
+  "start": 0.19,
+  "end": 1.14,
+  "text": "Hello?"
+ },
+ {
+  "id": 2,
+  "start": 1.14,
+  "end": 2.83,
+  "text": "Hello Roger? This is Ann."
+ },
+ {
+  "id": 3,
+  "start": 2.9,
+  "end": 4.72,
+  "text": "Oh hi, Ann. How have you been?"
+ },
+ {
+  "id": 4,
+  "start": 4.72,
+  "end": 6.49,
+  "text": "And how’s your new apartment working out?"
+ },
+ {
+  "id": 5,
+  "start": 6.49,
+  "end": 8.34,
+  "text": "Well, that’s what I’m calling about."
+ },
+ {
+  "id": 6,
+  "start": 8.38,
+  "end": 10.98,
+  "text": "You see, I’ve decided to look for a new place."
+ },
+ {
+  "id": 7,
+  "start": 11.22,
+  "end": 14.17,
+  "text": "Oh, what’s the problem with your place now?"
+ },
+ {
+  "id": 8,
+  "start": 14.21,
+  "end": 14.98,
+  "text": "I thought you liked the apartment."
+ },
+ {
+  "id": 9,
+  "start": 15.02,
+  "end": 18.62,
+  "text": "Oh, I do, but it’s a little far from campus, and the commute is just killing me."
+ },
+ {
+  "id": 10,
+  "start": 18.79,
+  "end": 19.88,
+  "text": "Do you think you could help?"
+ },
+ {
+  "id": 11,
+  "start": 20.03,
+  "end": 23.54,
+  "text": "I thought you might know more about the housing situation near the school."
+ },
+ {
+  "id": 12,
+  "start": 23.76,
+  "end": 25.64,
+  "text": "Okay, what’s your budget like?"
+ },
+ {
+  "id": 13,
+  "start": 25.64,
+  "end": 27.66,
+  "text": "I mean how much do you want to spend on rent?"
+ },
+ {
+  "id": 14,
+  "start": 28.01,
+  "end": 32.85,
+  "text": "Ann: Uh, somewhere under $200 a month, including utilities, if I could."
+ },
+ {
+  "id": 15,
+  "start": 33.09,
+  "end": 35.93,
+  "text": "Oh, and I’d prefer to rent a furnished apartment."
+ },
+ {
+  "id": 16,
+  "start": 36.19,
+  "end": 37.84,
+  "text": "Hmm. And anything else?"
+ },
+ {
+  "id": 17,
+  "start": 38.41,
+  "end": 39.8,
+  "text": "Ann: Yeah, I need a parking space."
+ },
+ {
+  "id": 18,
+  "start": 40.23,
+  "end": 45.18,
+  "text": "Well, I know there’s an apartment complex around the corner that seems to have a few vacancies."
+ },
+ {
+  "id": 19,
+  "start": 45.25,
+  "end": 47.53,
+  "text": "I’ll drop by there on my way to class today."
+ },
+ {
+  "id": 20,
+  "start": 47.57,
+  "end": 48.48,
+  "text": "Hey, thanks a lot."
+ },
+ {
+  "id": 21,
+  "start": 48.52,
+  "end": 49.28,
+  "text": "No problem."
+ }
+];

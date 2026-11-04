@@ -1,0 +1,104 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1017-Family-Relationships"]=[
+ {
+  "id": 1,
+  "start": 0.53,
+  "end": 2.49,
+  "text": "Hi. My name’s Carl. Nice to meet you."
+ },
+ {
+  "id": 2,
+  "start": 2.88,
+  "end": 5.25,
+  "text": "Nice to meet you, too. My name is Francisco."
+ },
+ {
+  "id": 3,
+  "start": 5.28,
+  "end": 5.93,
+  "text": "What?"
+ },
+ {
+  "id": 4,
+  "start": 6.35,
+  "end": 11.31,
+  "text": "Francisco, but all my friends and family back in Peru call me Pancho."
+ },
+ {
+  "id": 5,
+  "start": 11.63,
+  "end": 14.25,
+  "text": "Okay, Pancho. So, tell me about your family?"
+ },
+ {
+  "id": 6,
+  "start": 14.75,
+  "end": 18.21,
+  "text": "Well, I have seven brothers and six sisters."
+ },
+ {
+  "id": 7,
+  "start": 18.58,
+  "end": 20.93,
+  "text": "Wow. That is a big family."
+ },
+ {
+  "id": 8,
+  "start": 20.97,
+  "end": 22.64,
+  "text": "So are you the oldest, Pancho?"
+ },
+ {
+  "id": 9,
+  "start": 22.73,
+  "end": 25.27,
+  "text": "No. I’m the second oldest in my family."
+ },
+ {
+  "id": 10,
+  "start": 25.59,
+  "end": 27.23,
+  "text": "So, what do your parents do?"
+ },
+ {
+  "id": 11,
+  "start": 27.58,
+  "end": 30.42,
+  "text": "My father is a taxi driver in Lima, Peru."
+ },
+ {
+  "id": 12,
+  "start": 30.62,
+  "end": 34.88,
+  "text": "It’s a hard job, but he works hard to support the family."
+ },
+ {
+  "id": 13,
+  "start": 35.25,
+  "end": 36.35,
+  "text": "How about your mother?"
+ },
+ {
+  "id": 14,
+  "start": 36.51,
+  "end": 41.98,
+  "text": "She helps run a small family store with some of my older brothers and sisters."
+ },
+ {
+  "id": 15,
+  "start": 42.61,
+  "end": 43.65,
+  "text": "What kind of store?"
+ },
+ {
+  "id": 16,
+  "start": 44.48,
+  "end": 51.41,
+  "text": "We mainly sell food, like bread, eggs, soft drinks, rice, sugar, and cookies."
+ },
+ {
+  "id": 17,
+  "start": 51.79,
+  "end": 55.07,
+  "text": "Things that people buy every day."
+ }
+];

@@ -1,0 +1,98 @@
+[
+ {
+  "id": 1,
+  "start": 4.24,
+  "end": 8.55,
+  "text": "Hi, Steve! Thanks for coming to my housewarming party."
+ },
+ {
+  "id": 2,
+  "start": 8.82,
+  "end": 14.34,
+  "text": "Hello, Sue! Thanks for inviting me to see your lovely new home."
+ },
+ {
+  "id": 3,
+  "start": 14.43,
+  "end": 15.81,
+  "text": "It’s beautiful!"
+ },
+ {
+  "id": 4,
+  "start": 15.88,
+  "end": 18.63,
+  "text": "Thank you. I’m glad you like it."
+ },
+ {
+  "id": 5,
+  "start": 18.72,
+  "end": 22.16,
+  "text": "Did you decorate your house all by yourself?"
+ },
+ {
+  "id": 6,
+  "start": 22.2,
+  "end": 26.47,
+  "text": "Yes, I did. I traveled around Europe last year."
+ },
+ {
+  "id": 7,
+  "start": 26.75,
+  "end": 30.46,
+  "text": "I got some beautiful furniture for my house there."
+ },
+ {
+  "id": 8,
+  "start": 30.56,
+  "end": 33.8,
+  "text": "Do you plan to go on a new trip this summer?"
+ },
+ {
+  "id": 9,
+  "start": 34.0,
+  "end": 37.19,
+  "text": "Yes, I am planning to visit China."
+ },
+ {
+  "id": 10,
+  "start": 37.3,
+  "end": 40.47,
+  "text": "That’s great! How long will you be there?"
+ },
+ {
+  "id": 11,
+  "start": 40.54,
+  "end": 42.86,
+  "text": "I will be there for a month."
+ },
+ {
+  "id": 12,
+  "start": 43.01,
+  "end": 47.41,
+  "text": "You can find some beautiful things in China for your new house."
+ },
+ {
+  "id": 13,
+  "start": 47.63,
+  "end": 49.95,
+  "text": "You should go shopping while you are there."
+ },
+ {
+  "id": 14,
+  "start": 50.0,
+  "end": 54.02,
+  "text": "Of course! It will be fun to go shopping there."
+ },
+ {
+  "id": 15,
+  "start": 54.4,
+  "end": 58.6,
+  "text": "By the way, please help yourself to the refreshments."
+ },
+ {
+  "id": 16,
+  "start": 58.7,
+  "end": 62.12,
+  "text": "Thanks. The food looks delicious!"
+ }
+]

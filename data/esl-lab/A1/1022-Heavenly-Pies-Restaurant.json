@@ -1,0 +1,152 @@
+[
+ {
+  "id": 1,
+  "start": 0.7,
+  "end": 3.64,
+  "text": "Hi. Welcome to Heavenly Pies. May I take your order?"
+ },
+ {
+  "id": 2,
+  "start": 4.09,
+  "end": 6.99,
+  "text": "Uh . . . yes. I’d like the chicken fried steak."
+ },
+ {
+  "id": 3,
+  "start": 7.22,
+  "end": 10.33,
+  "text": "Okay. Would you like fries, bread, or rice with your meal?"
+ },
+ {
+  "id": 4,
+  "start": 10.79,
+  "end": 13.06,
+  "text": "Umm. I’ll take the rice?"
+ },
+ {
+  "id": 5,
+  "start": 13.11,
+  "end": 14.79,
+  "text": "Would you care for anything to drink?"
+ },
+ {
+  "id": 6,
+  "start": 14.97,
+  "end": 17.18,
+  "text": "Yeah. I’ll take a medium orange juice."
+ },
+ {
+  "id": 7,
+  "start": 17.35,
+  "end": 19.68,
+  "text": "I’m sorry. We only have large or small."
+ },
+ {
+  "id": 8,
+  "start": 19.78,
+  "end": 22.38,
+  "text": "Well, in that case, uh, I’ll have a small one."
+ },
+ {
+  "id": 9,
+  "start": 22.65,
+  "end": 24.16,
+  "text": "Okay. A small juice."
+ },
+ {
+  "id": 10,
+  "start": 24.24,
+  "end": 26.42,
+  "text": "And what kind of dressing would you like with your salad."
+ },
+ {
+  "id": 11,
+  "start": 26.46,
+  "end": 27.76,
+  "text": "It comes with the fried steak."
+ },
+ {
+  "id": 12,
+  "start": 27.98,
+  "end": 29.22,
+  "text": "What dressings do you have?"
+ },
+ {
+  "id": 13,
+  "start": 29.58,
+  "end": 32.46,
+  "text": "We have French, Italian, blue cheese, and ranch."
+ },
+ {
+  "id": 14,
+  "start": 32.5,
+  "end": 33.6,
+  "text": "Oh! Ranch, please."
+ },
+ {
+  "id": 15,
+  "start": 33.77,
+  "end": 35.18,
+  "text": "Would you like anything else?"
+ },
+ {
+  "id": 16,
+  "start": 35.35,
+  "end": 37.18,
+  "text": "Well, I’d like to see your pie menu."
+ },
+ {
+  "id": 17,
+  "start": 37.18,
+  "end": 39.46,
+  "text": "That’s the main reason why I like to dine here."
+ },
+ {
+  "id": 18,
+  "start": 39.59,
+  "end": 42.37,
+  "text": "Oh, I’m so sorry, but we aren’t serving pies today."
+ },
+ {
+  "id": 19,
+  "start": 42.41,
+  "end": 45.01,
+  "text": "Huh? I thought this was Heavenly Pies Restaurant."
+ },
+ {
+  "id": 20,
+  "start": 45.05,
+  "end": 51.47,
+  "text": "Well, it usually is, but, Dave, our baker, slipped in the kitchen on a banana two days ago, and hurt his leg."
+ },
+ {
+  "id": 21,
+  "start": 51.52,
+  "end": 53.81,
+  "text": "[Oh] He’ll be out for at least two weeks."
+ },
+ {
+  "id": 22,
+  "start": 53.87,
+  "end": 57.26,
+  "text": "In the meantime, we’re serving ice cream sundaes instead. Sorry."
+ },
+ {
+  "id": 23,
+  "start": 57.3,
+  "end": 59.61,
+  "text": "Wow. I’m sorry to hear that."
+ },
+ {
+  "id": 24,
+  "start": 59.68,
+  "end": 61.85,
+  "text": "Well in that case, I’ll have an ice cream sundae."
+ },
+ {
+  "id": 25,
+  "start": 61.89,
+  "end": 64.28,
+  "text": "I’ll be back with your order in a few minutes."
+ }
+]

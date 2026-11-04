@@ -1,0 +1,152 @@
+[
+ {
+  "id": 1,
+  "start": 0.22,
+  "end": 2.1,
+  "text": "Welcome home, Dad."
+ },
+ {
+  "id": 2,
+  "start": 2.2,
+  "end": 4.21,
+  "text": "Oh, Emily. How are you today?"
+ },
+ {
+  "id": 3,
+  "start": 4.32,
+  "end": 5.12,
+  "text": "Fine."
+ },
+ {
+  "id": 4,
+  "start": 5.15,
+  "end": 6.83,
+  "text": "Good. And how was school today?"
+ },
+ {
+  "id": 5,
+  "start": 6.94,
+  "end": 8.41,
+  "text": "Really fun."
+ },
+ {
+  "id": 6,
+  "start": 8.45,
+  "end": 9.74,
+  "text": "Good. And what did you do?"
+ },
+ {
+  "id": 7,
+  "start": 10.34,
+  "end": 11.82,
+  "text": "We made things."
+ },
+ {
+  "id": 8,
+  "start": 12.17,
+  "end": 13.88,
+  "text": "Like what types of things did you make?"
+ },
+ {
+  "id": 9,
+  "start": 14.05,
+  "end": 15.6,
+  "text": "We made books."
+ },
+ {
+  "id": 10,
+  "start": 15.69,
+  "end": 18.33,
+  "text": "You made books! Okay. And what else?"
+ },
+ {
+  "id": 11,
+  "start": 18.37,
+  "end": 23.59,
+  "text": "We . . . we made paper kangaroos."
+ },
+ {
+  "id": 12,
+  "start": 23.64,
+  "end": 24.59,
+  "text": "You made paper kangaroos?"
+ },
+ {
+  "id": 13,
+  "start": 24.63,
+  "end": 27.8,
+  "text": "Okay, and what did you need to make your paper kangaroos?"
+ },
+ {
+  "id": 14,
+  "start": 27.8,
+  "end": 29.23,
+  "text": "What kind of supplies did you need?"
+ },
+ {
+  "id": 15,
+  "start": 29.27,
+  "end": 37.04,
+  "text": "We used crayons, papers, glue, and we had to follow directions."
+ },
+ {
+  "id": 16,
+  "start": 37.11,
+  "end": 39.71,
+  "text": "Well good. And what did you do after school?"
+ },
+ {
+  "id": 17,
+  "start": 39.75,
+  "end": 42.55,
+  "text": "We went home, played games."
+ },
+ {
+  "id": 18,
+  "start": 42.59,
+  "end": 45.55,
+  "text": "And did . . . Mom said you went to the junior high school."
+ },
+ {
+  "id": 19,
+  "start": 45.62,
+  "end": 47.94,
+  "text": "I rode my bike in the tennis court."
+ },
+ {
+  "id": 20,
+  "start": 48.12,
+  "end": 49.3,
+  "text": "Did you go by yourself?"
+ },
+ {
+  "id": 21,
+  "start": 49.39,
+  "end": 54.04,
+  "text": "I went with the whole family, and we went with Nathan, Sara, Rachael."
+ },
+ {
+  "id": 22,
+  "start": 54.04,
+  "end": 55.34,
+  "text": "You went with your cousins."
+ },
+ {
+  "id": 23,
+  "start": 55.42,
+  "end": 56.59,
+  "text": "And my mom."
+ },
+ {
+  "id": 24,
+  "start": 56.63,
+  "end": 58.81,
+  "text": "Well, that’s great. Well, let’s get ready for dinner."
+ },
+ {
+  "id": 25,
+  "start": 58.85,
+  "end": 59.67,
+  "text": "Okay."
+ }
+]

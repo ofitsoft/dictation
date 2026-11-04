@@ -1,0 +1,116 @@
+[
+ {
+  "id": 1,
+  "start": 4.65,
+  "end": 7.03,
+  "text": "Oh no, it’s raining!"
+ },
+ {
+  "id": 2,
+  "start": 7.08,
+  "end": 9.65,
+  "text": "I wanted to go to the beach today."
+ },
+ {
+  "id": 3,
+  "start": 9.97,
+  "end": 14.19,
+  "text": "Well, I’m visiting a haunted house this afternoon."
+ },
+ {
+  "id": 4,
+  "start": 14.38,
+  "end": 16.75,
+  "text": "You can come with me if you like."
+ },
+ {
+  "id": 5,
+  "start": 16.84,
+  "end": 19.71,
+  "text": "A haunted house? What is it like?"
+ },
+ {
+  "id": 6,
+  "start": 20.05,
+  "end": 25.39,
+  "text": "It’s really dark, with lots of old furniture and pictures on the walls."
+ },
+ {
+  "id": 7,
+  "start": 25.83,
+  "end": 30.01,
+  "text": "It’s called a haunted house because it’s full of ghosts!"
+ },
+ {
+  "id": 8,
+  "start": 30.29,
+  "end": 34.15,
+  "text": "You’re joking, right? I don’t believe in ghosts!"
+ },
+ {
+  "id": 9,
+  "start": 34.5,
+  "end": 36.35,
+  "text": "Where is the haunted house?"
+ },
+ {
+  "id": 10,
+  "start": 36.75,
+  "end": 39.56,
+  "text": "The house is in the old forest."
+ },
+ {
+  "id": 11,
+  "start": 39.87,
+  "end": 43.27,
+  "text": "Oh! Are you really sure you want to go?"
+ },
+ {
+  "id": 12,
+  "start": 43.58,
+  "end": 47.68,
+  "text": "What’s wrong? I thought you didn’t believe in ghosts!"
+ },
+ {
+  "id": 13,
+  "start": 48.22,
+  "end": 52.2,
+  "text": "Well, I don’t really believe in ghosts, but . . ."
+ },
+ {
+  "id": 14,
+  "start": 52.4,
+  "end": 56.01,
+  "text": "That’s OK, I don’t believe in ghosts, either!"
+ },
+ {
+  "id": 15,
+  "start": 56.12,
+  "end": 57.79,
+  "text": "I was only joking."
+ },
+ {
+  "id": 16,
+  "start": 58.17,
+  "end": 60.7,
+  "text": "The old house isn’t really haunted."
+ },
+ {
+  "id": 17,
+  "start": 60.89,
+  "end": 64.21,
+  "text": "it’s just a very old, empty house."
+ },
+ {
+  "id": 18,
+  "start": 64.58,
+  "end": 67.25,
+  "text": "Whew, I’m glad to hear that!"
+ },
+ {
+  "id": 19,
+  "start": 67.46,
+  "end": 69.42,
+  "text": "Sure, I’ll come with you!"
+ }
+]

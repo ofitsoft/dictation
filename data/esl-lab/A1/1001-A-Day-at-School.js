@@ -1,0 +1,152 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1001-A-Day-at-School"]=[
+ {
+  "id": 1,
+  "start": 0.22,
+  "end": 6.3,
+  "text": "Hello. Today I’m interviewing Joshua on his experiences going to a Japanese school."
+ },
+ {
+  "id": 2,
+  "start": 6.33,
+  "end": 9.23,
+  "text": "Now Joshua, what time do you go to school?"
+ },
+ {
+  "id": 3,
+  "start": 9.36,
+  "end": 10.48,
+  "text": "Eight O’clock."
+ },
+ {
+  "id": 4,
+  "start": 10.78,
+  "end": 15.69,
+  "text": "Eight O’clock. And do you go by yourself, or on a school bus?"
+ },
+ {
+  "id": 5,
+  "start": 16.26,
+  "end": 18.92,
+  "text": "No, I have a group that goes with me."
+ },
+ {
+  "id": 6,
+  "start": 18.96,
+  "end": 20.35,
+  "text": "So you go with a group?"
+ },
+ {
+  "id": 7,
+  "start": 20.44,
+  "end": 23.98,
+  "text": "Now what kinds of things do you take to school?"
+ },
+ {
+  "id": 8,
+  "start": 24.08,
+  "end": 33.9,
+  "text": "I take my taiso fuku, that is gym clothes, and I take my backpack and my books [ Oh, okay. ] and stuff like that."
+ },
+ {
+  "id": 9,
+  "start": 33.94,
+  "end": 37.6,
+  "text": "Okay and what is the first thing you do when you get to school?"
+ },
+ {
+  "id": 10,
+  "start": 37.65,
+  "end": 41.11,
+  "text": "We do “kiritsu, rei.”."
+ },
+ {
+  "id": 11,
+  "start": 41.16,
+  "end": 44.42,
+  "text": "“Kiritsu” and “rei.”. Now what are those?"
+ },
+ {
+  "id": 12,
+  "start": 44.66,
+  "end": 47.83,
+  "text": "It means “stand up, bow.”."
+ },
+ {
+  "id": 13,
+  "start": 47.99,
+  "end": 49.68,
+  "text": "Stand up and bow."
+ },
+ {
+  "id": 14,
+  "start": 49.73,
+  "end": 53.73,
+  "text": "And what do you study at school?"
+ },
+ {
+  "id": 15,
+  "start": 53.77,
+  "end": 62.75,
+  "text": "We study kokugo, that is writing and reading and stuff like that [ Okay], and sansu, that’s math. [ Okay. ]."
+ },
+ {
+  "id": 16,
+  "start": 62.76,
+  "end": 66.7,
+  "text": "And, let’s see . . . , we do gym too."
+ },
+ {
+  "id": 17,
+  "start": 66.73,
+  "end": 69.05,
+  "text": "Okay, and where do you eat lunch?"
+ },
+ {
+  "id": 18,
+  "start": 69.05,
+  "end": 71.81,
+  "text": "Do you have a lunchroom or cafeteria?"
+ },
+ {
+  "id": 19,
+  "start": 72.4,
+  "end": 74.61,
+  "text": "No, we eat in our classroom."
+ },
+ {
+  "id": 20,
+  "start": 74.64,
+  "end": 76.5,
+  "text": "You eat in your classroom!"
+ },
+ {
+  "id": 21,
+  "start": 76.55,
+  "end": 78.95,
+  "text": "Oh wow. That is very interesting."
+ },
+ {
+  "id": 22,
+  "start": 78.99,
+  "end": 82.13,
+  "text": "Now what time do you come home from school?"
+ },
+ {
+  "id": 23,
+  "start": 82.17,
+  "end": 87.74,
+  "text": "We come home sometimes at 3:00 and sometimes at 2:00."
+ },
+ {
+  "id": 24,
+  "start": 87.86,
+  "end": 90.62,
+  "text": "Okay, well thank you very much Joshua."
+ },
+ {
+  "id": 25,
+  "start": 90.69,
+  "end": 91.92,
+  "text": "You’re welcome."
+ }
+];

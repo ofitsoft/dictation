@@ -1,0 +1,122 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1038-Sightseeing-Tours"]=[
+ {
+  "id": 1,
+  "start": 0.13,
+  "end": 2.06,
+  "text": "So, what do you want to do tomorrow?"
+ },
+ {
+  "id": 2,
+  "start": 2.3,
+  "end": 4.79,
+  "text": "Well, let’s look at this city guide here."
+ },
+ {
+  "id": 3,
+  "start": 4.89,
+  "end": 7.4,
+  "text": "Uh, here’s something interesting."
+ },
+ {
+  "id": 4,
+  "start": 7.81,
+  "end": 10.71,
+  "text": "Why don’t we first visit the art museum in the morning?"
+ },
+ {
+  "id": 5,
+  "start": 10.81,
+  "end": 12.54,
+  "text": "Okay. I like that idea."
+ },
+ {
+  "id": 6,
+  "start": 12.72,
+  "end": 14.59,
+  "text": "And where do you want to eat lunch?"
+ },
+ {
+  "id": 7,
+  "start": 14.78,
+  "end": 16.62,
+  "text": "How about going to an Indian restaurant?"
+ },
+ {
+  "id": 8,
+  "start": 16.87,
+  "end": 20.39,
+  "text": "The guide recommends one downtown a few blocks from the museum."
+ },
+ {
+  "id": 9,
+  "start": 20.59,
+  "end": 21.74,
+  "text": "Now that sounds great."
+ },
+ {
+  "id": 10,
+  "start": 21.78,
+  "end": 24.66,
+  "text": "After that, what do you think about visiting the zoo?"
+ },
+ {
+  "id": 11,
+  "start": 24.84,
+  "end": 30.67,
+  "text": "Well, it says here that there are some very unique animals not found anywhere else."
+ },
+ {
+  "id": 12,
+  "start": 31.61,
+  "end": 35.7,
+  "text": "Well, to tell you the truth, I’m not really interested in going there. [Really?]."
+ },
+ {
+  "id": 13,
+  "start": 36.05,
+  "end": 38.63,
+  "text": "Yeah. Why don’t we go shopping instead?"
+ },
+ {
+  "id": 14,
+  "start": 38.69,
+  "end": 41.58,
+  "text": "There are supposed to be some really nice places to pick up souvenirs."
+ },
+ {
+  "id": 15,
+  "start": 41.58,
+  "end": 43.82,
+  "text": "Nah, I don’t think that’s a good idea."
+ },
+ {
+  "id": 16,
+  "start": 44.04,
+  "end": 48.4,
+  "text": "We only have a few travelers checks left, and I only have fifty dollars left in cash."
+ },
+ {
+  "id": 17,
+  "start": 48.44,
+  "end": 52.07,
+  "text": "No problem. We can use YOUR credit card to pay for MY new clothes."
+ },
+ {
+  "id": 18,
+  "start": 52.07,
+  "end": 56.44,
+  "text": "Oh, no. I remember the last time you used MY credit card for YOUR purchases."
+ },
+ {
+  "id": 19,
+  "start": 56.57,
+  "end": 60.37,
+  "text": "Oh well. Let’s take the subway down to the seashore and walk along the beach."
+ },
+ {
+  "id": 20,
+  "start": 60.41,
+  "end": 62.69,
+  "text": "Now that sounds like a wonderful plan."
+ }
+];

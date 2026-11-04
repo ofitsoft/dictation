@@ -1,0 +1,98 @@
+[
+ {
+  "id": 1,
+  "start": 3.6,
+  "end": 6.31,
+  "text": "I want to go bird watching tomorrow."
+ },
+ {
+  "id": 2,
+  "start": 6.61,
+  "end": 9.29,
+  "text": "Do you know a good area for birds?"
+ },
+ {
+  "id": 3,
+  "start": 9.92,
+  "end": 12.43,
+  "text": "There is a quiet park near here."
+ },
+ {
+  "id": 4,
+  "start": 12.61,
+  "end": 16.02,
+  "text": "There are always many beautiful birds there."
+ },
+ {
+  "id": 5,
+  "start": 16.39,
+  "end": 20.53,
+  "text": "Will I be able to see different types of birds in this area?"
+ },
+ {
+  "id": 6,
+  "start": 20.83,
+  "end": 22.65,
+  "text": "Yes, I think so."
+ },
+ {
+  "id": 7,
+  "start": 22.87,
+  "end": 28.66,
+  "text": "If you use binoculars, you can see the birds, even if they are far away."
+ },
+ {
+  "id": 8,
+  "start": 29.03,
+  "end": 34.92,
+  "text": "Great! I have a book about all the different types of birds."
+ },
+ {
+  "id": 9,
+  "start": 34.96,
+  "end": 38.25,
+  "text": "It seems as if you really like bird watching."
+ },
+ {
+  "id": 10,
+  "start": 38.5,
+  "end": 42.95,
+  "text": "Yes, I do! Would you like to come with me tomorrow?"
+ },
+ {
+  "id": 11,
+  "start": 43.26,
+  "end": 47.4,
+  "text": "No, thank you. I think bird watching is boring."
+ },
+ {
+  "id": 12,
+  "start": 47.74,
+  "end": 51.77,
+  "text": "That’s not true! Birds are very interesting."
+ },
+ {
+  "id": 13,
+  "start": 52.18,
+  "end": 54.68,
+  "text": "Some birds have colorful feathers."
+ },
+ {
+  "id": 14,
+  "start": 55.09,
+  "end": 57.62,
+  "text": "Some birds sing beautiful songs."
+ },
+ {
+  "id": 15,
+  "start": 58.17,
+  "end": 62.04,
+  "text": "Some birds make special nests to lay eggs in."
+ },
+ {
+  "id": 16,
+  "start": 62.42,
+  "end": 67.37,
+  "text": "Really? Maybe I will go bird watching one day after all!"
+ }
+]

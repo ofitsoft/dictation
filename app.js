@@ -20,13 +20,19 @@
   window.DICT = window.DICT || {};
   const cache = {};
   // Nạp dữ liệu bằng <script> (data/<khoá>.js) thay vì fetch, để mở thẳng index.html (file://) vẫn chạy.
+  // Tra DICT không phân biệt hoa/thường (khoá trong data/*.js có thể lệch hoa/thường so với đường dẫn)
+  const findDict = (key) => {
+    if (DICT[key]) return DICT[key];
+    const k = Object.keys(DICT).find((x) => x.toLowerCase() === key.toLowerCase());
+    return k ? DICT[k] : undefined;
+  };
   const getData = (key) => {
     if (!cache[key]) {
       cache[key] = new Promise((res, rej) => {
-        if (DICT[key]) return res(DICT[key]);
+        if (findDict(key)) return res(findDict(key));
         const sc = document.createElement("script");
         sc.src = `data/${key}.js`;
-        sc.onload = () => (DICT[key] ? res(DICT[key]) : rej(new Error(`${sc.getAttribute("src")}: dữ liệu rỗng`)));
+        sc.onload = () => (findDict(key) ? res(findDict(key)) : rej(new Error(`${sc.getAttribute("src")}: dữ liệu rỗng`)));
         sc.onerror = () => { delete cache[key]; rej(new Error(`không tải được ${sc.getAttribute("src")}`)); };
         document.head.appendChild(sc);
       });
@@ -159,7 +165,7 @@
   /* ================= Cấp 3: bài nghe ================= */
   async function showLesson(topic, id, startIdx) {
     const [topics, lessons] = await Promise.all([getData("topics"), getData(`${topic}/lessons`)]);
-    const tinfo = topics.find((t) => t.id === topic);
+    const tinfo = topics.find((t) => t.id.toLowerCase() === topic.toLowerCase());
     const li = lessons.findIndex((l) => l.id === id);
     if (li < 0) throw new Error(`không có bài ${topic}/${id}`);
     const meta = lessons[li];
@@ -205,8 +211,15 @@
     });
 
     // LEAD: phát sớm hơn đầu câu một chút (iOS khởi động âm thanh chậm + seek mp3 không chính xác tuyệt đối)
-    // TAIL: phát muộn hơn cuối câu một chút để không cụt âm cuối. Chỉnh LEAD lên 0.25 nếu iPhone vẫn mất đầu từ.
-    const LEAD = 0.18, TAIL = 0.08;
+    // TAIL: phát muộn hơn cuối câu một chút để không cụt âm cuối.
+    // Cả hai bị chặn ở end của câu trước / start của câu sau, để không nghe lẫn câu bên cạnh
+    // (giữ tối thiểu MIN_LEAD cho iOS). review/<chủ đề>/<id>.html phát đúng theo cùng quy tắc này.
+    const LEAD = 0.18, TAIL = 0.08, MIN_LEAD = 0.03;
+    function playWin(k) {
+      const s = sents[k], pe = k > 0 ? sents[k - 1].end : 0, ns = k < sents.length - 1 ? sents[k + 1].start : Infinity;
+      const lead = Math.min(LEAD, Math.max(MIN_LEAD, s.start - pe)), tail = Math.min(TAIL, Math.max(0, ns - s.end));
+      return [Math.max(0, s.start - lead), s.end + tail];
+    }
     let playTok = 0;             // mỗi lần phát/dừng tăng 1, để callback của lần cũ tự bỏ qua
 
     function stop() { playTok++; cancelAnimationFrame(raf); audio.pause(); setPlaying(false); contState = "idle"; syncCont(); }
@@ -219,7 +232,7 @@
       const tok = ++playTok;
       const s = sents[k];
       if (tab === "full") { from = k; markCur(k); }
-      const t0 = Math.max(0, s.start - LEAD), t1 = s.end + TAIL;
+      const [t0, t1] = playWin(k);
       audio.playbackRate = speed;
       let started = false, tries = 0;
       const seek = () => { try { audio.currentTime = t0; } catch {} };

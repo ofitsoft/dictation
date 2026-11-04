@@ -1,0 +1,272 @@
+window.DICT=window.DICT||{};DICT["practice-dictation/lessons"]=[
+ {
+  "id": "1001",
+  "title": "A Picnic by the River",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 1,
+  "parts": 18
+ },
+ {
+  "id": "1002",
+  "title": "Let’s Recycle!",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 2,
+  "parts": 14
+ },
+ {
+  "id": "1003",
+  "title": "Growing Roses",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 3,
+  "parts": 17
+ },
+ {
+  "id": "1004",
+  "title": "Bird Watching",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 4,
+  "parts": 16
+ },
+ {
+  "id": "1005",
+  "title": "An Easy Way to Shop",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 5,
+  "parts": 15
+ },
+ {
+  "id": "1006",
+  "title": "Cell Phone Messages",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 6,
+  "parts": 17
+ },
+ {
+  "id": "1007",
+  "title": "The Blue Sky",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 7,
+  "parts": 17
+ },
+ {
+  "id": "1008",
+  "title": "A New Camera",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 8,
+  "parts": 18
+ },
+ {
+  "id": "1009",
+  "title": "The Summer Music Festival",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 9,
+  "parts": 15
+ },
+ {
+  "id": "1010",
+  "title": "The School Play",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 10,
+  "parts": 18
+ },
+ {
+  "id": "1011",
+  "title": "Ballet Class",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 11,
+  "parts": 16
+ },
+ {
+  "id": "1012",
+  "title": "A Haunted House",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 12,
+  "parts": 19
+ },
+ {
+  "id": "1013",
+  "title": "A Big Screen TV",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 13,
+  "parts": 15
+ },
+ {
+  "id": "1014",
+  "title": "He’s Famous!",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 14,
+  "parts": 15
+ },
+ {
+  "id": "1015",
+  "title": "A Housewarming Party",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 15,
+  "parts": 16
+ },
+ {
+  "id": "1016",
+  "title": "Where Is Your Homework?",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 16,
+  "parts": 16
+ },
+ {
+  "id": "1017",
+  "title": "After School Activities",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 17,
+  "parts": 18
+ },
+ {
+  "id": "1018",
+  "title": "Arts and Crafts Class",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 18,
+  "parts": 16
+ },
+ {
+  "id": "1019",
+  "title": "Grandfather’s Birthday",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 19,
+  "parts": 19
+ },
+ {
+  "id": "1020",
+  "title": "A Problem at the Office",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 20,
+  "parts": 17
+ },
+ {
+  "id": "1021",
+  "title": "My Future Job",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 21,
+  "parts": 16
+ },
+ {
+  "id": "1022",
+  "title": "Shopping",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 22,
+  "parts": 17
+ },
+ {
+  "id": "1023",
+  "title": "A Part-time Job",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 23,
+  "parts": 17
+ },
+ {
+  "id": "1024",
+  "title": "The Marathon",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 24,
+  "parts": 17
+ },
+ {
+  "id": "1025",
+  "title": "Summer Sports",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 25,
+  "parts": 18
+ },
+ {
+  "id": "1026",
+  "title": "Inline Skating",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 26,
+  "parts": 20
+ },
+ {
+  "id": "1027",
+  "title": "A Bicycle Trip",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 27,
+  "parts": 16
+ },
+ {
+  "id": "1028",
+  "title": "Driving Down South",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 28,
+  "parts": 18
+ },
+ {
+  "id": "1029",
+  "title": "The Travel Agent",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 29,
+  "parts": 15
+ },
+ {
+  "id": "1030",
+  "title": "Taking the Train",
+  "level": "A1",
+  "dir": "A1",
+  "group": "A1",
+  "no": 30,
+  "parts": 20
+ }
+];

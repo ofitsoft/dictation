@@ -1,0 +1,116 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1039--Snack-Time"]=[
+ {
+  "id": 1,
+  "start": 0.58,
+  "end": 1.42,
+  "text": "Dad!"
+ },
+ {
+  "id": 2,
+  "start": 1.46,
+  "end": 2.08,
+  "text": "Yeah, Micky."
+ },
+ {
+  "id": 3,
+  "start": 2.12,
+  "end": 4.0,
+  "text": "Can I have a really good snack?"
+ },
+ {
+  "id": 4,
+  "start": 4.04,
+  "end": 7.37,
+  "text": "Uh, I don’t know. I think it’s . . . uh . . . what time is it?"
+ },
+ {
+  "id": 5,
+  "start": 7.41,
+  "end": 8.28,
+  "text": "I think it’s going on dinner."
+ },
+ {
+  "id": 6,
+  "start": 8.31,
+  "end": 9.88,
+  "text": "Uh, it’s three thirty."
+ },
+ {
+  "id": 7,
+  "start": 10.0,
+  "end": 12.18,
+  "text": "Three thirty. Uh . . . We’d better wait."
+ },
+ {
+  "id": 8,
+  "start": 12.41,
+  "end": 16.13,
+  "text": "[Why, Dad?] Well, what kind of snack do you want?"
+ },
+ {
+  "id": 9,
+  "start": 16.17,
+  "end": 17.93,
+  "text": "Candy?"
+ },
+ {
+  "id": 10,
+  "start": 17.97,
+  "end": 20.78,
+  "text": "No, candy is out. Oh, how about some broccoli?"
+ },
+ {
+  "id": 11,
+  "start": 20.82,
+  "end": 25.75,
+  "text": "[No!] Uh, carrots? [No!] Well, what else can you suggest?"
+ },
+ {
+  "id": 12,
+  "start": 25.84,
+  "end": 26.82,
+  "text": "Candy."
+ },
+ {
+  "id": 13,
+  "start": 26.82,
+  "end": 29.84,
+  "text": "Candy. No, I don’t think . . . I think You’d better wait."
+ },
+ {
+  "id": 14,
+  "start": 29.88,
+  "end": 32.68,
+  "text": "A sandwich? A spinach sandwich?"
+ },
+ {
+  "id": 15,
+  "start": 32.72,
+  "end": 39.58,
+  "text": "Spinach sandwich? Spinach sandwich! When did you start liking spinach?"
+ },
+ {
+  "id": 16,
+  "start": 39.63,
+  "end": 40.38,
+  "text": "Uh, today."
+ },
+ {
+  "id": 17,
+  "start": 40.47,
+  "end": 42.66,
+  "text": "Well, what about a small sandwich?"
+ },
+ {
+  "id": 18,
+  "start": 42.73,
+  "end": 45.2,
+  "text": "[Okay] Okay, I’ll whip it up in a minute."
+ },
+ {
+  "id": 19,
+  "start": 45.24,
+  "end": 46.97,
+  "text": "Play with your toys while you’re waiting for it."
+ }
+];

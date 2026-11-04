@@ -38,8 +38,20 @@ window.DICT=window.DICT||{};DICT["topics"]=[
   "lessons": 42,
   "groups": [
    {
-    "title": "A1 ESL Lab",
+    "title": "A1 Grammar Lessons",
     "count": 42
+   }
+  ]
+ },
+ {
+  "id": "practice-dictation",
+  "title": "Practice Dictation",
+  "levels": "A1",
+  "lessons": 30,
+  "groups": [
+   {
+    "title": "A1",
+    "count": 30
    }
   ]
  }

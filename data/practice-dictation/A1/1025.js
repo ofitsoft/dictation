@@ -1,0 +1,110 @@
+window.DICT=window.DICT||{};DICT["practice-dictation/A1/1025"]=[
+ {
+  "id": 1,
+  "start": 4.21,
+  "end": 7.28,
+  "text": "Hi, Alice. What have you been doing?"
+ },
+ {
+  "id": 2,
+  "start": 7.4,
+  "end": 8.98,
+  "text": "You look tired."
+ },
+ {
+  "id": 3,
+  "start": 9.34,
+  "end": 13.25,
+  "text": "I stayed up late last night to watch the Olympics."
+ },
+ {
+  "id": 4,
+  "start": 13.48,
+  "end": 16.66,
+  "text": "We won a gold medal for men’s basketball."
+ },
+ {
+  "id": 5,
+  "start": 16.98,
+  "end": 20.21,
+  "text": "We also won the silver medal for women’s tennis."
+ },
+ {
+  "id": 6,
+  "start": 20.62,
+  "end": 24.12,
+  "text": "That’s great! What about gymnastics?"
+ },
+ {
+  "id": 7,
+  "start": 24.49,
+  "end": 27.06,
+  "text": "The men’s team didn’t do so well."
+ },
+ {
+  "id": 8,
+  "start": 27.26,
+  "end": 30.02,
+  "text": "But the women’s team won the silver medal."
+ },
+ {
+  "id": 9,
+  "start": 30.56,
+  "end": 35.47,
+  "text": "I haven’t had much time to watch, but I saw the opening ceremony."
+ },
+ {
+  "id": 10,
+  "start": 35.72,
+  "end": 38.12,
+  "text": "What have you been doing this summer?"
+ },
+ {
+  "id": 11,
+  "start": 38.44,
+  "end": 42.15,
+  "text": "I’ve been playing baseball and taking swimming lessons."
+ },
+ {
+  "id": 12,
+  "start": 42.51,
+  "end": 44.59,
+  "text": "I like to watch baseball."
+ },
+ {
+  "id": 13,
+  "start": 44.74,
+  "end": 48.33,
+  "text": "Maybe I can come and watch your team play some time."
+ },
+ {
+  "id": 14,
+  "start": 48.54,
+  "end": 50.31,
+  "text": "When do you usually play?"
+ },
+ {
+  "id": 15,
+  "start": 50.65,
+  "end": 52.79,
+  "text": "We have a game this weekend."
+ },
+ {
+  "id": 16,
+  "start": 53.12,
+  "end": 56.24,
+  "text": "Why don’t you come and watch us play in the park?"
+ },
+ {
+  "id": 17,
+  "start": 56.65,
+  "end": 62.19,
+  "text": "Sure! Just let me know what time the game starts. See you later."
+ },
+ {
+  "id": 18,
+  "start": 62.51,
+  "end": 63.32,
+  "text": "Bye!"
+ }
+];

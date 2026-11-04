@@ -1,0 +1,146 @@
+[
+ {
+  "id": 1,
+  "start": 0.39,
+  "end": 2.46,
+  "text": "Hi young lady. How may I help you?"
+ },
+ {
+  "id": 2,
+  "start": 2.7,
+  "end": 4.77,
+  "text": "Well, . . . yeah. I’m looking for a Father’s Day gift."
+ },
+ {
+  "id": 3,
+  "start": 5.71,
+  "end": 9.03,
+  "text": "Okay. How about getting your father a new wallet?"
+ },
+ {
+  "id": 4,
+  "start": 9.19,
+  "end": 10.74,
+  "text": "Hmm. How much is that wallet?"
+ },
+ {
+  "id": 5,
+  "start": 10.92,
+  "end": 11.79,
+  "text": "Huh . . . which one?"
+ },
+ {
+  "id": 6,
+  "start": 12.65,
+  "end": 13.29,
+  "text": "The black one."
+ },
+ {
+  "id": 7,
+  "start": 13.33,
+  "end": 16.54,
+  "text": "Oh. It’s only $40.95."
+ },
+ {
+  "id": 8,
+  "start": 16.68,
+  "end": 18.95,
+  "text": "Huh? That’s too expensive for me."
+ },
+ {
+  "id": 9,
+  "start": 19.17,
+  "end": 20.37,
+  "text": "Do you have a cheaper one?"
+ },
+ {
+  "id": 10,
+  "start": 20.97,
+  "end": 23.37,
+  "text": "Hmm. How about this brown leather one?"
+ },
+ {
+  "id": 11,
+  "start": 24.55,
+  "end": 29.26,
+  "text": "Umm. . . I don’t think my father will like the design on the outside, and it doesn’t have a place to put pictures."
+ },
+ {
+  "id": 12,
+  "start": 29.92,
+  "end": 31.56,
+  "text": "How much is it anyway?"
+ },
+ {
+  "id": 13,
+  "start": 32.28,
+  "end": 33.71,
+  "text": "It’s $25.99."
+ },
+ {
+  "id": 14,
+  "start": 33.84,
+  "end": 35.42,
+  "text": "Humm. I don’t have that much money."
+ },
+ {
+  "id": 15,
+  "start": 36.2,
+  "end": 39.1,
+  "text": "Okay. How much money do you have to spend?"
+ },
+ {
+  "id": 16,
+  "start": 39.36,
+  "end": 43.26,
+  "text": "I’m not sure [money falling on the table]."
+ },
+ {
+  "id": 17,
+  "start": 43.75,
+  "end": 45.56,
+  "text": "Probably about ten dollars or so."
+ },
+ {
+  "id": 18,
+  "start": 46.07,
+  "end": 50.5,
+  "text": "I’ve been helping my mom around the house for the past week to earn some money."
+ },
+ {
+  "id": 19,
+  "start": 50.97,
+  "end": 51.59,
+  "text": "This is all I have."
+ },
+ {
+  "id": 20,
+  "start": 53.68,
+  "end": 55.0,
+  "text": "Hmm. How about this tie?"
+ },
+ {
+  "id": 21,
+  "start": 55.27,
+  "end": 60.68,
+  "text": "That’s real pretty, but the price tag says $13.99, and I know I don’t have that much money."
+ },
+ {
+  "id": 22,
+  "start": 62.2,
+  "end": 65.09,
+  "text": "Well, let’s just say the tie went on sale."
+ },
+ {
+  "id": 23,
+  "start": 65.19,
+  "end": 67.59,
+  "text": "How about $5.00. What do you say?"
+ },
+ {
+  "id": 24,
+  "start": 68.09,
+  "end": 69.94,
+  "text": "Oh, thanks. I’ll take it."
+ }
+]

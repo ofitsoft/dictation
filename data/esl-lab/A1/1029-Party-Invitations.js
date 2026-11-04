@@ -1,0 +1,176 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1029-Party-Invitations"]=[
+ {
+  "id": 1,
+  "start": 4.04,
+  "end": 6.62,
+  "text": "Hey. John. This looks like a great party."
+ },
+ {
+  "id": 2,
+  "start": 6.66,
+  "end": 7.82,
+  "text": "[Yeah!] Thanks for inviting me."
+ },
+ {
+  "id": 3,
+  "start": 7.86,
+  "end": 10.07,
+  "text": "No problem. Glad you could make it."
+ },
+ {
+  "id": 4,
+  "start": 10.15,
+  "end": 13.34,
+  "text": "Hey. Have you met any of the famous guests so far?"
+ },
+ {
+  "id": 5,
+  "start": 13.63,
+  "end": 15.76,
+  "text": "Uh, no. Who exactly?"
+ },
+ {
+  "id": 6,
+  "start": 15.93,
+  "end": 20.76,
+  "text": "Well, there is Gregorio Zuttlemisterburger . . . [Who?]."
+ },
+ {
+  "id": 7,
+  "start": 20.96,
+  "end": 23.24,
+  "text": "Ah. They call him the “Grip” for short."
+ },
+ {
+  "id": 8,
+  "start": 23.55,
+  "end": 25.95,
+  "text": "Who in the world is he?"
+ },
+ {
+  "id": 9,
+  "start": 26.02,
+  "end": 27.38,
+  "text": "You’ve never heard of him?"
+ },
+ {
+  "id": 10,
+  "start": 27.42,
+  "end": 30.18,
+  "text": "[No.] He’s the world famous snake trainer . . ."
+ },
+ {
+  "id": 11,
+  "start": 30.39,
+  "end": 34.79,
+  "text": "He’s never met a snake he couldn’t train to dance and hiss at the same time."
+ },
+ {
+  "id": 12,
+  "start": 34.83,
+  "end": 36.47,
+  "text": "Seriously? Where is he?"
+ },
+ {
+  "id": 13,
+  "start": 36.82,
+  "end": 40.99,
+  "text": "Uh, he’s the tall guy over there in the purple jacket and green pants."
+ },
+ {
+  "id": 14,
+  "start": 41.52,
+  "end": 43.9,
+  "text": "He probably has a snake or two with him tonight."
+ },
+ {
+  "id": 15,
+  "start": 43.95,
+  "end": 48.36,
+  "text": "And then there is Georgina, the Great."
+ },
+ {
+  "id": 16,
+  "start": 48.4,
+  "end": 50.86,
+  "text": "Georgina . . . and great for what?"
+ },
+ {
+  "id": 17,
+  "start": 51.37,
+  "end": 54.05,
+  "text": "Are you serious? You’ve never heard of her?"
+ },
+ {
+  "id": 18,
+  "start": 54.28,
+  "end": 56.62,
+  "text": "She is the world’s greatest arm wrestler."
+ },
+ {
+  "id": 19,
+  "start": 56.66,
+  "end": 58.11,
+  "text": "I mean, World champion."
+ },
+ {
+  "id": 20,
+  "start": 58.45,
+  "end": 63.84,
+  "text": "She’s the petite woman next to the fireplace with the bright yellow dress and the tennis shoes."
+ },
+ {
+  "id": 21,
+  "start": 64.2,
+  "end": 68.0,
+  "text": "I thought you said famous people . . . like, like people we all know."
+ },
+ {
+  "id": 22,
+  "start": 68.29,
+  "end": 73.3,
+  "text": "And, and there is Brad Pitt . . ."
+ },
+ {
+  "id": 23,
+  "start": 73.34,
+  "end": 73.61,
+  "text": "Now, there’s someone I recognize . . ."
+ },
+ {
+  "id": 24,
+  "start": 73.64,
+  "end": 76.19,
+  "text": "The captain of the national Yo-Yo team [What?]."
+ },
+ {
+  "id": 25,
+  "start": 76.3,
+  "end": 81.93,
+  "text": "Yeah. He’s the short, stocky man sitting at the table wearing the black and red checkered shirt."
+ },
+ {
+  "id": 26,
+  "start": 81.99,
+  "end": 84.82,
+  "text": "I’m sure he’d do a few tricks for you if you asked."
+ },
+ {
+  "id": 27,
+  "start": 85.04,
+  "end": 87.2,
+  "text": "Uh, no thank you."
+ },
+ {
+  "id": 28,
+  "start": 87.46,
+  "end": 90.17,
+  "text": "I think I’ve had enough entertainment for one evening."
+ },
+ {
+  "id": 29,
+  "start": 90.21,
+  "end": 91.07,
+  "text": "Okay."
+ }
+];

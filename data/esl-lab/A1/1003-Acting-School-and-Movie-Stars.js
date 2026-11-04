@@ -1,0 +1,152 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1003-Acting-School-and-Movie-Stars"]=[
+ {
+  "id": 1,
+  "start": 0.33,
+  "end": 4.18,
+  "text": "Hello. This is James Goodfellow from Channel 4 news."
+ },
+ {
+  "id": 2,
+  "start": 4.21,
+  "end": 11.42,
+  "text": "Today, we are interviewing Sarah Roberts, the star of the new movie, Zombies on Mars Part 4."
+ },
+ {
+  "id": 3,
+  "start": 11.79,
+  "end": 13.68,
+  "text": "Sarah, uh, thanks for joining us."
+ },
+ {
+  "id": 4,
+  "start": 13.72,
+  "end": 15.16,
+  "text": "You’re welcome, Jimmy."
+ },
+ {
+  "id": 5,
+  "start": 15.23,
+  "end": 16.68,
+  "text": "It’s, uh, James."
+ },
+ {
+  "id": 6,
+  "start": 16.72,
+  "end": 17.49,
+  "text": "Whatever . . ."
+ },
+ {
+  "id": 7,
+  "start": 18.2,
+  "end": 21.84,
+  "text": "Well, let’s start off the interview with a few basic questions."
+ },
+ {
+  "id": 8,
+  "start": 21.89,
+  "end": 23.78,
+  "text": "First of all, where are you from?"
+ },
+ {
+  "id": 9,
+  "start": 23.93,
+  "end": 29.34,
+  "text": "Well, I’m originally from Miami, but we moved to New York when I was three years old."
+ },
+ {
+  "id": 10,
+  "start": 29.38,
+  "end": 34.82,
+  "text": "I lived there until I was 17, and then I moved to Los Angeles to be an actress."
+ },
+ {
+  "id": 11,
+  "start": 35.14,
+  "end": 37.46,
+  "text": "Okay, and where did you go to college?"
+ },
+ {
+  "id": 12,
+  "start": 37.87,
+  "end": 44.29,
+  "text": "I attended Fernando’s School of Acting, and all of my teachers LOVED my acting."
+ },
+ {
+  "id": 13,
+  "start": 44.47,
+  "end": 48.93,
+  "text": "And, did you have a part-time job while you were in school?"
+ },
+ {
+  "id": 14,
+  "start": 49.02,
+  "end": 55.32,
+  "text": "Yeah. I worked at a movie theater, and everyone LOVED the way I made the popcorn."
+ },
+ {
+  "id": 15,
+  "start": 55.62,
+  "end": 58.58,
+  "text": "Really. Okay, and how old are you now?"
+ },
+ {
+  "id": 16,
+  "start": 58.62,
+  "end": 64.62,
+  "text": "Well, I’m only 20, but everyone I know says I look at LEAST 22."
+ },
+ {
+  "id": 17,
+  "start": 65.11,
+  "end": 69.53,
+  "text": "Oh, right. Okay. And, what are your hobbies outside of acting?"
+ },
+ {
+  "id": 18,
+  "start": 69.65,
+  "end": 75.07,
+  "text": "Oh, I love shopping for clothes and makeup and, and . . . ."
+ },
+ {
+  "id": 19,
+  "start": 75.16,
+  "end": 77.84,
+  "text": "Did I say I love shopping for clothes?"
+ },
+ {
+  "id": 20,
+  "start": 77.84,
+  "end": 80.51,
+  "text": "Well, you DID say clothes . . ."
+ },
+ {
+  "id": 21,
+  "start": 80.85,
+  "end": 83.65,
+  "text": "Oh, yeah. Well, do you want to take some pictures of me . . ."
+ },
+ {
+  "id": 22,
+  "start": 83.65,
+  "end": 89.8,
+  "text": "You know, for your homepage or your blog and you can even use them on your Facebook fan page."
+ },
+ {
+  "id": 23,
+  "start": 89.89,
+  "end": 92.08,
+  "text": "Uh, I think we’ll be okay."
+ },
+ {
+  "id": 24,
+  "start": 92.12,
+  "end": 96.58,
+  "text": "Okay, well, um . . . Oh, oh look, all of my fans."
+ },
+ {
+  "id": 25,
+  "start": 96.62,
+  "end": 100.85,
+  "text": "Hey, gotta go, honey. Hi everyone."
+ }
+];

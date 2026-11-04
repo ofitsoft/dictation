@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "start": 2.05,
+  "end": 4.59,
+  "text": "Uh, let me finish the newspaper first?"
+ },
+ {
+  "id": 2,
+  "start": 4.67,
+  "end": 6.85,
+  "text": "You’ve been saying that forever!"
+ },
+ {
+  "id": 3,
+  "start": 6.91,
+  "end": 10.42,
+  "text": "Well, how about reading the business section of the newspaper together?"
+ },
+ {
+  "id": 4,
+  "start": 10.51,
+  "end": 13.65,
+  "text": "That’s boring. Let’s read this book."
+ },
+ {
+  "id": 5,
+  "start": 13.69,
+  "end": 16.29,
+  "text": "It’s about a bear and cat that becomes friends."
+ },
+ {
+  "id": 6,
+  "start": 16.33,
+  "end": 18.51,
+  "text": "[Okay] And these books too."
+ },
+ {
+  "id": 7,
+  "start": 18.55,
+  "end": 20.97,
+  "text": "Whoa. I thought you said one book."
+ },
+ {
+  "id": 8,
+  "start": 20.97,
+  "end": 22.33,
+  "text": "There must be ten here."
+ },
+ {
+  "id": 9,
+  "start": 22.37,
+  "end": 28.82,
+  "text": "My teacher, Mrs. Green, says you have to read to me every night, and the newspaper doesn’t count."
+ },
+ {
+  "id": 10,
+  "start": 28.91,
+  "end": 33.42,
+  "text": "And let’s eat some popcorn and cookies while we’re reading"
+ },
+ {
+  "id": 11,
+  "start": 33.46,
+  "end": 36.38,
+  "text": "Well, it’s bedtime right now. So, okay, here we go."
+ },
+ {
+  "id": 12,
+  "start": 36.46,
+  "end": 41.79,
+  "text": "Once upon a time in a deep, dark forest, lived a brown bear . . ."
+ }
+]

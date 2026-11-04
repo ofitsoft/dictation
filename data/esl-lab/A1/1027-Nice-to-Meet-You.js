@@ -1,0 +1,128 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1027-Nice-to-Meet-You"]=[
+ {
+  "id": 1,
+  "start": 0.09,
+  "end": 2.04,
+  "text": "Oh, hi. What was your name again?"
+ },
+ {
+  "id": 2,
+  "start": 2.04,
+  "end": 5.28,
+  "text": "I can’t keep straight all the students’ names this being the second day of school."
+ },
+ {
+  "id": 3,
+  "start": 5.28,
+  "end": 8.13,
+  "text": "It’s okay. I have a hard time remembering names myself."
+ },
+ {
+  "id": 4,
+  "start": 8.13,
+  "end": 10.24,
+  "text": "How, uh, Karen, right?"
+ },
+ {
+  "id": 5,
+  "start": 10.28,
+  "end": 12.97,
+  "text": "No, it’s Nancy. My mom’s name is Karen."
+ },
+ {
+  "id": 6,
+  "start": 13.51,
+  "end": 16.48,
+  "text": "Nancy. Okay. I think I heard you were from England."
+ },
+ {
+  "id": 7,
+  "start": 16.64,
+  "end": 18.95,
+  "text": "Well, I was born there, but my parents are American."
+ },
+ {
+  "id": 8,
+  "start": 19.17,
+  "end": 19.87,
+  "text": "I grew up in France."
+ },
+ {
+  "id": 9,
+  "start": 20.79,
+  "end": 22.72,
+  "text": "Oh, a world traveler!"
+ },
+ {
+  "id": 10,
+  "start": 23.13,
+  "end": 25.03,
+  "text": "But then we moved here when I was nine."
+ },
+ {
+  "id": 11,
+  "start": 25.12,
+  "end": 27.07,
+  "text": "So, what does your father do now?"
+ },
+ {
+  "id": 12,
+  "start": 27.43,
+  "end": 30.82,
+  "text": "Well, he’s a college professor, and he is in Scotland at the moment."
+ },
+ {
+  "id": 13,
+  "start": 31.11,
+  "end": 32.63,
+  "text": "How interesting. What does he teach?"
+ },
+ {
+  "id": 14,
+  "start": 33.13,
+  "end": 36.29,
+  "text": "Oh, I haven’t a clue. Nah, just joking."
+ },
+ {
+  "id": 15,
+  "start": 36.49,
+  "end": 37.84,
+  "text": "He teaches chemistry."
+ },
+ {
+  "id": 16,
+  "start": 37.92,
+  "end": 40.52,
+  "text": "Oh, chemistry, and uh, what about your mother?"
+ },
+ {
+  "id": 17,
+  "start": 40.73,
+  "end": 42.14,
+  "text": "She works full time at home."
+ },
+ {
+  "id": 18,
+  "start": 42.21,
+  "end": 45.35,
+  "text": "Oh, and what, does she have her own business or something?"
+ },
+ {
+  "id": 19,
+  "start": 45.44,
+  "end": 47.11,
+  "text": "Nah, she takes care of me."
+ },
+ {
+  "id": 20,
+  "start": 47.41,
+  "end": 51.41,
+  "text": "Well, being a homemaker can be a real hard, but rewarding job."
+ },
+ {
+  "id": 21,
+  "start": 51.46,
+  "end": 52.61,
+  "text": "I think so too."
+ }
+];

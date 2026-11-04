@@ -1,0 +1,146 @@
+[
+ {
+  "id": 1,
+  "start": 4.96,
+  "end": 6.49,
+  "text": "Hello. This is the front desk."
+ },
+ {
+  "id": 2,
+  "start": 6.53,
+  "end": 8.25,
+  "text": "Tess, speaking, How can I help you?"
+ },
+ {
+  "id": 3,
+  "start": 8.33,
+  "end": 10.59,
+  "text": "Yes, I’d like to order room service."
+ },
+ {
+  "id": 4,
+  "start": 10.59,
+  "end": 12.07,
+  "text": "Okay. What can I get for you?"
+ },
+ {
+  "id": 5,
+  "start": 12.64,
+  "end": 20.63,
+  "text": "Well. Okay. I’d like to order a grilled chicken sandwich [ Okay. ], some fries, and a small salad."
+ },
+ {
+  "id": 6,
+  "start": 20.67,
+  "end": 22.15,
+  "text": "Okay. What kind of dressing?"
+ },
+ {
+  "id": 7,
+  "start": 22.65,
+  "end": 25.49,
+  "text": "Okay, well, I’ll . . . . how about Ranch?"
+ },
+ {
+  "id": 8,
+  "start": 26.02,
+  "end": 28.3,
+  "text": "But I’d like it on the side."
+ },
+ {
+  "id": 9,
+  "start": 28.35,
+  "end": 29.58,
+  "text": "Okay. On the side. Anything else for you?"
+ },
+ {
+  "id": 10,
+  "start": 29.87,
+  "end": 33.85,
+  "text": "Uh, yeah. How about a glass of orange juice?"
+ },
+ {
+  "id": 11,
+  "start": 34.37,
+  "end": 34.5,
+  "text": "Okay. Large or small?"
+ },
+ {
+  "id": 12,
+  "start": 34.5,
+  "end": 37.46,
+  "text": "Well, let’s, let’s go with a large."
+ },
+ {
+  "id": 13,
+  "start": 37.77,
+  "end": 39.19,
+  "text": "Okay. And what room are you in?"
+ },
+ {
+  "id": 14,
+  "start": 39.41,
+  "end": 41.73,
+  "text": "I’m in . . . I’m in . . . , let’s see."
+ },
+ {
+  "id": 15,
+  "start": 41.73,
+  "end": 44.95,
+  "text": "Well, I can’t remember! Oh, yeah. I’m in room 640."
+ },
+ {
+  "id": 16,
+  "start": 44.99,
+  "end": 45.74,
+  "text": "And your name?"
+ },
+ {
+  "id": 17,
+  "start": 45.85,
+  "end": 47.22,
+  "text": "It’s James."
+ },
+ {
+  "id": 18,
+  "start": 47.33,
+  "end": 48.65,
+  "text": "Alright."
+ },
+ {
+  "id": 19,
+  "start": 48.95,
+  "end": 51.24,
+  "text": "And, uh. Oh, yeah. How long will it take?"
+ },
+ {
+  "id": 20,
+  "start": 51.31,
+  "end": 53.27,
+  "text": "Oh, it shouldn’t be more than about 30 minutes."
+ },
+ {
+  "id": 21,
+  "start": 53.31,
+  "end": 55.65,
+  "text": "Okay and okay. Well, what time is it now?"
+ },
+ {
+  "id": 22,
+  "start": 55.69,
+  "end": 56.98,
+  "text": "[ It’s ] six, forty-five (6:45)."
+ },
+ {
+  "id": 23,
+  "start": 57.04,
+  "end": 58.38,
+  "text": "Alright. Thank you."
+ },
+ {
+  "id": 24,
+  "start": 58.42,
+  "end": 58.46,
+  "text": "Perfect."
+ }
+]

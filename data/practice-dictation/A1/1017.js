@@ -1,0 +1,110 @@
+window.DICT=window.DICT||{};DICT["practice-dictation/A1/1017"]=[
+ {
+  "id": 1,
+  "start": 5.27,
+  "end": 8.15,
+  "text": "Will you play any sports this school year?"
+ },
+ {
+  "id": 2,
+  "start": 8.45,
+  "end": 10.17,
+  "text": "I want to play hockey."
+ },
+ {
+  "id": 3,
+  "start": 10.32,
+  "end": 12.97,
+  "text": "But I’m not sure if I will have enough time."
+ },
+ {
+  "id": 4,
+  "start": 13.61,
+  "end": 15.76,
+  "text": "I’m on the school soccer team."
+ },
+ {
+  "id": 5,
+  "start": 16.03,
+  "end": 18.52,
+  "text": "I’m also going to take up swimming."
+ },
+ {
+  "id": 6,
+  "start": 18.66,
+  "end": 22.14,
+  "text": "You’re going to be on the soccer team and swim, too?"
+ },
+ {
+  "id": 7,
+  "start": 22.29,
+  "end": 23.17,
+  "text": "Yeah."
+ },
+ {
+  "id": 8,
+  "start": 23.9,
+  "end": 27.33,
+  "text": "That seems like a lot. You will be very busy!"
+ },
+ {
+  "id": 9,
+  "start": 27.6,
+  "end": 29.75,
+  "text": "Do you think you will have any free time?"
+ },
+ {
+  "id": 10,
+  "start": 30.21,
+  "end": 33.68,
+  "text": "I will play soccer with my school team during the week."
+ },
+ {
+  "id": 11,
+  "start": 33.89,
+  "end": 36.4,
+  "text": "I will go swimming during the weekend."
+ },
+ {
+  "id": 12,
+  "start": 36.78,
+  "end": 39.36,
+  "text": "When will you have time to do your homework?"
+ },
+ {
+  "id": 13,
+  "start": 39.46,
+  "end": 40.95,
+  "text": "And when will you study?"
+ },
+ {
+  "id": 14,
+  "start": 41.4,
+  "end": 44.44,
+  "text": "I do my homework after school every day."
+ },
+ {
+  "id": 15,
+  "start": 44.74,
+  "end": 46.68,
+  "text": "I study every weekend."
+ },
+ {
+  "id": 16,
+  "start": 47.11,
+  "end": 51.81,
+  "text": "My mother won’t let me play sports until I have done all my work."
+ },
+ {
+  "id": 17,
+  "start": 52.26,
+  "end": 56.96,
+  "text": "Well, I hope you find enough time for both schoolwork and sports."
+ },
+ {
+  "id": 18,
+  "start": 57.21,
+  "end": 57.95,
+  "text": "Good luck!"
+ }
+];

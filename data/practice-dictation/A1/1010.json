@@ -1,0 +1,110 @@
+[
+ {
+  "id": 1,
+  "start": 4.32,
+  "end": 7.74,
+  "text": "Are you going to the school play on Saturday night?"
+ },
+ {
+  "id": 2,
+  "start": 8.01,
+  "end": 9.46,
+  "text": "The school play?"
+ },
+ {
+  "id": 3,
+  "start": 9.64,
+  "end": 13.56,
+  "text": "I didn’t know there was going to be a play on Saturday night."
+ },
+ {
+  "id": 4,
+  "start": 14.12,
+  "end": 18.03,
+  "text": "Yes, I heard about it in English class yesterday."
+ },
+ {
+  "id": 5,
+  "start": 18.41,
+  "end": 20.84,
+  "text": "I think it will be really good."
+ },
+ {
+  "id": 6,
+  "start": 21.21,
+  "end": 22.88,
+  "text": "Who told you about it?"
+ },
+ {
+  "id": 7,
+  "start": 23.43,
+  "end": 27.57,
+  "text": "Ms. Martin, our English teacher, told us all about it."
+ },
+ {
+  "id": 8,
+  "start": 28.01,
+  "end": 31.37,
+  "text": "This is the drama club’s first play of the year."
+ },
+ {
+  "id": 9,
+  "start": 31.74,
+  "end": 35.75,
+  "text": "What is the play about? I hope it’s nothing boring."
+ },
+ {
+  "id": 10,
+  "start": 36.14,
+  "end": 38.1,
+  "text": "Can you guess what it is?"
+ },
+ {
+  "id": 11,
+  "start": 38.26,
+  "end": 41.04,
+  "text": "Oh, come on, tell me please!"
+ },
+ {
+  "id": 12,
+  "start": 41.46,
+  "end": 43.67,
+  "text": "It’s The Sound of Music."
+ },
+ {
+  "id": 13,
+  "start": 43.77,
+  "end": 48.71,
+  "text": "Really? I watched The Sound of Music on TV"
+ },
+ {
+  "id": 14,
+  "start": 48.82,
+  "end": 51.45,
+  "text": "last month! It’s very good! Are you sure?"
+ },
+ {
+  "id": 15,
+  "start": 51.76,
+  "end": 55.55,
+  "text": "Of course I’m sure, that’s what Ms. Martin said."
+ },
+ {
+  "id": 16,
+  "start": 56.02,
+  "end": 59.65,
+  "text": "Would you like to watch the play with me on Saturday night?"
+ },
+ {
+  "id": 17,
+  "start": 60.06,
+  "end": 61.5,
+  "text": "That would be great!"
+ },
+ {
+  "id": 18,
+  "start": 61.63,
+  "end": 64.4,
+  "text": "Let’s go early so we get good seats!"
+ }
+]

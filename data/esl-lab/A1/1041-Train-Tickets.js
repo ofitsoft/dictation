@@ -1,0 +1,92 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1041-Train-Tickets"]=[
+ {
+  "id": 1,
+  "start": 1.9,
+  "end": 6.64,
+  "text": "Uh, where am I? Tsk, hum . . ."
+ },
+ {
+  "id": 2,
+  "start": 6.64,
+  "end": 9.44,
+  "text": "Excuse me. Do you need any help?"
+ },
+ {
+  "id": 3,
+  "start": 9.44,
+  "end": 12.29,
+  "text": "Nah, I . . . I’m just looking . . . well . . . [Okay . . .]"
+ },
+ {
+  "id": 4,
+  "start": 12.29,
+  "end": 15.24,
+  "text": "Uh, well, actually . . . yeah. Um . . ."
+ },
+ {
+  "id": 5,
+  "start": 15.28,
+  "end": 21.65,
+  "text": "I want to go to the science museum, but I’ve been lost for the past few hours, and I can’t make heads or tails of these ticket machines."
+ },
+ {
+  "id": 6,
+  "start": 21.98,
+  "end": 25.24,
+  "text": "Ah, well, just press this button."
+ },
+ {
+  "id": 7,
+  "start": 25.28,
+  "end": 27.23,
+  "text": "[Oh, yeah] And from here, it’s a dollar fifty."
+ },
+ {
+  "id": 8,
+  "start": 27.27,
+  "end": 28.15,
+  "text": "Okay."
+ },
+ {
+  "id": 9,
+  "start": 28.25,
+  "end": 30.8,
+  "text": "Then, get on the train at platform number 4."
+ },
+ {
+  "id": 10,
+  "start": 30.86,
+  "end": 34.55,
+  "text": "Alright. Oh, and how often do the trains come around this time of day?"
+ },
+ {
+  "id": 11,
+  "start": 34.81,
+  "end": 36.98,
+  "text": "Usually, they come about every six minutes."
+ },
+ {
+  "id": 12,
+  "start": 37.3,
+  "end": 39.5,
+  "text": "Okay. And where do I get off the train?"
+ },
+ {
+  "id": 13,
+  "start": 39.9,
+  "end": 42.97,
+  "text": "Get off at State Street Station, three stops from here."
+ },
+ {
+  "id": 14,
+  "start": 43.07,
+  "end": 44.86,
+  "text": "Okay. I got it. Thanks for your help."
+ },
+ {
+  "id": 15,
+  "start": 44.92,
+  "end": 46.16,
+  "text": "No problem. Good luck."
+ }
+];

@@ -1,0 +1,92 @@
+window.DICT=window.DICT||{};DICT["practice-dictation/A1/1009"]=[
+ {
+  "id": 1,
+  "start": 4.51,
+  "end": 8.24,
+  "text": "Have you heard about the music festival next summer?"
+ },
+ {
+  "id": 2,
+  "start": 8.5,
+  "end": 13.87,
+  "text": "I read that it is going to have about 20 different bands playing in it."
+ },
+ {
+  "id": 3,
+  "start": 14.08,
+  "end": 17.54,
+  "text": "I think I did hear someone talking about it."
+ },
+ {
+  "id": 4,
+  "start": 17.7,
+  "end": 19.48,
+  "text": "Are you planning on going?"
+ },
+ {
+  "id": 5,
+  "start": 19.55,
+  "end": 21.99,
+  "text": "I’ll go if I can get tickets."
+ },
+ {
+  "id": 6,
+  "start": 22.11,
+  "end": 27.01,
+  "text": "I heard that people are going to line up overnight to get tickets."
+ },
+ {
+  "id": 7,
+  "start": 27.38,
+  "end": 29.95,
+  "text": "I might line up overnight, too."
+ },
+ {
+  "id": 8,
+  "start": 30.0,
+  "end": 33.6,
+  "text": "I don’t think I want to line up all night long!"
+ },
+ {
+  "id": 9,
+  "start": 33.64,
+  "end": 35.73,
+  "text": "Well, I’m going to do it."
+ },
+ {
+  "id": 10,
+  "start": 35.92,
+  "end": 42.06,
+  "text": "I think it is going to be a great music festival that I won’t want to miss."
+ },
+ {
+  "id": 11,
+  "start": 42.31,
+  "end": 46.9,
+  "text": "Maybe. Do you know how much the tickets are going to cost?"
+ },
+ {
+  "id": 12,
+  "start": 46.96,
+  "end": 53.17,
+  "text": "I’m not sure, but I think each ticket will be about $75."
+ },
+ {
+  "id": 13,
+  "start": 53.22,
+  "end": 55.28,
+  "text": "That’s a lot of money!"
+ },
+ {
+  "id": 14,
+  "start": 55.46,
+  "end": 59.18,
+  "text": "I don’t think I want to spend that much on a ticket."
+ },
+ {
+  "id": 15,
+  "start": 59.46,
+  "end": 60.84,
+  "text": "Good luck, anyway!"
+ }
+];

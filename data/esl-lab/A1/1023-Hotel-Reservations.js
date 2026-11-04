@@ -1,0 +1,152 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1023-Hotel-Reservations"]=[
+ {
+  "id": 1,
+  "start": 2.48,
+  "end": 4.46,
+  "text": "Hello. Sunnyside Inn. May I help you?"
+ },
+ {
+  "id": 2,
+  "start": 4.52,
+  "end": 7.88,
+  "text": "Yes, I’d like to reserve a room for two on the 21st of March."
+ },
+ {
+  "id": 3,
+  "start": 7.92,
+  "end": 10.63,
+  "text": "Okay. Let me check our computer here for a moment."
+ },
+ {
+  "id": 4,
+  "start": 10.67,
+  "end": 12.54,
+  "text": "The 21st of May, right?"
+ },
+ {
+  "id": 5,
+  "start": 12.59,
+  "end": 14.22,
+  "text": "No. March, not May."
+ },
+ {
+  "id": 6,
+  "start": 14.28,
+  "end": 21.23,
+  "text": "Oh, sorry. Let me see here. Hmmm."
+ },
+ {
+  "id": 7,
+  "start": 21.3,
+  "end": 22.74,
+  "text": "Are you all booked that night?"
+ },
+ {
+  "id": 8,
+  "start": 22.93,
+  "end": 27.75,
+  "text": "Well, we have one suite available, complete with a kitchenette and a sauna bath."
+ },
+ {
+  "id": 9,
+  "start": 27.75,
+  "end": 29.55,
+  "text": "And the view of the city is great, too."
+ },
+ {
+  "id": 10,
+  "start": 29.66,
+  "end": 30.59,
+  "text": "How much is that?"
+ },
+ {
+  "id": 11,
+  "start": 30.68,
+  "end": 34.01,
+  "text": "It’s only $200 dollars, plus a 10% room tax."
+ },
+ {
+  "id": 12,
+  "start": 34.05,
+  "end": 36.25,
+  "text": "Oh, that’s a little too expensive for me."
+ },
+ {
+  "id": 13,
+  "start": 36.45,
+  "end": 40.48,
+  "text": "Do you have a cheaper room available either on the 20th or the 22nd?"
+ },
+ {
+  "id": 14,
+  "start": 40.52,
+  "end": 43.14,
+  "text": "Well, would you like a smoking or a non-smoking room?"
+ },
+ {
+  "id": 15,
+  "start": 43.19,
+  "end": 45.43,
+  "text": "Non-smoking, please."
+ },
+ {
+  "id": 16,
+  "start": 45.59,
+  "end": 51.14,
+  "text": "Okay, we do have a few rooms available on the 20th; we’re full on the 22nd, unless you want a smoking room."
+ },
+ {
+  "id": 17,
+  "start": 51.18,
+  "end": 54.2,
+  "text": "Well, how much is the non-smoking room on the 20th?"
+ },
+ {
+  "id": 18,
+  "start": 54.3,
+  "end": 56.86,
+  "text": "$80 dollars, plus the 10% room tax."
+ },
+ {
+  "id": 19,
+  "start": 56.9,
+  "end": 58.15,
+  "text": "Okay, that’ll be fine."
+ },
+ {
+  "id": 20,
+  "start": 58.19,
+  "end": 60.0,
+  "text": "All right. Could I have your name, please?"
+ },
+ {
+  "id": 21,
+  "start": 60.04,
+  "end": 62.19,
+  "text": "Yes. Bob Maexner."
+ },
+ {
+  "id": 22,
+  "start": 62.25,
+  "end": 68.83,
+  "text": "How do you spell your last name, Mr. Maexner?"
+ },
+ {
+  "id": 23,
+  "start": 69.15,
+  "end": 69.71,
+  "text": "M-A-E-X-N-E-R."
+ },
+ {
+  "id": 24,
+  "start": 69.89,
+  "end": 73.24,
+  "text": "Okay, Mr. Maexner, we look forward to seeing you on March 20th."
+ },
+ {
+  "id": 25,
+  "start": 73.28,
+  "end": 74.14,
+  "text": "Okay. Goodbye."
+ }
+];

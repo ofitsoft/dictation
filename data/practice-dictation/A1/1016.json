@@ -1,0 +1,98 @@
+[
+ {
+  "id": 1,
+  "start": 5.21,
+  "end": 8.17,
+  "text": "Did you finish your homework for English class?"
+ },
+ {
+  "id": 2,
+  "start": 8.5,
+  "end": 11.88,
+  "text": "Homework? There wasn’t any homework."
+ },
+ {
+  "id": 3,
+  "start": 12.05,
+  "end": 17.49,
+  "text": "We had to finish reading a book and then write a 200-word essay on it."
+ },
+ {
+  "id": 4,
+  "start": 18.11,
+  "end": 21.41,
+  "text": "I don’t think Ms. Jones gave us any homework."
+ },
+ {
+  "id": 5,
+  "start": 21.69,
+  "end": 24.92,
+  "text": "I always write what I have to do in my notebook."
+ },
+ {
+  "id": 6,
+  "start": 25.43,
+  "end": 28.13,
+  "text": "Did she really tell us to write an essay?"
+ },
+ {
+  "id": 7,
+  "start": 28.35,
+  "end": 31.65,
+  "text": "Yes. Look, here’s my essay. See?"
+ },
+ {
+  "id": 8,
+  "start": 32.03,
+  "end": 35.22,
+  "text": "Oh no! What am I going to do?"
+ },
+ {
+  "id": 9,
+  "start": 35.42,
+  "end": 38.85,
+  "text": "We’ve only got 10 minutes before class starts."
+ },
+ {
+  "id": 10,
+  "start": 39.12,
+  "end": 43.96,
+  "text": "I don’t know. Maybe Ms. Jones will let you hand it in tomorrow."
+ },
+ {
+  "id": 11,
+  "start": 44.26,
+  "end": 47.14,
+  "text": "Hey, let me copy your essay."
+ },
+ {
+  "id": 12,
+  "start": 47.27,
+  "end": 51.25,
+  "text": "I’ll change a few words. Ms. Jones will never know."
+ },
+ {
+  "id": 13,
+  "start": 51.39,
+  "end": 55.2,
+  "text": "No, I’m sorry. That’s not the right thing to do."
+ },
+ {
+  "id": 14,
+  "start": 55.39,
+  "end": 58.88,
+  "text": "Oh, come on! I thought you were my friend."
+ },
+ {
+  "id": 15,
+  "start": 58.99,
+  "end": 60.45,
+  "text": "I am your friend."
+ },
+ {
+  "id": 16,
+  "start": 60.56,
+  "end": 63.39,
+  "text": "That’s why I’m not letting you copy my work!"
+ }
+]

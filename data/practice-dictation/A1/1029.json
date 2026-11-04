@@ -1,0 +1,92 @@
+[
+ {
+  "id": 1,
+  "start": 4.41,
+  "end": 7.27,
+  "text": "I want to go on a trip to China."
+ },
+ {
+  "id": 2,
+  "start": 7.36,
+  "end": 9.41,
+  "text": "How long do you want to stay?"
+ },
+ {
+  "id": 3,
+  "start": 9.53,
+  "end": 11.17,
+  "text": "Four or five days."
+ },
+ {
+  "id": 4,
+  "start": 11.24,
+  "end": 16.59,
+  "text": "We have a very good package tour that is for four days and three nights."
+ },
+ {
+  "id": 5,
+  "start": 16.62,
+  "end": 19.76,
+  "text": "OK. What can you tell me about it?"
+ },
+ {
+  "id": 6,
+  "start": 19.82,
+  "end": 22.87,
+  "text": "Well, you’ll fly directly to Beijing."
+ },
+ {
+  "id": 7,
+  "start": 23.12,
+  "end": 28.06,
+  "text": "Your tour guide will meet you at the airport and take you to your hotel."
+ },
+ {
+  "id": 8,
+  "start": 28.48,
+  "end": 32.37,
+  "text": "Over the four days, you will do a lot of sightseeing."
+ },
+ {
+  "id": 9,
+  "start": 32.59,
+  "end": 40.82,
+  "text": "You will see many famous landmarks, like the Summer Palace, the Forbidden City, and the Great Wall of China."
+ },
+ {
+  "id": 10,
+  "start": 41.12,
+  "end": 42.88,
+  "text": "That sounds great!"
+ },
+ {
+  "id": 11,
+  "start": 42.96,
+  "end": 47.92,
+  "text": "What sort of transport will we use to get from one place to another?"
+ },
+ {
+  "id": 12,
+  "start": 48.07,
+  "end": 50.53,
+  "text": "You will take a bus with your tour group."
+ },
+ {
+  "id": 13,
+  "start": 50.78,
+  "end": 54.43,
+  "text": "OK. Can I book this package tour now?"
+ },
+ {
+  "id": 14,
+  "start": 54.55,
+  "end": 57.57,
+  "text": "There will be five of us going on this trip."
+ },
+ {
+  "id": 15,
+  "start": 57.75,
+  "end": 58.47,
+  "text": "Sure!"
+ }
+]

@@ -1,0 +1,110 @@
+window.DICT=window.DICT||{};DICT["practice-dictation/A1/1008"]=[
+ {
+  "id": 1,
+  "start": 3.81,
+  "end": 6.53,
+  "text": "I just bought a digital camera!"
+ },
+ {
+  "id": 2,
+  "start": 6.61,
+  "end": 9.2,
+  "text": "What is wrong with your old camera?"
+ },
+ {
+  "id": 3,
+  "start": 9.29,
+  "end": 15.02,
+  "text": "Nothing. I bought this one because I want to store my pictures on my computer."
+ },
+ {
+  "id": 4,
+  "start": 15.06,
+  "end": 16.18,
+  "text": "I see."
+ },
+ {
+  "id": 5,
+  "start": 16.27,
+  "end": 20.04,
+  "text": "I can also delete pictures that are not very good."
+ },
+ {
+  "id": 6,
+  "start": 20.28,
+  "end": 21.9,
+  "text": "I don’t have to print them."
+ },
+ {
+  "id": 7,
+  "start": 21.97,
+  "end": 24.62,
+  "text": "I like to print all my photos."
+ },
+ {
+  "id": 8,
+  "start": 24.69,
+  "end": 27.25,
+  "text": "That’s why I like the old cameras."
+ },
+ {
+  "id": 9,
+  "start": 27.32,
+  "end": 30.27,
+  "text": "Oh, you can print digital photos, too."
+ },
+ {
+  "id": 10,
+  "start": 30.31,
+  "end": 32.67,
+  "text": "Many shops will print them for you."
+ },
+ {
+  "id": 11,
+  "start": 32.74,
+  "end": 33.62,
+  "text": "Really?"
+ },
+ {
+  "id": 12,
+  "start": 33.69,
+  "end": 38.33,
+  "text": "Yes. You can even buy a good printer and do it from home."
+ },
+ {
+  "id": 13,
+  "start": 38.37,
+  "end": 43.05,
+  "text": "That seems easy! How do you store these digital pictures?"
+ },
+ {
+  "id": 14,
+  "start": 43.14,
+  "end": 45.89,
+  "text": "You can store the pictures on your computer."
+ },
+ {
+  "id": 15,
+  "start": 45.94,
+  "end": 48.46,
+  "text": "But you might run out of space."
+ },
+ {
+  "id": 16,
+  "start": 48.65,
+  "end": 52.4,
+  "text": "I save all the pictures I like on compact discs."
+ },
+ {
+  "id": 17,
+  "start": 52.64,
+  "end": 56.78,
+  "text": "You can store more than seven hundred photos on one CD!"
+ },
+ {
+  "id": 18,
+  "start": 56.87,
+  "end": 61.08,
+  "text": "Great! Maybe I should get a digital camera, too."
+ }
+];

@@ -1,0 +1,110 @@
+window.DICT=window.DICT||{};DICT["esl-lab/A1/1032-Physical-Therapy"]=[
+ {
+  "id": 1,
+  "start": 3.71,
+  "end": 4.9,
+  "text": "Hey, what happened to you?"
+ },
+ {
+  "id": 2,
+  "start": 5.04,
+  "end": 6.47,
+  "text": "It’s a long story."
+ },
+ {
+  "id": 3,
+  "start": 6.53,
+  "end": 8.3,
+  "text": "Okay, I love long stories."
+ },
+ {
+  "id": 4,
+  "start": 8.34,
+  "end": 9.29,
+  "text": "Well, . . . ."
+ },
+ {
+  "id": 5,
+  "start": 9.34,
+  "end": 13.05,
+  "text": "Let me guess. You forgot your wife’s birthday, and she got angry."
+ },
+ {
+  "id": 6,
+  "start": 13.3,
+  "end": 18.17,
+  "text": "No. Actually, I was carrying some boxes down the stairs at home . . ."
+ },
+ {
+  "id": 7,
+  "start": 18.38,
+  "end": 19.38,
+  "text": "She pushed you?"
+ },
+ {
+  "id": 8,
+  "start": 19.42,
+  "end": 27.54,
+  "text": "No, no! I was walking down the stairs at home when I tripped over our dog and fell and broke my arm and injured my shoulder."
+ },
+ {
+  "id": 9,
+  "start": 27.85,
+  "end": 30.6,
+  "text": "Boy, how’s the dog? You look really sore, too."
+ },
+ {
+  "id": 10,
+  "start": 31.02,
+  "end": 38.84,
+  "text": "Well, I am, but I am going to physical therapy three twice a week, and they’re trying to teach me some exercises to increase my strength."
+ },
+ {
+  "id": 11,
+  "start": 38.96,
+  "end": 41.07,
+  "text": "Good. So, how long are your appointments?"
+ },
+ {
+  "id": 12,
+  "start": 41.54,
+  "end": 43.14,
+  "text": "They last about 50 minutes."
+ },
+ {
+  "id": 13,
+  "start": 43.56,
+  "end": 44.85,
+  "text": "Is this office nearby?"
+ },
+ {
+  "id": 14,
+  "start": 44.94,
+  "end": 48.6,
+  "text": "Actually, it is across the street from my office, so it’s really convenient."
+ },
+ {
+  "id": 15,
+  "start": 48.65,
+  "end": 49.79,
+  "text": "You can’t beat that."
+ },
+ {
+  "id": 16,
+  "start": 49.89,
+  "end": 55.88,
+  "text": "Yeah, and it should help me get back to where I was before the accident, and I really want to play tennis again."
+ },
+ {
+  "id": 17,
+  "start": 56.08,
+  "end": 58.91,
+  "text": "Well, maybe now, at least I have a chance to beat you."
+ },
+ {
+  "id": 18,
+  "start": 59.03,
+  "end": 60.63,
+  "text": "In your dreams."
+ }
+];

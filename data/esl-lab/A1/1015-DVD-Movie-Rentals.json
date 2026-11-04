@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 0.66,
+  "end": 3.15,
+  "text": "Hey, Kathy. I’m thinking about renting a movie for tonight’s party."
+ },
+ {
+  "id": 2,
+  "start": 3.19,
+  "end": 5.45,
+  "text": "And I want to know what kind of movies you like."
+ },
+ {
+  "id": 3,
+  "start": 5.69,
+  "end": 7.67,
+  "text": "Okay. What kind of movies do you have in mind?"
+ },
+ {
+  "id": 4,
+  "start": 7.84,
+  "end": 9.35,
+  "text": "Well, what about action movies?"
+ },
+ {
+  "id": 5,
+  "start": 9.62,
+  "end": 11.39,
+  "text": "Ah, I don’t really like action movies."
+ },
+ {
+  "id": 6,
+  "start": 12.77,
+  "end": 12.99,
+  "text": "Too much violence."
+ },
+ {
+  "id": 7,
+  "start": 13.03,
+  "end": 14.25,
+  "text": "Okay, do you like comedies?"
+ },
+ {
+  "id": 8,
+  "start": 14.34,
+  "end": 15.49,
+  "text": "Now, I do enjoy comedies."
+ },
+ {
+  "id": 9,
+  "start": 16.03,
+  "end": 19.97,
+  "text": "Fine. Well, what do you think of horror movies or love stories?"
+ },
+ {
+  "id": 10,
+  "start": 20.27,
+  "end": 21.87,
+  "text": "Uh . . . I’m not really crazy about horror movies."
+ },
+ {
+  "id": 11,
+  "start": 22.33,
+  "end": 23.91,
+  "text": "But love stories are often fun to watch."
+ },
+ {
+  "id": 12,
+  "start": 23.98,
+  "end": 25.64,
+  "text": "Oh, and I really like foreign films, too."
+ },
+ {
+  "id": 13,
+  "start": 26.8,
+  "end": 30.17,
+  "text": "Okay. I’ll go to the video store and see what I can find. Thanks."
+ }
+]

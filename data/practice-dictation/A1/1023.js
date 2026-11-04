@@ -1,0 +1,104 @@
+window.DICT=window.DICT||{};DICT["practice-dictation/A1/1023"]=[
+ {
+  "id": 1,
+  "start": 4.65,
+  "end": 7.33,
+  "text": "I want to find a part-time job."
+ },
+ {
+  "id": 2,
+  "start": 7.56,
+  "end": 11.54,
+  "text": "Do you have any ideas about where I should look for work?"
+ },
+ {
+  "id": 3,
+  "start": 12.26,
+  "end": 14.37,
+  "text": "Have you looked in the newspaper?"
+ },
+ {
+  "id": 4,
+  "start": 14.52,
+  "end": 18.07,
+  "text": "There are lots of job advertisements in the newspaper."
+ },
+ {
+  "id": 5,
+  "start": 18.38,
+  "end": 23.11,
+  "text": "Yes, I have. But there were no jobs I was interested in."
+ },
+ {
+  "id": 6,
+  "start": 23.5,
+  "end": 25.46,
+  "text": "Did you search on the Internet?"
+ },
+ {
+  "id": 7,
+  "start": 25.75,
+  "end": 29.69,
+  "text": "Many companies put job advertisements on the Internet."
+ },
+ {
+  "id": 8,
+  "start": 30.02,
+  "end": 32.89,
+  "text": "No, I haven’t looked on the Internet."
+ },
+ {
+  "id": 9,
+  "start": 33.1,
+  "end": 35.71,
+  "text": "I don’t know what I should search for."
+ },
+ {
+  "id": 10,
+  "start": 36.12,
+  "end": 40.77,
+  "text": "There are many websites that have job postings that you could look at."
+ },
+ {
+  "id": 11,
+  "start": 41.29,
+  "end": 45.55,
+  "text": "You could also search for the type of job you are interested in."
+ },
+ {
+  "id": 12,
+  "start": 45.83,
+  "end": 49.49,
+  "text": "OK. Thanks for telling me what I need to do."
+ },
+ {
+  "id": 13,
+  "start": 49.79,
+  "end": 52.59,
+  "text": "I’ll start my Internet search right now."
+ },
+ {
+  "id": 14,
+  "start": 53.21,
+  "end": 55.45,
+  "text": "I have a list of some websites."
+ },
+ {
+  "id": 15,
+  "start": 55.72,
+  "end": 58.35,
+  "text": "You could start looking at those first."
+ },
+ {
+  "id": 16,
+  "start": 58.42,
+  "end": 60.56,
+  "text": "That might save you some time."
+ },
+ {
+  "id": 17,
+  "start": 60.88,
+  "end": 64.02,
+  "text": "That would be very useful. Thanks!"
+ }
+];

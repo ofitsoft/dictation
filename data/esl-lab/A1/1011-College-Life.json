@@ -1,0 +1,170 @@
+[
+ {
+  "id": 1,
+  "start": 2.32,
+  "end": 5.62,
+  "text": "Oh, hi Dave. Long time, no see!"
+ },
+ {
+  "id": 2,
+  "start": 5.66,
+  "end": 8.75,
+  "text": "Hi Maria. I was in the neighborhood, so I thought I’d drop by."
+ },
+ {
+  "id": 3,
+  "start": 8.85,
+  "end": 11.36,
+  "text": "Come on in. [Thanks.] Take a seat."
+ },
+ {
+  "id": 4,
+  "start": 11.68,
+  "end": 15.18,
+  "text": "Would you like anything to drink? I have Sprite or orange juice."
+ },
+ {
+  "id": 5,
+  "start": 15.47,
+  "end": 18.77,
+  "text": "Sprite would be fine. Uh, so, how have you been?"
+ },
+ {
+  "id": 6,
+  "start": 18.81,
+  "end": 20.34,
+  "text": "Oh, not bad. And you?"
+ },
+ {
+  "id": 7,
+  "start": 20.38,
+  "end": 26.35,
+  "text": "Oh, I’m doing okay, but school has been really hectic these days, and I haven’t had time to relax."
+ },
+ {
+  "id": 8,
+  "start": 26.92,
+  "end": 29.19,
+  "text": "By the way, what’s your major anyway?"
+ },
+ {
+  "id": 9,
+  "start": 29.3,
+  "end": 30.62,
+  "text": "Hotel management."
+ },
+ {
+  "id": 10,
+  "start": 30.8,
+  "end": 33.2,
+  "text": "Well, what do you want to do once you graduate?"
+ },
+ {
+  "id": 11,
+  "start": 33.38,
+  "end": 35.45,
+  "text": "Uh… I haven’t decided for sure."
+ },
+ {
+  "id": 12,
+  "start": 35.45,
+  "end": 38.92,
+  "text": "But I think I’d like to work for a hotel or travel agency in this area."
+ },
+ {
+  "id": 13,
+  "start": 39.06,
+  "end": 39.86,
+  "text": "How about you?"
+ },
+ {
+  "id": 14,
+  "start": 40.15,
+  "end": 42.2,
+  "text": "Well, when I first started college."
+ },
+ {
+  "id": 15,
+  "start": 42.24,
+  "end": 43.77,
+  "text": "I wanted to major in French."
+ },
+ {
+  "id": 16,
+  "start": 44.29,
+  "end": 48.04,
+  "text": "But I realized I might have a hard time finding a job using the language."
+ },
+ {
+  "id": 17,
+  "start": 48.62,
+  "end": 51.38,
+  "text": "So I changed majors to computer science. [Oh]."
+ },
+ {
+  "id": 18,
+  "start": 51.79,
+  "end": 56.34,
+  "text": "With the right skills, landing a job in the computer industry shouldn’t be as difficult."
+ },
+ {
+  "id": 19,
+  "start": 56.97,
+  "end": 60.69,
+  "text": "So, do you have a part-time job to support yourself through school?"
+ },
+ {
+  "id": 20,
+  "start": 60.9,
+  "end": 67.4,
+  "text": "Well, fortunately for me, I received a four-year academic scholarship [Wow] that pays for all of my tuition and books."
+ },
+ {
+  "id": 21,
+  "start": 67.53,
+  "end": 68.57,
+  "text": "Wow. That’s great."
+ },
+ {
+  "id": 22,
+  "start": 68.61,
+  "end": 70.26,
+  "text": "Yeah. How about you?"
+ },
+ {
+  "id": 23,
+  "start": 70.32,
+  "end": 71.98,
+  "text": "Are you working your way through school?"
+ },
+ {
+  "id": 24,
+  "start": 72.18,
+  "end": 75.29,
+  "text": "Yeah. I work three times a week at a restaurant near campus."
+ },
+ {
+  "id": 25,
+  "start": 75.5,
+  "end": 77.05,
+  "text": "Oh. What do you do there?"
+ },
+ {
+  "id": 26,
+  "start": 77.16,
+  "end": 77.96,
+  "text": "I’m a cook."
+ },
+ {
+  "id": 27,
+  "start": 78.13,
+  "end": 79.32,
+  "text": "How do you like your job?"
+ },
+ {
+  "id": 28,
+  "start": 79.49,
+  "end": 82.74,
+  "text": "It’s okay. The other workers are friendly, and the pay isn’t bad."
+ }
+]

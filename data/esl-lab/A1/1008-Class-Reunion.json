@@ -1,0 +1,206 @@
+[
+ {
+  "id": 1,
+  "start": 0.31,
+  "end": 4.51,
+  "text": "Hey, I know you. You’re James, right? James Roberts."
+ },
+ {
+  "id": 2,
+  "start": 5.03,
+  "end": 9.52,
+  "text": "Amanda Brown. Wow! It’s been a long time."
+ },
+ {
+  "id": 3,
+  "start": 9.52,
+  "end": 13.06,
+  "text": "Yeah. Oh, are you going to the class reunion in two weeks?"
+ },
+ {
+  "id": 4,
+  "start": 13.17,
+  "end": 17.55,
+  "text": "Uh, I heard about it, but I’m not sure. Where is it?"
+ },
+ {
+  "id": 5,
+  "start": 17.59,
+  "end": 24.09,
+  "text": "The reunion is going to be held at the Mountain Country Club across from City Park."
+ },
+ {
+  "id": 6,
+  "start": 24.15,
+  "end": 27.53,
+  "text": "And what time does it start?"
+ },
+ {
+  "id": 7,
+  "start": 27.57,
+  "end": 29.24,
+  "text": "I think it starts at 6:00."
+ },
+ {
+  "id": 8,
+  "start": 29.82,
+  "end": 31.39,
+  "text": "And how much does it cost?"
+ },
+ {
+  "id": 9,
+  "start": 31.39,
+  "end": 39.08,
+  "text": "It’s twenty dollars a ticket, and that includes dinner and entertainment."
+ },
+ {
+  "id": 10,
+  "start": 39.48,
+  "end": 42.08,
+  "text": "What kind of entertainment are they going to have?"
+ },
+ {
+  "id": 11,
+  "start": 42.12,
+  "end": 50.35,
+  "text": "They’re going to have a live jazz band and dancing."
+ },
+ {
+  "id": 12,
+  "start": 50.69,
+  "end": 53.19,
+  "text": "And who is organizing the event?"
+ },
+ {
+  "id": 13,
+  "start": 53.29,
+  "end": 55.19,
+  "text": "Do you remember Chad Phillips?"
+ },
+ {
+  "id": 14,
+  "start": 55.41,
+  "end": 59.5,
+  "text": "Uh, wasn’t he the quarterback on the football team?"
+ },
+ {
+  "id": 15,
+  "start": 59.5,
+  "end": 67.06,
+  "text": "Right. Well, he married Sarah Rogers, and they are in charge of the event."
+ },
+ {
+  "id": 16,
+  "start": 67.09,
+  "end": 68.77,
+  "text": "So, what do you think? Are you going?"
+ },
+ {
+  "id": 17,
+  "start": 69.58,
+  "end": 78.02,
+  "text": "I don’t know. I never really fit in in high school."
+ },
+ {
+  "id": 18,
+  "start": 78.38,
+  "end": 78.64,
+  "text": "I was kind of a loner."
+ },
+ {
+  "id": 19,
+  "start": 78.64,
+  "end": 83.82,
+  "text": "I also remember asking Sarah out on a date, and she turned me down."
+ },
+ {
+  "id": 20,
+  "start": 84.03,
+  "end": 89.5,
+  "text": "She said she was sick, and it turned out she went out with someone that same night."
+ },
+ {
+  "id": 21,
+  "start": 89.54,
+  "end": 92.34,
+  "text": "It could be a little awkward."
+ },
+ {
+  "id": 22,
+  "start": 92.46,
+  "end": 94.25,
+  "text": "Hey, why don’t we go together?"
+ },
+ {
+  "id": 23,
+  "start": 95.13,
+  "end": 95.96,
+  "text": "Are you sure?"
+ },
+ {
+  "id": 24,
+  "start": 96.08,
+  "end": 96.81,
+  "text": "Yeah."
+ },
+ {
+  "id": 25,
+  "start": 97.24,
+  "end": 106.4,
+  "text": "Well, sure. Why not. To be honest, I always thought you were very nice."
+ },
+ {
+  "id": 26,
+  "start": 106.44,
+  "end": 110.9,
+  "text": "I just never had the guts to ask you out."
+ },
+ {
+  "id": 27,
+  "start": 110.94,
+  "end": 112.1,
+  "text": "Well, here’s your chance."
+ },
+ {
+  "id": 28,
+  "start": 112.18,
+  "end": 119.2,
+  "text": "Sounds great. So, what’s your number so I can call you?"
+ },
+ {
+  "id": 29,
+  "start": 119.77,
+  "end": 125.3,
+  "text": "It’s 435-923-6017."
+ },
+ {
+  "id": 30,
+  "start": 125.6,
+  "end": 129.69,
+  "text": "6017, Okay. Where do you live?"
+ },
+ {
+  "id": 31,
+  "start": 129.73,
+  "end": 132.9,
+  "text": "I only live two blocks south of the old high school."
+ },
+ {
+  "id": 32,
+  "start": 132.94,
+  "end": 137.42,
+  "text": "Okay. I remember where you live."
+ },
+ {
+  "id": 33,
+  "start": 137.49,
+  "end": 140.67,
+  "text": "Let me call you a few days before to confirm things."
+ },
+ {
+  "id": 34,
+  "start": 140.87,
+  "end": 142.23,
+  "text": "Sounds good. It should be fun."
+ }
+]
