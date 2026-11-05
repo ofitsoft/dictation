@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U03-12"]=[
+ {
+  "id": 1,
+  "start": 0.5,
+  "end": 2.508,
+  "text": "Track 03.12"
+ },
+ {
+  "id": 2,
+  "start": 4.209,
+  "end": 5.51,
+  "text": "PART 1"
+ },
+ {
+  "id": 3,
+  "start": 11.845,
+  "end": 14.011,
+  "text": "OK, what’s next?"
+ },
+ {
+  "id": 4,
+  "start": 14.545,
+  "end": 16.791,
+  "text": "Oh, we need to buy a present for Leo."
+ },
+ {
+  "id": 5,
+  "start": 17.166,
+  "end": 18.269,
+  "text": "Really? Why?"
+ },
+ {
+  "id": 6,
+  "start": 18.721,
+  "end": 21.542,
+  "text": "It’s his birthday, remember. Annie told us last week."
+ },
+ {
+  "id": 7,
+  "start": 21.773,
+  "end": 23.853,
+  "text": "Well, we don’t know him very well."
+ },
+ {
+  "id": 8,
+  "start": 24.189,
+  "end": 25.244,
+  "text": "Oh, come on."
+ },
+ {
+  "id": 9,
+  "start": 25.269,
+  "end": 27.022,
+  "text": "We need to buy him something."
+ },
+ {
+  "id": 10,
+  "start": 28.366,
+  "end": 30.262,
+  "text": "Oh, look – how about this shop?"
+ },
+ {
+  "id": 11,
+  "start": 30.598,
+  "end": 32.423,
+  "text": "I’m sure we can find something in here."
+ },
+ {
+  "id": 12,
+  "start": 32.87,
+  "end": 34.108,
+  "text": "Hmm."
+ }
+];

@@ -1,0 +1,488 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U12-16"]=[
+ {
+  "id": 1,
+  "start": 0.494,
+  "end": 2.717,
+  "text": "Track 12.16"
+ },
+ {
+  "id": 2,
+  "start": 5.322,
+  "end": 6.211,
+  "text": "DAY 1"
+ },
+ {
+  "id": 3,
+  "start": 7.985,
+  "end": 9.644,
+  "text": "This is Jennifer Long,"
+ },
+ {
+  "id": 4,
+  "start": 9.669,
+  "end": 11.423,
+  "text": "reporting live from Texas."
+ },
+ {
+  "id": 5,
+  "start": 11.87,
+  "end": 13.751,
+  "text": "I’ve just been given new information"
+ },
+ {
+  "id": 6,
+  "start": 13.776,
+  "end": 15.489,
+  "text": "about Hurricane Harvey."
+ },
+ {
+  "id": 7,
+  "start": 16.144,
+  "end": 17.675,
+  "text": "The latest we’ve heard is that"
+ },
+ {
+  "id": 8,
+  "start": 17.7,
+  "end": 19.429,
+  "text": "it’s crossing the Texas coast."
+ },
+ {
+  "id": 9,
+  "start": 19.91,
+  "end": 21.624,
+  "text": "Wind speeds have already reached"
+ },
+ {
+  "id": 10,
+  "start": 21.689,
+  "end": 23.507,
+  "text": "200 kilometres an hour,"
+ },
+ {
+  "id": 11,
+  "start": 23.819,
+  "end": 25.192,
+  "text": "and we expect around"
+ },
+ {
+  "id": 12,
+  "start": 25.265,
+  "end": 28.074,
+  "text": "88 centimetres of rain in the affected"
+ },
+ {
+  "id": 13,
+  "start": 28.099,
+  "end": 29.297,
+  "text": "areas tonight."
+ },
+ {
+  "id": 14,
+  "start": 29.801,
+  "end": 32.206,
+  "text": "With me is firefighter Stevie Black."
+ },
+ {
+  "id": 15,
+  "start": 32.598,
+  "end": 33.598,
+  "text": "Stevie, what kind of"
+ },
+ {
+  "id": 16,
+  "start": 33.653,
+  "end": 35.661,
+  "text": "damage are we expecting tonight?"
+ },
+ {
+  "id": 17,
+  "start": 36.619,
+  "end": 39.143,
+  "text": "A lot of serious damage, we think."
+ },
+ {
+  "id": 18,
+  "start": 39.487,
+  "end": 40.876,
+  "text": "We haven’t been able to"
+ },
+ {
+  "id": 19,
+  "start": 40.923,
+  "end": 43.209,
+  "text": "get out and really see what’s happening,"
+ },
+ {
+  "id": 20,
+  "start": 43.539,
+  "end": 45.976,
+  "text": "so we’re just watching reports right now."
+ },
+ {
+  "id": 21,
+  "start": 46.446,
+  "end": 47.478,
+  "text": "The winds are just"
+ },
+ {
+  "id": 22,
+  "start": 47.591,
+  "end": 49.202,
+  "text": "too strong at the moment."
+ },
+ {
+  "id": 23,
+  "start": 49.649,
+  "end": 50.887,
+  "text": "It’s not safe,"
+ },
+ {
+  "id": 24,
+  "start": 50.912,
+  "end": 53.88,
+  "text": "so we have to stay inside the fire station."
+ },
+ {
+  "id": 25,
+  "start": 54.527,
+  "end": 55.741,
+  "text": "We’ve heard reports that"
+ },
+ {
+  "id": 26,
+  "start": 55.773,
+  "end": 57.821,
+  "text": "there are people trapped in buildings."
+ },
+ {
+  "id": 27,
+  "start": 58.157,
+  "end": 59.625,
+  "text": "Will you try to rescue people"
+ },
+ {
+  "id": 28,
+  "start": 59.672,
+  "end": 60.744,
+  "text": "during the night?"
+ },
+ {
+  "id": 29,
+  "start": 61.169,
+  "end": 63.637,
+  "text": "Not with the wind as strong as this, no."
+ },
+ {
+  "id": 30,
+  "start": 63.933,
+  "end": 66.361,
+  "text": "It’s too dangerous to be out in the street,"
+ },
+ {
+  "id": 31,
+  "start": 66.73,
+  "end": 68.111,
+  "text": "even in the fire truck,"
+ },
+ {
+  "id": 32,
+  "start": 68.238,
+  "end": 68.944,
+  "text": "so uh …"
+ },
+ {
+  "id": 33,
+  "start": 69.534,
+  "end": 72.01,
+  "text": "we just have to wait. And hope."
+ },
+ {
+  "id": 34,
+  "start": 73.903,
+  "end": 74.752,
+  "text": "DAY 2"
+ },
+ {
+  "id": 35,
+  "start": 76.796,
+  "end": 77.527,
+  "text": "All right,"
+ },
+ {
+  "id": 36,
+  "start": 77.782,
+  "end": 80.465,
+  "text": "let’s go back live to Houston."
+ },
+ {
+  "id": 37,
+  "start": 80.49,
+  "end": 82.491,
+  "text": "Jennifer Long is reporting for us"
+ },
+ {
+  "id": 38,
+  "start": 82.516,
+  "end": 85.015,
+  "text": "from one of the worst of the flooded areas."
+ },
+ {
+  "id": 39,
+  "start": 85.447,
+  "end": 88.296,
+  "text": "Jennifer, it looks like you’re on a boat."
+ },
+ {
+  "id": 40,
+  "start": 89.096,
+  "end": 93.318,
+  "text": "Yes, I’m here on a boat with some local volunteers."
+ },
+ {
+  "id": 41,
+  "start": 93.703,
+  "end": 94.92,
+  "text": "They say they’ve rescued"
+ },
+ {
+  "id": 42,
+  "start": 94.945,
+  "end": 96.973,
+  "text": "at least a hundred people so far."
+ },
+ {
+  "id": 43,
+  "start": 98.082,
+  "end": 100.082,
+  "text": "I’ve got Emilio Chávez with me"
+ },
+ {
+  "id": 44,
+  "start": 100.401,
+  "end": 102.099,
+  "text": "he’s leading this rescue team."
+ },
+ {
+  "id": 45,
+  "start": 102.41,
+  "end": 105.697,
+  "text": "Emilio, it’s been a difficult day for you, hasn’t it?"
+ },
+ {
+  "id": 46,
+  "start": 106.296,
+  "end": 108.726,
+  "text": "Yes, it’s just been crazy."
+ },
+ {
+  "id": 47,
+  "start": 109.123,
+  "end": 111.91,
+  "text": "We’ve probably made about 100 rescues today-"
+ },
+ {
+  "id": 48,
+  "start": 111.982,
+  "end": 112.792,
+  "text": "old people,"
+ },
+ {
+  "id": 49,
+  "start": 112.872,
+  "end": 113.42,
+  "text": "kids,"
+ },
+ {
+  "id": 50,
+  "start": 113.532,
+  "end": 114.143,
+  "text": "babies,"
+ },
+ {
+  "id": 51,
+  "start": 114.35,
+  "end": 115.389,
+  "text": "cats, dogs."
+ },
+ {
+  "id": 52,
+  "start": 115.461,
+  "end": 116.041,
+  "text": "You name it."
+ },
+ {
+  "id": 53,
+  "start": 116.982,
+  "end": 119.862,
+  "text": "And are people happy to leave their homes,"
+ },
+ {
+  "id": 54,
+  "start": 119.887,
+  "end": 122.428,
+  "text": "or do some people still want to stay?"
+ },
+ {
+  "id": 55,
+  "start": 123.098,
+  "end": 124.272,
+  "text": "What have you seen?"
+ },
+ {
+  "id": 56,
+  "start": 124.68,
+  "end": 126.998,
+  "text": "Most people are OK."
+ },
+ {
+  "id": 57,
+  "start": 127.117,
+  "end": 128.593,
+  "text": "Some people want to stay – but,"
+ },
+ {
+  "id": 58,
+  "start": 129.065,
+  "end": 129.502,
+  "text": "you know,"
+ },
+ {
+  "id": 59,
+  "start": 129.534,
+  "end": 131.137,
+  "text": "we try to convince them that it's"
+ },
+ {
+  "id": 60,
+  "start": 131.162,
+  "end": 133.034,
+  "text": "safer to leave and just go,"
+ },
+ {
+  "id": 61,
+  "start": 133.356,
+  "end": 135.237,
+  "text": "be somewhere safe with their families."
+ },
+ {
+  "id": 62,
+  "start": 135.819,
+  "end": 138.249,
+  "text": "We tell them they can always come back."
+ },
+ {
+  "id": 63,
+  "start": 138.55,
+  "end": 140.067,
+  "text": "And then they’re quite happy to go,"
+ },
+ {
+  "id": 64,
+  "start": 140.585,
+  "end": 141.466,
+  "text": "mostly, yeah."
+ },
+ {
+  "id": 65,
+  "start": 142.072,
+  "end": 144.508,
+  "text": "And we have another gentleman here."
+ },
+ {
+  "id": 66,
+  "start": 144.676,
+  "end": 145.803,
+  "text": "I’m sorry, what’s your name?"
+ },
+ {
+  "id": 67,
+  "start": 146.113,
+  "end": 147.7,
+  "text": "Tom. Tom Myers."
+ },
+ {
+  "id": 68,
+  "start": 148.413,
+  "end": 149.46,
+  "text": "Now, Tom,"
+ },
+ {
+  "id": 69,
+  "start": 149.579,
+  "end": 151.667,
+  "text": "you live close by, don’t you?"
+ },
+ {
+  "id": 70,
+  "start": 152.145,
+  "end": 152.415,
+  "text": "Yep."
+ },
+ {
+  "id": 71,
+  "start": 152.821,
+  "end": 154.416,
+  "text": "I live right across the street,"
+ },
+ {
+  "id": 72,
+  "start": 154.551,
+  "end": 156.797,
+  "text": "and it was nothing like this before,"
+ },
+ {
+  "id": 73,
+  "start": 156.887,
+  "end": 158.371,
+  "text": "even just a few hours ago."
+ },
+ {
+  "id": 74,
+  "start": 158.844,
+  "end": 161.264,
+  "text": "I was out walking my dog this morning,"
+ },
+ {
+  "id": 75,
+  "start": 161.734,
+  "end": 163.957,
+  "text": "and now look at it it’s …"
+ },
+ {
+  "id": 76,
+  "start": 164.58,
+  "end": 166.635,
+  "text": "there are cars underwater;"
+ },
+ {
+  "id": 77,
+  "start": 167.272,
+  "end": 168.209,
+  "text": "everywhere you look,"
+ },
+ {
+  "id": 78,
+  "start": 168.336,
+  "end": 170.099,
+  "text": "water up to the windows."
+ },
+ {
+  "id": 79,
+  "start": 170.928,
+  "end": 173.554,
+  "text": "We’ve got nearly 1.5 metres of"
+ },
+ {
+  "id": 80,
+  "start": 173.579,
+  "end": 174.436,
+  "text": "water right now."
+ },
+ {
+  "id": 81,
+  "start": 175.008,
+  "end": 176.214,
+  "text": "It’s pretty bad."
+ }
+];

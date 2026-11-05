@@ -1,0 +1,320 @@
+[
+ {
+  "id": 1,
+  "start": 0.571,
+  "end": 2.881,
+  "text": "Track 05.18"
+ },
+ {
+  "id": 2,
+  "start": 5.123,
+  "end": 6.734,
+  "text": "Are you working this summer?"
+ },
+ {
+  "id": 3,
+  "start": 6.759,
+  "end": 9.418,
+  "text": "Yeah, I’ve got a job in a café,"
+ },
+ {
+  "id": 4,
+  "start": 9.443,
+  "end": 10.768,
+  "text": "same as last year."
+ },
+ {
+  "id": 5,
+  "start": 10.793,
+  "end": 12.033,
+  "text": "How about you?"
+ },
+ {
+  "id": 6,
+  "start": 12.058,
+  "end": 13.392,
+  "text": "I don’t know."
+ },
+ {
+  "id": 7,
+  "start": 13.417,
+  "end": 15.854,
+  "text": "I usually work in a supermarket,"
+ },
+ {
+  "id": 8,
+  "start": 15.879,
+  "end": 17.753,
+  "text": "but I don’t like it much."
+ },
+ {
+  "id": 9,
+  "start": 17.778,
+  "end": 19.588,
+  "text": "It’s so tiring"
+ },
+ {
+  "id": 10,
+  "start": 19.613,
+  "end": 20.415,
+  "text": "and you have to start"
+ },
+ {
+  "id": 11,
+  "start": 20.44,
+  "end": 22.074,
+  "text": "really early in the morning."
+ },
+ {
+  "id": 12,
+  "start": 22.729,
+  "end": 24.84,
+  "text": "I might look for a different job this summer."
+ },
+ {
+  "id": 13,
+  "start": 25.557,
+  "end": 27.495,
+  "text": "What’s working in a café like?"
+ },
+ {
+  "id": 14,
+  "start": 27.52,
+  "end": 29.114,
+  "text": "Oh, it’s good."
+ },
+ {
+  "id": 15,
+  "start": 29.139,
+  "end": 30.726,
+  "text": "It gets quite busy,"
+ },
+ {
+  "id": 16,
+  "start": 30.751,
+  "end": 33.633,
+  "text": "so you need to be good at working really fast."
+ },
+ {
+  "id": 17,
+  "start": 33.658,
+  "end": 34.953,
+  "text": "But I like that."
+ },
+ {
+  "id": 18,
+  "start": 34.978,
+  "end": 35.558,
+  "text": "Well,"
+ },
+ {
+  "id": 19,
+  "start": 35.583,
+  "end": 37.352,
+  "text": "that’s the same as a supermarket."
+ },
+ {
+  "id": 20,
+  "start": 37.377,
+  "end": 38.656,
+  "text": "Yeah."
+ },
+ {
+  "id": 21,
+  "start": 38.681,
+  "end": 40.563,
+  "text": "But it’s good fun, too."
+ },
+ {
+  "id": 22,
+  "start": 40.588,
+  "end": 42.35,
+  "text": "You’re working in a team"
+ },
+ {
+  "id": 23,
+  "start": 42.375,
+  "end": 44.043,
+  "text": "and you meet lots of people."
+ },
+ {
+  "id": 24,
+  "start": 44.068,
+  "end": 44.949,
+  "text": "It’s great."
+ },
+ {
+  "id": 25,
+  "start": 44.974,
+  "end": 46.309,
+  "text": "Is the pay good?"
+ },
+ {
+  "id": 26,
+  "start": 46.334,
+  "end": 48.993,
+  "text": "Not bad, and you can sometimes make"
+ },
+ {
+  "id": 27,
+  "start": 49.018,
+  "end": 50.31,
+  "text": "quite a lot from tips."
+ },
+ {
+  "id": 28,
+  "start": 50.335,
+  "end": 51.161,
+  "text": "Really?"
+ },
+ {
+  "id": 29,
+  "start": 51.583,
+  "end": 53.321,
+  "text": "How much do you make in tips?"
+ },
+ {
+  "id": 30,
+  "start": 53.346,
+  "end": 54.632,
+  "text": "It depends."
+ },
+ {
+  "id": 31,
+  "start": 54.657,
+  "end": 57.937,
+  "text": "I can sometimes make £20 in one day!"
+ },
+ {
+  "id": 32,
+  "start": 57.962,
+  "end": 59.875,
+  "text": "Wow! That sounds good."
+ },
+ {
+  "id": 33,
+  "start": 59.9,
+  "end": 62.314,
+  "text": "It’s not always that much though."
+ },
+ {
+  "id": 34,
+  "start": 62.802,
+  "end": 65.85,
+  "text": "Listen, why don’t you apply for a job?"
+ },
+ {
+  "id": 35,
+  "start": 65.875,
+  "end": 67.598,
+  "text": "I’m sure they’ll give you one."
+ },
+ {
+  "id": 36,
+  "start": 67.623,
+  "end": 69.697,
+  "text": "They’re always looking for new people."
+ },
+ {
+  "id": 37,
+  "start": 69.722,
+  "end": 71.277,
+  "text": "Yeah, I don’t know."
+ },
+ {
+  "id": 38,
+  "start": 71.302,
+  "end": 73.247,
+  "text": "I’ve never worked in a café."
+ },
+ {
+  "id": 39,
+  "start": 73.272,
+  "end": 75.011,
+  "text": "I don’t know anything about it."
+ },
+ {
+  "id": 40,
+  "start": 75.22,
+  "end": 76.823,
+  "text": "Oh, that doesn’t matter;"
+ },
+ {
+  "id": 41,
+  "start": 76.848,
+  "end": 78.348,
+  "text": "they’ll give you training."
+ },
+ {
+  "id": 42,
+  "start": 78.373,
+  "end": 80.017,
+  "text": "You don’t need to know anything."
+ },
+ {
+  "id": 43,
+  "start": 80.042,
+  "end": 80.819,
+  "text": "Really?"
+ },
+ {
+  "id": 44,
+  "start": 80.965,
+  "end": 82.514,
+  "text": "No, you just have to"
+ },
+ {
+  "id": 45,
+  "start": 82.539,
+  "end": 84.808,
+  "text": "smile a lot and be nice to people."
+ },
+ {
+  "id": 46,
+  "start": 84.833,
+  "end": 85.952,
+  "text": "It’s easy."
+ },
+ {
+  "id": 47,
+  "start": 85.977,
+  "end": 87.619,
+  "text": "Hmm, OK."
+ },
+ {
+  "id": 48,
+  "start": 88.2,
+  "end": 89.089,
+  "text": "What are they called?"
+ },
+ {
+  "id": 49,
+  "start": 89.559,
+  "end": 91.337,
+  "text": "Cuba Coffee Company,"
+ },
+ {
+  "id": 50,
+  "start": 91.728,
+  "end": 92.847,
+  "text": "they’ve got a website."
+ },
+ {
+  "id": 51,
+  "start": 92.872,
+  "end": 94.349,
+  "text": "OK thanks,"
+ },
+ {
+  "id": 52,
+  "start": 94.788,
+  "end": 98.074,
+  "text": "I’ll have a look tomorrow, update my CV and apply!"
+ },
+ {
+  "id": 53,
+  "start": 98.31,
+  "end": 100.119,
+  "text": "Great – good luck!"
+ }
+]

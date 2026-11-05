@@ -1,0 +1,134 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U05-02"]=[
+ {
+  "id": 1,
+  "start": 0.413,
+  "end": 2.373,
+  "text": "Track 05.02"
+ },
+ {
+  "id": 2,
+  "start": 4.16,
+  "end": 5.017,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 5.965,
+  "end": 7.123,
+  "text": "They have a nice"
+ },
+ {
+  "id": 4,
+  "start": 7.148,
+  "end": 8.536,
+  "text": "working environment."
+ },
+ {
+  "id": 5,
+  "start": 10.231,
+  "end": 12.025,
+  "text": "They have a lot of skills."
+ },
+ {
+  "id": 6,
+  "start": 13.765,
+  "end": 14.646,
+  "text": "2"
+ },
+ {
+  "id": 7,
+  "start": 15.323,
+  "end": 16.95,
+  "text": "I work long hours."
+ },
+ {
+  "id": 8,
+  "start": 18.732,
+  "end": 20.39,
+  "text": "I work weekends."
+ },
+ {
+  "id": 9,
+  "start": 22.186,
+  "end": 23.63,
+  "text": "I work in a team."
+ },
+ {
+  "id": 10,
+  "start": 24.944,
+  "end": 25.873,
+  "text": "3"
+ },
+ {
+  "id": 11,
+  "start": 26.55,
+  "end": 28.875,
+  "text": "You need several years of training."
+ },
+ {
+  "id": 12,
+  "start": 30.577,
+  "end": 32.736,
+  "text": "You need good qualifications."
+ },
+ {
+  "id": 13,
+  "start": 34.573,
+  "end": 36.692,
+  "text": "You need a university degree."
+ },
+ {
+  "id": 14,
+  "start": 38.52,
+  "end": 39.457,
+  "text": "4"
+ },
+ {
+  "id": 15,
+  "start": 40.326,
+  "end": 42.54,
+  "text": "I deal with serious problems."
+ },
+ {
+  "id": 16,
+  "start": 44.377,
+  "end": 46.354,
+  "text": "I deal with people every day."
+ },
+ {
+  "id": 17,
+  "start": 48.119,
+  "end": 49.151,
+  "text": "5"
+ },
+ {
+  "id": 18,
+  "start": 49.621,
+  "end": 51.423,
+  "text": "I earn a good salary."
+ },
+ {
+  "id": 19,
+  "start": 53.068,
+  "end": 54.155,
+  "text": "6"
+ },
+ {
+  "id": 20,
+  "start": 54.785,
+  "end": 56.324,
+  "text": "I am self-employed."
+ },
+ {
+  "id": 21,
+  "start": 58.13,
+  "end": 59.019,
+  "text": "7"
+ },
+ {
+  "id": 22,
+  "start": 59.484,
+  "end": 61.484,
+  "text": "I make important decisions."
+ }
+];

@@ -1,0 +1,110 @@
+[
+ {
+  "id": 1,
+  "start": 0.755,
+  "end": 2.453,
+  "text": "Track 12.10"
+ },
+ {
+  "id": 2,
+  "start": 5.002,
+  "end": 5.724,
+  "text": "anxious"
+ },
+ {
+  "id": 3,
+  "start": 7.76,
+  "end": 8.498,
+  "text": "careless"
+ },
+ {
+  "id": 4,
+  "start": 10.573,
+  "end": 11.383,
+  "text": "confident"
+ },
+ {
+  "id": 5,
+  "start": 13.416,
+  "end": 14.17,
+  "text": "creative"
+ },
+ {
+  "id": 6,
+  "start": 16.176,
+  "end": 17.033,
+  "text": "easygoing"
+ },
+ {
+  "id": 7,
+  "start": 19.044,
+  "end": 19.671,
+  "text": "fair"
+ },
+ {
+  "id": 8,
+  "start": 21.665,
+  "end": 22.221,
+  "text": "fun"
+ },
+ {
+  "id": 9,
+  "start": 24.216,
+  "end": 24.795,
+  "text": "funny"
+ },
+ {
+  "id": 10,
+  "start": 26.814,
+  "end": 27.473,
+  "text": "generous"
+ },
+ {
+  "id": 11,
+  "start": 29.514,
+  "end": 30.196,
+  "text": "honest"
+ },
+ {
+  "id": 12,
+  "start": 32.225,
+  "end": 32.931,
+  "text": "patient"
+ },
+ {
+  "id": 13,
+  "start": 34.925,
+  "end": 35.671,
+  "text": "reliable"
+ },
+ {
+  "id": 14,
+  "start": 37.667,
+  "end": 38.445,
+  "text": "selfish"
+ },
+ {
+  "id": 15,
+  "start": 40.463,
+  "end": 41.169,
+  "text": "sensible"
+ },
+ {
+  "id": 16,
+  "start": 43.188,
+  "end": 43.871,
+  "text": "shy"
+ },
+ {
+  "id": 17,
+  "start": 45.881,
+  "end": 46.611,
+  "text": "sociable"
+ },
+ {
+  "id": 18,
+  "start": 48.611,
+  "end": 49.357,
+  "text": "strict"
+ }
+]

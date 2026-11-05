@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U01-10"]=[
+ {
+  "id": 1,
+  "start": 0.444,
+  "end": 2.317,
+  "text": "Track 01.10"
+ },
+ {
+  "id": 2,
+  "start": 4.105,
+  "end": 5.185,
+  "text": "rarely"
+ },
+ {
+  "id": 3,
+  "start": 6.744,
+  "end": 7.902,
+  "text": "really"
+ },
+ {
+  "id": 4,
+  "start": 9.612,
+  "end": 10.5,
+  "text": "write"
+ },
+ {
+  "id": 5,
+  "start": 12.329,
+  "end": 13.519,
+  "text": "photos"
+ },
+ {
+  "id": 6,
+  "start": 15.395,
+  "end": 16.252,
+  "text": "usually"
+ },
+ {
+  "id": 7,
+  "start": 17.953,
+  "end": 19.207,
+  "text": "cancel"
+ },
+ {
+  "id": 8,
+  "start": 20.87,
+  "end": 21.989,
+  "text": "especially"
+ },
+ {
+  "id": 9,
+  "start": 23.697,
+  "end": 24.904,
+  "text": "particularly"
+ },
+ {
+  "id": 10,
+  "start": 26.804,
+  "end": 27.581,
+  "text": "blog"
+ },
+ {
+  "id": 11,
+  "start": 29.357,
+  "end": 30.635,
+  "text": "sometimes"
+ }
+];

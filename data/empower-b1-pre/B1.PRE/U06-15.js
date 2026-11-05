@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U06-15"]=[
+ {
+  "id": 1,
+  "start": 0.54,
+  "end": 2.825,
+  "text": "Track 06.15"
+ },
+ {
+  "id": 2,
+  "start": 5.019,
+  "end": 5.876,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.784,
+  "end": 9.157,
+  "text": "Did you ask when you’re going to lose your job?"
+ },
+ {
+  "id": 4,
+  "start": 11.659,
+  "end": 12.445,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 13.185,
+  "end": 14.844,
+  "text": "Maybe there’ll be other jobs there."
+ },
+ {
+  "id": 6,
+  "start": 17.095,
+  "end": 18.055,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 18.732,
+  "end": 20.597,
+  "text": "You work in marketing, right?"
+ },
+ {
+  "id": 8,
+  "start": 23.012,
+  "end": 23.909,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 24.754,
+  "end": 26.897,
+  "text": "Mark works in marketing, too."
+ },
+ {
+  "id": 10,
+  "start": 29.17,
+  "end": 30.233,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 30.643,
+  "end": 32.556,
+  "text": "Changing jobs could be a good thing."
+ }
+];

@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U12-13"]=[
+ {
+  "id": 1,
+  "start": 0.663,
+  "end": 2.616,
+  "text": "Track 12.13"
+ },
+ {
+  "id": 2,
+  "start": 5.118,
+  "end": 5.983,
+  "text": "That’s true."
+ },
+ {
+  "id": 3,
+  "start": 7.986,
+  "end": 9.518,
+  "text": "I’m afraid that’s not true."
+ },
+ {
+  "id": 4,
+  "start": 11.537,
+  "end": 12.307,
+  "text": "Exactly."
+ },
+ {
+  "id": 5,
+  "start": 14.326,
+  "end": 15.271,
+  "text": "I don’t think so."
+ },
+ {
+  "id": 6,
+  "start": 17.297,
+  "end": 19.305,
+  "text": "I’m sorry, but I don’t think so."
+ },
+ {
+  "id": 7,
+  "start": 21.335,
+  "end": 22.787,
+  "text": "You’re absolutely right."
+ },
+ {
+  "id": 8,
+  "start": 24.821,
+  "end": 25.543,
+  "text": "Definitely."
+ },
+ {
+  "id": 9,
+  "start": 27.57,
+  "end": 28.332,
+  "text": "That’s right."
+ },
+ {
+  "id": 10,
+  "start": 30.351,
+  "end": 31.439,
+  "text": "Oh, please."
+ },
+ {
+  "id": 11,
+  "start": 33.433,
+  "end": 34.806,
+  "text": "I’m not sure about that."
+ }
+];

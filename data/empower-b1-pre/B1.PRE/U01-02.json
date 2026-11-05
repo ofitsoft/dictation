@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "start": 0.468,
+  "end": 2.301,
+  "text": "Track 01.02"
+ },
+ {
+  "id": 2,
+  "start": 4.415,
+  "end": 5.391,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 5.99,
+  "end": 8.442,
+  "text": "It’s a perfect day for a birthday party."
+ },
+ {
+  "id": 4,
+  "start": 10.073,
+  "end": 10.827,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.589,
+  "end": 13.081,
+  "text": "The pizza is delicious."
+ },
+ {
+  "id": 6,
+  "start": 15.084,
+  "end": 16.132,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 17.366,
+  "end": 18.453,
+  "text": "It’s all right,"
+ },
+ {
+  "id": 8,
+  "start": 18.524,
+  "end": 20.191,
+  "text": "but the music is a bit boring."
+ },
+ {
+  "id": 9,
+  "start": 21.965,
+  "end": 22.854,
+  "text": "4"
+ },
+ {
+  "id": 10,
+  "start": 23.753,
+  "end": 25.189,
+  "text": "It’s an awful film."
+ },
+ {
+  "id": 11,
+  "start": 27.033,
+  "end": 28.168,
+  "text": "5"
+ },
+ {
+  "id": 12,
+  "start": 28.976,
+  "end": 30.786,
+  "text": "It’s a really strange story."
+ }
+]

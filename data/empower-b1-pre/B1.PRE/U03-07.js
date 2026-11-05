@@ -1,0 +1,470 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U03-07"]=[
+ {
+  "id": 1,
+  "start": 0.437,
+  "end": 2.381,
+  "text": "Track 03.07"
+ },
+ {
+  "id": 2,
+  "start": 4.686,
+  "end": 6.376,
+  "text": "Good morning, and"
+ },
+ {
+  "id": 3,
+  "start": 6.401,
+  "end": 9.093,
+  "text": "welcome to 'Ways of Life',"
+ },
+ {
+  "id": 4,
+  "start": 9.118,
+  "end": 10.894,
+  "text": "the programme where real people"
+ },
+ {
+  "id": 5,
+  "start": 10.919,
+  "end": 13.157,
+  "text": "talk about their real lives."
+ },
+ {
+  "id": 6,
+  "start": 13.406,
+  "end": 15.611,
+  "text": "In today’s episode, we are speaking to"
+ },
+ {
+  "id": 7,
+  "start": 15.636,
+  "end": 17.651,
+  "text": "people who think a little differently"
+ },
+ {
+  "id": 8,
+  "start": 17.676,
+  "end": 19.192,
+  "text": "when it comes to money."
+ },
+ {
+  "id": 9,
+  "start": 19.639,
+  "end": 22.091,
+  "text": "Our first guest is Daniel,"
+ },
+ {
+  "id": 10,
+  "start": 22.252,
+  "end": 24.76,
+  "text": "who says he’s learning to live with less."
+ },
+ {
+  "id": 11,
+  "start": 24.977,
+  "end": 27.294,
+  "text": "Hi, Daniel. Thanks for joining us."
+ },
+ {
+  "id": 12,
+  "start": 27.733,
+  "end": 29.36,
+  "text": "Thank you. Hi, everyone."
+ },
+ {
+  "id": 13,
+  "start": 29.417,
+  "end": 33.512,
+  "text": "So, I suppose my first question is this."
+ },
+ {
+  "id": 14,
+  "start": 33.824,
+  "end": 36.8,
+  "text": "What exactly is living with less?"
+ },
+ {
+  "id": 15,
+  "start": 37.058,
+  "end": 38.399,
+  "text": "What does it mean?"
+ },
+ {
+  "id": 16,
+  "start": 38.456,
+  "end": 38.9,
+  "text": "Well,"
+ },
+ {
+  "id": 17,
+  "start": 39.099,
+  "end": 42.329,
+  "text": "it means just giving up … stuff."
+ },
+ {
+  "id": 18,
+  "start": 42.674,
+  "end": 44.697,
+  "text": "Things. Trying to understand"
+ },
+ {
+  "id": 19,
+  "start": 44.722,
+  "end": 46.753,
+  "text": "which things are really important –"
+ },
+ {
+  "id": 20,
+  "start": 47.026,
+  "end": 49.406,
+  "text": "the things that we really need in life –"
+ },
+ {
+  "id": 21,
+  "start": 49.512,
+  "end": 51.98,
+  "text": "and then saying goodbye to all the rest."
+ },
+ {
+  "id": 22,
+  "start": 52.141,
+  "end": 54.578,
+  "text": "And how did it all start?"
+ },
+ {
+  "id": 23,
+  "start": 54.921,
+  "end": 56.921,
+  "text": "It was a rainy day, and"
+ },
+ {
+  "id": 24,
+  "start": 57.098,
+  "end": 59.225,
+  "text": "I just had this feeling of being,"
+ },
+ {
+  "id": 25,
+  "start": 59.545,
+  "end": 62.084,
+  "text": "well, annoyed with my life."
+ },
+ {
+  "id": 26,
+  "start": 62.109,
+  "end": 64.72,
+  "text": "Not angry, just not very happy."
+ },
+ {
+  "id": 27,
+  "start": 65.191,
+  "end": 69.898,
+  "text": "So, what? You just decided to give everything away?"
+ },
+ {
+  "id": 28,
+  "start": 70.115,
+  "end": 73.108,
+  "text": "Well, no – not quite like that."
+ },
+ {
+  "id": 29,
+  "start": 73.547,
+  "end": 77.826,
+  "text": "But the first thing I did was look around at all the things I had in my home –"
+ },
+ {
+  "id": 30,
+  "start": 78.416,
+  "end": 80.527,
+  "text": "books, sports things,"
+ },
+ {
+  "id": 31,
+  "start": 80.552,
+  "end": 81.971,
+  "text": "all my IT equipment …"
+ },
+ {
+  "id": 32,
+  "start": 82.3,
+  "end": 83.983,
+  "text": "and I asked myself"
+ },
+ {
+  "id": 33,
+  "start": 84.014,
+  "end": 86.506,
+  "text": "how often I used all those things."
+ },
+ {
+  "id": 34,
+  "start": 86.651,
+  "end": 89.142,
+  "text": "And, really, there were only about five"
+ },
+ {
+  "id": 35,
+  "start": 89.167,
+  "end": 91.413,
+  "text": "or six things that I used all the time."
+ },
+ {
+  "id": 36,
+  "start": 91.497,
+  "end": 93.299,
+  "text": "For example?"
+ },
+ {
+  "id": 37,
+  "start": 93.428,
+  "end": 95.301,
+  "text": "Well, let’s take IT."
+ },
+ {
+  "id": 38,
+  "start": 95.74,
+  "end": 98.335,
+  "text": "I had a desktop computer, a laptop,"
+ },
+ {
+  "id": 39,
+  "start": 98.36,
+  "end": 100.391,
+  "text": "a tablet, a mobile phone,"
+ },
+ {
+  "id": 40,
+  "start": 100.584,
+  "end": 102.251,
+  "text": "a video game console …"
+ },
+ {
+  "id": 41,
+  "start": 102.306,
+  "end": 103.791,
+  "text": "all the usual things."
+ },
+ {
+  "id": 42,
+  "start": 104.451,
+  "end": 108.252,
+  "text": "In reality, I only used my laptop and my mobile phone."
+ },
+ {
+  "id": 43,
+  "start": 108.723,
+  "end": 110.263,
+  "text": "What did you do?"
+ },
+ {
+  "id": 44,
+  "start": 110.416,
+  "end": 112.876,
+  "text": "I decided to give the other things away."
+ },
+ {
+  "id": 45,
+  "start": 113.163,
+  "end": 114.647,
+  "text": "Not sell them?"
+ },
+ {
+  "id": 46,
+  "start": 114.911,
+  "end": 116.776,
+  "text": "Well, no. See,"
+ },
+ {
+  "id": 47,
+  "start": 116.903,
+  "end": 118.403,
+  "text": "I don’t need the money –"
+ },
+ {
+  "id": 48,
+  "start": 118.706,
+  "end": 120.595,
+  "text": "so part of living with less"
+ },
+ {
+  "id": 49,
+  "start": 120.62,
+  "end": 122.484,
+  "text": "is also learning to be generous."
+ },
+ {
+  "id": 50,
+  "start": 122.685,
+  "end": 125.789,
+  "text": "And just making that decision made me feel much happier,"
+ },
+ {
+  "id": 51,
+  "start": 126.02,
+  "end": 127.123,
+  "text": "almost immediately."
+ },
+ {
+  "id": 52,
+  "start": 127.332,
+  "end": 130.753,
+  "text": "You say that you’re 'learning' – how’s it going?"
+ },
+ {
+  "id": 53,
+  "start": 130.931,
+  "end": 131.922,
+  "text": "Not bad."
+ },
+ {
+  "id": 54,
+  "start": 132.018,
+  "end": 134.829,
+  "text": "I’ve already given away my tablet, but"
+ },
+ {
+  "id": 55,
+  "start": 135.013,
+  "end": 137.91,
+  "text": "I haven’t found anyone who wants my desktop computer yet."
+ },
+ {
+  "id": 56,
+  "start": 138.214,
+  "end": 139.659,
+  "text": "It’s a bit old, I suppose."
+ },
+ {
+  "id": 57,
+  "start": 140.81,
+  "end": 142.715,
+  "text": "And what else are you learning?"
+ },
+ {
+  "id": 58,
+  "start": 142.973,
+  "end": 144.378,
+  "text": "Uh, well,"
+ },
+ {
+  "id": 59,
+  "start": 144.403,
+  "end": 146.95,
+  "text": "I’m trying to change some of the things I usually do."
+ },
+ {
+  "id": 60,
+  "start": 147.366,
+  "end": 149.128,
+  "text": "I’ve already stopped using my car –"
+ },
+ {
+  "id": 61,
+  "start": 149.209,
+  "end": 150.781,
+  "text": "now I take the bus or"
+ },
+ {
+  "id": 62,
+  "start": 150.806,
+  "end": 152.106,
+  "text": "ride my bike everywhere."
+ },
+ {
+  "id": 63,
+  "start": 152.212,
+  "end": 153.99,
+  "text": "Have you sold your car yet?"
+ },
+ {
+  "id": 64,
+  "start": 154.254,
+  "end": 156.468,
+  "text": "No, but I probably will."
+ },
+ {
+  "id": 65,
+  "start": 156.978,
+  "end": 159.073,
+  "text": "And it makes me happy to think that"
+ },
+ {
+  "id": 66,
+  "start": 159.25,
+  "end": 160.837,
+  "text": "I’m helping the environment."
+ },
+ {
+  "id": 67,
+  "start": 161.068,
+  "end": 161.957,
+  "text": "Good point."
+ },
+ {
+  "id": 68,
+  "start": 162.141,
+  "end": 163.435,
+  "text": "And the money I normally"
+ },
+ {
+  "id": 69,
+  "start": 163.46,
+  "end": 165.213,
+  "text": "spend on petrol, well,"
+ },
+ {
+  "id": 70,
+  "start": 165.476,
+  "end": 166.643,
+  "text": "I give that to charity."
+ },
+ {
+  "id": 71,
+  "start": 166.69,
+  "end": 167.746,
+  "text": "That’s great."
+ },
+ {
+  "id": 72,
+  "start": 167.859,
+  "end": 168.454,
+  "text": "Yeah."
+ },
+ {
+  "id": 73,
+  "start": 168.479,
+  "end": 170.915,
+  "text": "I’ve already given £25 to charity –"
+ },
+ {
+  "id": 74,
+  "start": 171.108,
+  "end": 173.338,
+  "text": "a children’s hospital that does research"
+ },
+ {
+  "id": 75,
+  "start": 173.363,
+  "end": 175.506,
+  "text": "into serious diseases that affect children."
+ },
+ {
+  "id": 76,
+  "start": 175.833,
+  "end": 176.897,
+  "text": "It’s not a lot,"
+ },
+ {
+  "id": 77,
+  "start": 176.936,
+  "end": 178.833,
+  "text": "but it’s the beginning of a process –"
+ },
+ {
+  "id": 78,
+  "start": 179.103,
+  "end": 180.333,
+  "text": "one step at a time."
+ }
+];

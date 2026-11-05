@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U02-04"]=[
+ {
+  "id": 1,
+  "start": 0.429,
+  "end": 2.357,
+  "text": "Track 02.04"
+ },
+ {
+  "id": 2,
+  "start": 4.979,
+  "end": 6.757,
+  "text": "The weather was great."
+ },
+ {
+  "id": 3,
+  "start": 8.563,
+  "end": 10.603,
+  "text": "The shops were near the beach."
+ },
+ {
+  "id": 4,
+  "start": 12.439,
+  "end": 14.003,
+  "text": "I wasn’t very happy."
+ },
+ {
+  "id": 5,
+  "start": 15.752,
+  "end": 17.157,
+  "text": "We weren’t tired."
+ },
+ {
+  "id": 6,
+  "start": 18.834,
+  "end": 20.668,
+  "text": "Was your tour guide good?"
+ },
+ {
+  "id": 7,
+  "start": 22.474,
+  "end": 23.831,
+  "text": "Yes, she was."
+ },
+ {
+  "id": 8,
+  "start": 25.604,
+  "end": 26.985,
+  "text": "No she wasn’t."
+ },
+ {
+  "id": 9,
+  "start": 28.798,
+  "end": 30.481,
+  "text": "Were you late for your flight?"
+ },
+ {
+  "id": 10,
+  "start": 32.277,
+  "end": 33.563,
+  "text": "Yes, we were."
+ },
+ {
+  "id": 11,
+  "start": 35.296,
+  "end": 36.7,
+  "text": "No we weren’t."
+ }
+];

@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.595,
+  "end": 2.643,
+  "text": "Track 06.04"
+ },
+ {
+  "id": 2,
+  "start": 4.954,
+  "end": 5.907,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.942,
+  "end": 9.784,
+  "text": "You shouldn’t use your computer all day."
+ },
+ {
+  "id": 4,
+  "start": 11.366,
+  "end": 12.167,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 12.925,
+  "end": 15.711,
+  "text": "Look for new ways of doing exercise."
+ },
+ {
+  "id": 6,
+  "start": 17.253,
+  "end": 18.205,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 18.994,
+  "end": 21.327,
+  "text": "Find a good time of day to study."
+ },
+ {
+  "id": 8,
+  "start": 23.141,
+  "end": 24.022,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 24.851,
+  "end": 26.684,
+  "text": "Choose the healthiest food."
+ },
+ {
+  "id": 10,
+  "start": 28.422,
+  "end": 29.462,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 29.775,
+  "end": 32.474,
+  "text": "Read a book before you go to sleep."
+ }
+]

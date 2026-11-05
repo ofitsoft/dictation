@@ -1,0 +1,62 @@
+[
+ {
+  "id": 1,
+  "start": 0.484,
+  "end": 2.587,
+  "text": "Track 05.09"
+ },
+ {
+  "id": 2,
+  "start": 4.685,
+  "end": 6.55,
+  "text": "I think you’ll get the job."
+ },
+ {
+  "id": 3,
+  "start": 8.284,
+  "end": 10.125,
+  "text": "I think he might get the job."
+ },
+ {
+  "id": 4,
+  "start": 11.66,
+  "end": 13.763,
+  "text": "I don’t think I’ll get the job."
+ },
+ {
+  "id": 5,
+  "start": 15.282,
+  "end": 17.298,
+  "text": "Do you think we’ll get the job?"
+ },
+ {
+  "id": 6,
+  "start": 18.858,
+  "end": 19.961,
+  "text": "I think so."
+ },
+ {
+  "id": 7,
+  "start": 21.687,
+  "end": 22.964,
+  "text": "I don’t think so."
+ },
+ {
+  "id": 8,
+  "start": 24.602,
+  "end": 26.634,
+  "text": "Do you think we might get the job?"
+ },
+ {
+  "id": 9,
+  "start": 28.32,
+  "end": 29.463,
+  "text": "We might."
+ },
+ {
+  "id": 10,
+  "start": 31.111,
+  "end": 32.508,
+  "text": "We might not."
+ }
+]

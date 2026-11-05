@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U03-05"]=[
+ {
+  "id": 1,
+  "start": 0.5,
+  "end": 2.468,
+  "text": "Track 03.05"
+ },
+ {
+  "id": 2,
+  "start": 4.415,
+  "end": 5.32,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.569,
+  "end": 8.267,
+  "text": "Have you ever been to"
+ },
+ {
+  "id": 4,
+  "start": 8.292,
+  "end": 10.966,
+  "text": "the sales when there were big crowds?"
+ },
+ {
+  "id": 5,
+  "start": 11.969,
+  "end": 13.159,
+  "text": "Where did you go?"
+ },
+ {
+  "id": 6,
+  "start": 15.043,
+  "end": 15.829,
+  "text": "2"
+ },
+ {
+  "id": 7,
+  "start": 17.198,
+  "end": 18.428,
+  "text": "Have you ever bought"
+ },
+ {
+  "id": 8,
+  "start": 18.453,
+  "end": 21.452,
+  "text": "anything unusual in an online sale?"
+ },
+ {
+  "id": 9,
+  "start": 22.217,
+  "end": 23.598,
+  "text": "What did you buy?"
+ },
+ {
+  "id": 10,
+  "start": 25.323,
+  "end": 26.419,
+  "text": "3"
+ },
+ {
+  "id": 11,
+  "start": 27.676,
+  "end": 29.001,
+  "text": "Have you ever saved up"
+ },
+ {
+  "id": 12,
+  "start": 29.026,
+  "end": 30.493,
+  "text": "money for the sales?"
+ },
+ {
+  "id": 13,
+  "start": 31.201,
+  "end": 32.907,
+  "text": "How much did you save?"
+ }
+];

@@ -1,0 +1,62 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U02-03"]=[
+ {
+  "id": 1,
+  "start": 0.476,
+  "end": 2.341,
+  "text": "Track 02.03"
+ },
+ {
+  "id": 2,
+  "start": 5.361,
+  "end": 7.21,
+  "text": "I decided yesterday."
+ },
+ {
+  "id": 3,
+  "start": 8.984,
+  "end": 11.27,
+  "text": "We played volleyball on the beach."
+ },
+ {
+  "id": 4,
+  "start": 13.05,
+  "end": 14.741,
+  "text": "I went there last year."
+ },
+ {
+  "id": 5,
+  "start": 16.538,
+  "end": 18.101,
+  "text": "We had a lot of fun."
+ },
+ {
+  "id": 6,
+  "start": 19.843,
+  "end": 21.763,
+  "text": "She saw the Taj Mahal."
+ },
+ {
+  "id": 7,
+  "start": 23.506,
+  "end": 24.848,
+  "text": "I didn’t go there."
+ },
+ {
+  "id": 8,
+  "start": 26.605,
+  "end": 27.97,
+  "text": "Did you have fun?"
+ },
+ {
+  "id": 9,
+  "start": 29.694,
+  "end": 30.932,
+  "text": "Yes, I did."
+ },
+ {
+  "id": 10,
+  "start": 32.651,
+  "end": 34.317,
+  "text": "No I didn’t."
+ }
+];

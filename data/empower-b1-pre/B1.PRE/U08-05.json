@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 2.341,
+  "text": "Track 08.05"
+ },
+ {
+  "id": 2,
+  "start": 3.772,
+  "end": 7.407,
+  "text": "I’ve had this T-shirt since 2017."
+ },
+ {
+  "id": 3,
+  "start": 7.791,
+  "end": 10.568,
+  "text": "I’ve loved tennis since I was a child."
+ },
+ {
+  "id": 4,
+  "start": 13.17,
+  "end": 15.472,
+  "text": "I’ve known him for a few days."
+ },
+ {
+  "id": 5,
+  "start": 18.421,
+  "end": 19.969,
+  "text": "How long have you lived here?"
+ },
+ {
+  "id": 6,
+  "start": 20.264,
+  "end": 21.987,
+  "text": "Since I was a child."
+ },
+ {
+  "id": 7,
+  "start": 22.992,
+  "end": 24.714,
+  "text": "For about 10 years."
+ }
+]

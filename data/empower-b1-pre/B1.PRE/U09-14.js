@@ -1,0 +1,110 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U09-14"]=[
+ {
+  "id": 1,
+  "start": 0.64,
+  "end": 2.568,
+  "text": "Track 09.14"
+ },
+ {
+  "id": 2,
+  "start": 6.071,
+  "end": 7.19,
+  "text": "Oh hi,"
+ },
+ {
+  "id": 3,
+  "start": 7.294,
+  "end": 8.501,
+  "text": "is that Bernice?"
+ },
+ {
+  "id": 4,
+  "start": 8.668,
+  "end": 9.263,
+  "text": "Yes?"
+ },
+ {
+  "id": 5,
+  "start": 9.702,
+  "end": 11.003,
+  "text": "It’s Andrea here."
+ },
+ {
+  "id": 6,
+  "start": 11.22,
+  "end": 12.196,
+  "text": "Oh, hi."
+ },
+ {
+  "id": 7,
+  "start": 12.498,
+  "end": 13.903,
+  "text": "Is now a good time?"
+ },
+ {
+  "id": 8,
+  "start": 14.063,
+  "end": 15.793,
+  "text": "Well, I’m a bit busy."
+ },
+ {
+  "id": 9,
+  "start": 15.874,
+  "end": 17.112,
+  "text": "Can I call you back?"
+ },
+ {
+  "id": 10,
+  "start": 17.455,
+  "end": 18.328,
+  "text": "Sure."
+ },
+ {
+  "id": 11,
+  "start": 18.401,
+  "end": 19.71,
+  "text": "Call me back when you’re free."
+ },
+ {
+  "id": 12,
+  "start": 20.069,
+  "end": 21.323,
+  "text": "Is everything OK?"
+ },
+ {
+  "id": 13,
+  "start": 21.475,
+  "end": 21.912,
+  "text": "Bernice Yeah,"
+ },
+ {
+  "id": 14,
+  "start": 21.952,
+  "end": 22.666,
+  "text": "fine."
+ },
+ {
+  "id": 15,
+  "start": 22.73,
+  "end": 23.897,
+  "text": "But I’ve got to go."
+ },
+ {
+  "id": 16,
+  "start": 23.963,
+  "end": 25.01,
+  "text": "Speak to you soon."
+ },
+ {
+  "id": 17,
+  "start": 25.423,
+  "end": 25.915,
+  "text": "OK,"
+ },
+ {
+  "id": 18,
+  "start": 26.169,
+  "end": 26.582,
+  "text": "bye."
+ }
+];

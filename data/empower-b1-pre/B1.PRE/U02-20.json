@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 0.492,
+  "end": 2.54,
+  "text": "Track 02.20"
+ },
+ {
+  "id": 2,
+  "start": 4.82,
+  "end": 5.741,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.855,
+  "end": 8.815,
+  "text": "Where can I buy a magazine?"
+ },
+ {
+  "id": 4,
+  "start": 10.722,
+  "end": 11.492,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 12.31,
+  "end": 14.183,
+  "text": "How much is a ticket?"
+ }
+]

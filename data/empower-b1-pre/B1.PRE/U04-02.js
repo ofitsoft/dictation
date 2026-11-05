@@ -1,0 +1,116 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U04-02"]=[
+ {
+  "id": 1,
+  "start": 0.444,
+  "end": 2.317,
+  "text": "Track 04.02"
+ },
+ {
+  "id": 2,
+  "start": 4.171,
+  "end": 5.242,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.483,
+  "end": 7.879,
+  "text": "I need a haircut"
+ },
+ {
+  "id": 4,
+  "start": 8.005,
+  "end": 10.76,
+  "text": "so I’m going to the hairdresser’s this afternoon."
+ },
+ {
+  "id": 5,
+  "start": 12.826,
+  "end": 13.659,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 15.037,
+  "end": 16.878,
+  "text": "I’m going to go shopping"
+ },
+ {
+  "id": 7,
+  "start": 16.903,
+  "end": 19.172,
+  "text": "and get a new outfit for the party."
+ },
+ {
+  "id": 8,
+  "start": 21.145,
+  "end": 22.232,
+  "text": "3"
+ },
+ {
+  "id": 9,
+  "start": 23.488,
+  "end": 25.25,
+  "text": "I want to look my best"
+ },
+ {
+  "id": 10,
+  "start": 25.275,
+  "end": 27.345,
+  "text": "because all my family are coming."
+ },
+ {
+  "id": 11,
+  "start": 29.303,
+  "end": 30.263,
+  "text": "4"
+ },
+ {
+  "id": 12,
+  "start": 31.536,
+  "end": 33.116,
+  "text": "He should have a shave"
+ },
+ {
+  "id": 13,
+  "start": 33.141,
+  "end": 35.481,
+  "text": "before he goes to his job interview."
+ },
+ {
+  "id": 14,
+  "start": 37.432,
+  "end": 38.424,
+  "text": "5"
+ },
+ {
+  "id": 15,
+  "start": 39.775,
+  "end": 41.648,
+  "text": "It’s an expensive restaurant,"
+ },
+ {
+  "id": 16,
+  "start": 42.1,
+  "end": 44.251,
+  "text": "so please wear something nice."
+ },
+ {
+  "id": 17,
+  "start": 46.087,
+  "end": 47.151,
+  "text": "6"
+ },
+ {
+  "id": 18,
+  "start": 48.534,
+  "end": 50.653,
+  "text": "She has very long nails,"
+ },
+ {
+  "id": 19,
+  "start": 50.82,
+  "end": 53.519,
+  "text": "so she often goes to the beautician’s."
+ }
+];

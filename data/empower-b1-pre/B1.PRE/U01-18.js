@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U01-18"]=[
+ {
+  "id": 1,
+  "start": 0.388,
+  "end": 2.635,
+  "text": "Track 01.18"
+ },
+ {
+  "id": 2,
+  "start": 5.257,
+  "end": 7.908,
+  "text": "I think it was about six years ago!"
+ },
+ {
+  "id": 3,
+  "start": 9.865,
+  "end": 11.889,
+  "text": "I live on Hampton Street."
+ },
+ {
+  "id": 4,
+  "start": 13.82,
+  "end": 15.717,
+  "text": "My name’s Mark, by the way."
+ },
+ {
+  "id": 5,
+  "start": 17.634,
+  "end": 19.332,
+  "text": "Mark’s my husband!"
+ },
+ {
+  "id": 6,
+  "start": 21.131,
+  "end": 23.814,
+  "text": "I’m going to the café down the street now..."
+ },
+ {
+  "id": 7,
+  "start": 25.516,
+  "end": 27.786,
+  "text": "to meet Leo, my boyfriend."
+ }
+];

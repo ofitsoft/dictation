@@ -1,0 +1,284 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U10-12"]=[
+ {
+  "id": 1,
+  "start": 0.616,
+  "end": 2.283,
+  "text": "Track 10.12"
+ },
+ {
+  "id": 2,
+  "start": 4.601,
+  "end": 5.633,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 8.44,
+  "end": 9.543,
+  "text": "What seems to be the problem?"
+ },
+ {
+  "id": 4,
+  "start": 9.67,
+  "end": 10.21,
+  "text": "Yes,"
+ },
+ {
+  "id": 5,
+  "start": 10.321,
+  "end": 11.766,
+  "text": "I’d like to make a complaint."
+ },
+ {
+  "id": 6,
+  "start": 12.944,
+  "end": 13.912,
+  "text": "I have this clock."
+ },
+ {
+  "id": 7,
+  "start": 13.984,
+  "end": 15.087,
+  "text": "It was bought in this shop."
+ },
+ {
+  "id": 8,
+  "start": 16.059,
+  "end": 16.995,
+  "text": "Your sales assistant"
+ },
+ {
+  "id": 9,
+  "start": 17.02,
+  "end": 17.924,
+  "text": "hasn’t been very helpful."
+ },
+ {
+  "id": 10,
+  "start": 17.996,
+  "end": 18.996,
+  "text": "She won’t give me a refund."
+ },
+ {
+  "id": 11,
+  "start": 19.706,
+  "end": 21.063,
+  "text": "He doesn’t have a receipt."
+ },
+ {
+  "id": 12,
+  "start": 21.358,
+  "end": 22.7,
+  "text": "No, I don’t have a receipt."
+ },
+ {
+  "id": 13,
+  "start": 23.105,
+  "end": 24.288,
+  "text": "Well, I’m sorry,"
+ },
+ {
+  "id": 14,
+  "start": 24.463,
+  "end": 26.233,
+  "text": "but we don’t do refunds without a receipt."
+ },
+ {
+  "id": 15,
+  "start": 26.317,
+  "end": 28.008,
+  "text": "Yes, that’s what she said."
+ },
+ {
+  "id": 16,
+  "start": 29.563,
+  "end": 30.143,
+  "text": "OK, then."
+ },
+ {
+  "id": 17,
+  "start": 30.677,
+  "end": 32.511,
+  "text": "Can I exchange it for something else?"
+ },
+ {
+  "id": 18,
+  "start": 33.069,
+  "end": 34.505,
+  "text": "Is there anything wrong with it?"
+ },
+ {
+  "id": 19,
+  "start": 34.634,
+  "end": 35.936,
+  "text": "No, there’s nothing wrong with it."
+ },
+ {
+  "id": 20,
+  "start": 38.155,
+  "end": 39.203,
+  "text": "Can I just ask -"
+ },
+ {
+  "id": 21,
+  "start": 39.393,
+  "end": 42.139,
+  "text": "why do you want a refund if it works OK?"
+ },
+ {
+  "id": 22,
+  "start": 42.785,
+  "end": 43.595,
+  "text": "Well, I just …"
+ },
+ {
+  "id": 23,
+  "start": 45.772,
+  "end": 48.862,
+  "text": "It was a present and I’m not a big football fan."
+ },
+ {
+  "id": 24,
+  "start": 48.895,
+  "end": 51.006,
+  "text": "And it’s a bit ugly."
+ },
+ {
+  "id": 25,
+  "start": 51.676,
+  "end": 53.604,
+  "text": "Well, not ugly but it’s not very …"
+ },
+ {
+  "id": 26,
+  "start": 54.874,
+  "end": 55.493,
+  "text": "adult."
+ },
+ {
+  "id": 27,
+  "start": 56.348,
+  "end": 57.697,
+  "text": "You know, it’s more for children."
+ },
+ {
+  "id": 28,
+  "start": 58.484,
+  "end": 59.492,
+  "text": "I have one."
+ },
+ {
+  "id": 29,
+  "start": 60.262,
+  "end": 61.175,
+  "text": "I love it!"
+ },
+ {
+  "id": 30,
+  "start": 62.291,
+  "end": 64.428,
+  "text": "Look, as it was a present,"
+ },
+ {
+  "id": 31,
+  "start": 64.499,
+  "end": 65.41,
+  "text": "I’ll let you exchange"
+ },
+ {
+  "id": 32,
+  "start": 65.435,
+  "end": 66.825,
+  "text": "it for something else in the shop."
+ },
+ {
+  "id": 33,
+  "start": 67.265,
+  "end": 69.217,
+  "text": "But normally we wouldn’t do this."
+ },
+ {
+  "id": 34,
+  "start": 69.719,
+  "end": 70.529,
+  "text": "That’s very kind."
+ },
+ {
+  "id": 35,
+  "start": 71.817,
+  "end": 72.317,
+  "text": "So,"
+ },
+ {
+  "id": 36,
+  "start": 72.77,
+  "end": 74.563,
+  "text": "what would you like to exchange it for?"
+ },
+ {
+  "id": 37,
+  "start": 82.971,
+  "end": 83.471,
+  "text": "Actually,"
+ },
+ {
+  "id": 38,
+  "start": 83.496,
+  "end": 85.011,
+  "text": "I’ve decided that I’ll keep it."
+ },
+ {
+  "id": 39,
+  "start": 85.6,
+  "end": 86.607,
+  "text": "It might be useful."
+ },
+ {
+  "id": 40,
+  "start": 87.316,
+  "end": 88.252,
+  "text": "Well, OK then,"
+ },
+ {
+  "id": 41,
+  "start": 88.277,
+  "end": 89.412,
+  "text": "if that’s what you prefer."
+ },
+ {
+  "id": 42,
+  "start": 89.437,
+  "end": 90.492,
+  "text": "Yes, yes, it’s fine."
+ },
+ {
+  "id": 43,
+  "start": 90.541,
+  "end": 91.827,
+  "text": "Thanks very much for your help."
+ },
+ {
+  "id": 44,
+  "start": 91.852,
+  "end": 92.511,
+  "text": "Thank you."
+ },
+ {
+  "id": 45,
+  "start": 92.725,
+  "end": 93.106,
+  "text": "Bye"
+ },
+ {
+  "id": 46,
+  "start": 93.187,
+  "end": 93.719,
+  "text": "Goodbye."
+ },
+ {
+  "id": 47,
+  "start": 94.149,
+  "end": 94.688,
+  "text": "Bye."
+ }
+];

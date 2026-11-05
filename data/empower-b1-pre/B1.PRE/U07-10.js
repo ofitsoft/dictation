@@ -1,0 +1,194 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U07-10"]=[
+ {
+  "id": 1,
+  "start": 0.595,
+  "end": 2.54,
+  "text": "Track 07.10"
+ },
+ {
+  "id": 2,
+  "start": 3.722,
+  "end": 4.968,
+  "text": "PART 1"
+ },
+ {
+  "id": 3,
+  "start": 13.685,
+  "end": 14.376,
+  "text": "Mr Seymour?"
+ },
+ {
+  "id": 4,
+  "start": 14.401,
+  "end": 15.172,
+  "text": "Yes."
+ },
+ {
+  "id": 5,
+  "start": 15.197,
+  "end": 16.989,
+  "text": "Dr Evans is ready to see you."
+ },
+ {
+  "id": 6,
+  "start": 17.38,
+  "end": 17.968,
+  "text": "Thank you."
+ },
+ {
+  "id": 7,
+  "start": 23.321,
+  "end": 24.178,
+  "text": "Come in ..."
+ },
+ {
+  "id": 8,
+  "start": 31.877,
+  "end": 33.139,
+  "text": "Please, take a seat."
+ },
+ {
+  "id": 9,
+  "start": 37.087,
+  "end": 39.046,
+  "text": "So, what’s the problem?"
+ },
+ {
+  "id": 10,
+  "start": 39.071,
+  "end": 43.28,
+  "text": "Well, my back hurts. It’s very painful. And I can’t get to sleep."
+ },
+ {
+  "id": 11,
+  "start": 43.435,
+  "end": 44.149,
+  "text": "I see."
+ },
+ {
+  "id": 12,
+  "start": 44.174,
+  "end": 45.865,
+  "text": "And when did this problem start?"
+ },
+ {
+  "id": 13,
+  "start": 45.89,
+  "end": 47.938,
+  "text": "About three or four days ago."
+ },
+ {
+  "id": 14,
+  "start": 47.963,
+  "end": 48.534,
+  "text": "Hmm."
+ },
+ {
+  "id": 15,
+  "start": 48.559,
+  "end": 50.992,
+  "text": "And where does it hurt? Could you show me?"
+ },
+ {
+  "id": 16,
+  "start": 51.111,
+  "end": 53.167,
+  "text": "Here. This area."
+ },
+ {
+  "id": 17,
+  "start": 53.708,
+  "end": 54.557,
+  "text": "Can I have a look?"
+ },
+ {
+  "id": 18,
+  "start": 54.582,
+  "end": 55.399,
+  "text": "Sure."
+ },
+ {
+  "id": 19,
+  "start": 59.462,
+  "end": 61.668,
+  "text": "Have you had any accidents recently?"
+ },
+ {
+  "id": 20,
+  "start": 62.226,
+  "end": 63.027,
+  "text": "No."
+ },
+ {
+  "id": 21,
+  "start": 64.229,
+  "end": 66.4,
+  "text": "And you haven’t hurt your back in any way."
+ },
+ {
+  "id": 22,
+  "start": 66.421,
+  "end": 68.167,
+  "text": "Playing sport, that kind of thing."
+ },
+ {
+  "id": 23,
+  "start": 68.192,
+  "end": 69.67,
+  "text": "No, no. Nothing."
+ },
+ {
+  "id": 24,
+  "start": 69.695,
+  "end": 70.988,
+  "text": "OK."
+ },
+ {
+  "id": 25,
+  "start": 71.013,
+  "end": 72.648,
+  "text": "I’m quite worried about it."
+ },
+ {
+  "id": 26,
+  "start": 72.673,
+  "end": 74.038,
+  "text": "It hurts all the time –"
+ },
+ {
+  "id": 27,
+  "start": 74.063,
+  "end": 75.675,
+  "text": "when I walk, when I sit down."
+ },
+ {
+  "id": 28,
+  "start": 75.7,
+  "end": 77.316,
+  "text": "I’ve spent the last few days in bed."
+ },
+ {
+  "id": 29,
+  "start": 77.341,
+  "end": 78.389,
+  "text": "And I feel exhausted."
+ },
+ {
+  "id": 30,
+  "start": 79.1,
+  "end": 79.989,
+  "text": "OK. Well,"
+ },
+ {
+  "id": 31,
+  "start": 80.229,
+  "end": 82.119,
+  "text": "I don’t think it’s anything to worry about."
+ },
+ {
+  "id": 32,
+  "start": 82.183,
+  "end": 84.936,
+  "text": "Phew. That’s good’s to hear."
+ }
+];

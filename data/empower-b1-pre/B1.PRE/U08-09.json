@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.619,
+  "end": 2.524,
+  "text": "Track 08.09"
+ },
+ {
+  "id": 2,
+  "start": 4.686,
+  "end": 5.662,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.831,
+  "end": 7.99,
+  "text": "It doesn’t matter."
+ },
+ {
+  "id": 4,
+  "start": 9.897,
+  "end": 10.659,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.543,
+  "end": 13.527,
+  "text": "Well, it’s not your fault."
+ },
+ {
+  "id": 6,
+  "start": 15.268,
+  "end": 16.188,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 17.016,
+  "end": 18.413,
+  "text": "Don’t worry about it."
+ },
+ {
+  "id": 8,
+  "start": 20.193,
+  "end": 21.051,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 22.016,
+  "end": 23.889,
+  "text": "No really, it’s fine."
+ }
+]

@@ -1,0 +1,128 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U09-05"]=[
+ {
+  "id": 1,
+  "start": 0.656,
+  "end": 2.457,
+  "text": "Track 09.05"
+ },
+ {
+  "id": 2,
+  "start": 4.985,
+  "end": 6.39,
+  "text": "I’ll get a good degree"
+ },
+ {
+  "id": 3,
+  "start": 6.415,
+  "end": 7.795,
+  "text": "if I work hard this year."
+ },
+ {
+  "id": 4,
+  "start": 9.822,
+  "end": 10.933,
+  "text": "If he works hard,"
+ },
+ {
+  "id": 5,
+  "start": 11.108,
+  "end": 12.029,
+  "text": "he won’t fail."
+ },
+ {
+  "id": 6,
+  "start": 13.89,
+  "end": 15.994,
+  "text": "If they don’t work hard this year,"
+ },
+ {
+  "id": 7,
+  "start": 16.034,
+  "end": 17.629,
+  "text": "they won’t get good degrees."
+ },
+ {
+  "id": 8,
+  "start": 19.69,
+  "end": 20.864,
+  "text": "Her teacher might ask"
+ },
+ {
+  "id": 9,
+  "start": 20.889,
+  "end": 22.721,
+  "text": "her to repeat the year if she doesn’t"
+ },
+ {
+  "id": 10,
+  "start": 22.746,
+  "end": 23.491,
+  "text": "work hard."
+ },
+ {
+  "id": 11,
+  "start": 25.41,
+  "end": 27.265,
+  "text": "What will you do if you pass?"
+ },
+ {
+  "id": 12,
+  "start": 29.075,
+  "end": 30.511,
+  "text": "If she doesn’t work hard,"
+ },
+ {
+  "id": 13,
+  "start": 30.789,
+  "end": 31.654,
+  "text": "what will happen?"
+ },
+ {
+  "id": 14,
+  "start": 33.666,
+  "end": 34.88,
+  "text": "If you don’t get in to university,"
+ },
+ {
+  "id": 15,
+  "start": 35.817,
+  "end": 36.984,
+  "text": "will you look for a job?"
+ },
+ {
+  "id": 16,
+  "start": 38.988,
+  "end": 39.885,
+  "text": "Yes, I will."
+ },
+ {
+  "id": 17,
+  "start": 41.9,
+  "end": 42.837,
+  "text": "No, I won’t."
+ },
+ {
+  "id": 18,
+  "start": 44.846,
+  "end": 46.544,
+  "text": "Are his parents going to buy him a"
+ },
+ {
+  "id": 19,
+  "start": 46.592,
+  "end": 47.997,
+  "text": "car if he works hard?"
+ },
+ {
+  "id": 20,
+  "start": 50.001,
+  "end": 50.938,
+  "text": "Yes, they are."
+ },
+ {
+  "id": 21,
+  "start": 52.944,
+  "end": 54.008,
+  "text": "No, they’re not."
+ }
+];

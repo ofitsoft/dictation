@@ -1,0 +1,104 @@
+[
+ {
+  "id": 1,
+  "start": 0.667,
+  "end": 2.325,
+  "text": "Track 10.05"
+ },
+ {
+  "id": 2,
+  "start": 5.519,
+  "end": 7.115,
+  "text": "There are a lot of books."
+ },
+ {
+  "id": 3,
+  "start": 9.117,
+  "end": 10.411,
+  "text": "There’s a lot of water."
+ },
+ {
+  "id": 4,
+  "start": 12.438,
+  "end": 13.724,
+  "text": "There are some books."
+ },
+ {
+  "id": 5,
+  "start": 15.736,
+  "end": 16.688,
+  "text": "There’s some water."
+ },
+ {
+  "id": 6,
+  "start": 18.691,
+  "end": 20.262,
+  "text": "There are a few books."
+ },
+ {
+  "id": 7,
+  "start": 22.289,
+  "end": 23.59,
+  "text": "There aren’t many books."
+ },
+ {
+  "id": 8,
+  "start": 25.579,
+  "end": 26.865,
+  "text": "There’s a bit of water."
+ },
+ {
+  "id": 9,
+  "start": 28.884,
+  "end": 30.17,
+  "text": "There isn’t much water."
+ },
+ {
+  "id": 10,
+  "start": 32.205,
+  "end": 33.403,
+  "text": "There are no books."
+ },
+ {
+  "id": 11,
+  "start": 35.407,
+  "end": 36.685,
+  "text": "There aren’t any books."
+ },
+ {
+  "id": 12,
+  "start": 38.688,
+  "end": 39.76,
+  "text": "There’s no water."
+ },
+ {
+  "id": 13,
+  "start": 41.803,
+  "end": 42.97,
+  "text": "There isn’t any water."
+ },
+ {
+  "id": 14,
+  "start": 44.973,
+  "end": 46.187,
+  "text": "Are there any books?"
+ },
+ {
+  "id": 15,
+  "start": 48.247,
+  "end": 49.604,
+  "text": "How many books are there?"
+ },
+ {
+  "id": 16,
+  "start": 51.63,
+  "end": 52.654,
+  "text": "Is there any water?"
+ },
+ {
+  "id": 17,
+  "start": 54.657,
+  "end": 55.967,
+  "text": "How much water is there?"
+ }
+]

@@ -1,0 +1,32 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U08-10"]=[
+ {
+  "id": 1,
+  "start": 0.631,
+  "end": 2.511,
+  "text": "Track 08.10"
+ },
+ {
+  "id": 2,
+  "start": 5.377,
+  "end": 6.981,
+  "text": "I was going to call you,"
+ },
+ {
+  "id": 3,
+  "start": 7.006,
+  "end": 8.481,
+  "text": "but my phone was dead."
+ },
+ {
+  "id": 4,
+  "start": 10.325,
+  "end": 11.524,
+  "text": "I meant to call you,"
+ },
+ {
+  "id": 5,
+  "start": 11.667,
+  "end": 13.23,
+  "text": "but I had to work a lot."
+ }
+];

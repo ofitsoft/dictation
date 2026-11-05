@@ -1,0 +1,92 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U06-16"]=[
+ {
+  "id": 1,
+  "start": 0.54,
+  "end": 2.952,
+  "text": "Track 06.16"
+ },
+ {
+  "id": 2,
+  "start": 5.089,
+  "end": 6.002,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 7.077,
+  "end": 9.054,
+  "text": "What do you think I should do?"
+ },
+ {
+  "id": 4,
+  "start": 10.707,
+  "end": 11.557,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 12.305,
+  "end": 13.543,
+  "text": "Do you think I should speak"
+ },
+ {
+  "id": 6,
+  "start": 13.568,
+  "end": 14.615,
+  "text": "to him about it?"
+ },
+ {
+  "id": 7,
+  "start": 15.982,
+  "end": 16.95,
+  "text": "3"
+ },
+ {
+  "id": 8,
+  "start": 17.587,
+  "end": 19.634,
+  "text": "I’d get all the details first."
+ },
+ {
+  "id": 9,
+  "start": 21.456,
+  "end": 22.377,
+  "text": "4"
+ },
+ {
+  "id": 10,
+  "start": 23.332,
+  "end": 24.395,
+  "text": "I think you should speak"
+ },
+ {
+  "id": 11,
+  "start": 24.42,
+  "end": 25.594,
+  "text": "to your boss again."
+ },
+ {
+  "id": 12,
+  "start": 27.334,
+  "end": 28.358,
+  "text": "5"
+ },
+ {
+  "id": 13,
+  "start": 28.884,
+  "end": 30.908,
+  "text": "I think it’s a good idea to ask."
+ },
+ {
+  "id": 14,
+  "start": 32.556,
+  "end": 33.643,
+  "text": "6"
+ },
+ {
+  "id": 15,
+  "start": 34.373,
+  "end": 36.127,
+  "text": "I wouldn’t worry too much."
+ }
+];

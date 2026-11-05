@@ -1,0 +1,62 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U11-06"]=[
+ {
+  "id": 1,
+  "start": 0.648,
+  "end": 2.6,
+  "text": "Track 11.06"
+ },
+ {
+  "id": 2,
+  "start": 5.285,
+  "end": 5.919,
+  "text": "luckily"
+ },
+ {
+  "id": 3,
+  "start": 7.906,
+  "end": 8.834,
+  "text": "fortunately"
+ },
+ {
+  "id": 4,
+  "start": 10.822,
+  "end": 11.719,
+  "text": "accidentally"
+ },
+ {
+  "id": 5,
+  "start": 13.729,
+  "end": 14.634,
+  "text": "by chance"
+ },
+ {
+  "id": 6,
+  "start": 16.654,
+  "end": 17.669,
+  "text": "unfortunately"
+ },
+ {
+  "id": 7,
+  "start": 19.68,
+  "end": 20.632,
+  "text": "surprisingly"
+ },
+ {
+  "id": 8,
+  "start": 22.635,
+  "end": 23.452,
+  "text": "amazingly"
+ },
+ {
+  "id": 9,
+  "start": 25.479,
+  "end": 26.408,
+  "text": "on purpose"
+ },
+ {
+  "id": 10,
+  "start": 28.429,
+  "end": 29.357,
+  "text": "as expected"
+ }
+];

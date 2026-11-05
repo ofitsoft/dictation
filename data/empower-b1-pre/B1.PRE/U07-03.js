@@ -1,0 +1,716 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U07-03"]=[
+ {
+  "id": 1,
+  "start": 0.238,
+  "end": 2.484,
+  "text": "Track 07.03"
+ },
+ {
+  "id": 2,
+  "start": 4.383,
+  "end": 6.018,
+  "text": "Steven Adams"
+ },
+ {
+  "id": 3,
+  "start": 8.943,
+  "end": 10.284,
+  "text": "The subject of this week’s"
+ },
+ {
+  "id": 4,
+  "start": 10.309,
+  "end": 11.977,
+  "text": "one-minute inspiration"
+ },
+ {
+  "id": 5,
+  "start": 12.002,
+  "end": 13.947,
+  "text": "is New Zealand basketball player"
+ },
+ {
+  "id": 6,
+  "start": 13.972,
+  "end": 15.225,
+  "text": "Steven Adams."
+ },
+ {
+  "id": 7,
+  "start": 16.055,
+  "end": 19.364,
+  "text": "Steven’s mother is from the South Pacific island of Tonga"
+ },
+ {
+  "id": 8,
+  "start": 19.493,
+  "end": 21.295,
+  "text": "and his father was English."
+ },
+ {
+  "id": 9,
+  "start": 21.814,
+  "end": 24.338,
+  "text": "Steven has 17 brothers and sisters,"
+ },
+ {
+  "id": 10,
+  "start": 24.363,
+  "end": 25.848,
+  "text": "and he’s the youngest."
+ },
+ {
+  "id": 11,
+  "start": 26.796,
+  "end": 28.558,
+  "text": "Steven’s childhood was happy,"
+ },
+ {
+  "id": 12,
+  "start": 28.893,
+  "end": 30.876,
+  "text": "but that happiness ended suddenly"
+ },
+ {
+  "id": 13,
+  "start": 30.901,
+  "end": 32.156,
+  "text": "when his father died."
+ },
+ {
+  "id": 14,
+  "start": 32.652,
+  "end": 34.636,
+  "text": "Steven was 13 years old."
+ },
+ {
+  "id": 15,
+  "start": 35.408,
+  "end": 38.028,
+  "text": "He found it very hard to accept his father’s death"
+ },
+ {
+  "id": 16,
+  "start": 38.165,
+  "end": 39.729,
+  "text": "and he felt that he didn’t have"
+ },
+ {
+  "id": 17,
+  "start": 39.754,
+  "end": 41.641,
+  "text": "someone to guide him in his life."
+ },
+ {
+  "id": 18,
+  "start": 42.797,
+  "end": 44.67,
+  "text": "Steven started missing school."
+ },
+ {
+  "id": 19,
+  "start": 45.132,
+  "end": 47.649,
+  "text": "At first it was just one day a week,"
+ },
+ {
+  "id": 20,
+  "start": 47.674,
+  "end": 50.104,
+  "text": "but it quickly became a regular thing."
+ },
+ {
+  "id": 21,
+  "start": 50.741,
+  "end": 53.67,
+  "text": "He was also lying to his family about missing school."
+ },
+ {
+  "id": 22,
+  "start": 54.5,
+  "end": 57.212,
+  "text": "He spent his days on the streets of Rotorua,"
+ },
+ {
+  "id": 23,
+  "start": 57.368,
+  "end": 59.78,
+  "text": "a small city in the north of New Zealand,"
+ },
+ {
+  "id": 24,
+  "start": 59.805,
+  "end": 61.655,
+  "text": "and he began to get friendly"
+ },
+ {
+  "id": 25,
+  "start": 61.68,
+  "end": 63.641,
+  "text": "with young men in a local gang."
+ },
+ {
+  "id": 26,
+  "start": 64.097,
+  "end": 65.192,
+  "text": "Very soon,"
+ },
+ {
+  "id": 27,
+  "start": 65.217,
+  "end": 66.566,
+  "text": "it looked like Steven"
+ },
+ {
+  "id": 28,
+  "start": 66.591,
+  "end": 68.584,
+  "text": "was going to have a future of crime."
+ },
+ {
+  "id": 29,
+  "start": 69.453,
+  "end": 71.508,
+  "text": "Steven’s older brother, Warren,"
+ },
+ {
+  "id": 30,
+  "start": 71.533,
+  "end": 73.254,
+  "text": "decided to take action."
+ },
+ {
+  "id": 31,
+  "start": 74.212,
+  "end": 76.391,
+  "text": "He took Steven to live with him in Wellington,"
+ },
+ {
+  "id": 32,
+  "start": 76.483,
+  "end": 81.021,
+  "text": "the capital city of New Zealand – away from his troubled life in Rotorua."
+ },
+ {
+  "id": 33,
+  "start": 82.101,
+  "end": 83.68,
+  "text": "He found a place for Steven"
+ },
+ {
+  "id": 34,
+  "start": 83.705,
+  "end": 85.189,
+  "text": "in a basketball academy"
+ },
+ {
+  "id": 35,
+  "start": 85.214,
+  "end": 86.864,
+  "text": "where the coach organised a sports"
+ },
+ {
+  "id": 36,
+  "start": 86.889,
+  "end": 89.098,
+  "text": "scholarship for him at a private school."
+ },
+ {
+  "id": 37,
+  "start": 89.936,
+  "end": 91.785,
+  "text": "The rule was that Steven had to"
+ },
+ {
+  "id": 38,
+  "start": 91.81,
+  "end": 94.133,
+  "text": "come to every basketball training session"
+ },
+ {
+  "id": 39,
+  "start": 94.158,
+  "end": 95.842,
+  "text": "and he couldn’t miss school."
+ },
+ {
+  "id": 40,
+  "start": 96.56,
+  "end": 97.56,
+  "text": "In the beginning,"
+ },
+ {
+  "id": 41,
+  "start": 97.585,
+  "end": 98.704,
+  "text": "Steven found it"
+ },
+ {
+  "id": 42,
+  "start": 98.729,
+  "end": 100.76,
+  "text": "very hard to stick to these rules."
+ },
+ {
+  "id": 43,
+  "start": 101.605,
+  "end": 103.7,
+  "text": "But soon he found that the routine helped"
+ },
+ {
+  "id": 44,
+  "start": 103.725,
+  "end": 105.408,
+  "text": "him let go of the anger he felt"
+ },
+ {
+  "id": 45,
+  "start": 105.433,
+  "end": 107.244,
+  "text": "as a result of his father’s death."
+ },
+ {
+  "id": 46,
+  "start": 107.77,
+  "end": 108.691,
+  "text": "He worked hard –"
+ },
+ {
+  "id": 47,
+  "start": 108.716,
+  "end": 110.931,
+  "text": "his basketball skills improved"
+ },
+ {
+  "id": 48,
+  "start": 110.956,
+  "end": 112.901,
+  "text": "and he graduated from high school."
+ },
+ {
+  "id": 49,
+  "start": 112.926,
+  "end": 114.539,
+  "text": "In June 2012,"
+ },
+ {
+  "id": 50,
+  "start": 114.564,
+  "end": 116.27,
+  "text": "he got an offer of a place"
+ },
+ {
+  "id": 51,
+  "start": 116.295,
+  "end": 117.834,
+  "text": "from the Pittsburgh Panthers,"
+ },
+ {
+  "id": 52,
+  "start": 117.859,
+  "end": 120.439,
+  "text": "a college basketball team in the USA."
+ },
+ {
+  "id": 53,
+  "start": 121.197,
+  "end": 123.809,
+  "text": "The next year he turned professional and"
+ },
+ {
+  "id": 54,
+  "start": 123.834,
+  "end": 126.064,
+  "text": "joined the Oklahoma City Thunder team."
+ },
+ {
+  "id": 55,
+  "start": 126.767,
+  "end": 129.108,
+  "text": "He is now a top NBA player"
+ },
+ {
+  "id": 56,
+  "start": 129.133,
+  "end": 130.148,
+  "text": "and gets paid"
+ },
+ {
+  "id": 57,
+  "start": 130.173,
+  "end": 132.237,
+  "text": "more than $20 million a year."
+ },
+ {
+  "id": 58,
+  "start": 132.86,
+  "end": 134.48,
+  "text": "And a comic book has"
+ },
+ {
+  "id": 59,
+  "start": 134.505,
+  "end": 136.075,
+  "text": "been written about his life."
+ },
+ {
+  "id": 60,
+  "start": 136.698,
+  "end": 138.158,
+  "text": "He’s come a long way"
+ },
+ {
+  "id": 61,
+  "start": 138.183,
+  "end": 140.23,
+  "text": "from his unhappy teenage life."
+ },
+ {
+  "id": 62,
+  "start": 142.745,
+  "end": 144.443,
+  "text": "Selena Gomez"
+ },
+ {
+  "id": 63,
+  "start": 146.685,
+  "end": 149.128,
+  "text": "One-minute inspiration this week"
+ },
+ {
+  "id": 64,
+  "start": 149.153,
+  "end": 152.107,
+  "text": "looks at the life of a multi-talented young woman."
+ },
+ {
+  "id": 65,
+  "start": 152.555,
+  "end": 154.476,
+  "text": "She’s an actress, a singer,"
+ },
+ {
+  "id": 66,
+  "start": 154.525,
+  "end": 157.112,
+  "text": "a fashion designer, a TV producer"
+ },
+ {
+  "id": 67,
+  "start": 157.137,
+  "end": 159.79,
+  "text": "and she does a lot of work for charity."
+ },
+ {
+  "id": 68,
+  "start": 160.531,
+  "end": 163.157,
+  "text": "Selena Gomez is now rich and famous,"
+ },
+ {
+  "id": 69,
+  "start": 163.182,
+  "end": 165.486,
+  "text": "but it wasn’t always like that for her."
+ },
+ {
+  "id": 70,
+  "start": 165.983,
+  "end": 167.61,
+  "text": "Her childhood was difficult,"
+ },
+ {
+  "id": 71,
+  "start": 167.84,
+  "end": 168.991,
+  "text": "and she was poor."
+ },
+ {
+  "id": 72,
+  "start": 169.391,
+  "end": 171.184,
+  "text": "Selena’s parents got divorced"
+ },
+ {
+  "id": 73,
+  "start": 171.209,
+  "end": 172.924,
+  "text": "when she was five years old,"
+ },
+ {
+  "id": 74,
+  "start": 172.949,
+  "end": 174.759,
+  "text": "and she stayed with her mother."
+ },
+ {
+  "id": 75,
+  "start": 175.444,
+  "end": 177.468,
+  "text": "The divorce was very hard on Selena,"
+ },
+ {
+  "id": 76,
+  "start": 177.493,
+  "end": 178.899,
+  "text": "who only wanted to be"
+ },
+ {
+  "id": 77,
+  "start": 178.924,
+  "end": 180.351,
+  "text": "part of a normal family."
+ },
+ {
+  "id": 78,
+  "start": 181.053,
+  "end": 183.164,
+  "text": "Selena’s mother was an actress."
+ },
+ {
+  "id": 79,
+  "start": 183.374,
+  "end": 185.493,
+  "text": "But she found it hard to get work,"
+ },
+ {
+  "id": 80,
+  "start": 185.518,
+  "end": 187.168,
+  "text": "so she had very little money."
+ },
+ {
+  "id": 81,
+  "start": 187.193,
+  "end": 188.919,
+  "text": "Sometimes the only food they could"
+ },
+ {
+  "id": 82,
+  "start": 188.944,
+  "end": 192.775,
+  "text": "afford was tinned spaghetti that they bought at the dollar store."
+ },
+ {
+  "id": 83,
+  "start": 193.137,
+  "end": 194.574,
+  "text": "They had to look for coins"
+ },
+ {
+  "id": 84,
+  "start": 194.599,
+  "end": 196.138,
+  "text": "when they wanted to pay for petrol"
+ },
+ {
+  "id": 85,
+  "start": 196.163,
+  "end": 197.228,
+  "text": "to put in the car."
+ },
+ {
+  "id": 86,
+  "start": 197.913,
+  "end": 199.508,
+  "text": "Although she had little money,"
+ },
+ {
+  "id": 87,
+  "start": 199.533,
+  "end": 201.287,
+  "text": "Selena’s mother worked hard"
+ },
+ {
+  "id": 88,
+  "start": 201.312,
+  "end": 203.186,
+  "text": "and always supported her daughter."
+ },
+ {
+  "id": 89,
+  "start": 203.211,
+  "end": 205.189,
+  "text": "As a child, Selena watched"
+ },
+ {
+  "id": 90,
+  "start": 205.214,
+  "end": 206.515,
+  "text": "her mother work in the"
+ },
+ {
+  "id": 91,
+  "start": 206.54,
+  "end": 207.841,
+  "text": "entertainment industry,"
+ },
+ {
+  "id": 92,
+  "start": 207.866,
+  "end": 209.909,
+  "text": "and at a young age she decided"
+ },
+ {
+  "id": 93,
+  "start": 209.934,
+  "end": 212.227,
+  "text": "this was what she wanted to do, too."
+ },
+ {
+  "id": 94,
+  "start": 212.779,
+  "end": 214.89,
+  "text": "Her mother was her inspiration."
+ },
+ {
+  "id": 95,
+  "start": 215.504,
+  "end": 217.036,
+  "text": "Many people think Selena was"
+ },
+ {
+  "id": 96,
+  "start": 217.061,
+  "end": 219.045,
+  "text": "discovered in 2007"
+ },
+ {
+  "id": 97,
+  "start": 219.157,
+  "end": 222.52,
+  "text": "with the Disney hit production Wizards of Waverley Place,"
+ },
+ {
+  "id": 98,
+  "start": 222.645,
+  "end": 224.796,
+  "text": "but she had already been working for"
+ },
+ {
+  "id": 99,
+  "start": 224.821,
+  "end": 226.957,
+  "text": "five years before in children’s"
+ },
+ {
+  "id": 100,
+  "start": 226.982,
+  "end": 230.149,
+  "text": "TV programmes like Barney and Friends."
+ },
+ {
+  "id": 101,
+  "start": 230.845,
+  "end": 232.48,
+  "text": "During those first years,"
+ },
+ {
+  "id": 102,
+  "start": 232.505,
+  "end": 234.688,
+  "text": "Selena got support from her mother,"
+ },
+ {
+  "id": 103,
+  "start": 234.713,
+  "end": 236.848,
+  "text": "who gave up her own career to focus"
+ },
+ {
+  "id": 104,
+  "start": 236.873,
+  "end": 238.158,
+  "text": "on Selena’s."
+ },
+ {
+  "id": 105,
+  "start": 238.63,
+  "end": 240.559,
+  "text": "With Wizards of Waverley Place,"
+ },
+ {
+  "id": 106,
+  "start": 240.584,
+  "end": 242.278,
+  "text": "Selena and her mother moved"
+ },
+ {
+  "id": 107,
+  "start": 242.31,
+  "end": 245.533,
+  "text": "to Hollywood and she started to get really busy."
+ },
+ {
+  "id": 108,
+  "start": 245.98,
+  "end": 250.304,
+  "text": "She was offered roles in films, as well as a pop-music recording contract."
+ },
+ {
+  "id": 109,
+  "start": 250.748,
+  "end": 252.716,
+  "text": "She now divides her time between"
+ },
+ {
+  "id": 110,
+  "start": 252.741,
+  "end": 254.2,
+  "text": "acting and singing."
+ },
+ {
+  "id": 111,
+  "start": 254.225,
+  "end": 256.417,
+  "text": "She has also become a TV producer and"
+ },
+ {
+  "id": 112,
+  "start": 256.442,
+  "end": 258.792,
+  "text": "is very active in charity work."
+ },
+ {
+  "id": 113,
+  "start": 258.932,
+  "end": 262.057,
+  "text": "So, despite her difficult beginnings,"
+ },
+ {
+  "id": 114,
+  "start": 262.082,
+  "end": 263.807,
+  "text": "she has become a rich and"
+ },
+ {
+  "id": 115,
+  "start": 263.832,
+  "end": 265.156,
+  "text": "successful woman."
+ },
+ {
+  "id": 116,
+  "start": 265.181,
+  "end": 266.875,
+  "text": "And it’s all thanks to the"
+ },
+ {
+  "id": 117,
+  "start": 266.9,
+  "end": 268.368,
+  "text": "support of her family"
+ },
+ {
+  "id": 118,
+  "start": 268.393,
+  "end": 270.662,
+  "text": "and her ability to work hard"
+ },
+ {
+  "id": 119,
+  "start": 270.687,
+  "end": 272.434,
+  "text": "and face challenges."
+ }
+];

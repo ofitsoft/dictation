@@ -1,0 +1,134 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U01-03"]=[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 2.571,
+  "text": "Track 01.03"
+ },
+ {
+  "id": 2,
+  "start": 4.916,
+  "end": 5.86,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.688,
+  "end": 7.966,
+  "text": "What a silly game!"
+ },
+ {
+  "id": 4,
+  "start": 8.133,
+  "end": 10.649,
+  "text": "Don’t be boring! Join in."
+ },
+ {
+  "id": 5,
+  "start": 12.274,
+  "end": 12.973,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 13.745,
+  "end": 16.832,
+  "text": "It’s very rude to arrive so late."
+ },
+ {
+  "id": 7,
+  "start": 17.213,
+  "end": 19.34,
+  "text": "Perhaps he had a serious problem."
+ },
+ {
+  "id": 8,
+  "start": 21.252,
+  "end": 22.188,
+  "text": "3"
+ },
+ {
+  "id": 9,
+  "start": 23.262,
+  "end": 25.127,
+  "text": "The food here is delicious."
+ },
+ {
+  "id": 10,
+  "start": 25.199,
+  "end": 27.564,
+  "text": "Yes. The fruit salad is gorgeous!"
+ },
+ {
+  "id": 11,
+  "start": 29.504,
+  "end": 30.385,
+  "text": "4"
+ },
+ {
+  "id": 12,
+  "start": 31.387,
+  "end": 33.229,
+  "text": "The weather’s awful today."
+ },
+ {
+  "id": 13,
+  "start": 33.303,
+  "end": 35.755,
+  "text": "Yes, it’s horrible outside."
+ },
+ {
+  "id": 14,
+  "start": 37.775,
+  "end": 38.743,
+  "text": "5"
+ },
+ {
+  "id": 15,
+  "start": 39.5,
+  "end": 41.539,
+  "text": "The weather’s lovely today!"
+ },
+ {
+  "id": 16,
+  "start": 41.779,
+  "end": 44.2,
+  "text": "It’s a perfect day for a barbecue."
+ },
+ {
+  "id": 17,
+  "start": 46.53,
+  "end": 47.609,
+  "text": "6"
+ },
+ {
+  "id": 18,
+  "start": 48.604,
+  "end": 50.882,
+  "text": "It’s a strange band to have at a wedding."
+ },
+ {
+  "id": 19,
+  "start": 51.066,
+  "end": 52.916,
+  "text": "Yes, but the music’s all right."
+ },
+ {
+  "id": 20,
+  "start": 54.895,
+  "end": 55.728,
+  "text": "7"
+ },
+ {
+  "id": 21,
+  "start": 56.787,
+  "end": 58.422,
+  "text": "The room looks amazing."
+ },
+ {
+  "id": 22,
+  "start": 58.66,
+  "end": 60.597,
+  "text": "I think the carpet’s a bit ugly."
+ }
+];

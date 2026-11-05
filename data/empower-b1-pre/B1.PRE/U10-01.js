@@ -1,0 +1,500 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U10-01"]=[
+ {
+  "id": 1,
+  "start": 0.5,
+  "end": 2.056,
+  "text": "Track 10.01"
+ },
+ {
+  "id": 2,
+  "start": 4.296,
+  "end": 4.986,
+  "text": "Hello."
+ },
+ {
+  "id": 3,
+  "start": 5.544,
+  "end": 7.044,
+  "text": "In today's podcast"
+ },
+ {
+  "id": 4,
+  "start": 7.077,
+  "end": 8.665,
+  "text": "we're going to talk about the tricky"
+ },
+ {
+  "id": 5,
+  "start": 8.69,
+  "end": 11.332,
+  "text": "question of downloading books for free."
+ },
+ {
+  "id": 6,
+  "start": 12.368,
+  "end": 14.249,
+  "text": "Authors have complained recently"
+ },
+ {
+  "id": 7,
+  "start": 14.576,
+  "end": 16.664,
+  "text": "that more and more people download"
+ },
+ {
+  "id": 8,
+  "start": 16.728,
+  "end": 18.323,
+  "text": "their books without paying for them."
+ },
+ {
+  "id": 9,
+  "start": 19.146,
+  "end": 20.384,
+  "text": "So should you do it?"
+ },
+ {
+  "id": 10,
+  "start": 20.9,
+  "end": 22.162,
+  "text": "And would you do it?"
+ },
+ {
+  "id": 11,
+  "start": 22.942,
+  "end": 24.633,
+  "text": "We went out to discover what"
+ },
+ {
+  "id": 12,
+  "start": 24.73,
+  "end": 25.5,
+  "text": "people think,"
+ },
+ {
+  "id": 13,
+  "start": 25.809,
+  "end": 27.903,
+  "text": "and we asked them this question:"
+ },
+ {
+  "id": 14,
+  "start": 28.693,
+  "end": 30.543,
+  "text": "If you wanted to read a book,"
+ },
+ {
+  "id": 15,
+  "start": 30.991,
+  "end": 33.038,
+  "text": "would you download it without paying?"
+ },
+ {
+  "id": 16,
+  "start": 33.152,
+  "end": 35.993,
+  "text": "Um, yes I would, probably."
+ },
+ {
+  "id": 17,
+  "start": 36.457,
+  "end": 38.56,
+  "text": "If it was a book I needed for my studies."
+ },
+ {
+  "id": 18,
+  "start": 39.436,
+  "end": 41.095,
+  "text": "They're often so expensive."
+ },
+ {
+  "id": 19,
+  "start": 41.549,
+  "end": 43.874,
+  "text": "So I'd try to download it for free"
+ },
+ {
+  "id": 20,
+  "start": 43.899,
+  "end": 45.376,
+  "text": "if I really needed to read it."
+ },
+ {
+  "id": 21,
+  "start": 45.506,
+  "end": 47.457,
+  "text": "But if it was in the library,"
+ },
+ {
+  "id": 22,
+  "start": 47.623,
+  "end": 49.271,
+  "text": "you could get it for free anyway."
+ },
+ {
+  "id": 23,
+  "start": 49.366,
+  "end": 50.088,
+  "text": "Yes."
+ },
+ {
+  "id": 24,
+  "start": 50.249,
+  "end": 52.447,
+  "text": "But I'd probably still download it."
+ },
+ {
+  "id": 25,
+  "start": 53.665,
+  "end": 54.752,
+  "text": "It's a lot easier,"
+ },
+ {
+  "id": 26,
+  "start": 55.16,
+  "end": 58.612,
+  "text": "and I could keep it then - I wouldn't have to take it back."
+ },
+ {
+  "id": 27,
+  "start": 58.7,
+  "end": 59.525,
+  "text": "How about you?"
+ },
+ {
+  "id": 28,
+  "start": 59.694,
+  "end": 61.019,
+  "text": "Yeah, I agree."
+ },
+ {
+  "id": 29,
+  "start": 61.356,
+  "end": 63.348,
+  "text": "If I needed it for my studies,"
+ },
+ {
+  "id": 30,
+  "start": 63.373,
+  "end": 64.864,
+  "text": "I'd look for a site where"
+ },
+ {
+  "id": 31,
+  "start": 64.889,
+  "end": 66.112,
+  "text": "I could download it."
+ },
+ {
+  "id": 32,
+  "start": 66.687,
+  "end": 68.107,
+  "text": "What about a novel?"
+ },
+ {
+  "id": 33,
+  "start": 68.466,
+  "end": 69.442,
+  "text": "A bestseller?"
+ },
+ {
+  "id": 34,
+  "start": 69.779,
+  "end": 73.271,
+  "text": "Yes, I'd download it without paying if I could."
+ },
+ {
+  "id": 35,
+  "start": 73.744,
+  "end": 76.164,
+  "text": "Best-selling authors make so much money,"
+ },
+ {
+  "id": 36,
+  "start": 76.189,
+  "end": 77.538,
+  "text": "they aren't exactly poor."
+ },
+ {
+  "id": 37,
+  "start": 77.944,
+  "end": 79.166,
+  "text": "So why pay for a book"
+ },
+ {
+  "id": 38,
+  "start": 79.191,
+  "end": 80.454,
+  "text": "if you can read it for free?"
+ },
+ {
+  "id": 39,
+  "start": 80.805,
+  "end": 81.774,
+  "text": "How about you?"
+ },
+ {
+  "id": 40,
+  "start": 82.172,
+  "end": 83.299,
+  "text": "Would you download a book"
+ },
+ {
+  "id": 41,
+  "start": 83.347,
+  "end": 84.315,
+  "text": "without paying for it?"
+ },
+ {
+  "id": 42,
+  "start": 85.098,
+  "end": 88.201,
+  "text": "No, I wouldn't, I'd always pay."
+ },
+ {
+  "id": 43,
+  "start": 88.544,
+  "end": 90.21,
+  "text": "I pay for other things, like"
+ },
+ {
+  "id": 44,
+  "start": 90.315,
+  "end": 91.855,
+  "text": "clothes or gadgets,"
+ },
+ {
+  "id": 45,
+  "start": 92.094,
+  "end": 93.435,
+  "text": "so why not pay for books?"
+ },
+ {
+  "id": 46,
+  "start": 94.772,
+  "end": 95.978,
+  "text": "But why would you pay"
+ },
+ {
+  "id": 47,
+  "start": 96.042,
+  "end": 97.502,
+  "text": "if you could get it for free?"
+ },
+ {
+  "id": 48,
+  "start": 99.072,
+  "end": 99.739,
+  "text": "Someone's"
+ },
+ {
+  "id": 49,
+  "start": 99.77,
+  "end": 101.405,
+  "text": "spent time writing them,"
+ },
+ {
+  "id": 50,
+  "start": 101.643,
+  "end": 103.215,
+  "text": "so I think you should pay for them."
+ },
+ {
+  "id": 51,
+  "start": 104.035,
+  "end": 108.436,
+  "text": "I mean if I was in a bookshop and I saw a book I liked,"
+ },
+ {
+  "id": 52,
+  "start": 108.626,
+  "end": 113.235,
+  "text": "I wouldn't steal it - so I think it's the same with downloading books."
+ },
+ {
+  "id": 53,
+  "start": 113.442,
+  "end": 117.141,
+  "text": "Or films, or music, it's all the same."
+ },
+ {
+  "id": 54,
+  "start": 117.954,
+  "end": 119.518,
+  "text": "Just because it's online,"
+ },
+ {
+  "id": 55,
+  "start": 119.585,
+  "end": 121.997,
+  "text": "it doesn't mean you should get it for free."
+ },
+ {
+  "id": 56,
+  "start": 122.952,
+  "end": 124.079,
+  "text": "How about you?"
+ },
+ {
+  "id": 57,
+  "start": 124.515,
+  "end": 125.602,
+  "text": "Would you download a book"
+ },
+ {
+  "id": 58,
+  "start": 125.627,
+  "end": 126.706,
+  "text": "without paying for it?"
+ },
+ {
+  "id": 59,
+  "start": 127.098,
+  "end": 127.511,
+  "text": "Well,"
+ },
+ {
+  "id": 60,
+  "start": 127.654,
+  "end": 129.464,
+  "text": "actually I wouldn't download"
+ },
+ {
+  "id": 61,
+  "start": 129.465,
+  "end": 130.377,
+  "text": "a book anyway,"
+ },
+ {
+  "id": 62,
+  "start": 130.666,
+  "end": 131.737,
+  "text": "I'd buy the book."
+ },
+ {
+  "id": 63,
+  "start": 132.054,
+  "end": 133.961,
+  "text": "You mean, in a bookshop?"
+ },
+ {
+  "id": 64,
+  "start": 134.518,
+  "end": 135.168,
+  "text": "Yes,"
+ },
+ {
+  "id": 65,
+  "start": 135.44,
+  "end": 137.186,
+  "text": "or I'd order it online,"
+ },
+ {
+  "id": 66,
+  "start": 137.246,
+  "end": 139.007,
+  "text": "but as a real book."
+ },
+ {
+  "id": 67,
+  "start": 139.294,
+  "end": 141.191,
+  "text": "I don't like ebooks."
+ },
+ {
+  "id": 68,
+  "start": 141.542,
+  "end": 142.494,
+  "text": "I like to have the book"
+ },
+ {
+  "id": 69,
+  "start": 142.519,
+  "end": 143.582,
+  "text": "in my hand"
+ },
+ {
+  "id": 70,
+  "start": 143.64,
+  "end": 145.077,
+  "text": "- and keep it afterwards."
+ },
+ {
+  "id": 71,
+  "start": 145.682,
+  "end": 147.127,
+  "text": "And what if you could"
+ },
+ {
+  "id": 72,
+  "start": 147.246,
+  "end": 149.151,
+  "text": "only get the book online?"
+ },
+ {
+  "id": 73,
+  "start": 149.186,
+  "end": 149.828,
+  "text": "Well,"
+ },
+ {
+  "id": 74,
+  "start": 149.829,
+  "end": 151.584,
+  "text": "if it wasn't available"
+ },
+ {
+  "id": 75,
+  "start": 151.585,
+  "end": 153.625,
+  "text": "and I really wanted to read it"
+ },
+ {
+  "id": 76,
+  "start": 153.936,
+  "end": 156.398,
+  "text": "I might download it as an ebook."
+ },
+ {
+  "id": 77,
+  "start": 156.526,
+  "end": 158.972,
+  "text": "But I wouldn't download it illegally,"
+ },
+ {
+  "id": 78,
+  "start": 159.029,
+  "end": 160.451,
+  "text": "I'd always pay for it."
+ },
+ {
+  "id": 79,
+  "start": 161.34,
+  "end": 162.157,
+  "text": "Why's that?"
+ },
+ {
+  "id": 80,
+  "start": 162.873,
+  "end": 163.325,
+  "text": "Well,"
+ },
+ {
+  "id": 81,
+  "start": 163.422,
+  "end": 165.374,
+  "text": "authors need to earn money."
+ },
+ {
+  "id": 82,
+  "start": 165.624,
+  "end": 167.806,
+  "text": "If they don't, they'll stop writing."
+ },
+ {
+  "id": 83,
+  "start": 168.214,
+  "end": 170.357,
+  "text": "Then there won't be any books any more."
+ }
+];

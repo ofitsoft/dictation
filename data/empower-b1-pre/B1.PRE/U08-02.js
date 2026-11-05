@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U08-02"]=[
+ {
+  "id": 1,
+  "start": 0.437,
+  "end": 2.381,
+  "text": "Track 08.02"
+ },
+ {
+  "id": 2,
+  "start": 4.343,
+  "end": 7.801,
+  "text": "I am chosen for the school football team every year."
+ },
+ {
+  "id": 3,
+  "start": 9.555,
+  "end": 12.252,
+  "text": "Three Godfather films were made altogether."
+ },
+ {
+  "id": 4,
+  "start": 14.026,
+  "end": 17.415,
+  "text": "This car isn’t sold in the USA or Canada."
+ },
+ {
+  "id": 5,
+  "start": 18.823,
+  "end": 19.664,
+  "text": "Harry Potter"
+ },
+ {
+  "id": 6,
+  "start": 19.689,
+  "end": 21.419,
+  "text": "wasn't written for adults."
+ },
+ {
+  "id": 7,
+  "start": 23.215,
+  "end": 25.136,
+  "text": "Am I invited to your party?"
+ },
+ {
+  "id": 8,
+  "start": 26.9,
+  "end": 28.17,
+  "text": "Yes you are."
+ },
+ {
+  "id": 9,
+  "start": 29.929,
+  "end": 31.04,
+  "text": "No you’re not."
+ },
+ {
+  "id": 10,
+  "start": 32.804,
+  "end": 35.098,
+  "text": "Was The Hobbit written for children?"
+ },
+ {
+  "id": 11,
+  "start": 36.848,
+  "end": 38.047,
+  "text": "Yes, it was."
+ },
+ {
+  "id": 12,
+  "start": 39.81,
+  "end": 40.976,
+  "text": "No, it wasn’t."
+ }
+];

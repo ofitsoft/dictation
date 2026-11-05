@@ -15,6 +15,108 @@
   let speed = 1;
   try { speed = parseFloat(localStorage.getItem(LS_SPEED)) || 1; } catch {}
 
+  /* ---------- nhật ký Google Sheet (laptop và điện thoại dùng chung) ---------- */
+  const LOG_CFG = "dict:log:cfg", LOG_QUEUE = "dict:log:queue", LOG_SUM = "dict:log:summary";
+  let studySummary = {};
+  try { studySummary = JSON.parse(localStorage.getItem(LOG_SUM) || "{}"); } catch {}
+  let logBusy = false;
+
+  function logCfg() {
+    let saved = null;
+    try { saved = JSON.parse(localStorage.getItem(LOG_CFG) || "null"); } catch {}
+    const file = window.STUDY_LOG || {};
+    const src = saved && saved.url ? saved : file;
+    return {
+      url: String(src.url || "").trim().replace(/\/+$/, "").replace(/\?.*$/, ""),
+      token: String(src.token || "").trim()
+    };
+  }
+  function saveLogCfg(url, token) {
+    localStorage.setItem(LOG_CFG, JSON.stringify({ url: url.trim(), token: token.trim() }));
+  }
+  function clearLogCfg() { localStorage.removeItem(LOG_CFG); }
+  function studyTimes(topic, id) { return studySummary[`${topic}/${id}`] || null; }
+  function rememberSummary(lessons) {
+    studySummary = lessons || {};
+    try { localStorage.setItem(LOG_SUM, JSON.stringify(studySummary)); } catch {}
+  }
+  function eventId() {
+    try {
+      const a = new Uint8Array(8);
+      crypto.getRandomValues(a);
+      return [...a].map((b) => b.toString(16).padStart(2, "0")).join("");
+    } catch { return Math.random().toString(16).slice(2, 18); }
+  }
+  function readQueue() {
+    try { return JSON.parse(localStorage.getItem(LOG_QUEUE) || "[]"); } catch { return []; }
+  }
+  function writeQueue(q) {
+    try { localStorage.setItem(LOG_QUEUE, JSON.stringify(q.slice(-200))); } catch {}
+  }
+  function callSheet(params) {
+    const cfg = logCfg();
+    if (!cfg.url || !cfg.token) return Promise.reject(new Error("Chưa gắn Google Sheet"));
+    const cb = "dictLog_" + eventId();
+    return new Promise((resolve, reject) => {
+      let settled = false;
+      const s = document.createElement("script");
+      const done = (fn) => {
+        if (settled) return;
+        settled = true;
+        clearTimeout(timer);
+        delete window[cb];
+        s.remove();
+        fn();
+      };
+      const timer = setTimeout(() => done(() => reject(new Error("Google Sheet không trả lời"))), 12000);
+      window[cb] = (data) => done(() => resolve(data || {}));
+      s.onerror = () => done(() => reject(new Error("Không gọi được Google Sheet")));
+      const q = new URLSearchParams({ ...params, token: cfg.token, callback: cb });
+      s.src = cfg.url + "?" + q.toString();
+      document.head.appendChild(s);
+    });
+  }
+  function flushLog() {
+    const cfg = logCfg();
+    if (!cfg.url || !cfg.token || logBusy) return Promise.resolve();
+    const q = readQueue();
+    if (!q.length) return Promise.resolve();
+    logBusy = true;
+    const row = q[0];
+    return callSheet({
+      action: "log", event_id: row.event_id, topic: row.topic, lesson: row.lesson,
+      title: row.title, event: row.event, ok: row.ok ?? "", bad: row.bad ?? "",
+      skip: row.skip ?? "", total: row.total ?? ""
+    }).then((data) => {
+      logBusy = false;
+      if (data && data.ok === false) {
+        writeQueue(readQueue().filter((x) => x.event_id !== row.event_id));
+        throw new Error(data.error || "Sheet từ chối");
+      }
+      writeQueue(readQueue().filter((x) => x.event_id !== row.event_id));
+      if (data && row.topic && row.lesson) {
+        const k = `${row.topic}/${row.lesson}`;
+        const prev = studySummary[k] || {};
+        studySummary[k] = { ...prev, open: data.open ?? prev.open, done: data.done ?? prev.done, title: row.title };
+        rememberSummary(studySummary);
+      }
+      if (readQueue().length) flushLog().catch(() => {});
+      return data;
+    }).catch((err) => { logBusy = false; throw err; });
+  }
+  function logStudy(row) {
+    const item = { event_id: eventId(), ...row };
+    writeQueue(readQueue().concat(item));
+    return flushLog();
+  }
+  function refreshSummary() {
+    return callSheet({ action: "summary" }).then((data) => {
+      if (!data || data.ok === false) throw new Error((data && data.error) || "Không đọc được nhật ký");
+      rememberSummary(data.lessons || {});
+      return studySummary;
+    });
+  }
+
   /* ---------- tiện ích ---------- */
   const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   window.DICT = window.DICT || {};
@@ -44,14 +146,15 @@
   const initials = (t) => t.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join("").toUpperCase();
   let cleanup = () => {};
 
-  /* ---------- router: #/  |  #/t/<chủ đề>  |  #/t/<chủ đề>/<bài>[/<câu>] ---------- */
+  /* ---------- router: #/  |  #/log  |  #/t/<chủ đề>  |  #/t/<chủ đề>/<bài>[/<câu>] ---------- */
   async function route() {
     cleanup(); cleanup = () => {};
     const h = location.hash;
     const lm = h.match(/^#\/t\/([\w-]+)\/([\w-]+)(?:\/(\d+))?/);
     const tm = h.match(/^#\/t\/([\w-]+)\/?$/);
     try {
-      if (lm) await showLesson(lm[1], lm[2], lm[3] ? parseInt(lm[3], 10) - 1 : null);
+      if (h === "#/log") await showLog();
+      else if (lm) await showLesson(lm[1], lm[2], lm[3] ? parseInt(lm[3], 10) - 1 : null);
       else if (tm) await showTopic(tm[1]);
       else await showHome();
     } catch (e) {
@@ -60,6 +163,55 @@
   }
   addEventListener("hashchange", route);
   route();
+  flushLog().catch(() => {});
+
+  /* ================= Nhật ký: bài nào, bao nhiêu lần ================= */
+  async function showLog() {
+    document.title = "Nhật ký – Nghe chép";
+    const cfg = logCfg();
+    let alive = true;
+    cleanup = () => { alive = false; };
+    const paint = (note) => {
+      if (!alive) return;
+      const rows = Object.values(studySummary).sort((a, b) => String(b.last || "").localeCompare(String(a.last || "")));
+      const c = logCfg();
+      app.innerHTML = `
+        <nav class="crumbs"><a href="#/">Tất cả chủ đề</a></nav>
+        <h1 class="page">Nhật ký học</h1>
+        <div class="logbox">
+          <p class="muted">Mỗi lần mở một bài ghi một dòng «mở». Học đến hết bài ghi thêm một dòng «xong», kèm số câu đúng. Laptop và điện thoại gửi vào cùng một Google Sheet.</p>
+          <ol class="steps">
+            <li>Tạo một Google Sheet trống, chỉ để chứa nhật ký này.</li>
+            <li>Extensions → Apps Script, xóa code cũ, dán file <code>tools/study-log.gs</code>. Đổi <code>TOKEN</code> thành một mật khẩu riêng (không dùng mật khẩu Google).</li>
+            <li>Deploy → New deployment → Web app. Execute as: <b>Me</b>. Who has access: <b>Anyone</b>. Copy URL kết thúc bằng <code>/exec</code>.</li>
+            <li>Dán URL và mật khẩu vào form dưới. Trên điện thoại mở cùng trang này và dán lại, hoặc điền vào <code>web/study-log-config.js</code> rồi đưa thư mục web lên mạng để hai máy dùng chung.</li>
+          </ol>
+          <form id="logform">
+            <label>URL Web app<input id="logurl" type="url" inputmode="url" autocomplete="off" placeholder="https://script.google.com/macros/s/…/exec" value="${esc(c.url)}" required></label>
+            <label>Mật khẩu TOKEN<input id="logtoken" type="text" autocomplete="off" value="${esc(c.token)}" required></label>
+            <div class="actions">
+              <button class="btn primary" type="submit">Lưu và thử</button>
+              <button class="btn" type="button" id="logclear">Xóa trên máy này</button>
+            </div>
+          </form>
+          <p id="lognote" class="muted">${esc(note || (c.url ? "Đang đọc sheet…" : "Chưa gắn sheet."))}</p>
+          ${rows.length ? `<table class="logtable"><thead><tr><th>Bài</th><th>Mở</th><th>Xong</th><th>Gần nhất</th></tr></thead><tbody>
+            ${rows.map((r) => `<tr><td>${esc(r.title || r.lesson)}<div class="muted">${esc(r.topic || "")}</div></td><td class="num">${r.open || 0}</td><td class="num">${r.done || 0}</td><td class="num">${esc(r.last || "")}</td></tr>`).join("")}
+          </tbody></table>` : ""}
+        </div>`;
+      app.querySelector("#logform").onsubmit = (e) => {
+        e.preventDefault();
+        saveLogCfg(app.querySelector("#logurl").value, app.querySelector("#logtoken").value);
+        paint("Đang thử kết nối…");
+        refreshSummary().then(() => { if (alive) paint("Đã nối Google Sheet."); }).catch((err) => { if (alive) paint(err.message); });
+      };
+      app.querySelector("#logclear").onclick = () => { clearLogCfg(); paint("Đã xóa địa chỉ lưu trên máy này."); };
+    };
+    paint(cfg.url ? "Đang đọc sheet…" : "Chưa gắn sheet.");
+    if (cfg.url && cfg.token) {
+      refreshSummary().then(() => { if (alive) paint("Đã nối Google Sheet."); }).catch((err) => { if (alive) paint(err.message); });
+    }
+  }
 
   /* ================= Cấp 1: danh sách chủ đề ================= */
   async function showHome() {
@@ -114,7 +266,8 @@
       const q = st.q.trim().toLowerCase();
       const items = lessons.map((l) => {
         const n = nDone(topic, l.id);
-        return { ...l, n, st: n === 0 ? "todo" : n >= l.parts ? "done" : "doing" };
+        const times = studyTimes(topic, l.id);
+        return { ...l, n, times, st: n === 0 ? "todo" : n >= l.parts ? "done" : "doing" };
       }).filter((l) =>
         (!q || l.title.toLowerCase().includes(q)) && (!st.level || l.level === st.level) && (!st.status || l.st === st.status));
       const sections = groups.map((g) => ({ g, items: items.filter((l) => l.group === g.title) })).filter((s) => s.items.length);
@@ -127,7 +280,7 @@
           <div class="grid">${its.map((l) => `
             <a class="card" href="#/t/${topic}/${l.id}">
               <h3>${starSvg(l.st === "done")}<span>${l.no}. ${esc(l.title)}</span></h3>
-              <div class="meta"><span>${l.parts} câu</span>${l.level ? `<span class="lvl">${esc(l.level)}</span>` : ""}</div>
+              <div class="meta"><span>${l.parts} câu</span>${l.level ? `<span class="lvl">${esc(l.level)}</span>` : ""}${l.times && l.times.open ? `<span>Đã học ${l.times.open} lần</span>` : ""}</div>
               ${l.n ? `<div class="bar"><i style="width:${Math.min(100, Math.round((100 * l.n) / l.parts))}%"></i></div>` : ""}
             </a>`).join("")}</div></details>`;
       }).join("") : `<p class="empty">${lessons.length ? "Không có bài nào khớp bộ lọc." : "Chủ đề này chưa có bài nào."}</p>`;
@@ -136,6 +289,9 @@
     app.querySelector("#lv").addEventListener("change", (e) => { st.level = e.target.value; render(); });
     app.querySelector("#st").addEventListener("change", (e) => { st.status = e.target.value; render(); });
     render();
+    let topicAlive = true;
+    cleanup = () => { topicAlive = false; };
+    if (logCfg().url) refreshSummary().then(() => { if (topicAlive) render(); }).catch(() => {});
   }
 
   /* ---------- so khớp từ ---------- */
@@ -189,7 +345,7 @@
     app.innerHTML = `
       <nav class="crumbs"><a href="#/">Tất cả chủ đề</a> <span aria-hidden="true">/</span>
         <a href="#/t/${topic}">${esc(tinfo.title)}</a> <span aria-hidden="true">/</span> <span>${esc(meta.group)}</span></nav>
-      <header class="lhead"><h1>${meta.no}. ${esc(meta.title)}</h1>${meta.level ? `<span class="lvl">${esc(meta.level)}</span>` : ""}</header>
+      <header class="lhead"><h1>${meta.no}. ${esc(meta.title)}</h1>${meta.level ? `<span class="lvl">${esc(meta.level)}</span>` : ""}<span class="muted" id="study-count"></span></header>
       <div class="segbar" id="bar" role="group" aria-label="Các câu trong bài"></div>
       <div class="legend"><span class="l-ok">Đúng</span><span class="l-bad">Chưa đúng</span><span class="l-skip">Bỏ qua</span></div>
       <div class="tabs" role="tablist">
@@ -338,6 +494,7 @@
         <div class="done-panel">
           <h2>Xong bài ${esc(meta.title)}</h2>
           <p class="muted">${c.ok} câu đúng, ${c.bad} câu chưa đúng, ${c.skip} câu bỏ qua.</p>
+          <p class="muted" id="sheet-note">${logCfg().url ? "Đang ghi lần học này vào Google Sheet…" : "Chưa gắn Google Sheet — vào Nhật ký để lưu số lần học trên cả laptop và điện thoại."}</p>
           <div class="actions">
             ${nextLesson ? `<a class="btn primary" href="#/t/${topic}/${nextLesson.id}">Bài tiếp: ${esc(nextLesson.title)}</a>` : ""}
             ${c.bad + c.skip ? `<button class="btn" id="redo-bad">Làm lại câu chưa đúng</button>` : ""}
@@ -353,6 +510,9 @@
       };
       $pane.querySelector("#reset").onclick = () => { pr.res = {}; pr.pos = 0; save(); goto(0, true); };
       renderBar();
+      logStudy({ topic, lesson: id, title: meta.title, event: "xong", ok: c.ok, bad: c.bad, skip: c.skip, total: sents.length })
+        .then(() => { const n = document.getElementById("sheet-note"); if (n) n.textContent = "Đã ghi lần học xong vào Google Sheet."; })
+        .catch((err) => { const n = document.getElementById("sheet-note"); if (n && logCfg().url) n.textContent = err.message; });
     }
 
     /* ---------- tab "Toàn bộ transcript": phát từ đầu đến cuối ---------- */
@@ -492,5 +652,15 @@
     cleanup = () => { stop(); removeEventListener("keydown", onKey); audio.src = ""; };
 
     renderAll();
+    const known = studyTimes(topic, id);
+    const countEl = document.getElementById("study-count");
+    if (countEl && known && known.open) countEl.textContent = `Đã mở ${known.open} lần`;
+    logStudy({ topic, lesson: id, title: meta.title, event: "mở", total: sents.length })
+      .then((data) => {
+        const el = document.getElementById("study-count");
+        const open = data && data.open;
+        if (el && open) el.textContent = `Đã mở ${open} lần`;
+      })
+      .catch(() => {});
   }
 })();

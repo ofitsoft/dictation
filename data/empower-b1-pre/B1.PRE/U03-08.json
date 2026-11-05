@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "start": 0.476,
+  "end": 2.373,
+  "text": "Track 03.08"
+ },
+ {
+  "id": 2,
+  "start": 4.265,
+  "end": 5.225,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.465,
+  "end": 8.434,
+  "text": "I’ve already given away my tablet."
+ },
+ {
+  "id": 4,
+  "start": 10.344,
+  "end": 11.106,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 12.51,
+  "end": 14.05,
+  "text": "I haven’t found anyone who wants"
+ },
+ {
+  "id": 6,
+  "start": 14.075,
+  "end": 15.645,
+  "text": "my desktop computer yet."
+ },
+ {
+  "id": 7,
+  "start": 17.348,
+  "end": 18.34,
+  "text": "3"
+ },
+ {
+  "id": 8,
+  "start": 19.683,
+  "end": 21.706,
+  "text": "Have you sold your car yet?"
+ }
+]

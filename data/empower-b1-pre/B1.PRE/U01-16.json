@@ -1,0 +1,122 @@
+[
+ {
+  "id": 1,
+  "start": 0.452,
+  "end": 2.627,
+  "text": "Track 01.16"
+ },
+ {
+  "id": 2,
+  "start": 4.726,
+  "end": 5.591,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.292,
+  "end": 7.84,
+  "text": "Long time no see!"
+ },
+ {
+  "id": 4,
+  "start": 8.181,
+  "end": 10.665,
+  "text": "Yes it is! Great to see you!"
+ },
+ {
+  "id": 5,
+  "start": 12.636,
+  "end": 13.39,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 14.028,
+  "end": 15.218,
+  "text": "How are you?"
+ },
+ {
+  "id": 7,
+  "start": 15.528,
+  "end": 17.813,
+  "text": "I’m great, thanks. How are you?"
+ },
+ {
+  "id": 8,
+  "start": 19.412,
+  "end": 20.301,
+  "text": "3"
+ },
+ {
+  "id": 9,
+  "start": 21.154,
+  "end": 22.511,
+  "text": "Great to see you!"
+ },
+ {
+  "id": 10,
+  "start": 22.799,
+  "end": 24.529,
+  "text": "Lovely to see you too."
+ },
+ {
+  "id": 11,
+  "start": 27.286,
+  "end": 28.175,
+  "text": "4"
+ },
+ {
+  "id": 12,
+  "start": 29.178,
+  "end": 30.988,
+  "text": "Where are you living these days?"
+ },
+ {
+  "id": 13,
+  "start": 31.268,
+  "end": 33.062,
+  "text": "I live on Hampton Street."
+ },
+ {
+  "id": 14,
+  "start": 33.292,
+  "end": 34.149,
+  "text": "Do you know it?"
+ },
+ {
+  "id": 15,
+  "start": 35.271,
+  "end": 36.232,
+  "text": "5"
+ },
+ {
+  "id": 16,
+  "start": 36.758,
+  "end": 38.457,
+  "text": "My name’s Mark, by the way."
+ },
+ {
+  "id": 17,
+  "start": 38.806,
+  "end": 40.711,
+  "text": "Hi! Nice to meet you."
+ },
+ {
+  "id": 18,
+  "start": 42.358,
+  "end": 43.469,
+  "text": "6"
+ },
+ {
+  "id": 19,
+  "start": 44.159,
+  "end": 45.286,
+  "text": "Nice to meet you."
+ },
+ {
+  "id": 20,
+  "start": 45.659,
+  "end": 46.841,
+  "text": "Nice to meet you, too."
+ }
+]

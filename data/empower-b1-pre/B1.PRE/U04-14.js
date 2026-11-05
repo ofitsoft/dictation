@@ -1,0 +1,116 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U04-14"]=[
+ {
+  "id": 1,
+  "start": 0.476,
+  "end": 2.619,
+  "text": "Track 04.14"
+ },
+ {
+  "id": 2,
+  "start": 4.812,
+  "end": 6.899,
+  "text": "1 c"
+ },
+ {
+  "id": 3,
+  "start": 7.83,
+  "end": 8.695,
+  "text": "modern"
+ },
+ {
+  "id": 4,
+  "start": 9.803,
+  "end": 10.795,
+  "text": "ancient"
+ },
+ {
+  "id": 5,
+  "start": 12.599,
+  "end": 14.401,
+  "text": "2 e"
+ },
+ {
+  "id": 6,
+  "start": 15.245,
+  "end": 16.023,
+  "text": "high"
+ },
+ {
+  "id": 7,
+  "start": 17.057,
+  "end": 17.859,
+  "text": "low"
+ },
+ {
+  "id": 8,
+  "start": 19.528,
+  "end": 21.544,
+  "text": "3 d"
+ },
+ {
+  "id": 9,
+  "start": 22.213,
+  "end": 23.054,
+  "text": "indoor"
+ },
+ {
+  "id": 10,
+  "start": 24.414,
+  "end": 25.358,
+  "text": "outdoor"
+ },
+ {
+  "id": 11,
+  "start": 27.385,
+  "end": 29.552,
+  "text": "4 f"
+ },
+ {
+  "id": 12,
+  "start": 30.245,
+  "end": 31.483,
+  "text": "magnificent"
+ },
+ {
+  "id": 13,
+  "start": 32.645,
+  "end": 33.518,
+  "text": "ordinary"
+ },
+ {
+  "id": 14,
+  "start": 35.369,
+  "end": 37.496,
+  "text": "5 b"
+ },
+ {
+  "id": 15,
+  "start": 38.871,
+  "end": 39.847,
+  "text": "narrow"
+ },
+ {
+  "id": 16,
+  "start": 41.026,
+  "end": 41.931,
+  "text": "wide"
+ },
+ {
+  "id": 17,
+  "start": 43.806,
+  "end": 46.299,
+  "text": "6 a"
+ },
+ {
+  "id": 18,
+  "start": 47.778,
+  "end": 48.747,
+  "text": "noisy"
+ },
+ {
+  "id": 19,
+  "start": 50.103,
+  "end": 51.095,
+  "text": "peaceful"
+ }
+];

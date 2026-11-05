@@ -1,0 +1,194 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U03-01"]=[
+ {
+  "id": 1,
+  "start": 0.484,
+  "end": 2.294,
+  "text": "Track 03.01"
+ },
+ {
+  "id": 2,
+  "start": 4.495,
+  "end": 8.289,
+  "text": "Story 1; Carol. 1"
+ },
+ {
+  "id": 3,
+  "start": 9.429,
+  "end": 11.048,
+  "text": "Carol had a problem."
+ },
+ {
+  "id": 4,
+  "start": 11.804,
+  "end": 14.177,
+  "text": "She spent a lot of money on shoes."
+ },
+ {
+  "id": 5,
+  "start": 16.761,
+  "end": 17.452,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 18.058,
+  "end": 21.931,
+  "text": "One day Carol and Fay went shopping in the sales."
+ },
+ {
+  "id": 7,
+  "start": 24.269,
+  "end": 25.15,
+  "text": "3"
+ },
+ {
+  "id": 8,
+  "start": 25.865,
+  "end": 28.191,
+  "text": "Carol saw some shoes she loved,"
+ },
+ {
+  "id": 9,
+  "start": 28.414,
+  "end": 30.334,
+  "text": "but she didn’t have any cash."
+ },
+ {
+  "id": 10,
+  "start": 32.92,
+  "end": 33.824,
+  "text": "4"
+ },
+ {
+  "id": 11,
+  "start": 34.7,
+  "end": 37.026,
+  "text": "Fay offered to lend her some money,"
+ },
+ {
+  "id": 12,
+  "start": 37.433,
+  "end": 39.933,
+  "text": "so she borrowed £100."
+ },
+ {
+  "id": 13,
+  "start": 42.128,
+  "end": 43.096,
+  "text": "5"
+ },
+ {
+  "id": 14,
+  "start": 43.535,
+  "end": 46.756,
+  "text": "Carol now owed Fay £700."
+ },
+ {
+  "id": 15,
+  "start": 47.308,
+  "end": 50.911,
+  "text": "So she got a loan for £1,000 from the bank."
+ },
+ {
+  "id": 16,
+  "start": 53.582,
+  "end": 54.662,
+  "text": "6"
+ },
+ {
+  "id": 17,
+  "start": 55.379,
+  "end": 60.149,
+  "text": "She paid back the £700 and spent the rest on shoes!"
+ },
+ {
+  "id": 18,
+  "start": 62.934,
+  "end": 66.918,
+  "text": "Story 2; Brian. 1"
+ },
+ {
+  "id": 19,
+  "start": 67.987,
+  "end": 70.36,
+  "text": "Brian was saving up for a camera."
+ },
+ {
+  "id": 20,
+  "start": 72.945,
+  "end": 73.723,
+  "text": "2"
+ },
+ {
+  "id": 21,
+  "start": 74.311,
+  "end": 79.519,
+  "text": "He saw a great camera but it cost £499."
+ },
+ {
+  "id": 22,
+  "start": 81.899,
+  "end": 82.764,
+  "text": "3"
+ },
+ {
+  "id": 23,
+  "start": 83.209,
+  "end": 84.796,
+  "text": "Brian couldn’t afford it."
+ },
+ {
+  "id": 24,
+  "start": 85.132,
+  "end": 88.33,
+  "text": "He only had £400 in his bank account."
+ },
+ {
+  "id": 25,
+  "start": 90.917,
+  "end": 91.877,
+  "text": "4"
+ },
+ {
+  "id": 26,
+  "start": 92.79,
+  "end": 96.782,
+  "text": "He asked the shop assistant for a discount but she said no."
+ },
+ {
+  "id": 27,
+  "start": 99.327,
+  "end": 100.335,
+  "text": "5"
+ },
+ {
+  "id": 28,
+  "start": 101.116,
+  "end": 102.703,
+  "text": "When Brian got home"
+ },
+ {
+  "id": 29,
+  "start": 102.83,
+  "end": 105.06,
+  "text": "he found a special offer online."
+ },
+ {
+  "id": 30,
+  "start": 107.481,
+  "end": 108.552,
+  "text": "6"
+ },
+ {
+  "id": 31,
+  "start": 109.443,
+  "end": 113.403,
+  "text": "So he got the camera for £399!"
+ },
+ {
+  "id": 32,
+  "start": 113.921,
+  "end": 115.198,
+  "text": "He was very happy!"
+ }
+];

@@ -1,0 +1,200 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U02-01"]=[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 2.23,
+  "text": "Track 02.01"
+ },
+ {
+  "id": 2,
+  "start": 4.399,
+  "end": 5.463,
+  "text": "Day 3"
+ },
+ {
+  "id": 3,
+  "start": 6.322,
+  "end": 10.561,
+  "text": "So, the next morning, we started with some water skiing practice on the beach."
+ },
+ {
+  "id": 4,
+  "start": 11.055,
+  "end": 13.73,
+  "text": "First, they showed us how to stand up on the skis …"
+ },
+ {
+  "id": 5,
+  "start": 13.963,
+  "end": 16.003,
+  "text": "and then how to fall off safely."
+ },
+ {
+  "id": 6,
+  "start": 16.744,
+  "end": 18.244,
+  "text": "The lesson took about an hour,"
+ },
+ {
+  "id": 7,
+  "start": 18.331,
+  "end": 20.355,
+  "text": "and then we were ready to go out to sea."
+ },
+ {
+  "id": 8,
+  "start": 20.912,
+  "end": 22.833,
+  "text": "There were five other people in my group,"
+ },
+ {
+  "id": 9,
+  "start": 22.858,
+  "end": 24.391,
+  "text": "who were all very excited."
+ },
+ {
+  "id": 10,
+  "start": 24.676,
+  "end": 25.573,
+  "text": "But not me –"
+ },
+ {
+  "id": 11,
+  "start": 26.068,
+  "end": 27.584,
+  "text": "I was really worried."
+ },
+ {
+  "id": 12,
+  "start": 28.054,
+  "end": 29.761,
+  "text": "The instructor looked at me and said"
+ },
+ {
+  "id": 13,
+  "start": 29.881,
+  "end": 31.334,
+  "text": "“Do you want to go first?”"
+ },
+ {
+  "id": 14,
+  "start": 31.58,
+  "end": 33.334,
+  "text": "and then everyone looked at me."
+ },
+ {
+  "id": 15,
+  "start": 33.828,
+  "end": 36.701,
+  "text": "I felt sick but I said, “Yes”."
+ },
+ {
+  "id": 16,
+  "start": 37.379,
+  "end": 39.188,
+  "text": "Ten seconds after I started,"
+ },
+ {
+  "id": 17,
+  "start": 39.303,
+  "end": 40.239,
+  "text": "I fell over."
+ },
+ {
+  "id": 18,
+  "start": 40.845,
+  "end": 43.757,
+  "text": "I tried again. And I fell over again."
+ },
+ {
+  "id": 19,
+  "start": 44.277,
+  "end": 45.452,
+  "text": "Then the third time,"
+ },
+ {
+  "id": 20,
+  "start": 45.477,
+  "end": 47.912,
+  "text": "something amazing suddenly happened."
+ },
+ {
+  "id": 21,
+  "start": 48.361,
+  "end": 49.964,
+  "text": "I didn’t fall over."
+ },
+ {
+  "id": 22,
+  "start": 50.378,
+  "end": 53.013,
+  "text": "And I found out that I love water skiing."
+ },
+ {
+  "id": 23,
+  "start": 53.484,
+  "end": 57.573,
+  "text": "The ten minutes in the water passed very quickly and I didn’t want to stop!"
+ },
+ {
+  "id": 24,
+  "start": 58.68,
+  "end": 60.267,
+  "text": "When we got back to the hotel,"
+ },
+ {
+  "id": 25,
+  "start": 60.348,
+  "end": 61.784,
+  "text": "the receptionist asked me,"
+ },
+ {
+  "id": 26,
+  "start": 62.056,
+  "end": 64.937,
+  "text": "“So, did you enjoy the water skiing course?”"
+ },
+ {
+  "id": 27,
+  "start": 65.345,
+  "end": 69.385,
+  "text": "I said, 'Yes' which, for the first time, was the truth."
+ },
+ {
+  "id": 28,
+  "start": 70.064,
+  "end": 71.659,
+  "text": "And then later on that evening"
+ },
+ {
+  "id": 29,
+  "start": 71.756,
+  "end": 72.994,
+  "text": "I had a drink in the bar"
+ },
+ {
+  "id": 30,
+  "start": 73.019,
+  "end": 74.359,
+  "text": "with the other water skiers."
+ },
+ {
+  "id": 31,
+  "start": 74.718,
+  "end": 76.163,
+  "text": "I felt really happy."
+ },
+ {
+  "id": 32,
+  "start": 76.554,
+  "end": 78.094,
+  "text": "And that was when I realised"
+ },
+ {
+  "id": 33,
+  "start": 78.119,
+  "end": 81.063,
+  "text": "I was enjoying being a ‘Yes Man’ after all."
+ }
+];

@@ -1,0 +1,200 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U09-10"]=[
+ {
+  "id": 1,
+  "start": 0.671,
+  "end": 2.29,
+  "text": "Track 09.10"
+ },
+ {
+  "id": 2,
+  "start": 5.095,
+  "end": 5.999,
+  "text": "PART 1"
+ },
+ {
+  "id": 3,
+  "start": 19.77,
+  "end": 20.404,
+  "text": "Good morning,"
+ },
+ {
+  "id": 4,
+  "start": 20.429,
+  "end": 21.595,
+  "text": "Turner and Collins."
+ },
+ {
+  "id": 5,
+  "start": 22.113,
+  "end": 22.891,
+  "text": "Oh, good morning."
+ },
+ {
+  "id": 6,
+  "start": 23.091,
+  "end": 25.787,
+  "text": "Is it possible to speak to Mark Riley in Marketing?"
+ },
+ {
+  "id": 7,
+  "start": 26.22,
+  "end": 27.382,
+  "text": "I’ll just put you through."
+ },
+ {
+  "id": 8,
+  "start": 33.099,
+  "end": 34.29,
+  "text": "Hello, Mark Riley’s phone?"
+ },
+ {
+  "id": 9,
+  "start": 35.095,
+  "end": 35.698,
+  "text": "Oh, hello."
+ },
+ {
+  "id": 10,
+  "start": 35.81,
+  "end": 36.802,
+  "text": "Is Mark there?"
+ },
+ {
+  "id": 11,
+  "start": 37.455,
+  "end": 39.968,
+  "text": "I’m afraid he’s not available - he’s in a meeting."
+ },
+ {
+  "id": 12,
+  "start": 40.059,
+  "end": 41.035,
+  "text": "Can I take a message?"
+ },
+ {
+  "id": 13,
+  "start": 41.1,
+  "end": 41.616,
+  "text": "Umm,"
+ },
+ {
+  "id": 14,
+  "start": 41.871,
+  "end": 43.332,
+  "text": "can you just tell him that I called?"
+ },
+ {
+  "id": 15,
+  "start": 43.707,
+  "end": 45.103,
+  "text": "And who’s calling please?"
+ },
+ {
+  "id": 16,
+  "start": 45.295,
+  "end": 46.912,
+  "text": "This is Annie Morton speaking."
+ },
+ {
+  "id": 17,
+  "start": 47.289,
+  "end": 47.694,
+  "text": "OK."
+ },
+ {
+  "id": 18,
+  "start": 47.719,
+  "end": 49.211,
+  "text": "And shall I ask him to call you back?"
+ },
+ {
+  "id": 19,
+  "start": 50.093,
+  "end": 51.141,
+  "text": "Ah, yes please."
+ },
+ {
+  "id": 20,
+  "start": 51.754,
+  "end": 52.499,
+  "text": "Did you say your name"
+ },
+ {
+  "id": 21,
+  "start": 52.524,
+  "end": 53.492,
+  "text": "was Annie Morgan?"
+ },
+ {
+  "id": 22,
+  "start": 53.844,
+  "end": 54.844,
+  "text": "No, sorry,"
+ },
+ {
+  "id": 23,
+  "start": 55.09,
+  "end": 56.153,
+  "text": "Annie Morton."
+ },
+ {
+  "id": 24,
+  "start": 56.243,
+  "end": 58.743,
+  "text": "That’s M-O-R-T-O-N."
+ },
+ {
+  "id": 25,
+  "start": 59.142,
+  "end": 59.594,
+  "text": "OK."
+ },
+ {
+  "id": 26,
+  "start": 59.634,
+  "end": 60.729,
+  "text": "And has he got your number?"
+ },
+ {
+  "id": 27,
+  "start": 61.057,
+  "end": 61.803,
+  "text": "Yes, he has."
+ },
+ {
+  "id": 28,
+  "start": 62.177,
+  "end": 62.511,
+  "text": "Fine,"
+ },
+ {
+  "id": 29,
+  "start": 62.686,
+  "end": 63.702,
+  "text": "I’ll ask him to call you."
+ },
+ {
+  "id": 30,
+  "start": 64.02,
+  "end": 64.782,
+  "text": "Thanks very much."
+ },
+ {
+  "id": 31,
+  "start": 65.189,
+  "end": 65.911,
+  "text": "No problem."
+ },
+ {
+  "id": 32,
+  "start": 66.054,
+  "end": 66.554,
+  "text": "Bye."
+ },
+ {
+  "id": 33,
+  "start": 66.602,
+  "end": 67.309,
+  "text": "Goodbye."
+ }
+];

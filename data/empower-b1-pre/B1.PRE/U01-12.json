@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 2.413,
+  "text": "Track 01.12"
+ },
+ {
+  "id": 2,
+  "start": 5.552,
+  "end": 7.107,
+  "text": "We live next door."
+ },
+ {
+  "id": 3,
+  "start": 8.913,
+  "end": 10.064,
+  "text": "He lives here."
+ },
+ {
+  "id": 4,
+  "start": 11.876,
+  "end": 13.162,
+  "text": "I don’t work here."
+ },
+ {
+  "id": 5,
+  "start": 15.006,
+  "end": 16.585,
+  "text": "She doesn’t work here."
+ },
+ {
+  "id": 6,
+  "start": 18.486,
+  "end": 20.637,
+  "text": "Do your friends write emails?"
+ },
+ {
+  "id": 7,
+  "start": 22.489,
+  "end": 23.648,
+  "text": "Yes, they do."
+ },
+ {
+  "id": 8,
+  "start": 25.458,
+  "end": 26.728,
+  "text": "No, they don’t."
+ },
+ {
+  "id": 9,
+  "start": 28.517,
+  "end": 30.414,
+  "text": "Does your sister write a blog?"
+ },
+ {
+  "id": 10,
+  "start": 32.26,
+  "end": 33.705,
+  "text": "Yes, she does."
+ },
+ {
+  "id": 11,
+  "start": 35.404,
+  "end": 36.778,
+  "text": "No, she doesn’t."
+ }
+]

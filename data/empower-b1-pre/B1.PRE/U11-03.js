@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U11-03"]=[
+ {
+  "id": 1,
+  "start": 0.59,
+  "end": 2.391,
+  "text": "Track 11.03"
+ },
+ {
+  "id": 2,
+  "start": 4.657,
+  "end": 5.975,
+  "text": "It’s about a man who"
+ },
+ {
+  "id": 3,
+  "start": 6.0,
+  "end": 7.244,
+  "text": "travels through time."
+ },
+ {
+  "id": 4,
+  "start": 9.304,
+  "end": 10.588,
+  "text": "It’s about a man"
+ },
+ {
+  "id": 5,
+  "start": 10.613,
+  "end": 11.955,
+  "text": "that travels through time."
+ },
+ {
+  "id": 6,
+  "start": 13.968,
+  "end": 15.245,
+  "text": "There’s an art gallery which"
+ },
+ {
+  "id": 7,
+  "start": 15.27,
+  "end": 17.563,
+  "text": "stays open 24 hours a day."
+ },
+ {
+  "id": 8,
+  "start": 19.576,
+  "end": 20.751,
+  "text": "There’s an art gallery that"
+ },
+ {
+  "id": 9,
+  "start": 20.776,
+  "end": 23.021,
+  "text": "stays open 24 hours a day."
+ },
+ {
+  "id": 10,
+  "start": 25.122,
+  "end": 27.019,
+  "text": "The Matrix is about a world where"
+ },
+ {
+  "id": 11,
+  "start": 27.043,
+  "end": 28.781,
+  "text": "computers control everything."
+ }
+];

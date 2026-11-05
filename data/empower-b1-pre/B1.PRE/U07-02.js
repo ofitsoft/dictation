@@ -1,0 +1,104 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U07-02"]=[
+ {
+  "id": 1,
+  "start": 0.444,
+  "end": 2.413,
+  "text": "Track 07.02"
+ },
+ {
+  "id": 2,
+  "start": 4.201,
+  "end": 5.098,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.284,
+  "end": 9.075,
+  "text": "My life is better than it was five years ago."
+ },
+ {
+  "id": 4,
+  "start": 10.96,
+  "end": 11.698,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 12.446,
+  "end": 14.645,
+  "text": "I’m the most confident I’ve ever been."
+ },
+ {
+  "id": 6,
+  "start": 16.432,
+  "end": 17.355,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 17.945,
+  "end": 20.601,
+  "text": "I learn more slowly than when I was younger."
+ },
+ {
+  "id": 8,
+  "start": 22.6,
+  "end": 23.362,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 24.483,
+  "end": 26.975,
+  "text": "I’m not as busy as I was a year ago."
+ },
+ {
+  "id": 10,
+  "start": 28.875,
+  "end": 29.899,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 30.411,
+  "end": 33.013,
+  "text": "This is the largest town I’ve ever lived in."
+ },
+ {
+  "id": 12,
+  "start": 34.843,
+  "end": 35.914,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 36.631,
+  "end": 38.758,
+  "text": "My home is tidier these days."
+ },
+ {
+  "id": 14,
+  "start": 40.755,
+  "end": 41.676,
+  "text": "7"
+ },
+ {
+  "id": 15,
+  "start": 42.161,
+  "end": 44.984,
+  "text": "I work harder now than I did five years ago."
+ },
+ {
+  "id": 16,
+  "start": 46.625,
+  "end": 47.402,
+  "text": "8"
+ },
+ {
+  "id": 17,
+  "start": 48.008,
+  "end": 50.777,
+  "text": "I speak English better than I did a year ago."
+ }
+];

@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U03-16"]=[
+ {
+  "id": 1,
+  "start": 0.476,
+  "end": 2.627,
+  "text": "Track 03.16"
+ },
+ {
+  "id": 2,
+  "start": 5.036,
+  "end": 5.639,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.3,
+  "end": 8.316,
+  "text": "I’d like to look at a different one."
+ },
+ {
+  "id": 4,
+  "start": 10.112,
+  "end": 10.66,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.496,
+  "end": 13.48,
+  "text": "Can you show me the first one again?"
+ },
+ {
+  "id": 6,
+  "start": 15.26,
+  "end": 15.943,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 16.762,
+  "end": 19.008,
+  "text": "I’m looking for a present for my brother."
+ },
+ {
+  "id": 8,
+  "start": 20.821,
+  "end": 21.615,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 22.411,
+  "end": 24.76,
+  "text": "Do you have this in a different size?"
+ },
+ {
+  "id": 10,
+  "start": 26.413,
+  "end": 27.294,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 28.17,
+  "end": 30.496,
+  "text": "It’ll cost a lot of money to fix."
+ }
+];

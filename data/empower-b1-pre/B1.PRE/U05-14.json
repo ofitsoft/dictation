@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 0.548,
+  "end": 2.841,
+  "text": "Track 05.14"
+ },
+ {
+  "id": 2,
+  "start": 5.026,
+  "end": 6.288,
+  "text": "Never mind."
+ },
+ {
+  "id": 3,
+  "start": 8.132,
+  "end": 9.473,
+  "text": "It’s no problem."
+ },
+ {
+  "id": 4,
+  "start": 11.239,
+  "end": 12.826,
+  "text": "Don’t worry about it."
+ },
+ {
+  "id": 5,
+  "start": 14.519,
+  "end": 15.662,
+  "text": "It doesn’t matter."
+ }
+]

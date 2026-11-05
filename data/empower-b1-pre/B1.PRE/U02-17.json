@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 0.476,
+  "end": 2.714,
+  "text": "Track 02.17"
+ },
+ {
+  "id": 2,
+  "start": 4.475,
+  "end": 6.8,
+  "text": "1 d"
+ },
+ {
+  "id": 3,
+  "start": 7.652,
+  "end": 9.43,
+  "text": "What time’s the next train?"
+ },
+ {
+  "id": 4,
+  "start": 11.266,
+  "end": 12.932,
+  "text": "2 e"
+ },
+ {
+  "id": 5,
+  "start": 14.037,
+  "end": 16.156,
+  "text": "How often do the trains leave?"
+ },
+ {
+  "id": 6,
+  "start": 18.018,
+  "end": 20.105,
+  "text": "3 c"
+ },
+ {
+  "id": 7,
+  "start": 20.98,
+  "end": 23.107,
+  "text": "Could you tell me where the ticket office is?"
+ },
+ {
+  "id": 8,
+  "start": 24.951,
+  "end": 26.974,
+  "text": "4 a"
+ },
+ {
+  "id": 9,
+  "start": 28.091,
+  "end": 29.884,
+  "text": "How much is a ticket?"
+ },
+ {
+  "id": 10,
+  "start": 31.665,
+  "end": 33.649,
+  "text": "5 b"
+ },
+ {
+  "id": 11,
+  "start": 34.684,
+  "end": 36.279,
+  "text": "Can I pay by card?"
+ },
+ {
+  "id": 12,
+  "start": 38.165,
+  "end": 40.411,
+  "text": "6 f"
+ },
+ {
+  "id": 13,
+  "start": 41.119,
+  "end": 43.008,
+  "text": "Where can I buy a magazine?"
+ }
+]

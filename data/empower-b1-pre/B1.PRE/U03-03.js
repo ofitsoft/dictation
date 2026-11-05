@@ -1,0 +1,116 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U03-03"]=[
+ {
+  "id": 1,
+  "start": 0.492,
+  "end": 2.452,
+  "text": "Track 03.03"
+ },
+ {
+  "id": 2,
+  "start": 4.225,
+  "end": 5.217,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.489,
+  "end": 8.235,
+  "text": "I’ve worked on sales days"
+ },
+ {
+  "id": 4,
+  "start": 8.26,
+  "end": 9.426,
+  "text": "three times before."
+ },
+ {
+  "id": 5,
+  "start": 11.404,
+  "end": 12.174,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 13.495,
+  "end": 14.415,
+  "text": "This morning,"
+ },
+ {
+  "id": 7,
+  "start": 14.535,
+  "end": 16.344,
+  "text": "just before we opened the doors …"
+ },
+ {
+  "id": 8,
+  "start": 18.198,
+  "end": 19.167,
+  "text": "3"
+ },
+ {
+  "id": 9,
+  "start": 20.575,
+  "end": 21.447,
+  "text": "I’ve never known"
+ },
+ {
+  "id": 10,
+  "start": 21.472,
+  "end": 22.67,
+  "text": "someone to do that."
+ },
+ {
+  "id": 11,
+  "start": 24.443,
+  "end": 25.443,
+  "text": "4"
+ },
+ {
+  "id": 12,
+  "start": 26.684,
+  "end": 27.818,
+  "text": "I’ve never worked"
+ },
+ {
+  "id": 13,
+  "start": 27.843,
+  "end": 29.533,
+  "text": "on a sales day before."
+ },
+ {
+  "id": 14,
+  "start": 31.401,
+  "end": 32.448,
+  "text": "5"
+ },
+ {
+  "id": 15,
+  "start": 33.755,
+  "end": 35.881,
+  "text": "She’s probably the cleverest"
+ },
+ {
+  "id": 16,
+  "start": 35.906,
+  "end": 37.683,
+  "text": "customer I’ve ever met."
+ },
+ {
+  "id": 17,
+  "start": 39.599,
+  "end": 40.607,
+  "text": "6"
+ },
+ {
+  "id": 18,
+  "start": 41.951,
+  "end": 43.547,
+  "text": "He started queuing at about"
+ },
+ {
+  "id": 19,
+  "start": 43.572,
+  "end": 44.952,
+  "text": "midnight last night."
+ }
+];

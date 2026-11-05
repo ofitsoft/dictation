@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.679,
+  "end": 2.425,
+  "text": "Track 12.08"
+ },
+ {
+  "id": 2,
+  "start": 5.026,
+  "end": 5.702,
+  "text": "Hi, Chris."
+ },
+ {
+  "id": 3,
+  "start": 6.345,
+  "end": 8.544,
+  "text": "Jane wants to know where her diary is."
+ },
+ {
+  "id": 4,
+  "start": 9.761,
+  "end": 10.746,
+  "text": "I haven’t got it."
+ },
+ {
+  "id": 5,
+  "start": 11.142,
+  "end": 12.5,
+  "text": "I told her that yesterday."
+ },
+ {
+  "id": 6,
+  "start": 14.536,
+  "end": 15.234,
+  "text": "Hi, Chris."
+ },
+ {
+  "id": 7,
+  "start": 15.79,
+  "end": 17.997,
+  "text": "Jane wants to know where her diary is."
+ },
+ {
+  "id": 8,
+  "start": 18.673,
+  "end": 20.324,
+  "text": "Yeah, I’ve just seen her."
+ },
+ {
+  "id": 9,
+  "start": 20.848,
+  "end": 22.499,
+  "text": "I told her that I hadn’t got it."
+ }
+]

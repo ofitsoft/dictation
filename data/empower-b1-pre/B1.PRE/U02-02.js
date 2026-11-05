@@ -1,0 +1,290 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U02-02"]=[
+ {
+  "id": 1,
+  "start": 0.452,
+  "end": 2.302,
+  "text": "Track 02.02"
+ },
+ {
+  "id": 2,
+  "start": 4.782,
+  "end": 5.901,
+  "text": "Day Seven"
+ },
+ {
+  "id": 3,
+  "start": 6.736,
+  "end": 8.307,
+  "text": "On the last day the holiday,"
+ },
+ {
+  "id": 4,
+  "start": 8.394,
+  "end": 10.291,
+  "text": "I couldn’t wait for midnight."
+ },
+ {
+  "id": 5,
+  "start": 10.627,
+  "end": 11.603,
+  "text": "At 12 o’clock,"
+ },
+ {
+  "id": 6,
+  "start": 11.628,
+  "end": 14.318,
+  "text": "I could stop answering ‘yes’ to every question."
+ },
+ {
+  "id": 7,
+  "start": 14.916,
+  "end": 16.226,
+  "text": "The week had been fun,"
+ },
+ {
+  "id": 8,
+  "start": 16.258,
+  "end": 18.496,
+  "text": "but I wanted some control of my life again!"
+ },
+ {
+  "id": 9,
+  "start": 19.378,
+  "end": 23.061,
+  "text": "That evening, I went for one last dinner with some of my new friends."
+ },
+ {
+  "id": 10,
+  "start": 23.73,
+  "end": 25.65,
+  "text": "‘So, did you have a good week?’"
+ },
+ {
+  "id": 11,
+  "start": 25.715,
+  "end": 26.715,
+  "text": "one of them asked me."
+ },
+ {
+  "id": 12,
+  "start": 27.215,
+  "end": 28.476,
+  "text": "‘Yes,’ I said."
+ },
+ {
+  "id": 13,
+  "start": 29.138,
+  "end": 30.757,
+  "text": "‘What was your favourite thing?’"
+ },
+ {
+  "id": 14,
+  "start": 30.782,
+  "end": 31.583,
+  "text": "she asked."
+ },
+ {
+  "id": 15,
+  "start": 32.037,
+  "end": 33.06,
+  "text": "And do you know what?"
+ },
+ {
+  "id": 16,
+  "start": 33.166,
+  "end": 34.483,
+  "text": "I couldn’t really answer her."
+ },
+ {
+  "id": 17,
+  "start": 34.905,
+  "end": 37.017,
+  "text": "There were so many things I had enjoyed."
+ },
+ {
+  "id": 18,
+  "start": 37.71,
+  "end": 39.615,
+  "text": "I worked as a waiter for a day –"
+ },
+ {
+  "id": 19,
+  "start": 39.824,
+  "end": 41.364,
+  "text": "I didn’t get any money for it,"
+ },
+ {
+  "id": 20,
+  "start": 41.389,
+  "end": 43.334,
+  "text": "but I made friends with some interesting people"
+ },
+ {
+  "id": 21,
+  "start": 43.359,
+  "end": 45.089,
+  "text": "who came to eat at the restaurant."
+ },
+ {
+  "id": 22,
+  "start": 45.686,
+  "end": 48.686,
+  "text": "I also spent a day fishing with five Greek fishermen"
+ },
+ {
+  "id": 23,
+  "start": 48.79,
+  "end": 50.155,
+  "text": "and caught several fish."
+ },
+ {
+  "id": 24,
+  "start": 50.816,
+  "end": 53.673,
+  "text": "I stayed at a beach party until six in the morning."
+ },
+ {
+  "id": 25,
+  "start": 53.906,
+  "end": 56.707,
+  "text": "Oh, and I won a dancing competition!"
+ },
+ {
+  "id": 26,
+  "start": 57.496,
+  "end": 59.734,
+  "text": "Of course, some of my experiences"
+ },
+ {
+  "id": 27,
+  "start": 59.759,
+  "end": 60.805,
+  "text": "weren’t very good."
+ },
+ {
+  "id": 28,
+  "start": 61.523,
+  "end": 63.785,
+  "text": "I took the same boat trip three times …"
+ },
+ {
+  "id": 29,
+  "start": 64.136,
+  "end": 65.882,
+  "text": "I went swimming at midnight –"
+ },
+ {
+  "id": 30,
+  "start": 66.163,
+  "end": 68.266,
+  "text": "actually, I liked the swimming,"
+ },
+ {
+  "id": 31,
+  "start": 68.491,
+  "end": 70.53,
+  "text": "but I didn’t like the mosquitoes that"
+ },
+ {
+  "id": 32,
+  "start": 70.555,
+  "end": 72.237,
+  "text": "bit me when I got out of the sea."
+ },
+ {
+  "id": 33,
+  "start": 72.891,
+  "end": 75.631,
+  "text": "And I spent over 200 euros"
+ },
+ {
+  "id": 34,
+  "start": 75.656,
+  "end": 77.703,
+  "text": "on souvenirs that I hate!"
+ },
+ {
+  "id": 35,
+  "start": 78.618,
+  "end": 80.404,
+  "text": "It was great to try new things."
+ },
+ {
+  "id": 36,
+  "start": 80.652,
+  "end": 82.969,
+  "text": "But I was glad the week was nearly finished."
+ },
+ {
+  "id": 37,
+  "start": 83.528,
+  "end": 85.289,
+  "text": "I wanted to get back home and relax"
+ },
+ {
+  "id": 38,
+  "start": 85.314,
+  "end": 87.727,
+  "text": "for a day before I started work again on Monday."
+ },
+ {
+  "id": 39,
+  "start": 88.499,
+  "end": 90.864,
+  "text": "But Day 7 wasn’t finished yet!"
+ },
+ {
+  "id": 40,
+  "start": 91.407,
+  "end": 92.494,
+  "text": "Without thinking,"
+ },
+ {
+  "id": 41,
+  "start": 92.646,
+  "end": 95.408,
+  "text": "I asked my new friends what they planned to do next."
+ },
+ {
+  "id": 42,
+  "start": 96.047,
+  "end": 97.626,
+  "text": "They were all smiling at me."
+ },
+ {
+  "id": 43,
+  "start": 98.184,
+  "end": 99.16,
+  "text": "One of them said,"
+ },
+ {
+  "id": 44,
+  "start": 99.519,
+  "end": 101.273,
+  "text": "‘We’re flying to Thailand tomorrow."
+ },
+ {
+  "id": 45,
+  "start": 101.703,
+  "end": 103.068,
+  "text": "Do you want to come with us?"
+ },
+ {
+  "id": 46,
+  "start": 103.338,
+  "end": 104.307,
+  "text": "You’d love it!’"
+ },
+ {
+  "id": 47,
+  "start": 105.277,
+  "end": 106.515,
+  "text": "I looked at my watch."
+ },
+ {
+  "id": 48,
+  "start": 106.937,
+  "end": 108.976,
+  "text": "It was 11:55."
+ }
+];

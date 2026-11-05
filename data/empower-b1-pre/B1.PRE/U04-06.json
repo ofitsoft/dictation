@@ -1,0 +1,488 @@
+[
+ {
+  "id": 1,
+  "start": 0.484,
+  "end": 2.706,
+  "text": "Track 04.06"
+ },
+ {
+  "id": 2,
+  "start": 4.829,
+  "end": 5.472,
+  "text": "Hello?"
+ },
+ {
+  "id": 3,
+  "start": 5.536,
+  "end": 8.511,
+  "text": "Hi Harry, it’s me. I’m here."
+ },
+ {
+  "id": 4,
+  "start": 9.054,
+  "end": 10.999,
+  "text": "I’ve just arrived at my hotel."
+ },
+ {
+  "id": 5,
+  "start": 11.137,
+  "end": 12.319,
+  "text": "Welcome to Tokyo!"
+ },
+ {
+  "id": 6,
+  "start": 12.694,
+  "end": 13.75,
+  "text": "Did you have a good journey?"
+ },
+ {
+  "id": 7,
+  "start": 13.813,
+  "end": 15.599,
+  "text": "Yeah, it was fine."
+ },
+ {
+  "id": 8,
+  "start": 15.982,
+  "end": 19.085,
+  "text": "I was so lucky to get a stopover in Japan!"
+ },
+ {
+  "id": 9,
+  "start": 19.317,
+  "end": 21.509,
+  "text": "And lucky that I’m here to show you around!"
+ },
+ {
+  "id": 10,
+  "start": 21.981,
+  "end": 24.766,
+  "text": "I’ve already got a few ideas about what we can do."
+ },
+ {
+  "id": 11,
+  "start": 24.872,
+  "end": 25.554,
+  "text": "Great,"
+ },
+ {
+  "id": 12,
+  "start": 25.944,
+  "end": 27.269,
+  "text": "but I really don’t want to"
+ },
+ {
+  "id": 13,
+  "start": 27.294,
+  "end": 28.991,
+  "text": "go where all the tourists go."
+ },
+ {
+  "id": 14,
+  "start": 29.471,
+  "end": 31.36,
+  "text": "I want to see the real Tokyo."
+ },
+ {
+  "id": 15,
+  "start": 31.498,
+  "end": 34.537,
+  "text": "OK, so we won’t go to Disneyland then!"
+ },
+ {
+  "id": 16,
+  "start": 34.944,
+  "end": 37.635,
+  "text": "And I won’t take you to the Imperial Palace, either."
+ },
+ {
+  "id": 17,
+  "start": 37.706,
+  "end": 38.381,
+  "text": "OK."
+ },
+ {
+  "id": 18,
+  "start": 38.519,
+  "end": 39.106,
+  "text": "I mean,"
+ },
+ {
+  "id": 19,
+  "start": 39.131,
+  "end": 41.606,
+  "text": "the palace is nice but it’s so crowded."
+ },
+ {
+  "id": 20,
+  "start": 41.856,
+  "end": 43.879,
+  "text": "It’s really just a place for tourists."
+ },
+ {
+  "id": 21,
+  "start": 43.904,
+  "end": 44.556,
+  "text": "Fine."
+ },
+ {
+  "id": 22,
+  "start": 44.645,
+  "end": 45.701,
+  "text": "So …"
+ },
+ {
+  "id": 23,
+  "start": 45.726,
+  "end": 47.653,
+  "text": "shall we start with something to eat?"
+ },
+ {
+  "id": 24,
+  "start": 47.711,
+  "end": 48.6,
+  "text": "That sounds good."
+ },
+ {
+  "id": 25,
+  "start": 48.657,
+  "end": 50.943,
+  "text": "There’s a great noodle restaurant I know."
+ },
+ {
+  "id": 26,
+  "start": 51.239,
+  "end": 52.842,
+  "text": "The noodles are delicious,"
+ },
+ {
+  "id": 27,
+  "start": 52.969,
+  "end": 54.58,
+  "text": "some of the best in Tokyo."
+ },
+ {
+  "id": 28,
+  "start": 54.972,
+  "end": 56.996,
+  "text": "And it’s also really simple."
+ },
+ {
+  "id": 29,
+  "start": 57.181,
+  "end": 59.443,
+  "text": "You just eat quickly and then you leave."
+ },
+ {
+  "id": 30,
+  "start": 59.635,
+  "end": 61.683,
+  "text": "So we won’t waste any time!"
+ },
+ {
+  "id": 31,
+  "start": 61.717,
+  "end": 62.471,
+  "text": "Brilliant."
+ },
+ {
+  "id": 32,
+  "start": 62.551,
+  "end": 63.249,
+  "text": "After that,"
+ },
+ {
+  "id": 33,
+  "start": 63.274,
+  "end": 65.131,
+  "text": "I’ll take you to Yoyogi Park."
+ },
+ {
+  "id": 34,
+  "start": 65.706,
+  "end": 67.182,
+  "text": "It’s a huge park"
+ },
+ {
+  "id": 35,
+  "start": 67.207,
+  "end": 69.342,
+  "text": "and it’ll be really busy at the moment"
+ },
+ {
+  "id": 36,
+  "start": 69.367,
+  "end": 71.629,
+  "text": "because everyone’s going to see the cherry blossom."
+ },
+ {
+  "id": 37,
+  "start": 71.717,
+  "end": 73.082,
+  "text": "The cherry blossom?"
+ },
+ {
+  "id": 38,
+  "start": 73.138,
+  "end": 74.504,
+  "text": "Yeah, it’s beautiful."
+ },
+ {
+  "id": 39,
+  "start": 74.895,
+  "end": 76.308,
+  "text": "You see young people,"
+ },
+ {
+  "id": 40,
+  "start": 76.333,
+  "end": 78.451,
+  "text": "businessmen in suits, families –"
+ },
+ {
+  "id": 41,
+  "start": 78.715,
+  "end": 80.993,
+  "text": "everyone goes to look at the pretty flowers."
+ },
+ {
+  "id": 42,
+  "start": 81.281,
+  "end": 83.606,
+  "text": "There are also lots of musicians there,"
+ },
+ {
+  "id": 43,
+  "start": 83.806,
+  "end": 86.013,
+  "text": "and there are festivals almost every week,"
+ },
+ {
+  "id": 44,
+  "start": 86.166,
+  "end": 88.547,
+  "text": "where you can learn, eat and drink."
+ },
+ {
+  "id": 45,
+  "start": 88.572,
+  "end": 90.058,
+  "text": "And after that?"
+ },
+ {
+  "id": 46,
+  "start": 90.226,
+  "end": 90.837,
+  "text": "Well,"
+ },
+ {
+  "id": 47,
+  "start": 90.973,
+  "end": 92.29,
+  "text": "do you want to do any shopping?"
+ },
+ {
+  "id": 48,
+  "start": 92.393,
+  "end": 93.687,
+  "text": "Actually, yes –"
+ },
+ {
+  "id": 49,
+  "start": 94.15,
+  "end": 96.213,
+  "text": "I want to look for a new camera."
+ },
+ {
+  "id": 50,
+  "start": 96.342,
+  "end": 97.072,
+  "text": "Excellent."
+ },
+ {
+  "id": 51,
+  "start": 97.238,
+  "end": 98.842,
+  "text": "I’ll take you to Akihabara, then."
+ },
+ {
+  "id": 52,
+  "start": 99.487,
+  "end": 101.86,
+  "text": "There are lots of electronics shops there."
+ },
+ {
+  "id": 53,
+  "start": 102.076,
+  "end": 104.171,
+  "text": "And they often have special offers."
+ },
+ {
+  "id": 54,
+  "start": 104.196,
+  "end": 104.976,
+  "text": "Perfect."
+ },
+ {
+  "id": 55,
+  "start": 105.628,
+  "end": 107.827,
+  "text": "And what are we doing in the evening?"
+ },
+ {
+  "id": 56,
+  "start": 107.908,
+  "end": 110.313,
+  "text": "I’ve already booked a room for karaoke."
+ },
+ {
+  "id": 57,
+  "start": 110.402,
+  "end": 111.188,
+  "text": "Really?"
+ },
+ {
+  "id": 58,
+  "start": 111.666,
+  "end": 114.095,
+  "text": "I don’t really like karaoke that much."
+ },
+ {
+  "id": 59,
+  "start": 114.335,
+  "end": 115.843,
+  "text": "I’m a terrible singer."
+ },
+ {
+  "id": 60,
+  "start": 115.916,
+  "end": 119.385,
+  "text": "Yes, but you haven’t tried karaoke Japanese-style!"
+ },
+ {
+  "id": 61,
+  "start": 119.777,
+  "end": 122.197,
+  "text": "I’ve booked a private room for six people."
+ },
+ {
+  "id": 62,
+  "start": 122.534,
+  "end": 125.057,
+  "text": "So, you, me and four of my friends."
+ },
+ {
+  "id": 63,
+  "start": 125.346,
+  "end": 126.171,
+  "text": "You’ll love them –"
+ },
+ {
+  "id": 64,
+  "start": 126.465,
+  "end": 127.671,
+  "text": "they’re really good fun."
+ },
+ {
+  "id": 65,
+  "start": 127.894,
+  "end": 130.152,
+  "text": "Anyway, I’ve booked it till 3 am."
+ },
+ {
+  "id": 66,
+  "start": 130.208,
+  "end": 131.264,
+  "text": "3 am?!"
+ },
+ {
+  "id": 67,
+  "start": 131.909,
+  "end": 135.114,
+  "text": "Remember my flight leaves at 9 am tomorrow!"
+ },
+ {
+  "id": 68,
+  "start": 135.174,
+  "end": 135.761,
+  "text": "Don’t worry –"
+ },
+ {
+  "id": 69,
+  "start": 135.817,
+  "end": 137.755,
+  "text": "you won’t miss your flight! I promise."
+ },
+ {
+  "id": 70,
+  "start": 138.216,
+  "end": 140.295,
+  "text": "Anyway, we won’t be finished at 3."
+ },
+ {
+  "id": 71,
+  "start": 140.607,
+  "end": 143.305,
+  "text": "After that we're going to the Toyosu fish market."
+ },
+ {
+  "id": 72,
+  "start": 143.33,
+  "end": 144.583,
+  "text": "A fish market?"
+ },
+ {
+  "id": 73,
+  "start": 144.99,
+  "end": 146.832,
+  "text": "In the early hours of the morning?"
+ },
+ {
+  "id": 74,
+  "start": 146.872,
+  "end": 148.737,
+  "text": "Yeah, it’s the best time to go."
+ },
+ {
+  "id": 75,
+  "start": 149.089,
+  "end": 151.247,
+  "text": "They bring in all the fish they’ve just caught."
+ },
+ {
+  "id": 76,
+  "start": 151.487,
+  "end": 153.63,
+  "text": "Trust me, it’s an amazing sight."
+ },
+ {
+  "id": 77,
+  "start": 153.703,
+  "end": 154.584,
+  "text": "OK."
+ },
+ {
+  "id": 78,
+  "start": 155.181,
+  "end": 157.228,
+  "text": "This is going to be an interesting day."
+ },
+ {
+  "id": 79,
+  "start": 157.381,
+  "end": 160.127,
+  "text": "So, shall I come to your hotel in about an hour?"
+ },
+ {
+  "id": 80,
+  "start": 160.184,
+  "end": 162.033,
+  "text": "OK, see you in a bit."
+ },
+ {
+  "id": 81,
+  "start": 162.144,
+  "end": 162.747,
+  "text": "Bye!"
+ }
+]

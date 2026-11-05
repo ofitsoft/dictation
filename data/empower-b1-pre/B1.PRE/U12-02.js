@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U12-02"]=[
+ {
+  "id": 1,
+  "start": 0.497,
+  "end": 2.259,
+  "text": "Track 12.02"
+ },
+ {
+  "id": 2,
+  "start": 4.697,
+  "end": 6.538,
+  "text": "I’d left before he arrived."
+ },
+ {
+  "id": 3,
+  "start": 8.534,
+  "end": 10.383,
+  "text": "He hadn’t arrived when I left."
+ },
+ {
+  "id": 4,
+  "start": 12.379,
+  "end": 13.339,
+  "text": "Had you seen him?"
+ },
+ {
+  "id": 5,
+  "start": 15.343,
+  "end": 16.271,
+  "text": "Yes, we had."
+ },
+ {
+  "id": 6,
+  "start": 18.302,
+  "end": 19.333,
+  "text": "No, we hadn’t."
+ }
+];

@@ -1,0 +1,338 @@
+[
+ {
+  "id": 1,
+  "start": 0.437,
+  "end": 2.476,
+  "text": "Track 07.12"
+ },
+ {
+  "id": 2,
+  "start": 4.098,
+  "end": 5.463,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 7.411,
+  "end": 8.49,
+  "text": "OK. Well,"
+ },
+ {
+  "id": 4,
+  "start": 8.515,
+  "end": 10.505,
+  "text": "I don’t think it’s anything to worry about."
+ },
+ {
+  "id": 5,
+  "start": 10.548,
+  "end": 12.977,
+  "text": "Phew. That’s good to hear."
+ },
+ {
+  "id": 6,
+  "start": 13.503,
+  "end": 14.902,
+  "text": "But you shouldn’t stay in bed –"
+ },
+ {
+  "id": 7,
+  "start": 14.927,
+  "end": 15.934,
+  "text": "that’s not going to help."
+ },
+ {
+  "id": 8,
+  "start": 16.221,
+  "end": 17.309,
+  "text": "Oh dear. Really?"
+ },
+ {
+  "id": 9,
+  "start": 17.334,
+  "end": 18.271,
+  "text": "No –"
+ },
+ {
+  "id": 10,
+  "start": 18.677,
+  "end": 21.169,
+  "text": "try to do all the things you normally do,"
+ },
+ {
+  "id": 11,
+  "start": 21.194,
+  "end": 22.099,
+  "text": "but gently."
+ },
+ {
+  "id": 12,
+  "start": 22.618,
+  "end": 23.704,
+  "text": "And don’t stay in the same"
+ },
+ {
+  "id": 13,
+  "start": 23.729,
+  "end": 25.102,
+  "text": "position for a long time."
+ },
+ {
+  "id": 14,
+  "start": 25.572,
+  "end": 27.152,
+  "text": "Maybe go for a short walk."
+ },
+ {
+  "id": 15,
+  "start": 27.654,
+  "end": 29.218,
+  "text": "OK. That sounds fine."
+ },
+ {
+  "id": 16,
+  "start": 29.878,
+  "end": 31.315,
+  "text": "Do you do any exercise?"
+ },
+ {
+  "id": 17,
+  "start": 31.754,
+  "end": 33.532,
+  "text": "Well, I usually go to the gym,"
+ },
+ {
+  "id": 18,
+  "start": 33.557,
+  "end": 34.826,
+  "text": "but I haven’t been recently."
+ },
+ {
+  "id": 19,
+  "start": 34.851,
+  "end": 36.226,
+  "text": "I’m very busy at work at the moment"
+ },
+ {
+  "id": 20,
+  "start": 36.251,
+  "end": 37.37,
+  "text": "and I just don’t have the time."
+ },
+ {
+  "id": 21,
+  "start": 37.839,
+  "end": 38.792,
+  "text": "I see."
+ },
+ {
+  "id": 22,
+  "start": 39.261,
+  "end": 41.881,
+  "text": "And do you spend a lot of time sitting down at work?"
+ },
+ {
+  "id": 23,
+  "start": 42.058,
+  "end": 43.509,
+  "text": "Yes, I do. I work in an office,"
+ },
+ {
+  "id": 24,
+  "start": 43.534,
+  "end": 45.669,
+  "text": "so I spend a lot of time at my computer."
+ },
+ {
+  "id": 25,
+  "start": 45.694,
+  "end": 46.648,
+  "text": "Right."
+ },
+ {
+  "id": 26,
+  "start": 47.349,
+  "end": 48.857,
+  "text": "It’s really important,"
+ },
+ {
+  "id": 27,
+  "start": 48.882,
+  "end": 50.875,
+  "text": "if you spend a lot of time at a desk"
+ },
+ {
+  "id": 28,
+  "start": 50.9,
+  "end": 53.097,
+  "text": "in an office, to take regular breaks."
+ },
+ {
+  "id": 29,
+  "start": 53.52,
+  "end": 55.891,
+  "text": "And you’ll need to start doing exercise again."
+ },
+ {
+  "id": 30,
+  "start": 56.302,
+  "end": 57.326,
+  "text": "When you feel ready."
+ },
+ {
+  "id": 31,
+  "start": 57.686,
+  "end": 60.916,
+  "text": "OK. Breaks, exercise. Fine."
+ },
+ {
+  "id": 32,
+  "start": 61.863,
+  "end": 63.451,
+  "text": "Are you taking anything for the pain?"
+ },
+ {
+  "id": 33,
+  "start": 63.596,
+  "end": 65.429,
+  "text": "Yes, I’ve taken some aspirin."
+ },
+ {
+  "id": 34,
+  "start": 65.454,
+  "end": 66.819,
+  "text": "OK, good."
+ },
+ {
+  "id": 35,
+  "start": 67.401,
+  "end": 68.829,
+  "text": "And do you have any allergies?"
+ },
+ {
+  "id": 36,
+  "start": 69.514,
+  "end": 70.879,
+  "text": "No, I don’t think so."
+ },
+ {
+  "id": 37,
+  "start": 71.358,
+  "end": 71.921,
+  "text": "Good."
+ },
+ {
+  "id": 38,
+  "start": 72.549,
+  "end": 74.366,
+  "text": "Well, I’ll give you a prescription"
+ },
+ {
+  "id": 39,
+  "start": 74.391,
+  "end": 75.988,
+  "text": "for something a bit stronger."
+ },
+ {
+  "id": 40,
+  "start": 76.013,
+  "end": 77.125,
+  "text": "OK, that’s great."
+ },
+ {
+  "id": 41,
+  "start": 77.603,
+  "end": 78.683,
+  "text": "Take these,"
+ },
+ {
+  "id": 42,
+  "start": 79.238,
+  "end": 81.717,
+  "text": "but only when you need them, after food."
+ },
+ {
+  "id": 43,
+  "start": 81.773,
+  "end": 84.638,
+  "text": "No more than two every four hours."
+ },
+ {
+  "id": 44,
+  "start": 85.12,
+  "end": 85.786,
+  "text": "Right."
+ },
+ {
+  "id": 45,
+  "start": 86.239,
+  "end": 87.405,
+  "text": "And don’t take any more than"
+ },
+ {
+  "id": 46,
+  "start": 87.43,
+  "end": 88.993,
+  "text": "eight in a 24-hour period."
+ },
+ {
+  "id": 47,
+  "start": 89.48,
+  "end": 90.13,
+  "text": "Fine."
+ },
+ {
+  "id": 48,
+  "start": 90.45,
+  "end": 92.085,
+  "text": "And come back again in a week’s"
+ },
+ {
+  "id": 49,
+  "start": 92.11,
+  "end": 93.625,
+  "text": "time if it doesn’t improve."
+ },
+ {
+  "id": 50,
+  "start": 94.168,
+  "end": 95.224,
+  "text": "I expect you’ll feel a lot"
+ },
+ {
+  "id": 51,
+  "start": 95.249,
+  "end": 96.32,
+  "text": "better by then anyway."
+ },
+ {
+  "id": 52,
+  "start": 96.614,
+  "end": 98.162,
+  "text": "OK, thanks very much."
+ },
+ {
+  "id": 53,
+  "start": 98.641,
+  "end": 99.489,
+  "text": "I really don’t think"
+ },
+ {
+  "id": 54,
+  "start": 99.514,
+  "end": 100.665,
+  "text": "it’s anything to worry about."
+ },
+ {
+  "id": 55,
+  "start": 101.651,
+  "end": 103.643,
+  "text": "What a relief! Bye."
+ },
+ {
+  "id": 56,
+  "start": 104.114,
+  "end": 104.646,
+  "text": "Bye now."
+ }
+]

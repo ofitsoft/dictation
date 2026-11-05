@@ -1,0 +1,20 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U05-05"]=[
+ {
+  "id": 1,
+  "start": 0.571,
+  "end": 2.698,
+  "text": "Track 05.05"
+ },
+ {
+  "id": 2,
+  "start": 4.86,
+  "end": 6.788,
+  "text": "You must arrive on time."
+ },
+ {
+  "id": 3,
+  "start": 8.452,
+  "end": 10.302,
+  "text": "Teachers mustn’t be late."
+ }
+];

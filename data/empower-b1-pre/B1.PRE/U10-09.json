@@ -1,0 +1,104 @@
+[
+ {
+  "id": 1,
+  "start": 0.697,
+  "end": 2.332,
+  "text": "Track 10.09"
+ },
+ {
+  "id": 2,
+  "start": 5.223,
+  "end": 5.897,
+  "text": "choose"
+ },
+ {
+  "id": 3,
+  "start": 6.835,
+  "end": 7.439,
+  "text": "choice"
+ },
+ {
+  "id": 4,
+  "start": 10.013,
+  "end": 10.791,
+  "text": "complain"
+ },
+ {
+  "id": 5,
+  "start": 11.688,
+  "end": 12.49,
+  "text": "complaint"
+ },
+ {
+  "id": 6,
+  "start": 15.05,
+  "end": 15.614,
+  "text": "deliver"
+ },
+ {
+  "id": 7,
+  "start": 16.544,
+  "end": 17.28,
+  "text": "delivery"
+ },
+ {
+  "id": 8,
+  "start": 19.817,
+  "end": 20.523,
+  "text": "explain"
+ },
+ {
+  "id": 9,
+  "start": 21.613,
+  "end": 22.542,
+  "text": "explanation"
+ },
+ {
+  "id": 10,
+  "start": 25.069,
+  "end": 25.728,
+  "text": "decide"
+ },
+ {
+  "id": 11,
+  "start": 26.801,
+  "end": 27.388,
+  "text": "decision"
+ },
+ {
+  "id": 12,
+  "start": 29.931,
+  "end": 30.677,
+  "text": "describe"
+ },
+ {
+  "id": 13,
+  "start": 31.599,
+  "end": 32.337,
+  "text": "description"
+ },
+ {
+  "id": 14,
+  "start": 34.865,
+  "end": 35.579,
+  "text": "enjoy"
+ },
+ {
+  "id": 15,
+  "start": 36.169,
+  "end": 37.002,
+  "text": "enjoyment"
+ },
+ {
+  "id": 16,
+  "start": 39.536,
+  "end": 40.02,
+  "text": "queue"
+ },
+ {
+  "id": 17,
+  "start": 41.005,
+  "end": 41.489,
+  "text": "queue"
+ }
+]

@@ -1,0 +1,344 @@
+[
+ {
+  "id": 1,
+  "start": 0.428,
+  "end": 2.587,
+  "text": "Track 01.19"
+ },
+ {
+  "id": 2,
+  "start": 4.654,
+  "end": 5.67,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 9.659,
+  "end": 11.223,
+  "text": "Do you play much sport?"
+ },
+ {
+  "id": 4,
+  "start": 12.361,
+  "end": 13.178,
+  "text": "Not really."
+ },
+ {
+  "id": 5,
+  "start": 13.257,
+  "end": 14.891,
+  "text": "I occasionally watch the rugby on TV,"
+ },
+ {
+  "id": 6,
+  "start": 14.916,
+  "end": 16.043,
+  "text": "but I’m not a big sports fan."
+ },
+ {
+  "id": 7,
+  "start": 16.068,
+  "end": 16.814,
+  "text": "Did you see the match"
+ },
+ {
+  "id": 8,
+  "start": 16.839,
+  "end": 17.37,
+  "text": "at the weekend?"
+ },
+ {
+  "id": 9,
+  "start": 17.395,
+  "end": 19.244,
+  "text": "Oh, not sport again!"
+ },
+ {
+  "id": 10,
+  "start": 20.705,
+  "end": 21.722,
+  "text": "So, have you got any"
+ },
+ {
+  "id": 11,
+  "start": 21.723,
+  "end": 23.397,
+  "text": "exciting plans for next week?"
+ },
+ {
+  "id": 12,
+  "start": 23.946,
+  "end": 24.803,
+  "text": "Well, er …"
+ },
+ {
+  "id": 13,
+  "start": 24.828,
+  "end": 27.423,
+  "text": "No, not really. Just work."
+ },
+ {
+  "id": 14,
+  "start": 27.727,
+  "end": 29.759,
+  "text": "I’ve got a lot to do in the shop this week,"
+ },
+ {
+  "id": 15,
+  "start": 29.799,
+  "end": 31.783,
+  "text": "because we’re going to a wedding next weekend."
+ },
+ {
+  "id": 16,
+  "start": 32.063,
+  "end": 34.53,
+  "text": "Oh, the shop? What do you do?"
+ },
+ {
+  "id": 17,
+  "start": 34.715,
+  "end": 35.628,
+  "text": "I’m a florist."
+ },
+ {
+  "id": 18,
+  "start": 36.321,
+  "end": 37.511,
+  "text": "What a great job!"
+ },
+ {
+  "id": 19,
+  "start": 37.765,
+  "end": 38.67,
+  "text": "Where’s the shop?"
+ },
+ {
+  "id": 20,
+  "start": 38.965,
+  "end": 40.155,
+  "text": "Not far from here."
+ },
+ {
+  "id": 21,
+  "start": 40.457,
+  "end": 41.481,
+  "text": "I’ll show you some time."
+ },
+ {
+  "id": 22,
+  "start": 41.6,
+  "end": 42.663,
+  "text": "That would be great!"
+ },
+ {
+  "id": 23,
+  "start": 42.886,
+  "end": 45.179,
+  "text": "And are you the manager, or …"
+ },
+ {
+  "id": 24,
+  "start": 45.507,
+  "end": 49.547,
+  "text": "Well, not really – it’s my shop."
+ },
+ {
+  "id": 25,
+  "start": 50.206,
+  "end": 52.738,
+  "text": "Wow. That’s amazing!"
+ },
+ {
+  "id": 26,
+  "start": 53.32,
+  "end": 55.335,
+  "text": "So you’re a businesswoman!"
+ },
+ {
+  "id": 27,
+  "start": 56.687,
+  "end": 57.917,
+  "text": "Do you work on your own?"
+ },
+ {
+  "id": 28,
+  "start": 58.107,
+  "end": 60.059,
+  "text": "No, I have someone to help."
+ },
+ {
+  "id": 29,
+  "start": 60.308,
+  "end": 60.871,
+  "text": "Tina."
+ },
+ {
+  "id": 30,
+  "start": 61.093,
+  "end": 62.768,
+  "text": "She comes in for a few hours every day."
+ },
+ {
+  "id": 31,
+  "start": 62.992,
+  "end": 64.0,
+  "text": "Oh, that’s good."
+ },
+ {
+  "id": 32,
+  "start": 64.182,
+  "end": 65.293,
+  "text": "How about you?"
+ },
+ {
+  "id": 33,
+  "start": 65.523,
+  "end": 66.484,
+  "text": "What do you do?"
+ },
+ {
+  "id": 34,
+  "start": 66.867,
+  "end": 69.558,
+  "text": "Oh, marketing. Boring!"
+ },
+ {
+  "id": 35,
+  "start": 72.009,
+  "end": 73.271,
+  "text": "Same as Mark."
+ },
+ {
+  "id": 36,
+  "start": 73.897,
+  "end": 75.215,
+  "text": "He works in marketing."
+ },
+ {
+  "id": 37,
+  "start": 76.972,
+  "end": 80.971,
+  "text": "Oh, I’m sorry. I find it boring."
+ },
+ {
+  "id": 38,
+  "start": 83.319,
+  "end": 85.383,
+  "text": "Do you have any plans for the weekend?"
+ },
+ {
+  "id": 39,
+  "start": 85.536,
+  "end": 86.496,
+  "text": "Actually, yes."
+ },
+ {
+  "id": 40,
+  "start": 86.767,
+  "end": 88.569,
+  "text": "I’m going to visit my brother, Dan."
+ },
+ {
+  "id": 41,
+  "start": 88.784,
+  "end": 90.149,
+  "text": "Oh, I remember Dan."
+ },
+ {
+  "id": 42,
+  "start": 90.252,
+  "end": 90.959,
+  "text": "How is he?"
+ },
+ {
+  "id": 43,
+  "start": 90.984,
+  "end": 91.698,
+  "text": "He’s fine."
+ },
+ {
+  "id": 44,
+  "start": 91.889,
+  "end": 93.833,
+  "text": "He’s married now. To Martina."
+ },
+ {
+  "id": 45,
+  "start": 96.465,
+  "end": 98.084,
+  "text": "Anyway, we really must go."
+ },
+ {
+  "id": 46,
+  "start": 98.674,
+  "end": 99.944,
+  "text": "I need to get back to the shop."
+ },
+ {
+  "id": 47,
+  "start": 100.04,
+  "end": 100.984,
+  "text": "Yeah, of course."
+ },
+ {
+  "id": 48,
+  "start": 101.136,
+  "end": 102.414,
+  "text": "It was really nice to meet you."
+ },
+ {
+  "id": 49,
+  "start": 102.439,
+  "end": 103.351,
+  "text": "Yeah, you too."
+ },
+ {
+  "id": 50,
+  "start": 103.391,
+  "end": 104.249,
+  "text": "Nice to meet you, Mark."
+ },
+ {
+  "id": 51,
+  "start": 104.91,
+  "end": 106.561,
+  "text": "It was great to see you again, Annie."
+ },
+ {
+  "id": 52,
+  "start": 106.634,
+  "end": 108.253,
+  "text": "Yeah! We must meet up soon!"
+ },
+ {
+  "id": 53,
+  "start": 108.278,
+  "end": 109.023,
+  "text": "Definitely!"
+ },
+ {
+  "id": 54,
+  "start": 109.685,
+  "end": 113.241,
+  "text": "Actually, it’s Leo’s birthday in a couple of weeks."
+ },
+ {
+  "id": 55,
+  "start": 113.79,
+  "end": 115.036,
+  "text": "Perhaps we could meet then."
+ },
+ {
+  "id": 56,
+  "start": 115.506,
+  "end": 117.125,
+  "text": "OK, great. I’ll give you a call."
+ },
+ {
+  "id": 57,
+  "start": 117.746,
+  "end": 119.372,
+  "text": "And say hello to Dan for me!"
+ }
+]

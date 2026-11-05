@@ -1,0 +1,116 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U02-09"]=[
+ {
+  "id": 1,
+  "start": 0.468,
+  "end": 2.421,
+  "text": "Track 02.09"
+ },
+ {
+  "id": 2,
+  "start": 4.854,
+  "end": 5.703,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.53,
+  "end": 9.022,
+  "text": "We travelled around Europe last year."
+ },
+ {
+  "id": 4,
+  "start": 10.67,
+  "end": 11.479,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.916,
+  "end": 13.574,
+  "text": "We set off in June."
+ },
+ {
+  "id": 6,
+  "start": 15.022,
+  "end": 16.069,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 16.58,
+  "end": 18.668,
+  "text": "We took off late but…"
+ },
+ {
+  "id": 8,
+  "start": 20.568,
+  "end": 21.465,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 22.261,
+  "end": 24.57,
+  "text": "… we landed on time in Berlin."
+ },
+ {
+  "id": 10,
+  "start": 26.289,
+  "end": 27.273,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 27.846,
+  "end": 29.838,
+  "text": "We hitchhiked across Germany."
+ },
+ {
+  "id": 12,
+  "start": 31.778,
+  "end": 32.857,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 33.454,
+  "end": 36.136,
+  "text": "A kind man gave us a lift to Frankfurt."
+ },
+ {
+  "id": 14,
+  "start": 38.076,
+  "end": 38.981,
+  "text": "7"
+ },
+ {
+  "id": 15,
+  "start": 39.611,
+  "end": 41.706,
+  "text": "We boarded a train to Paris."
+ },
+ {
+  "id": 16,
+  "start": 43.51,
+  "end": 44.319,
+  "text": "8"
+ },
+ {
+  "id": 17,
+  "start": 44.823,
+  "end": 46.569,
+  "text": "We changed at Strasbourg."
+ },
+ {
+  "id": 18,
+  "start": 48.223,
+  "end": 49.096,
+  "text": "9"
+ },
+ {
+  "id": 19,
+  "start": 49.651,
+  "end": 52.183,
+  "text": "We got to Paris at 7:30."
+ }
+];

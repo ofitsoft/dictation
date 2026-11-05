@@ -1,0 +1,392 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U06-19"]=[
+ {
+  "id": 1,
+  "start": 0.603,
+  "end": 2.992,
+  "text": "Track 06.19"
+ },
+ {
+  "id": 2,
+  "start": 4.935,
+  "end": 5.895,
+  "text": "Chloe:"
+ },
+ {
+  "id": 3,
+  "start": 6.349,
+  "end": 8.484,
+  "text": "The problem is that I think about my"
+ },
+ {
+  "id": 4,
+  "start": 8.509,
+  "end": 10.143,
+  "text": "job even in my free time."
+ },
+ {
+  "id": 5,
+  "start": 10.989,
+  "end": 12.83,
+  "text": "I’m so busy during the day"
+ },
+ {
+  "id": 6,
+  "start": 12.855,
+  "end": 14.458,
+  "text": "I don’t have time to think"
+ },
+ {
+  "id": 7,
+  "start": 14.802,
+  "end": 16.127,
+  "text": "and then when I get home,"
+ },
+ {
+  "id": 8,
+  "start": 16.152,
+  "end": 17.677,
+  "text": "I spend all my time"
+ },
+ {
+  "id": 9,
+  "start": 17.702,
+  "end": 18.875,
+  "text": "thinking and worrying."
+ },
+ {
+  "id": 10,
+  "start": 19.41,
+  "end": 20.068,
+  "text": "You see,"
+ },
+ {
+  "id": 11,
+  "start": 20.251,
+  "end": 22.021,
+  "text": "my old boss had to leave in a hurry –"
+ },
+ {
+  "id": 12,
+  "start": 22.046,
+  "end": 23.356,
+  "text": "a family problem –"
+ },
+ {
+  "id": 13,
+  "start": 23.605,
+  "end": 24.97,
+  "text": "and they gave me his job."
+ },
+ {
+  "id": 14,
+  "start": 25.408,
+  "end": 27.471,
+  "text": "But I haven’t had any training"
+ },
+ {
+  "id": 15,
+  "start": 27.496,
+  "end": 28.617,
+  "text": "and I don’t feel ready"
+ },
+ {
+  "id": 16,
+  "start": 28.642,
+  "end": 30.413,
+  "text": "to be a manager and make decisions."
+ },
+ {
+  "id": 17,
+  "start": 30.996,
+  "end": 32.773,
+  "text": "Friends tell me I should do something"
+ },
+ {
+  "id": 18,
+  "start": 32.798,
+  "end": 34.409,
+  "text": "relaxing after work,"
+ },
+ {
+  "id": 19,
+  "start": 34.434,
+  "end": 36.577,
+  "text": "like go for a walk on the beach."
+ },
+ {
+  "id": 20,
+  "start": 37.143,
+  "end": 38.69,
+  "text": "But I still can’t stop thinking"
+ },
+ {
+  "id": 21,
+  "start": 38.715,
+  "end": 40.501,
+  "text": "about meetings I’ve been to or"
+ },
+ {
+  "id": 22,
+  "start": 40.526,
+  "end": 42.772,
+  "text": "meetings I’ll have to go to the next day."
+ },
+ {
+  "id": 23,
+  "start": 43.285,
+  "end": 45.158,
+  "text": "And all the reports I have to write!"
+ },
+ {
+  "id": 24,
+  "start": 45.676,
+  "end": 46.898,
+  "text": "There’s so much to do"
+ },
+ {
+  "id": 25,
+  "start": 46.923,
+  "end": 49.296,
+  "text": "and I just feel so stressed."
+ },
+ {
+  "id": 26,
+  "start": 50.648,
+  "end": 51.315,
+  "text": "Bob:"
+ },
+ {
+  "id": 27,
+  "start": 51.817,
+  "end": 52.722,
+  "text": "At first,"
+ },
+ {
+  "id": 28,
+  "start": 52.747,
+  "end": 55.223,
+  "text": "I was excited about doing something new."
+ },
+ {
+  "id": 29,
+  "start": 55.63,
+  "end": 57.616,
+  "text": "I’ve never done anything like this before."
+ },
+ {
+  "id": 30,
+  "start": 58.411,
+  "end": 61.958,
+  "text": "Well, I’m sorry to say I’ve stopped feeling excited;"
+ },
+ {
+  "id": 31,
+  "start": 61.983,
+  "end": 64.19,
+  "text": "I’m just generally confused."
+ },
+ {
+  "id": 32,
+  "start": 64.655,
+  "end": 66.909,
+  "text": "I don’t feel like I’m improving at all."
+ },
+ {
+  "id": 33,
+  "start": 67.467,
+  "end": 70.038,
+  "text": "The thing is my wife is Polish"
+ },
+ {
+  "id": 34,
+  "start": 70.063,
+  "end": 72.375,
+  "text": "and I want to be able to speak to people"
+ },
+ {
+  "id": 35,
+  "start": 72.4,
+  "end": 74.559,
+  "text": "in her family when we go to Poland."
+ },
+ {
+  "id": 36,
+  "start": 75.223,
+  "end": 77.31,
+  "text": "I wasn’t very good at languages at school."
+ },
+ {
+  "id": 37,
+  "start": 77.756,
+  "end": 79.089,
+  "text": "I mean, I learnt a little"
+ },
+ {
+  "id": 38,
+  "start": 79.114,
+  "end": 81.781,
+  "text": "bit of French and that was quite hard."
+ },
+ {
+  "id": 39,
+  "start": 82.418,
+  "end": 84.92,
+  "text": "But I find Polish really difficult."
+ },
+ {
+  "id": 40,
+  "start": 85.287,
+  "end": 87.16,
+  "text": "My wife says, ‘Don’t worry –"
+ },
+ {
+  "id": 41,
+  "start": 87.185,
+  "end": 89.853,
+  "text": "when we go to Poland you’ll really start to learn.'"
+ },
+ {
+  "id": 42,
+  "start": 90.54,
+  "end": 92.524,
+  "text": "But, to be honest, I’m not so sure."
+ },
+ {
+  "id": 43,
+  "start": 93.328,
+  "end": 95.59,
+  "text": "I don’t think I’m the kind of person"
+ },
+ {
+  "id": 44,
+  "start": 95.615,
+  "end": 98.655,
+  "text": "who can just listen to a language and learn it."
+ },
+ {
+  "id": 45,
+  "start": 99.939,
+  "end": 100.994,
+  "text": "Marisa:"
+ },
+ {
+  "id": 46,
+  "start": 101.552,
+  "end": 103.171,
+  "text": "I feel really tired,"
+ },
+ {
+  "id": 47,
+  "start": 103.196,
+  "end": 104.973,
+  "text": "because I haven’t been sleeping well"
+ },
+ {
+  "id": 48,
+  "start": 104.998,
+  "end": 106.046,
+  "text": "for the past week."
+ },
+ {
+  "id": 49,
+  "start": 106.636,
+  "end": 108.627,
+  "text": "I stay up late most nights"
+ },
+ {
+  "id": 50,
+  "start": 108.652,
+  "end": 110.501,
+  "text": "and drink coffee to stay awake."
+ },
+ {
+  "id": 51,
+  "start": 111.228,
+  "end": 113.172,
+  "text": "I read the books on my booklist"
+ },
+ {
+  "id": 52,
+  "start": 113.197,
+  "end": 115.078,
+  "text": "and the notes I’ve made during the year"
+ },
+ {
+  "id": 53,
+  "start": 115.103,
+  "end": 116.11,
+  "text": "again and again."
+ },
+ {
+  "id": 54,
+  "start": 116.599,
+  "end": 118.638,
+  "text": "And I test myself all the time to"
+ },
+ {
+  "id": 55,
+  "start": 118.663,
+  "end": 120.448,
+  "text": "help me remember information."
+ },
+ {
+  "id": 56,
+  "start": 121.056,
+  "end": 122.325,
+  "text": "My parents tell me"
+ },
+ {
+  "id": 57,
+  "start": 122.35,
+  "end": 123.706,
+  "text": "I should take more breaks."
+ },
+ {
+  "id": 58,
+  "start": 124.091,
+  "end": 125.655,
+  "text": "They forget that I didn’t do"
+ },
+ {
+  "id": 59,
+  "start": 125.68,
+  "end": 127.448,
+  "text": "very well in my exams last year"
+ },
+ {
+  "id": 60,
+  "start": 127.473,
+  "end": 130.316,
+  "text": "and I was very disappointed with my results."
+ },
+ {
+  "id": 61,
+  "start": 130.852,
+  "end": 132.773,
+  "text": "I really want to do well this year,"
+ },
+ {
+  "id": 62,
+  "start": 132.798,
+  "end": 134.957,
+  "text": "so I need to do all this work."
+ },
+ {
+  "id": 63,
+  "start": 135.373,
+  "end": 137.635,
+  "text": "So, I think I’m just going to have to"
+ },
+ {
+  "id": 64,
+  "start": 137.66,
+  "end": 139.47,
+  "text": "continue like this until I’m sure that"
+ },
+ {
+  "id": 65,
+  "start": 139.495,
+  "end": 141.169,
+  "text": "I can remember everything."
+ }
+];

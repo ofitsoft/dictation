@@ -1,0 +1,152 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U04-01"]=[
+ {
+  "id": 1,
+  "start": 0.468,
+  "end": 2.325,
+  "text": "Track 04.01"
+ },
+ {
+  "id": 2,
+  "start": 4.161,
+  "end": 4.995,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.267,
+  "end": 6.957,
+  "text": "tie"
+ },
+ {
+  "id": 4,
+  "start": 8.746,
+  "end": 9.595,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 10.487,
+  "end": 11.424,
+  "text": "bracelet"
+ },
+ {
+  "id": 6,
+  "start": 13.053,
+  "end": 13.918,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 14.72,
+  "end": 15.942,
+  "text": "high heels"
+ },
+ {
+  "id": 8,
+  "start": 17.85,
+  "end": 18.731,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 19.749,
+  "end": 20.741,
+  "text": "tracksuit"
+ },
+ {
+  "id": 10,
+  "start": 22.173,
+  "end": 23.093,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 23.731,
+  "end": 24.667,
+  "text": "underwear"
+ },
+ {
+  "id": 12,
+  "start": 26.464,
+  "end": 27.567,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 28.41,
+  "end": 29.434,
+  "text": "sweatshirt"
+ },
+ {
+  "id": 14,
+  "start": 31.342,
+  "end": 32.286,
+  "text": "7"
+ },
+ {
+  "id": 15,
+  "start": 32.921,
+  "end": 33.572,
+  "text": "top"
+ },
+ {
+  "id": 16,
+  "start": 35.226,
+  "end": 35.956,
+  "text": "8"
+ },
+ {
+  "id": 17,
+  "start": 36.577,
+  "end": 37.474,
+  "text": "gloves"
+ },
+ {
+  "id": 18,
+  "start": 39.175,
+  "end": 40.016,
+  "text": "9"
+ },
+ {
+  "id": 19,
+  "start": 40.819,
+  "end": 41.692,
+  "text": "tights"
+ },
+ {
+  "id": 20,
+  "start": 43.488,
+  "end": 44.202,
+  "text": "10"
+ },
+ {
+  "id": 21,
+  "start": 44.832,
+  "end": 45.879,
+  "text": "earrings"
+ },
+ {
+  "id": 22,
+  "start": 47.438,
+  "end": 48.279,
+  "text": "11"
+ },
+ {
+  "id": 23,
+  "start": 48.828,
+  "end": 49.844,
+  "text": "sandals"
+ },
+ {
+  "id": 24,
+  "start": 51.53,
+  "end": 52.403,
+  "text": "12"
+ },
+ {
+  "id": 25,
+  "start": 53.228,
+  "end": 54.339,
+  "text": "flat shoes"
+ }
+];

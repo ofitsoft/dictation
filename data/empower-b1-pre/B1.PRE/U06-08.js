@@ -1,0 +1,224 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U06-08"]=[
+ {
+  "id": 1,
+  "start": 0.484,
+  "end": 2.5,
+  "text": "Track 06.08"
+ },
+ {
+  "id": 2,
+  "start": 4.773,
+  "end": 6.456,
+  "text": "So what did you do?"
+ },
+ {
+  "id": 3,
+  "start": 6.498,
+  "end": 9.181,
+  "text": "Well, I was really confused."
+ },
+ {
+  "id": 4,
+  "start": 9.206,
+  "end": 11.199,
+  "text": "I thought I was going to die."
+ },
+ {
+  "id": 5,
+  "start": 11.771,
+  "end": 13.851,
+  "text": "I didn’t really know what to do –"
+ },
+ {
+  "id": 6,
+  "start": 13.876,
+  "end": 16.188,
+  "text": "I just wanted to get out of the water."
+ },
+ {
+  "id": 7,
+  "start": 16.896,
+  "end": 18.825,
+  "text": "But then I saw a shark;"
+ },
+ {
+  "id": 8,
+  "start": 18.85,
+  "end": 20.565,
+  "text": "then another and another."
+ },
+ {
+  "id": 9,
+  "start": 20.917,
+  "end": 21.972,
+  "text": "And suddenly"
+ },
+ {
+  "id": 10,
+  "start": 21.997,
+  "end": 23.941,
+  "text": "I stopped feeling frightened."
+ },
+ {
+  "id": 11,
+  "start": 24.443,
+  "end": 26.133,
+  "text": "I forgot about dying,"
+ },
+ {
+  "id": 12,
+  "start": 26.158,
+  "end": 27.699,
+  "text": "and watched those amazing"
+ },
+ {
+  "id": 13,
+  "start": 27.724,
+  "end": 29.533,
+  "text": "fish moving through the water."
+ },
+ {
+  "id": 14,
+  "start": 30.332,
+  "end": 31.427,
+  "text": "Seeing those sharks"
+ },
+ {
+  "id": 15,
+  "start": 31.452,
+  "end": 33.268,
+  "text": "probably saved my life,"
+ },
+ {
+  "id": 16,
+  "start": 33.293,
+  "end": 35.469,
+  "text": "because they made me feel relaxed."
+ },
+ {
+  "id": 17,
+  "start": 35.973,
+  "end": 38.045,
+  "text": "I started breathing better and –"
+ },
+ {
+  "id": 18,
+  "start": 38.07,
+  "end": 41.244,
+  "text": "very slowly – I made my way to the top."
+ },
+ {
+  "id": 19,
+  "start": 41.269,
+  "end": 43.16,
+  "text": "And how did you feel when"
+ },
+ {
+  "id": 20,
+  "start": 43.185,
+  "end": 45.089,
+  "text": "you got back to the surface?"
+ },
+ {
+  "id": 21,
+  "start": 45.363,
+  "end": 46.91,
+  "text": "Well, once we were back on"
+ },
+ {
+  "id": 22,
+  "start": 46.935,
+  "end": 48.251,
+  "text": "the fishing boat,"
+ },
+ {
+  "id": 23,
+  "start": 48.276,
+  "end": 50.65,
+  "text": "I felt a lot of different things."
+ },
+ {
+  "id": 24,
+  "start": 50.916,
+  "end": 52.75,
+  "text": "I was happy to be alive,"
+ },
+ {
+  "id": 25,
+  "start": 53.021,
+  "end": 54.807,
+  "text": "but I was also embarrassed"
+ },
+ {
+  "id": 26,
+  "start": 54.832,
+  "end": 56.817,
+  "text": "because I used most of my air."
+ },
+ {
+  "id": 27,
+  "start": 57.265,
+  "end": 59.098,
+  "text": "And I was shocked and angry with my"
+ },
+ {
+  "id": 28,
+  "start": 59.123,
+  "end": 60.805,
+  "text": "instructor for taking me down to"
+ },
+ {
+  "id": 29,
+  "start": 60.83,
+  "end": 63.308,
+  "text": "40 metres and then disappearing."
+ },
+ {
+  "id": 30,
+  "start": 63.589,
+  "end": 66.803,
+  "text": "And how has the whole experience changed you?"
+ },
+ {
+  "id": 31,
+  "start": 66.828,
+  "end": 68.703,
+  "text": "After that experience,"
+ },
+ {
+  "id": 32,
+  "start": 68.728,
+  "end": 70.713,
+  "text": "every time I tried to dive,"
+ },
+ {
+  "id": 33,
+  "start": 70.738,
+  "end": 71.945,
+  "text": "I got really worried."
+ },
+ {
+  "id": 34,
+  "start": 72.63,
+  "end": 75.01,
+  "text": "In the end, I stopped scuba diving."
+ },
+ {
+  "id": 35,
+  "start": 75.283,
+  "end": 76.989,
+  "text": "I still love sharks,"
+ },
+ {
+  "id": 36,
+  "start": 77.014,
+  "end": 78.189,
+  "text": "but I’ll never go that"
+ },
+ {
+  "id": 37,
+  "start": 78.214,
+  "end": 79.57,
+  "text": "deep again to see them."
+ }
+];

@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U06-02"]=[
+ {
+  "id": 1,
+  "start": 0.413,
+  "end": 2.317,
+  "text": "Track 06.02"
+ },
+ {
+  "id": 2,
+  "start": 4.407,
+  "end": 5.915,
+  "text": "You should get up early."
+ },
+ {
+  "id": 3,
+  "start": 7.523,
+  "end": 10.229,
+  "text": "Children shouldn’t eat a lot of sweets."
+ },
+ {
+  "id": 4,
+  "start": 11.899,
+  "end": 13.923,
+  "text": "Should I stop eating sweets?"
+ },
+ {
+  "id": 5,
+  "start": 15.682,
+  "end": 16.936,
+  "text": "Yes, you should."
+ },
+ {
+  "id": 6,
+  "start": 18.16,
+  "end": 20.16,
+  "text": "No, you shouldn't."
+ }
+];

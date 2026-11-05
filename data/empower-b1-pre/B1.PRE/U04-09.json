@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1,
+  "start": 0.484,
+  "end": 2.341,
+  "text": "Track 04.09"
+ },
+ {
+  "id": 2,
+  "start": 4.495,
+  "end": 5.908,
+  "text": "Shall I pay for dinner?"
+ },
+ {
+  "id": 3,
+  "start": 7.562,
+  "end": 9.038,
+  "text": "Shall we leave soon?"
+ },
+ {
+  "id": 4,
+  "start": 10.722,
+  "end": 11.929,
+  "text": "What shall I wear?"
+ }
+]

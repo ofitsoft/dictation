@@ -1,0 +1,512 @@
+[
+ {
+  "id": 1,
+  "start": 0.647,
+  "end": 2.655,
+  "text": "Track 11.15"
+ },
+ {
+  "id": 2,
+  "start": 5.26,
+  "end": 7.118,
+  "text": "Hi, welcome to the show."
+ },
+ {
+  "id": 3,
+  "start": 8.011,
+  "end": 10.431,
+  "text": "Today we’re looking at great inventions"
+ },
+ {
+  "id": 4,
+  "start": 10.456,
+  "end": 11.225,
+  "text": "for the future."
+ },
+ {
+  "id": 5,
+  "start": 11.992,
+  "end": 13.841,
+  "text": "What really useful inventions"
+ },
+ {
+  "id": 6,
+  "start": 13.873,
+  "end": 15.206,
+  "text": "do you think we need?"
+ },
+ {
+  "id": 7,
+  "start": 16.02,
+  "end": 17.56,
+  "text": "People have called in to the show"
+ },
+ {
+  "id": 8,
+  "start": 17.616,
+  "end": 19.163,
+  "text": "to tell us their ideas."
+ },
+ {
+  "id": 9,
+  "start": 19.793,
+  "end": 21.809,
+  "text": "First up we have Amir."
+ },
+ {
+  "id": 10,
+  "start": 22.254,
+  "end": 23.049,
+  "text": "Hi Amir."
+ },
+ {
+  "id": 11,
+  "start": 23.533,
+  "end": 23.953,
+  "text": "Hi."
+ },
+ {
+  "id": 12,
+  "start": 24.448,
+  "end": 28.155,
+  "text": "So Amir, tell us about what invention you’d like to see."
+ },
+ {
+  "id": 13,
+  "start": 28.741,
+  "end": 30.463,
+  "text": "I think the most important"
+ },
+ {
+  "id": 14,
+  "start": 30.488,
+  "end": 31.844,
+  "text": "invention we need"
+ },
+ {
+  "id": 15,
+  "start": 32.299,
+  "end": 34.172,
+  "text": "is a new kind of car engine"
+ },
+ {
+  "id": 16,
+  "start": 34.197,
+  "end": 35.584,
+  "text": "that doesn’t need petrol."
+ },
+ {
+  "id": 17,
+  "start": 36.143,
+  "end": 38.406,
+  "text": "There are too many cars in the world already,"
+ },
+ {
+  "id": 18,
+  "start": 38.956,
+  "end": 40.599,
+  "text": "and as countries become richer,"
+ },
+ {
+  "id": 19,
+  "start": 41.014,
+  "end": 42.823,
+  "text": "more and more people will want a car."
+ },
+ {
+  "id": 20,
+  "start": 43.47,
+  "end": 46.009,
+  "text": "That will be terrible news for the environment."
+ },
+ {
+  "id": 21,
+  "start": 46.846,
+  "end": 49.243,
+  "text": "But imagine a world with clean cars"
+ },
+ {
+  "id": 22,
+  "start": 49.545,
+  "end": 51.466,
+  "text": "and no more pollution to worry about!"
+ },
+ {
+  "id": 23,
+  "start": 52.287,
+  "end": 54.081,
+  "text": "I’m sure it’ll be invented soon."
+ },
+ {
+  "id": 24,
+  "start": 54.901,
+  "end": 56.576,
+  "text": "We already have electric cars,"
+ },
+ {
+  "id": 25,
+  "start": 57.078,
+  "end": 58.999,
+  "text": "but I think it will be something different,"
+ },
+ {
+  "id": 26,
+  "start": 59.518,
+  "end": 62.043,
+  "text": "maybe something like a car that runs on air."
+ },
+ {
+  "id": 27,
+  "start": 62.792,
+  "end": 64.601,
+  "text": "I’m sure someone will invent something"
+ },
+ {
+  "id": 28,
+  "start": 64.626,
+  "end": 65.475,
+  "text": "to solve the problem."
+ },
+ {
+  "id": 29,
+  "start": 66.057,
+  "end": 67.064,
+  "text": "I hope so, anyway."
+ },
+ {
+  "id": 30,
+  "start": 67.787,
+  "end": 68.596,
+  "text": "Thanks Amir."
+ },
+ {
+  "id": 31,
+  "start": 68.918,
+  "end": 70.283,
+  "text": "That’s a great invention."
+ },
+ {
+  "id": 32,
+  "start": 71.537,
+  "end": 74.284,
+  "text": "Next on the line we have Uta."
+ },
+ {
+  "id": 33,
+  "start": 75.208,
+  "end": 75.708,
+  "text": "Uta"
+ },
+ {
+  "id": 34,
+  "start": 75.859,
+  "end": 77.605,
+  "text": "tell us about your invention."
+ },
+ {
+  "id": 35,
+  "start": 78.172,
+  "end": 79.156,
+  "text": "Hi, well,"
+ },
+ {
+  "id": 36,
+  "start": 79.682,
+  "end": 81.42,
+  "text": "one really useful invention would be"
+ },
+ {
+  "id": 37,
+  "start": 81.485,
+  "end": 84.83,
+  "text": "artificial meat that’s cheap and tastes good"
+ },
+ {
+  "id": 38,
+  "start": 84.855,
+  "end": 86.434,
+  "text": "and which doesn’t need cows,"
+ },
+ {
+  "id": 39,
+  "start": 86.601,
+  "end": 88.252,
+  "text": "sheep or chickens to produce it."
+ },
+ {
+  "id": 40,
+  "start": 89.064,
+  "end": 90.39,
+  "text": "It sounds like science fiction,"
+ },
+ {
+  "id": 41,
+  "start": 90.431,
+  "end": 91.089,
+  "text": "but in fact"
+ },
+ {
+  "id": 42,
+  "start": 91.138,
+  "end": 92.757,
+  "text": "they’ve already invented it in a way."
+ },
+ {
+  "id": 43,
+  "start": 93.57,
+  "end": 94.189,
+  "text": "Amazingly,"
+ },
+ {
+  "id": 44,
+  "start": 94.214,
+  "end": 96.157,
+  "text": "they’ve produced beef in a laboratory,"
+ },
+ {
+  "id": 45,
+  "start": 96.748,
+  "end": 98.573,
+  "text": "but it cost thousands of pounds to make."
+ },
+ {
+  "id": 46,
+  "start": 99.441,
+  "end": 101.394,
+  "text": "But that’s the same with all new inventions;"
+ },
+ {
+  "id": 47,
+  "start": 102.159,
+  "end": 103.849,
+  "text": "they’re always expensive at the start."
+ },
+ {
+  "id": 48,
+  "start": 104.885,
+  "end": 106.472,
+  "text": "So, I think it will happen"
+ },
+ {
+  "id": 49,
+  "start": 106.657,
+  "end": 107.673,
+  "text": "and it’ll be really good,"
+ },
+ {
+  "id": 50,
+  "start": 107.77,
+  "end": 109.983,
+  "text": "because all the fields we use to grow food"
+ },
+ {
+  "id": 51,
+  "start": 110.008,
+  "end": 115.307,
+  "text": "for cows could be used for something else- to grow vegetables or plant trees, for example."
+ },
+ {
+  "id": 52,
+  "start": 115.658,
+  "end": 116.658,
+  "text": "Thanks Uta."
+ },
+ {
+  "id": 53,
+  "start": 117.304,
+  "end": 118.629,
+  "text": "Artificial meat!"
+ },
+ {
+  "id": 54,
+  "start": 119.194,
+  "end": 119.821,
+  "text": "Wow, that sounds scary…"
+ },
+ {
+  "id": 55,
+  "start": 122.293,
+  "end": 125.754,
+  "text": "Anyhow, last up we have Pierre."
+ },
+ {
+  "id": 56,
+  "start": 126.431,
+  "end": 127.209,
+  "text": "Hi Pierre."
+ },
+ {
+  "id": 57,
+  "start": 127.829,
+  "end": 128.409,
+  "text": "Hi."
+ },
+ {
+  "id": 58,
+  "start": 128.752,
+  "end": 133.207,
+  "text": "So Pierre, tell us about your idea for a great invention."
+ },
+ {
+  "id": 59,
+  "start": 133.988,
+  "end": 134.345,
+  "text": "Well,"
+ },
+ {
+  "id": 60,
+  "start": 134.409,
+  "end": 135.877,
+  "text": "a really useful invention"
+ },
+ {
+  "id": 61,
+  "start": 135.902,
+  "end": 136.615,
+  "text": "I read about"
+ },
+ {
+  "id": 62,
+  "start": 136.64,
+  "end": 138.086,
+  "text": "was a device"
+ },
+ {
+  "id": 63,
+  "start": 138.111,
+  "end": 139.761,
+  "text": "that you could put in your ear"
+ },
+ {
+  "id": 64,
+  "start": 140.096,
+  "end": 142.668,
+  "text": "and it would translate languages for you."
+ },
+ {
+  "id": 65,
+  "start": 143.45,
+  "end": 145.346,
+  "text": "You wouldn’t need to study"
+ },
+ {
+  "id": 66,
+  "start": 145.371,
+  "end": 146.784,
+  "text": "for hours and hours"
+ },
+ {
+  "id": 67,
+  "start": 146.819,
+  "end": 148.327,
+  "text": "to learn a foreign language."
+ },
+ {
+  "id": 68,
+  "start": 148.829,
+  "end": 149.568,
+  "text": "You could just"
+ },
+ {
+  "id": 69,
+  "start": 149.807,
+  "end": 151.695,
+  "text": "put it in your ear when you went on"
+ },
+ {
+  "id": 70,
+  "start": 151.72,
+  "end": 153.871,
+  "text": "holiday to foreign countries"
+ },
+ {
+  "id": 71,
+  "start": 154.065,
+  "end": 156.557,
+  "text": "and you’d understand everything"
+ },
+ {
+  "id": 72,
+  "start": 156.582,
+  "end": 158.224,
+  "text": "everyone was saying to you."
+ },
+ {
+  "id": 73,
+  "start": 158.967,
+  "end": 161.332,
+  "text": "It would help people to communicate"
+ },
+ {
+  "id": 74,
+  "start": 161.508,
+  "end": 163.23,
+  "text": "and would be very useful"
+ },
+ {
+  "id": 75,
+  "start": 163.311,
+  "end": 166.43,
+  "text": "for business people or for politicians."
+ },
+ {
+  "id": 76,
+  "start": 166.848,
+  "end": 167.689,
+  "text": "But it wouldn’t"
+ },
+ {
+  "id": 77,
+  "start": 167.746,
+  "end": 170.024,
+  "text": "be very good news for teachers."
+ },
+ {
+  "id": 78,
+  "start": 170.391,
+  "end": 173.25,
+  "text": "Fortunately for them, it’s probably"
+ },
+ {
+  "id": 79,
+  "start": 173.307,
+  "end": 175.371,
+  "text": "impossible to make such a device,"
+ },
+ {
+  "id": 80,
+  "start": 175.682,
+  "end": 178.551,
+  "text": "or at least it will take many years."
+ },
+ {
+  "id": 81,
+  "start": 179.012,
+  "end": 179.52,
+  "text": "Cool."
+ },
+ {
+  "id": 82,
+  "start": 179.919,
+  "end": 181.633,
+  "text": "I’d love that invention!"
+ },
+ {
+  "id": 83,
+  "start": 182.231,
+  "end": 184.516,
+  "text": "Thanks for those great ideas."
+ },
+ {
+  "id": 84,
+  "start": 184.931,
+  "end": 186.764,
+  "text": "Who knows which of them will happen!!"
+ },
+ {
+  "id": 85,
+  "start": 187.333,
+  "end": 188.881,
+  "text": "We can only wait and see!"
+ }
+]

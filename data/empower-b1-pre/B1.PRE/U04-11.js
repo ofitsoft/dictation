@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U04-11"]=[
+ {
+  "id": 1,
+  "start": 0.484,
+  "end": 2.253,
+  "text": "Track 04.11"
+ },
+ {
+  "id": 2,
+  "start": 4.391,
+  "end": 5.169,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.363,
+  "end": 8.101,
+  "text": "We won’t come back next year."
+ },
+ {
+  "id": 4,
+  "start": 9.937,
+  "end": 10.698,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.495,
+  "end": 13.995,
+  "text": "They won’t stay in the same hotel again."
+ },
+ {
+  "id": 6,
+  "start": 15.569,
+  "end": 16.466,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 17.206,
+  "end": 19.5,
+  "text": "I want to go for a walk in the park."
+ },
+ {
+  "id": 8,
+  "start": 21.114,
+  "end": 21.954,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 22.949,
+  "end": 24.711,
+  "text": "They want to see the market."
+ },
+ {
+  "id": 10,
+  "start": 26.66,
+  "end": 27.636,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 28.224,
+  "end": 30.454,
+  "text": "You won’t find a table at that restaurant."
+ },
+ {
+  "id": 12,
+  "start": 32.194,
+  "end": 33.258,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 34.143,
+  "end": 36.198,
+  "text": "I won’t take you to see the castle."
+ }
+];

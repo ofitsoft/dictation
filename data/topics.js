@@ -166,5 +166,65 @@ window.DICT=window.DICT||{};DICT["topics"]=[
     "count": 22
    }
   ]
+ },
+ {
+  "id": "empower-b1-pre",
+  "title": "Empower B1.Pre",
+  "levels": "B1.PRE",
+  "lessons": 216,
+  "groups": [
+   {
+    "title": "Unit 0",
+    "count": 1
+   },
+   {
+    "title": "Unit 1",
+    "count": 21
+   },
+   {
+    "title": "Unit 2",
+    "count": 24
+   },
+   {
+    "title": "Unit 3",
+    "count": 18
+   },
+   {
+    "title": "Unit 4",
+    "count": 23
+   },
+   {
+    "title": "Unit 5",
+    "count": 18
+   },
+   {
+    "title": "Unit 6",
+    "count": 19
+   },
+   {
+    "title": "Unit 7",
+    "count": 17
+   },
+   {
+    "title": "Unit 8",
+    "count": 13
+   },
+   {
+    "title": "Unit 9",
+    "count": 17
+   },
+   {
+    "title": "Unit 10",
+    "count": 14
+   },
+   {
+    "title": "Unit 11",
+    "count": 15
+   },
+   {
+    "title": "Unit 12",
+    "count": 16
+   }
+  ]
  }
 ];

@@ -1,0 +1,446 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U11-02"]=[
+ {
+  "id": 1,
+  "start": 0.55,
+  "end": 2.241,
+  "text": "Track 11.02"
+ },
+ {
+  "id": 2,
+  "start": 4.752,
+  "end": 6.601,
+  "text": "Welcome to the podcast"
+ },
+ {
+  "id": 3,
+  "start": 6.656,
+  "end": 8.752,
+  "text": "From Fiction to Fact,"
+ },
+ {
+  "id": 4,
+  "start": 8.891,
+  "end": 11.906,
+  "text": "where we find out about interesting ideas"
+ },
+ {
+  "id": 5,
+  "start": 11.931,
+  "end": 14.513,
+  "text": "from books that became reality."
+ },
+ {
+  "id": 6,
+  "start": 14.745,
+  "end": 18.818,
+  "text": "This week, we’re looking at ideas from science fiction."
+ },
+ {
+  "id": 7,
+  "start": 20.07,
+  "end": 22.276,
+  "text": "First up is Jules Verne."
+ },
+ {
+  "id": 8,
+  "start": 22.977,
+  "end": 26.311,
+  "text": "The French writer was very good at inventing stories"
+ },
+ {
+  "id": 9,
+  "start": 26.336,
+  "end": 27.671,
+  "text": "which have excited readers"
+ },
+ {
+  "id": 10,
+  "start": 27.696,
+  "end": 29.497,
+  "text": "for more than a hundred years."
+ },
+ {
+  "id": 11,
+  "start": 30.549,
+  "end": 32.589,
+  "text": "Verne was also very clever at"
+ },
+ {
+  "id": 12,
+  "start": 32.614,
+  "end": 34.829,
+  "text": "imagining machines in his writing"
+ },
+ {
+  "id": 13,
+  "start": 35.045,
+  "end": 37.235,
+  "text": "that would go on to become a reality."
+ },
+ {
+  "id": 14,
+  "start": 38.201,
+  "end": 41.367,
+  "text": "In his book Robur the Conqueror, for instance,"
+ },
+ {
+  "id": 15,
+  "start": 41.568,
+  "end": 43.433,
+  "text": "he describes flying machines"
+ },
+ {
+  "id": 16,
+  "start": 43.457,
+  "end": 44.473,
+  "text": "that have propellers."
+ },
+ {
+  "id": 17,
+  "start": 45.501,
+  "end": 47.335,
+  "text": "Robur’s Albatross is more"
+ },
+ {
+  "id": 18,
+  "start": 47.448,
+  "end": 50.972,
+  "text": "powerful and easier to move than other airships."
+ },
+ {
+  "id": 19,
+  "start": 51.651,
+  "end": 53.786,
+  "text": "The machine that Verne describes"
+ },
+ {
+  "id": 20,
+  "start": 53.945,
+  "end": 55.143,
+  "text": "is quite similar"
+ },
+ {
+  "id": 21,
+  "start": 55.168,
+  "end": 57.495,
+  "text": "to what we now know as a helicopter."
+ },
+ {
+  "id": 22,
+  "start": 58.754,
+  "end": 61.222,
+  "text": "The world’s first successful helicopter"
+ },
+ {
+  "id": 23,
+  "start": 61.247,
+  "end": 63.517,
+  "text": "was invented in 1939"
+ },
+ {
+  "id": 24,
+  "start": 63.711,
+  "end": 65.243,
+  "text": "by Igor Sikorsky,"
+ },
+ {
+  "id": 25,
+  "start": 65.538,
+  "end": 67.491,
+  "text": "who was a Russian-American engineer."
+ },
+ {
+  "id": 26,
+  "start": 68.668,
+  "end": 70.097,
+  "text": "He was born in Russia"
+ },
+ {
+  "id": 27,
+  "start": 70.281,
+  "end": 73.153,
+  "text": "but went to live in America in 1919."
+ },
+ {
+  "id": 28,
+  "start": 73.491,
+  "end": 74.705,
+  "text": "When he was young,"
+ },
+ {
+  "id": 29,
+  "start": 74.929,
+  "end": 77.516,
+  "text": "Sikorsky read Robur the Conqueror,"
+ },
+ {
+  "id": 30,
+  "start": 77.82,
+  "end": 79.494,
+  "text": "and it gave him the idea"
+ },
+ {
+  "id": 31,
+  "start": 79.519,
+  "end": 80.973,
+  "text": "for the design of a helicopter"
+ },
+ {
+  "id": 32,
+  "start": 80.998,
+  "end": 82.736,
+  "text": "that is still used today."
+ },
+ {
+  "id": 33,
+  "start": 83.795,
+  "end": 85.002,
+  "text": "Next, we look at"
+ },
+ {
+  "id": 34,
+  "start": 85.027,
+  "end": 87.384,
+  "text": "one of the most successful science fiction"
+ },
+ {
+  "id": 35,
+  "start": 87.409,
+  "end": 91.071,
+  "text": "stories of all time - Star Trek."
+ },
+ {
+  "id": 36,
+  "start": 91.39,
+  "end": 97.086,
+  "text": "There have been lots of different TV series - even a cartoon - as well as films."
+ },
+ {
+  "id": 37,
+  "start": 97.667,
+  "end": 99.516,
+  "text": "But for many Star Trek fans,"
+ },
+ {
+  "id": 38,
+  "start": 99.541,
+  "end": 101.469,
+  "text": "known as 'Trekkies',"
+ },
+ {
+  "id": 39,
+  "start": 101.544,
+  "end": 105.053,
+  "text": "it’s the original TV series from the 1960s"
+ },
+ {
+  "id": 40,
+  "start": 105.078,
+  "end": 106.61,
+  "text": "that they love the most."
+ },
+ {
+  "id": 41,
+  "start": 107.162,
+  "end": 108.44,
+  "text": "The incredible thing is that"
+ },
+ {
+  "id": 42,
+  "start": 108.48,
+  "end": 110.409,
+  "text": "there were quite a few inventions"
+ },
+ {
+  "id": 43,
+  "start": 110.513,
+  "end": 112.148,
+  "text": "in that TV series"
+ },
+ {
+  "id": 44,
+  "start": 112.293,
+  "end": 114.039,
+  "text": "that are now common today."
+ },
+ {
+  "id": 45,
+  "start": 114.948,
+  "end": 115.901,
+  "text": "For example,"
+ },
+ {
+  "id": 46,
+  "start": 116.186,
+  "end": 117.393,
+  "text": "the 'communicator'"
+ },
+ {
+  "id": 47,
+  "start": 117.553,
+  "end": 119.006,
+  "text": "that characters used to speak"
+ },
+ {
+  "id": 48,
+  "start": 119.038,
+  "end": 121.808,
+  "text": "to each other is just like a mobile phone."
+ },
+ {
+  "id": 49,
+  "start": 122.273,
+  "end": 123.876,
+  "text": "And there was this other machine,"
+ },
+ {
+  "id": 50,
+  "start": 124.124,
+  "end": 125.513,
+  "text": "the 'replicator',"
+ },
+ {
+  "id": 51,
+  "start": 125.848,
+  "end": 127.348,
+  "text": "which was used to make food"
+ },
+ {
+  "id": 52,
+  "start": 127.373,
+  "end": 129.062,
+  "text": "and small objects."
+ },
+ {
+  "id": 53,
+  "start": 129.265,
+  "end": 131.256,
+  "text": "It’s just like the 3D printers"
+ },
+ {
+  "id": 54,
+  "start": 131.281,
+  "end": 132.504,
+  "text": "that we have today."
+ },
+ {
+  "id": 55,
+  "start": 132.76,
+  "end": 134.91,
+  "text": "So Star Trek science fiction"
+ },
+ {
+  "id": 56,
+  "start": 135.175,
+  "end": 137.501,
+  "text": "has become science fact!"
+ },
+ {
+  "id": 57,
+  "start": 139.213,
+  "end": 141.203,
+  "text": "The Blade Runner films are probably"
+ },
+ {
+  "id": 58,
+  "start": 141.228,
+  "end": 143.253,
+  "text": "my favourite science fiction films"
+ },
+ {
+  "id": 59,
+  "start": 143.278,
+  "end": 144.493,
+  "text": "of all time."
+ },
+ {
+  "id": 60,
+  "start": 144.668,
+  "end": 146.27,
+  "text": "I like the way they talk about things"
+ },
+ {
+  "id": 61,
+  "start": 146.295,
+  "end": 147.113,
+  "text": "in the future,"
+ },
+ {
+  "id": 62,
+  "start": 147.243,
+  "end": 148.949,
+  "text": "but, at the same time,"
+ },
+ {
+  "id": 63,
+  "start": 149.087,
+  "end": 150.824,
+  "text": "it’s kind of like they’re talking about"
+ },
+ {
+  "id": 64,
+  "start": 150.849,
+  "end": 154.669,
+  "text": "things in the present - the kind of things we think about today."
+ },
+ {
+  "id": 65,
+  "start": 155.092,
+  "end": 157.465,
+  "text": "And I love the way the films look."
+ },
+ {
+  "id": 66,
+  "start": 157.881,
+  "end": 159.595,
+  "text": "They don’t show a future world"
+ },
+ {
+  "id": 67,
+  "start": 159.62,
+  "end": 166.8,
+  "text": "where everything is clean and perfect - the street scenes look real - a bit dirty and quite disorganised."
+ },
+ {
+  "id": 68,
+  "start": 167.273,
+  "end": 170.011,
+  "text": "Some things in the films don’t exist today."
+ },
+ {
+  "id": 69,
+  "start": 170.133,
+  "end": 171.8,
+  "text": "For example, the skies"
+ },
+ {
+  "id": 70,
+  "start": 171.825,
+  "end": 173.737,
+  "text": "aren’t full of flying cars."
+ },
+ {
+  "id": 71,
+  "start": 174.097,
+  "end": 175.526,
+  "text": "But other things like"
+ },
+ {
+  "id": 72,
+  "start": 175.583,
+  "end": 180.301,
+  "text": "the big flying adverts in the sky - well, now there are these drones that"
+ },
+ {
+  "id": 73,
+  "start": 180.326,
+  "end": 182.111,
+  "text": "fly around with adverts on them."
+ },
+ {
+  "id": 74,
+  "start": 182.438,
+  "end": 186.508,
+  "text": "It’s just like Blade Runner - the future has arrived!"
+ }
+];

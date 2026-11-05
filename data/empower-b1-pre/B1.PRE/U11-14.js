@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U11-14"]=[
+ {
+  "id": 1,
+  "start": 0.659,
+  "end": 2.698,
+  "text": "Track 11.14"
+ },
+ {
+  "id": 2,
+  "start": 6.186,
+  "end": 6.932,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 7.927,
+  "end": 8.966,
+  "text": "The fourth floor."
+ },
+ {
+  "id": 4,
+  "start": 10.96,
+  "end": 11.556,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 12.479,
+  "end": 13.828,
+  "text": "On Thursday evening."
+ },
+ {
+  "id": 6,
+  "start": 15.672,
+  "end": 16.442,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 16.888,
+  "end": 18.563,
+  "text": "It’s office number thirty."
+ },
+ {
+  "id": 8,
+  "start": 20.526,
+  "end": 21.264,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 22.418,
+  "end": 23.846,
+  "text": "It’s hard to work there."
+ },
+ {
+  "id": 10,
+  "start": 25.872,
+  "end": 26.745,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 27.619,
+  "end": 29.484,
+  "text": "There’s a board in the meeting room."
+ }
+];

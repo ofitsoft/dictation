@@ -1,0 +1,242 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U04-15"]=[
+ {
+  "id": 1,
+  "start": 0.476,
+  "end": 2.516,
+  "text": "Track 04.15"
+ },
+ {
+  "id": 2,
+  "start": 3.843,
+  "end": 5.065,
+  "text": "PART 1"
+ },
+ {
+  "id": 3,
+  "start": 11.136,
+  "end": 12.604,
+  "text": "Hello, Fantastic Flowers."
+ },
+ {
+  "id": 4,
+  "start": 12.629,
+  "end": 14.321,
+  "text": "Oh, hi. Rachel?"
+ },
+ {
+  "id": 5,
+  "start": 14.75,
+  "end": 15.329,
+  "text": "Yes?"
+ },
+ {
+  "id": 6,
+  "start": 15.543,
+  "end": 16.678,
+  "text": "It’s Annie."
+ },
+ {
+  "id": 7,
+  "start": 16.776,
+  "end": 18.72,
+  "text": "Oh, hi Annie! How are you?"
+ },
+ {
+  "id": 8,
+  "start": 18.936,
+  "end": 20.475,
+  "text": "I’m OK, thanks. You?"
+ },
+ {
+  "id": 9,
+  "start": 20.565,
+  "end": 21.295,
+  "text": "I’m great."
+ },
+ {
+  "id": 10,
+  "start": 21.646,
+  "end": 22.328,
+  "text": "Listen –"
+ },
+ {
+  "id": 11,
+  "start": 22.353,
+  "end": 24.384,
+  "text": "you know it’s Leo’s birthday this week?"
+ },
+ {
+  "id": 12,
+  "start": 24.665,
+  "end": 25.72,
+  "text": "Of course!"
+ },
+ {
+  "id": 13,
+  "start": 25.888,
+  "end": 26.403,
+  "text": "Well,"
+ },
+ {
+  "id": 14,
+  "start": 26.673,
+  "end": 28.419,
+  "text": "are you doing anything on Wednesday?"
+ },
+ {
+  "id": 15,
+  "start": 28.628,
+  "end": 30.048,
+  "text": "Would you like to come round for a meal?"
+ },
+ {
+  "id": 16,
+  "start": 30.295,
+  "end": 32.041,
+  "text": "Oh, that sounds nice."
+ },
+ {
+  "id": 17,
+  "start": 32.806,
+  "end": 34.21,
+  "text": "I’ll just check."
+ },
+ {
+  "id": 18,
+  "start": 38.683,
+  "end": 40.969,
+  "text": "No, we can’t do Wednesday. Sorry."
+ },
+ {
+  "id": 19,
+  "start": 41.264,
+  "end": 42.63,
+  "text": "We’re meeting some friends."
+ },
+ {
+  "id": 20,
+  "start": 42.758,
+  "end": 44.25,
+  "text": "Oh, OK."
+ },
+ {
+  "id": 21,
+  "start": 44.609,
+  "end": 47.521,
+  "text": "How about Thursday? Is that OK for you?"
+ },
+ {
+  "id": 22,
+  "start": 47.818,
+  "end": 49.54,
+  "text": "Thursday … hang on a minute …"
+ },
+ {
+  "id": 23,
+  "start": 49.723,
+  "end": 51.468,
+  "text": "oh, no, sorry."
+ },
+ {
+  "id": 24,
+  "start": 51.493,
+  "end": 53.105,
+  "text": "I’m working on Thursday evening."
+ },
+ {
+  "id": 25,
+  "start": 53.334,
+  "end": 54.104,
+  "text": "Oh."
+ },
+ {
+  "id": 26,
+  "start": 54.282,
+  "end": 56.289,
+  "text": "This week’s really busy for us."
+ },
+ {
+  "id": 27,
+  "start": 56.61,
+  "end": 57.387,
+  "text": "Next week?"
+ },
+ {
+  "id": 28,
+  "start": 57.562,
+  "end": 58.292,
+  "text": "OK."
+ },
+ {
+  "id": 29,
+  "start": 59.452,
+  "end": 62.031,
+  "text": "What are you doing on … Monday?"
+ },
+ {
+  "id": 30,
+  "start": 62.401,
+  "end": 64.44,
+  "text": "Just a moment …"
+ },
+ {
+  "id": 31,
+  "start": 65.569,
+  "end": 67.729,
+  "text": "Nothing! We can do Monday – perfect."
+ },
+ {
+  "id": 32,
+  "start": 67.887,
+  "end": 68.459,
+  "text": "Great!"
+ },
+ {
+  "id": 33,
+  "start": 68.843,
+  "end": 69.954,
+  "text": "What time shall we come round?"
+ },
+ {
+  "id": 34,
+  "start": 70.097,
+  "end": 71.724,
+  "text": "Let’s say ... seven o’clock."
+ },
+ {
+  "id": 35,
+  "start": 71.869,
+  "end": 72.647,
+  "text": "OK –"
+ },
+ {
+  "id": 36,
+  "start": 72.807,
+  "end": 74.473,
+  "text": "and would you like us to bring anything?"
+ },
+ {
+  "id": 37,
+  "start": 74.545,
+  "end": 75.688,
+  "text": "No, nothing!"
+ },
+ {
+  "id": 38,
+  "start": 76.164,
+  "end": 77.37,
+  "text": "See you on Monday then!"
+ },
+ {
+  "id": 39,
+  "start": 77.641,
+  "end": 78.777,
+  "text": "Great! See you then."
+ },
+ {
+  "id": 40,
+  "start": 78.802,
+  "end": 79.444,
+  "text": "Bye"
+ }
+];

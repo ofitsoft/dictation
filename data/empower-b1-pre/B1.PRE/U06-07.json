@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "start": 0.508,
+  "end": 2.619,
+  "text": "Track 06.07"
+ },
+ {
+  "id": 2,
+  "start": 4.614,
+  "end": 5.875,
+  "text": "amazed"
+ },
+ {
+  "id": 3,
+  "start": 7.505,
+  "end": 8.505,
+  "text": "excited"
+ },
+ {
+  "id": 4,
+  "start": 10.207,
+  "end": 11.207,
+  "text": "annoyed"
+ },
+ {
+  "id": 5,
+  "start": 12.948,
+  "end": 13.94,
+  "text": "confused"
+ },
+ {
+  "id": 6,
+  "start": 15.824,
+  "end": 16.816,
+  "text": "disappointed"
+ },
+ {
+  "id": 7,
+  "start": 18.628,
+  "end": 19.723,
+  "text": "embarrassed"
+ },
+ {
+  "id": 8,
+  "start": 21.519,
+  "end": 22.448,
+  "text": "frightened"
+ },
+ {
+  "id": 9,
+  "start": 24.206,
+  "end": 25.174,
+  "text": "interested"
+ },
+ {
+  "id": 10,
+  "start": 26.916,
+  "end": 27.757,
+  "text": "shocked"
+ },
+ {
+  "id": 11,
+  "start": 29.498,
+  "end": 30.736,
+  "text": "surprised"
+ },
+ {
+  "id": 12,
+  "start": 32.532,
+  "end": 33.238,
+  "text": "tired"
+ }
+]

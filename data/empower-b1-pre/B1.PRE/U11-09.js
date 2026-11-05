@@ -1,0 +1,128 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U11-09"]=[
+ {
+  "id": 1,
+  "start": 0.759,
+  "end": 2.584,
+  "text": "Track 11.09"
+ },
+ {
+  "id": 2,
+  "start": 4.713,
+  "end": 6.524,
+  "text": "1 b"
+ },
+ {
+  "id": 3,
+  "start": 7.501,
+  "end": 9.16,
+  "text": "It’s over there, by the trees."
+ },
+ {
+  "id": 4,
+  "start": 11.277,
+  "end": 13.15,
+  "text": "2 f"
+ },
+ {
+  "id": 5,
+  "start": 14.072,
+  "end": 15.469,
+  "text": "It’s on the second floor."
+ },
+ {
+  "id": 6,
+  "start": 17.353,
+  "end": 19.567,
+  "text": "3 c"
+ },
+ {
+  "id": 7,
+  "start": 20.015,
+  "end": 21.062,
+  "text": "It’s straight ahead."
+ },
+ {
+  "id": 8,
+  "start": 23.272,
+  "end": 25.304,
+  "text": "4 g"
+ },
+ {
+  "id": 9,
+  "start": 26.395,
+  "end": 27.554,
+  "text": "Go through the door."
+ },
+ {
+  "id": 10,
+  "start": 29.485,
+  "end": 31.343,
+  "text": "5 h"
+ },
+ {
+  "id": 11,
+  "start": 32.305,
+  "end": 33.472,
+  "text": "Go down the corridor."
+ },
+ {
+  "id": 12,
+  "start": 35.524,
+  "end": 37.5,
+  "text": "6 d"
+ },
+ {
+  "id": 13,
+  "start": 38.614,
+  "end": 39.519,
+  "text": "Turn left."
+ },
+ {
+  "id": 14,
+  "start": 41.689,
+  "end": 43.459,
+  "text": "7 a"
+ },
+ {
+  "id": 15,
+  "start": 44.484,
+  "end": 45.627,
+  "text": "Go down the stairs."
+ },
+ {
+  "id": 16,
+  "start": 47.735,
+  "end": 49.735,
+  "text": "8 i"
+ },
+ {
+  "id": 17,
+  "start": 50.483,
+  "end": 52.452,
+  "text": "It’s the third door on the left."
+ },
+ {
+  "id": 18,
+  "start": 54.296,
+  "end": 56.306,
+  "text": "9 j"
+ },
+ {
+  "id": 19,
+  "start": 57.618,
+  "end": 59.634,
+  "text": "Take the lift to the third floor."
+ },
+ {
+  "id": 20,
+  "start": 61.695,
+  "end": 63.528,
+  "text": "10 e"
+ },
+ {
+  "id": 21,
+  "start": 64.659,
+  "end": 65.754,
+  "text": "Go round the corner."
+ }
+];

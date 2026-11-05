@@ -1,0 +1,332 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U10-07"]=[
+ {
+  "id": 1,
+  "start": 0.623,
+  "end": 2.338,
+  "text": "Track 10.07"
+ },
+ {
+  "id": 2,
+  "start": 4.986,
+  "end": 7.905,
+  "text": "Now, a new survey has shown the countries"
+ },
+ {
+  "id": 3,
+  "start": 7.906,
+  "end": 9.151,
+  "text": "in the world where people"
+ },
+ {
+  "id": 4,
+  "start": 9.204,
+  "end": 10.943,
+  "text": "complain the most."
+ },
+ {
+  "id": 5,
+  "start": 11.19,
+  "end": 12.761,
+  "text": "And to discuss the results"
+ },
+ {
+  "id": 6,
+  "start": 12.786,
+  "end": 16.778,
+  "text": "we’ve got two guests - Clara Gomes from Brazil,"
+ },
+ {
+  "id": 7,
+  "start": 16.949,
+  "end": 18.338,
+  "text": "which is in the top ten of"
+ },
+ {
+  "id": 8,
+  "start": 18.381,
+  "end": 20.15,
+  "text": "countries that like to complain,"
+ },
+ {
+  "id": 9,
+  "start": 20.27,
+  "end": 22.62,
+  "text": "and Zhang Feng, from China,"
+ },
+ {
+  "id": 10,
+  "start": 22.765,
+  "end": 24.742,
+  "text": "from the bottom ten on the list."
+ },
+ {
+  "id": 11,
+  "start": 25.148,
+  "end": 25.918,
+  "text": "Good morning."
+ },
+ {
+  "id": 12,
+  "start": 26.189,
+  "end": 26.816,
+  "text": "Good morning."
+ },
+ {
+  "id": 13,
+  "start": 27.637,
+  "end": 32.883,
+  "text": "So let’s start with you, Clara - what do you think of the survey results?"
+ },
+ {
+  "id": 14,
+  "start": 33.174,
+  "end": 33.491,
+  "text": "Well,"
+ },
+ {
+  "id": 15,
+  "start": 33.532,
+  "end": 35.77,
+  "text": "I’m surprised we’re in the top ten,"
+ },
+ {
+  "id": 16,
+  "start": 35.915,
+  "end": 38.279,
+  "text": "but I’m not shocked because"
+ },
+ {
+  "id": 17,
+  "start": 38.433,
+  "end": 40.71,
+  "text": "things are slowly changing in Brazil."
+ },
+ {
+  "id": 18,
+  "start": 41.366,
+  "end": 44.624,
+  "text": "Many Brazilians have got more money these days."
+ },
+ {
+  "id": 19,
+  "start": 45.043,
+  "end": 47.71,
+  "text": "So they buy more and also"
+ },
+ {
+  "id": 20,
+  "start": 47.808,
+  "end": 52.154,
+  "text": "expect better quality - if something’s not good enough,"
+ },
+ {
+  "id": 21,
+  "start": 52.343,
+  "end": 53.28,
+  "text": "they’ll complain."
+ },
+ {
+  "id": 22,
+  "start": 54.037,
+  "end": 56.64,
+  "text": "And another thing is education."
+ },
+ {
+  "id": 23,
+  "start": 57.296,
+  "end": 59.51,
+  "text": "I think people know more now"
+ },
+ {
+  "id": 24,
+  "start": 59.535,
+  "end": 61.177,
+  "text": "about the law than they used to."
+ },
+ {
+  "id": 25,
+  "start": 61.8,
+  "end": 63.525,
+  "text": "They know what the companies"
+ },
+ {
+  "id": 26,
+  "start": 63.55,
+  "end": 64.455,
+  "text": "have to do,"
+ },
+ {
+  "id": 27,
+  "start": 64.898,
+  "end": 67.739,
+  "text": "like replace things if they break easily,"
+ },
+ {
+  "id": 28,
+  "start": 68.306,
+  "end": 70.48,
+  "text": "or giving customers their money back"
+ },
+ {
+  "id": 29,
+  "start": 70.541,
+  "end": 71.641,
+  "text": "if the bill is wrong …"
+ },
+ {
+  "id": 30,
+  "start": 72.375,
+  "end": 74.493,
+  "text": "so they’re asking companies"
+ },
+ {
+  "id": 31,
+  "start": 74.494,
+  "end": 76.025,
+  "text": "to play by the rules."
+ },
+ {
+  "id": 32,
+  "start": 76.308,
+  "end": 76.99,
+  "text": "OK,"
+ },
+ {
+  "id": 33,
+  "start": 77.482,
+  "end": 79.252,
+  "text": "and what about China, Feng?"
+ },
+ {
+  "id": 34,
+  "start": 79.868,
+  "end": 82.177,
+  "text": "You’re very low down the list."
+ },
+ {
+  "id": 35,
+  "start": 82.353,
+  "end": 83.853,
+  "text": "Do you think that’s surprising?"
+ },
+ {
+  "id": 36,
+  "start": 84.053,
+  "end": 84.696,
+  "text": "Not really,"
+ },
+ {
+  "id": 37,
+  "start": 84.965,
+  "end": 85.815,
+  "text": "not these days."
+ },
+ {
+  "id": 38,
+  "start": 86.405,
+  "end": 87.12,
+  "text": "In China,"
+ },
+ {
+  "id": 39,
+  "start": 87.232,
+  "end": 88.525,
+  "text": "people don’t really believe"
+ },
+ {
+  "id": 40,
+  "start": 88.662,
+  "end": 90.201,
+  "text": "everything a company says."
+ },
+ {
+  "id": 41,
+  "start": 90.766,
+  "end": 91.782,
+  "text": "Because of this"
+ },
+ {
+  "id": 42,
+  "start": 92.261,
+  "end": 94.853,
+  "text": "they always like to check the products carefully"
+ },
+ {
+  "id": 43,
+  "start": 95.01,
+  "end": 96.256,
+  "text": "before they pay for them."
+ },
+ {
+  "id": 44,
+  "start": 97.337,
+  "end": 99.678,
+  "text": "When you buy something online in China,"
+ },
+ {
+  "id": 45,
+  "start": 100.165,
+  "end": 102.07,
+  "text": "you can contact the company first"
+ },
+ {
+  "id": 46,
+  "start": 102.383,
+  "end": 107.375,
+  "text": "to check all the details of the product - it’s very quick and easy to do."
+ },
+ {
+  "id": 47,
+  "start": 107.919,
+  "end": 108.491,
+  "text": "And then,"
+ },
+ {
+  "id": 48,
+  "start": 109.088,
+  "end": 111.001,
+  "text": "you don’t have to pay when you order,"
+ },
+ {
+  "id": 49,
+  "start": 111.551,
+  "end": 112.978,
+  "text": "you don’t even have to pay"
+ },
+ {
+  "id": 50,
+  "start": 113.003,
+  "end": 114.44,
+  "text": "when the product arrives"
+ },
+ {
+  "id": 51,
+  "start": 114.841,
+  "end": 115.921,
+  "text": "- you only pay"
+ },
+ {
+  "id": 52,
+  "start": 116.208,
+  "end": 118.592,
+  "text": "if you think product is the same"
+ },
+ {
+  "id": 53,
+  "start": 118.803,
+  "end": 120.875,
+  "text": "as the product that the company promised."
+ },
+ {
+  "id": 54,
+  "start": 121.466,
+  "end": 122.252,
+  "text": "So in the end,"
+ },
+ {
+  "id": 55,
+  "start": 122.944,
+  "end": 124.611,
+  "text": "there’s isn’t much to complain about."
+ }
+];

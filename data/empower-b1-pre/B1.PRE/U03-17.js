@@ -1,0 +1,86 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U03-17"]=[
+ {
+  "id": 1,
+  "start": 0.563,
+  "end": 2.651,
+  "text": "Track 03.17"
+ },
+ {
+  "id": 2,
+  "start": 4.757,
+  "end": 6.019,
+  "text": "PART 3"
+ },
+ {
+  "id": 3,
+  "start": 8.547,
+  "end": 9.515,
+  "text": "Shop assistant 2: Who’s next, please?"
+ },
+ {
+  "id": 4,
+  "start": 9.54,
+  "end": 10.366,
+  "text": "Oh, yes."
+ },
+ {
+  "id": 5,
+  "start": 10.881,
+  "end": 11.762,
+  "text": "Just this please."
+ },
+ {
+  "id": 6,
+  "start": 12.272,
+  "end": 13.129,
+  "text": "Shop assistant 2: How would you like to pay?"
+ },
+ {
+  "id": 7,
+  "start": 13.154,
+  "end": 13.686,
+  "text": "Cash."
+ },
+ {
+  "id": 8,
+  "start": 13.711,
+  "end": 14.044,
+  "text": "Shop assistant 2: OK."
+ },
+ {
+  "id": 9,
+  "start": 14.203,
+  "end": 15.942,
+  "text": "Actually, I think I’ll put it on my credit card."
+ },
+ {
+  "id": 10,
+  "start": 15.967,
+  "end": 23.59,
+  "text": "Shop assistant 2: OK. Can you put your card in, please? And can you enter your PIN, please?"
+ },
+ {
+  "id": 11,
+  "start": 23.615,
+  "end": 24.227,
+  "text": "Thank you."
+ },
+ {
+  "id": 12,
+  "start": 26.03,
+  "end": 27.831,
+  "text": "OK, here’s your receipt,"
+ },
+ {
+  "id": 13,
+  "start": 28.81,
+  "end": 29.587,
+  "text": "and here’s the clock."
+ },
+ {
+  "id": 14,
+  "start": 30.223,
+  "end": 30.873,
+  "text": "Thanks a lot."
+ }
+];

@@ -1,0 +1,518 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U09-17"]=[
+ {
+  "id": 1,
+  "start": 0.511,
+  "end": 2.479,
+  "text": "Track 09.17"
+ },
+ {
+  "id": 2,
+  "start": 4.936,
+  "end": 6.071,
+  "text": "Hi, Claudia."
+ },
+ {
+  "id": 3,
+  "start": 6.644,
+  "end": 7.778,
+  "text": "What are you reading?"
+ },
+ {
+  "id": 4,
+  "start": 7.859,
+  "end": 9.067,
+  "text": "I’m just looking at the"
+ },
+ {
+  "id": 5,
+  "start": 9.116,
+  "end": 11.156,
+  "text": "course information for next year."
+ },
+ {
+  "id": 6,
+  "start": 11.333,
+  "end": 12.246,
+  "text": "Oh, OK."
+ },
+ {
+  "id": 7,
+  "start": 12.524,
+  "end": 14.16,
+  "text": "It says that one of the"
+ },
+ {
+  "id": 8,
+  "start": 14.185,
+  "end": 16.549,
+  "text": "psychology courses I have to do is"
+ },
+ {
+  "id": 9,
+  "start": 16.574,
+  "end": 18.147,
+  "text": "going to be online."
+ },
+ {
+  "id": 10,
+  "start": 18.379,
+  "end": 19.093,
+  "text": "That’s good."
+ },
+ {
+  "id": 11,
+  "start": 19.317,
+  "end": 20.389,
+  "text": "Do you think so?"
+ },
+ {
+  "id": 12,
+  "start": 21.018,
+  "end": 23.018,
+  "text": "I’ve never done an online course."
+ },
+ {
+  "id": 13,
+  "start": 23.091,
+  "end": 25.993,
+  "text": "I did one this year - it was great."
+ },
+ {
+  "id": 14,
+  "start": 26.309,
+  "end": 27.315,
+  "text": "I wouldn’t mind doing"
+ },
+ {
+  "id": 15,
+  "start": 27.34,
+  "end": 28.999,
+  "text": "my whole degree online."
+ },
+ {
+  "id": 16,
+  "start": 29.137,
+  "end": 30.248,
+  "text": "Really, Roberta?"
+ },
+ {
+  "id": 17,
+  "start": 30.838,
+  "end": 32.33,
+  "text": "What’s so good about it?"
+ },
+ {
+  "id": 18,
+  "start": 32.482,
+  "end": 34.017,
+  "text": "Well, we only had about"
+ },
+ {
+  "id": 19,
+  "start": 34.071,
+  "end": 36.293,
+  "text": "two classes on the whole course."
+ },
+ {
+  "id": 20,
+  "start": 36.693,
+  "end": 38.731,
+  "text": "And they recorded them and put"
+ },
+ {
+  "id": 21,
+  "start": 38.756,
+  "end": 39.907,
+  "text": "them online anyway."
+ },
+ {
+  "id": 22,
+  "start": 40.856,
+  "end": 41.904,
+  "text": "I was free to"
+ },
+ {
+  "id": 23,
+  "start": 41.929,
+  "end": 43.389,
+  "text": "study whenever I wanted."
+ },
+ {
+  "id": 24,
+  "start": 44.567,
+  "end": 46.536,
+  "text": "It's good for people like me"
+ },
+ {
+  "id": 25,
+  "start": 46.561,
+  "end": 48.591,
+  "text": "who are always late for classes!"
+ },
+ {
+  "id": 26,
+  "start": 48.729,
+  "end": 49.34,
+  "text": "Yeah,"
+ },
+ {
+  "id": 27,
+  "start": 49.365,
+  "end": 51.324,
+  "text": "I don’t have a problem with that,"
+ },
+ {
+  "id": 28,
+  "start": 51.859,
+  "end": 52.922,
+  "text": "but it sounds good."
+ },
+ {
+  "id": 29,
+  "start": 53.027,
+  "end": 53.439,
+  "text": "I mean,"
+ },
+ {
+  "id": 30,
+  "start": 53.495,
+  "end": 55.511,
+  "text": "you still have to write essays and"
+ },
+ {
+  "id": 31,
+  "start": 55.536,
+  "end": 57.267,
+  "text": "hand things in on time and"
+ },
+ {
+  "id": 32,
+  "start": 57.292,
+  "end": 58.149,
+  "text": "all that kind of thing."
+ },
+ {
+  "id": 33,
+  "start": 58.279,
+  "end": 59.183,
+  "text": "Of course."
+ },
+ {
+  "id": 34,
+  "start": 59.645,
+  "end": 60.779,
+  "text": "And I got good marks"
+ },
+ {
+  "id": 35,
+  "start": 60.804,
+  "end": 61.804,
+  "text": "on that course."
+ },
+ {
+  "id": 36,
+  "start": 61.854,
+  "end": 62.505,
+  "text": "But did you …"
+ },
+ {
+  "id": 37,
+  "start": 64.005,
+  "end": 65.489,
+  "text": "I mean didn’t you miss"
+ },
+ {
+  "id": 38,
+  "start": 65.595,
+  "end": 67.849,
+  "text": "asking your teachers questions?"
+ },
+ {
+  "id": 39,
+  "start": 68.17,
+  "end": 70.79,
+  "text": "And what about meeting other students?"
+ },
+ {
+  "id": 40,
+  "start": 70.951,
+  "end": 72.189,
+  "text": "Well, we could go and meet"
+ },
+ {
+  "id": 41,
+  "start": 72.19,
+  "end": 74.261,
+  "text": "the teachers if we wanted to …"
+ },
+ {
+  "id": 42,
+  "start": 74.796,
+  "end": 76.153,
+  "text": "you know, make an appointment"
+ },
+ {
+  "id": 43,
+  "start": 76.178,
+  "end": 78.021,
+  "text": "and ask about something one-to-one."
+ },
+ {
+  "id": 44,
+  "start": 78.626,
+  "end": 80.427,
+  "text": "And at the beginning of the course,"
+ },
+ {
+  "id": 45,
+  "start": 80.661,
+  "end": 82.724,
+  "text": "we had to write an online profile."
+ },
+ {
+  "id": 46,
+  "start": 83.297,
+  "end": 84.4,
+  "text": "We had students from"
+ },
+ {
+  "id": 47,
+  "start": 84.531,
+  "end": 86.404,
+  "text": "from all round the world in our class,"
+ },
+ {
+  "id": 48,
+  "start": 86.66,
+  "end": 89.049,
+  "text": "so the profiles were really interesting."
+ },
+ {
+  "id": 49,
+  "start": 89.178,
+  "end": 90.631,
+  "text": "How many international"
+ },
+ {
+  "id": 50,
+  "start": 90.656,
+  "end": 91.655,
+  "text": "students were there?"
+ },
+ {
+  "id": 51,
+  "start": 91.776,
+  "end": 92.506,
+  "text": "Er ..."
+ },
+ {
+  "id": 52,
+  "start": 92.634,
+  "end": 94.475,
+  "text": "about 15, I think."
+ },
+ {
+  "id": 53,
+  "start": 95.097,
+  "end": 97.629,
+  "text": "And from all kinds of different places -"
+ },
+ {
+  "id": 54,
+  "start": 98.079,
+  "end": 99.015,
+  "text": "Colombia,"
+ },
+ {
+  "id": 55,
+  "start": 99.094,
+  "end": 99.983,
+  "text": "China,"
+ },
+ {
+  "id": 56,
+  "start": 100.071,
+  "end": 101.023,
+  "text": "Morocco,"
+ },
+ {
+  "id": 57,
+  "start": 101.08,
+  "end": 101.77,
+  "text": "Turkey,"
+ },
+ {
+  "id": 58,
+  "start": 102.122,
+  "end": 104.297,
+  "text": "Oman - all over the place."
+ },
+ {
+  "id": 59,
+  "start": 104.347,
+  "end": 105.973,
+  "text": "And did they talk about"
+ },
+ {
+  "id": 60,
+  "start": 106.029,
+  "end": 107.164,
+  "text": "their countries a lot?"
+ },
+ {
+  "id": 61,
+  "start": 107.229,
+  "end": 107.975,
+  "text": "Yeah,"
+ },
+ {
+  "id": 62,
+  "start": 108.255,
+  "end": 110.001,
+  "text": "that’s what I really enjoyed."
+ },
+ {
+  "id": 63,
+  "start": 110.09,
+  "end": 111.971,
+  "text": "The only thing I’m not sure of …"
+ },
+ {
+  "id": 64,
+  "start": 112.36,
+  "end": 112.805,
+  "text": "well,"
+ },
+ {
+  "id": 65,
+  "start": 113.966,
+  "end": 114.585,
+  "text": "you know that"
+ },
+ {
+  "id": 66,
+  "start": 114.61,
+  "end": 116.944,
+  "text": "my IT skills aren’t very good."
+ },
+ {
+  "id": 67,
+  "start": 116.969,
+  "end": 119.486,
+  "text": "I’m OK making documents"
+ },
+ {
+  "id": 68,
+  "start": 119.511,
+  "end": 121.011,
+  "text": "and using the Internet."
+ },
+ {
+  "id": 69,
+  "start": 121.554,
+  "end": 123.316,
+  "text": "But this could be a bit more …"
+ },
+ {
+  "id": 70,
+  "start": 124.215,
+  "end": 125.509,
+  "text": "I don’t know ..."
+ },
+ {
+  "id": 71,
+  "start": 126.225,
+  "end": 127.074,
+  "text": "difficult?"
+ },
+ {
+  "id": 72,
+  "start": 127.099,
+  "end": 128.02,
+  "text": "Not really."
+ },
+ {
+  "id": 73,
+  "start": 128.459,
+  "end": 130.744,
+  "text": "You don’t need any special skills."
+ },
+ {
+  "id": 74,
+  "start": 130.841,
+  "end": 131.944,
+  "text": "It’s quite easy."
+ },
+ {
+  "id": 75,
+  "start": 132.478,
+  "end": 133.875,
+  "text": "And there’s an introduction"
+ },
+ {
+  "id": 76,
+  "start": 133.9,
+  "end": 134.835,
+  "text": "course you can do."
+ },
+ {
+  "id": 77,
+  "start": 134.988,
+  "end": 135.567,
+  "text": "Yes,"
+ },
+ {
+  "id": 78,
+  "start": 135.592,
+  "end": 137.497,
+  "text": "I was just reading about that."
+ },
+ {
+  "id": 79,
+  "start": 138.047,
+  "end": 139.349,
+  "text": "At least it’s free."
+ },
+ {
+  "id": 80,
+  "start": 139.461,
+  "end": 140.532,
+  "text": "Yes, you should"
+ },
+ {
+  "id": 81,
+  "start": 140.612,
+  "end": 141.588,
+  "text": "do it, Claudia."
+ },
+ {
+  "id": 82,
+  "start": 142.107,
+  "end": 143.893,
+  "text": "It’s only two weeks long"
+ },
+ {
+  "id": 83,
+  "start": 143.958,
+  "end": 145.759,
+  "text": "and you can do it any time."
+ },
+ {
+  "id": 84,
+  "start": 146.238,
+  "end": 147.492,
+  "text": "It really helped me."
+ },
+ {
+  "id": 85,
+  "start": 147.572,
+  "end": 147.937,
+  "text": "OK"
+ },
+ {
+  "id": 86,
+  "start": 148.563,
+  "end": 150.111,
+  "text": "- that sounds like a good idea."
+ }
+];

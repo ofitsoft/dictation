@@ -1,0 +1,290 @@
+window.DICT=window.DICT||{};DICT["empower-b1-pre/B1.PRE/U04-19"]=[
+ {
+  "id": 1,
+  "start": 0.516,
+  "end": 2.611,
+  "text": "Track 04.19"
+ },
+ {
+  "id": 2,
+  "start": 3.622,
+  "end": 4.892,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 8.316,
+  "end": 9.523,
+  "text": "That was great!"
+ },
+ {
+  "id": 4,
+  "start": 9.898,
+  "end": 11.175,
+  "text": "Yeah, thanks Annie."
+ },
+ {
+  "id": 5,
+  "start": 11.264,
+  "end": 12.375,
+  "text": "You’re a great cook."
+ },
+ {
+  "id": 6,
+  "start": 12.439,
+  "end": 14.383,
+  "text": "Thanks! I’m glad you enjoyed it."
+ },
+ {
+  "id": 7,
+  "start": 14.434,
+  "end": 15.163,
+  "text": "Enjoyed it?"
+ },
+ {
+  "id": 8,
+  "start": 15.188,
+  "end": 16.322,
+  "text": "I don’t think I can move!"
+ },
+ {
+  "id": 9,
+  "start": 17.489,
+  "end": 18.934,
+  "text": "Excuse me for a moment."
+ },
+ {
+  "id": 10,
+  "start": 21.576,
+  "end": 23.616,
+  "text": "I think I need to go for a run tomorrow."
+ },
+ {
+  "id": 11,
+  "start": 24.142,
+  "end": 26.83,
+  "text": "I always tell you not to eat so much."
+ },
+ {
+  "id": 12,
+  "start": 28.702,
+  "end": 31.432,
+  "text": "Rachel, can you come here for a second?"
+ },
+ {
+  "id": 13,
+  "start": 31.617,
+  "end": 33.387,
+  "text": "I need you to help me carry something."
+ },
+ {
+  "id": 14,
+  "start": 34.216,
+  "end": 35.732,
+  "text": "I’ll send Mark."
+ },
+ {
+  "id": 15,
+  "start": 35.883,
+  "end": 37.819,
+  "text": "He needs the exercise! Go on."
+ },
+ {
+  "id": 16,
+  "start": 40.167,
+  "end": 42.191,
+  "text": "I think I need to get some exercise as well!"
+ },
+ {
+  "id": 17,
+  "start": 42.747,
+  "end": 44.477,
+  "text": "Mark said you’re a big sports fan."
+ },
+ {
+  "id": 18,
+  "start": 45.781,
+  "end": 47.257,
+  "text": "No, not really."
+ },
+ {
+  "id": 19,
+  "start": 47.482,
+  "end": 48.83,
+  "text": "I mean – I like to keep fit,"
+ },
+ {
+  "id": 20,
+  "start": 48.855,
+  "end": 49.966,
+  "text": "so I go to the gym."
+ },
+ {
+  "id": 21,
+  "start": 50.317,
+  "end": 51.555,
+  "text": "But I don’t really like sport."
+ },
+ {
+  "id": 22,
+  "start": 51.93,
+  "end": 52.755,
+  "text": "It’s a bit boring."
+ },
+ {
+  "id": 23,
+  "start": 53.223,
+  "end": 54.565,
+  "text": "And I can’t stand football."
+ },
+ {
+  "id": 24,
+  "start": 55.494,
+  "end": 56.28,
+  "text": "Oh."
+ },
+ {
+  "id": 25,
+  "start": 56.561,
+  "end": 58.204,
+  "text": "Happy Birthday Leo!"
+ },
+ {
+  "id": 26,
+  "start": 58.229,
+  "end": 59.339,
+  "text": "Mark/Rachel: Happy Birthday!"
+ },
+ {
+  "id": 27,
+  "start": 60.928,
+  "end": 61.952,
+  "text": "Thanks everyone."
+ },
+ {
+  "id": 28,
+  "start": 61.977,
+  "end": 63.222,
+  "text": "What an amazing cake!"
+ },
+ {
+  "id": 29,
+  "start": 64.108,
+  "end": 65.807,
+  "text": "Oh … we’ve got this for you, Leo."
+ },
+ {
+  "id": 30,
+  "start": 66.364,
+  "end": 68.721,
+  "text": "Yes, Happy Birthday!"
+ },
+ {
+  "id": 31,
+  "start": 70.181,
+  "end": 71.967,
+  "text": "Oh, you really didn’t need to!"
+ },
+ {
+  "id": 32,
+  "start": 77.793,
+  "end": 79.817,
+  "text": "Wow, that’s great."
+ },
+ {
+  "id": 33,
+  "start": 80.478,
+  "end": 82.795,
+  "text": "I love it! That’s very kind of you."
+ },
+ {
+  "id": 34,
+  "start": 82.845,
+  "end": 84.813,
+  "text": "I knew you’d like it!"
+ },
+ {
+  "id": 35,
+  "start": 86.085,
+  "end": 87.625,
+  "text": "Actually, Leo I was thinking …"
+ },
+ {
+  "id": 36,
+  "start": 88.071,
+  "end": 89.246,
+  "text": "since you’re a sports fan,"
+ },
+ {
+  "id": 37,
+  "start": 89.523,
+  "end": 91.428,
+  "text": "maybe we could do something together some time."
+ },
+ {
+  "id": 38,
+  "start": 91.579,
+  "end": 92.865,
+  "text": "Maybe go to a football match?"
+ },
+ {
+  "id": 39,
+  "start": 92.949,
+  "end": 96.634,
+  "text": "Well … sure, or how about a workout?"
+ },
+ {
+  "id": 40,
+  "start": 96.697,
+  "end": 97.667,
+  "text": "I like going to the gym."
+ },
+ {
+  "id": 41,
+  "start": 97.692,
+  "end": 98.476,
+  "text": "How about that?"
+ },
+ {
+  "id": 42,
+  "start": 98.794,
+  "end": 100.016,
+  "text": "Do you want to come with me some time?"
+ },
+ {
+  "id": 43,
+  "start": 100.059,
+  "end": 104.061,
+  "text": "Oh, OK. Why not? The gym sounds great."
+ },
+ {
+  "id": 44,
+  "start": 105.04,
+  "end": 106.952,
+  "text": "When are you free? I normally go in the evening."
+ },
+ {
+  "id": 45,
+  "start": 107.558,
+  "end": 110.456,
+  "text": "Well, are you going next Tuesday? I’m free then."
+ },
+ {
+  "id": 46,
+  "start": 110.681,
+  "end": 111.95,
+  "text": "I can’t Tuesday."
+ },
+ {
+  "id": 47,
+  "start": 111.975,
+  "end": 112.982,
+  "text": "How about Thursday?"
+ },
+ {
+  "id": 48,
+  "start": 113.213,
+  "end": 114.284,
+  "text": "OK. Sounds great!"
+ }
+];
