@@ -1,0 +1,284 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U04-19"]=[
+ {
+  "id": 1,
+  "start": 0.022,
+  "end": 1.873,
+  "text": "Track 04.19"
+ },
+ {
+  "id": 2,
+  "start": 2.663,
+  "end": 3.534,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 14.441,
+  "end": 15.314,
+  "text": "Are you ready to order?"
+ },
+ {
+  "id": 4,
+  "start": 16.603,
+  "end": 17.197,
+  "text": "Yes?"
+ },
+ {
+  "id": 5,
+  "start": 18.353,
+  "end": 19.098,
+  "text": "I’m ready."
+ },
+ {
+  "id": 6,
+  "start": 19.152,
+  "end": 19.706,
+  "text": "Fine."
+ },
+ {
+  "id": 7,
+  "start": 20.388,
+  "end": 21.481,
+  "text": "I think so …"
+ },
+ {
+  "id": 8,
+  "start": 21.814,
+  "end": 23.062,
+  "text": "What would you like for your starter?"
+ },
+ {
+  "id": 9,
+  "start": 23.291,
+  "end": 25.796,
+  "text": "I’d like the mushroom soup, please."
+ },
+ {
+  "id": 10,
+  "start": 26.469,
+  "end": 27.679,
+  "text": "And for your main course?"
+ },
+ {
+  "id": 11,
+  "start": 28.413,
+  "end": 30.738,
+  "text": "I’ll have the lamb with roast potatoes."
+ },
+ {
+  "id": 12,
+  "start": 32.112,
+  "end": 32.805,
+  "text": "And for you, madam?"
+ },
+ {
+  "id": 13,
+  "start": 32.857,
+  "end": 33.864,
+  "text": "What would you like to eat?"
+ },
+ {
+  "id": 14,
+  "start": 34.42,
+  "end": 36.394,
+  "text": "Oh, dear. It’s hard to decide."
+ },
+ {
+  "id": 15,
+  "start": 37.371,
+  "end": 40.454,
+  "text": "OK, for a starter I’ll have the fish."
+ },
+ {
+  "id": 16,
+  "start": 40.844,
+  "end": 41.435,
+  "text": "No wait!"
+ },
+ {
+  "id": 17,
+  "start": 42.219,
+  "end": 46.024,
+  "text": "I’ll have chicken salad and then …"
+ },
+ {
+  "id": 18,
+  "start": 47.557,
+  "end": 51.041,
+  "text": "yes … I’d like the spaghetti for my main course."
+ },
+ {
+  "id": 19,
+  "start": 52.067,
+  "end": 52.596,
+  "text": "Very good."
+ },
+ {
+  "id": 20,
+  "start": 53.313,
+  "end": 54.48,
+  "text": "And for your starter, sir?"
+ },
+ {
+  "id": 21,
+  "start": 54.756,
+  "end": 56.217,
+  "text": "I’ll have chicken salad."
+ },
+ {
+  "id": 22,
+  "start": 57.071,
+  "end": 58.336,
+  "text": "Chicken salad."
+ },
+ {
+  "id": 23,
+  "start": 58.907,
+  "end": 60.756,
+  "text": "Then lamb with roast potatoes."
+ },
+ {
+  "id": 24,
+  "start": 61.131,
+  "end": 63.465,
+  "text": "Oh, lamb – that sounds nice."
+ },
+ {
+  "id": 25,
+  "start": 63.851,
+  "end": 65.456,
+  "text": "Can I change my order?"
+ },
+ {
+  "id": 26,
+  "start": 65.751,
+  "end": 66.078,
+  "text": "Of course."
+ },
+ {
+  "id": 27,
+  "start": 66.791,
+  "end": 67.527,
+  "text": "I’ll have the same –"
+ },
+ {
+  "id": 28,
+  "start": 67.682,
+  "end": 68.537,
+  "text": "lamb for my main."
+ },
+ {
+  "id": 29,
+  "start": 69.01,
+  "end": 69.552,
+  "text": "Certainly."
+ },
+ {
+  "id": 30,
+  "start": 70.721,
+  "end": 71.611,
+  "text": "And finally?"
+ },
+ {
+  "id": 31,
+  "start": 71.671,
+  "end": 73.339,
+  "text": "I’d like the chicken curry."
+ },
+ {
+  "id": 32,
+  "start": 74.578,
+  "end": 75.713,
+  "text": "Would you like rice with that?"
+ },
+ {
+  "id": 33,
+  "start": 75.896,
+  "end": 76.663,
+  "text": "Yes, please."
+ },
+ {
+  "id": 34,
+  "start": 76.667,
+  "end": 78.369,
+  "text": "And for my starter I’d like the fish."
+ },
+ {
+  "id": 35,
+  "start": 78.722,
+  "end": 79.626,
+  "text": "Fish."
+ },
+ {
+  "id": 36,
+  "start": 80.462,
+  "end": 81.564,
+  "text": "My first idea."
+ },
+ {
+  "id": 37,
+  "start": 82.659,
+  "end": 86.335,
+  "text": "Sorry, sorry … I’ll have the same as Leo."
+ },
+ {
+  "id": 38,
+  "start": 87.116,
+  "end": 88.017,
+  "text": "So, that’s the fish?"
+ },
+ {
+  "id": 39,
+  "start": 88.052,
+  "end": 88.707,
+  "text": "Yes."
+ },
+ {
+  "id": 40,
+  "start": 89.25,
+  "end": 90.654,
+  "text": "Are you sure about that, Annie?"
+ },
+ {
+  "id": 41,
+  "start": 91.216,
+  "end": 91.644,
+  "text": "What?"
+ },
+ {
+  "id": 42,
+  "start": 91.997,
+  "end": 93.051,
+  "text": "I think so."
+ },
+ {
+  "id": 43,
+  "start": 94.013,
+  "end": 94.56,
+  "text": "Yes."
+ },
+ {
+  "id": 44,
+  "start": 95.647,
+  "end": 97.195,
+  "text": "And what would you like to drink?"
+ },
+ {
+  "id": 45,
+  "start": 98.445,
+  "end": 99.3,
+  "text": "To drink?"
+ },
+ {
+  "id": 46,
+  "start": 99.633,
+  "end": 100.244,
+  "text": "Umm …"
+ },
+ {
+  "id": 47,
+  "start": 101.461,
+  "end": 103.206,
+  "text": "Would you like a moment to think about that?"
+ }
+];

@@ -1,0 +1,122 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U07-15"]=[
+ {
+  "id": 1,
+  "start": 0.429,
+  "end": 2.627,
+  "text": "Track 07.15"
+ },
+ {
+  "id": 2,
+  "start": 4.105,
+  "end": 7.097,
+  "text": "Look at all our old clothes!"
+ },
+ {
+  "id": 3,
+  "start": 7.498,
+  "end": 9.045,
+  "text": "There are a lot!"
+ },
+ {
+  "id": 4,
+  "start": 9.124,
+  "end": 11.505,
+  "text": "We need to throw some away."
+ },
+ {
+  "id": 5,
+  "start": 12.11,
+  "end": 13.983,
+  "text": "Yeah, you’re right."
+ },
+ {
+  "id": 6,
+  "start": 14.887,
+  "end": 16.505,
+  "text": "Is this my old T-shirt?"
+ },
+ {
+  "id": 7,
+  "start": 16.651,
+  "end": 19.366,
+  "text": "No, it’s Greg’s T-shirt."
+ },
+ {
+  "id": 8,
+  "start": 19.798,
+  "end": 21.401,
+  "text": "He never wears it."
+ },
+ {
+  "id": 9,
+  "start": 21.852,
+  "end": 23.653,
+  "text": "Are these your jeans?"
+ },
+ {
+  "id": 10,
+  "start": 23.871,
+  "end": 26.672,
+  "text": "No, they’re Sara’s jeans."
+ },
+ {
+  "id": 11,
+  "start": 27.464,
+  "end": 30.234,
+  "text": "But she sometimes wears these."
+ },
+ {
+  "id": 12,
+  "start": 30.434,
+  "end": 32.481,
+  "text": "But she doesn’t like them."
+ },
+ {
+  "id": 13,
+  "start": 32.863,
+  "end": 33.895,
+  "text": "OK."
+ },
+ {
+  "id": 14,
+  "start": 34.841,
+  "end": 37.905,
+  "text": "Wait just a minute – that’s my shirt."
+ },
+ {
+  "id": 15,
+  "start": 38.25,
+  "end": 39.965,
+  "text": "I sometimes wear that."
+ },
+ {
+  "id": 16,
+  "start": 40.212,
+  "end": 41.537,
+  "text": "Really?"
+ },
+ {
+  "id": 17,
+  "start": 41.901,
+  "end": 43.986,
+  "text": "Well, no …"
+ },
+ {
+  "id": 18,
+  "start": 44.447,
+  "end": 45.931,
+  "text": "not really."
+ },
+ {
+  "id": 19,
+  "start": 45.956,
+  "end": 47.099,
+  "text": "So … ?"
+ },
+ {
+  "id": 20,
+  "start": 47.728,
+  "end": 50.868,
+  "text": "Fine – out it goes."
+ }
+];

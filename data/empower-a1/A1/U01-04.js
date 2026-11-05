@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U01-04"]=[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 2.492,
+  "text": "Track 01.04"
+ },
+ {
+  "id": 2,
+  "start": 3.526,
+  "end": 5.05,
+  "text": "Am I at home?"
+ },
+ {
+  "id": 3,
+  "start": 5.845,
+  "end": 7.313,
+  "text": "Yes, I am."
+ },
+ {
+  "id": 4,
+  "start": 9.102,
+  "end": 10.602,
+  "text": "No, I’m not."
+ },
+ {
+  "id": 5,
+  "start": 12.765,
+  "end": 14.146,
+  "text": "Are you OK?"
+ },
+ {
+  "id": 6,
+  "start": 14.91,
+  "end": 16.307,
+  "text": "Yes, you are."
+ },
+ {
+  "id": 7,
+  "start": 18.096,
+  "end": 19.533,
+  "text": "No, you aren’t."
+ },
+ {
+  "id": 8,
+  "start": 21.648,
+  "end": 23.363,
+  "text": "Are we in London?"
+ },
+ {
+  "id": 9,
+  "start": 24.118,
+  "end": 25.507,
+  "text": "Yes, we are."
+ },
+ {
+  "id": 10,
+  "start": 27.217,
+  "end": 28.757,
+  "text": "No, we aren’t."
+ },
+ {
+  "id": 11,
+  "start": 30.887,
+  "end": 32.474,
+  "text": "Are you students?"
+ },
+ {
+  "id": 12,
+  "start": 33.254,
+  "end": 34.731,
+  "text": "Yes, you are."
+ },
+ {
+  "id": 13,
+  "start": 36.378,
+  "end": 37.99,
+  "text": "No, you aren’t."
+ }
+];

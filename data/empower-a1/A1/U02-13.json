@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.841,
+  "text": "Track 02.13"
+ },
+ {
+  "id": 2,
+  "start": 5.103,
+  "end": 8.167,
+  "text": "What things are OK at an airport?"
+ },
+ {
+  "id": 3,
+  "start": 8.487,
+  "end": 10.424,
+  "text": "Most things are fine."
+ },
+ {
+  "id": 4,
+  "start": 10.781,
+  "end": 13.773,
+  "text": "Computers are fine, and phones,"
+ },
+ {
+  "id": 5,
+  "start": 13.932,
+  "end": 17.329,
+  "text": "and watches of course, all no problem."
+ },
+ {
+  "id": 6,
+  "start": 17.532,
+  "end": 19.453,
+  "text": "What about umbrellas?"
+ },
+ {
+  "id": 7,
+  "start": 19.603,
+  "end": 21.262,
+  "text": "Yes, they’re fine."
+ },
+ {
+  "id": 8,
+  "start": 21.349,
+  "end": 23.508,
+  "text": "So, what’s not OK?"
+ },
+ {
+  "id": 9,
+  "start": 23.742,
+  "end": 26.114,
+  "text": "Well, bottles of water,"
+ },
+ {
+  "id": 10,
+  "start": 26.218,
+  "end": 27.67,
+  "text": "they’re not OK."
+ },
+ {
+  "id": 11,
+  "start": 27.797,
+  "end": 30.122,
+  "text": "And, of course, no knives?"
+ },
+ {
+  "id": 12,
+  "start": 30.17,
+  "end": 32.261,
+  "text": "Uh, no!"
+ }
+]

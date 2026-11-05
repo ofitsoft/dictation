@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.889,
+  "text": "Track 08.14"
+ },
+ {
+  "id": 2,
+  "start": 2.706,
+  "end": 3.134,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.071,
+  "end": 5.23,
+  "text": "Come and sit down."
+ },
+ {
+  "id": 4,
+  "start": 7.452,
+  "end": 7.921,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 8.901,
+  "end": 10.282,
+  "text": "I feel a bit tired."
+ },
+ {
+  "id": 6,
+  "start": 12.504,
+  "end": 13.088,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 13.901,
+  "end": 15.1,
+  "text": "You don’t look well."
+ },
+ {
+  "id": 8,
+  "start": 17.349,
+  "end": 17.889,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 18.841,
+  "end": 19.726,
+  "text": "Good to see you."
+ }
+]

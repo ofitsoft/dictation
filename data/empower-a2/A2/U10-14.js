@@ -1,0 +1,224 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U10-14"]=[
+ {
+  "id": 1,
+  "start": 0.024,
+  "end": 1.849,
+  "text": "Track 10.14"
+ },
+ {
+  "id": 2,
+  "start": 2.896,
+  "end": 3.801,
+  "text": "Speaker 1"
+ },
+ {
+  "id": 3,
+  "start": 4.849,
+  "end": 7.309,
+  "text": "I sometimes send text messages,"
+ },
+ {
+  "id": 4,
+  "start": 7.447,
+  "end": 8.928,
+  "text": "usually to my parents"
+ },
+ {
+  "id": 5,
+  "start": 8.928,
+  "end": 10.428,
+  "text": "to say when I’m coming home,"
+ },
+ {
+  "id": 6,
+  "start": 10.841,
+  "end": 13.166,
+  "text": "but I usually chat online."
+ },
+ {
+  "id": 7,
+  "start": 13.769,
+  "end": 16.321,
+  "text": "It’s easier if you’re online anyway –"
+ },
+ {
+  "id": 8,
+  "start": 16.376,
+  "end": 17.482,
+  "text": "and it’s cheaper!"
+ },
+ {
+  "id": 9,
+  "start": 18.331,
+  "end": 19.683,
+  "text": "I always have my phone"
+ },
+ {
+  "id": 10,
+  "start": 19.683,
+  "end": 21.152,
+  "text": "with me so I can see"
+ },
+ {
+  "id": 11,
+  "start": 21.152,
+  "end": 22.572,
+  "text": "what my friends are doing."
+ },
+ {
+  "id": 12,
+  "start": 23.234,
+  "end": 24.054,
+  "text": "It’s really good"
+ },
+ {
+  "id": 13,
+  "start": 24.079,
+  "end": 25.698,
+  "text": "to know what people are doing."
+ },
+ {
+  "id": 14,
+  "start": 26.516,
+  "end": 29.104,
+  "text": "I chat to everybody all the time"
+ },
+ {
+  "id": 15,
+  "start": 29.244,
+  "end": 31.097,
+  "text": "and we send each other pictures."
+ },
+ {
+  "id": 16,
+  "start": 33.187,
+  "end": 34.086,
+  "text": "Speaker 2"
+ },
+ {
+  "id": 17,
+  "start": 35.175,
+  "end": 37.297,
+  "text": "I only really send text messages"
+ },
+ {
+  "id": 18,
+  "start": 37.297,
+  "end": 38.598,
+  "text": "when I’m travelling."
+ },
+ {
+  "id": 19,
+  "start": 38.798,
+  "end": 40.072,
+  "text": "I text my family"
+ },
+ {
+  "id": 20,
+  "start": 40.072,
+  "end": 40.588,
+  "text": "to tell them"
+ },
+ {
+  "id": 21,
+  "start": 40.588,
+  "end": 42.111,
+  "text": "when I arrive somewhere new"
+ },
+ {
+  "id": 22,
+  "start": 42.127,
+  "end": 43.961,
+  "text": "or tell them when I’ll be back."
+ },
+ {
+  "id": 23,
+  "start": 44.331,
+  "end": 46.197,
+  "text": "It’s useful because I’m often away"
+ },
+ {
+  "id": 24,
+  "start": 46.197,
+  "end": 48.046,
+  "text": "on business trips and of course"
+ },
+ {
+  "id": 25,
+  "start": 48.046,
+  "end": 49.612,
+  "text": "it’s cheaper than phoning."
+ },
+ {
+  "id": 26,
+  "start": 49.932,
+  "end": 52.226,
+  "text": "But usually I don’t send text messages."
+ },
+ {
+  "id": 27,
+  "start": 52.434,
+  "end": 53.782,
+  "text": "I prefer to talk to people"
+ },
+ {
+  "id": 28,
+  "start": 53.782,
+  "end": 54.678,
+  "text": "on the phone."
+ },
+ {
+  "id": 29,
+  "start": 54.766,
+  "end": 56.365,
+  "text": "It’s easier and you can say more."
+ },
+ {
+  "id": 30,
+  "start": 58.953,
+  "end": 59.886,
+  "text": "Speaker 3"
+ },
+ {
+  "id": 31,
+  "start": 60.815,
+  "end": 62.895,
+  "text": "I don’t really like texting much."
+ },
+ {
+  "id": 32,
+  "start": 63.262,
+  "end": 64.117,
+  "text": "I think it’s better"
+ },
+ {
+  "id": 33,
+  "start": 64.117,
+  "end": 65.371,
+  "text": "to talk on the phone."
+ },
+ {
+  "id": 34,
+  "start": 65.687,
+  "end": 66.717,
+  "text": "It’s friendlier."
+ },
+ {
+  "id": 35,
+  "start": 67.481,
+  "end": 69.112,
+  "text": "I sometimes send a text"
+ },
+ {
+  "id": 36,
+  "start": 69.112,
+  "end": 70.639,
+  "text": "if I’m meeting a friend,"
+ },
+ {
+  "id": 37,
+  "start": 70.664,
+  "end": 72.017,
+  "text": "but that’s about all."
+ }
+];

@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.698,
+  "text": "Track 05.25"
+ },
+ {
+  "id": 2,
+  "start": 4.73,
+  "end": 7.524,
+  "text": "Excuse me, can you help me?"
+ },
+ {
+  "id": 3,
+  "start": 7.595,
+  "end": 8.754,
+  "text": "Yes, of course."
+ },
+ {
+  "id": 4,
+  "start": 9.071,
+  "end": 11.46,
+  "text": "Are there any good cafés near here?"
+ },
+ {
+  "id": 5,
+  "start": 11.578,
+  "end": 15.786,
+  "text": "Yes, there’s one in the next street -- Café Milano."
+ },
+ {
+  "id": 6,
+  "start": 15.874,
+  "end": 17.755,
+  "text": "Great, thank you."
+ },
+ {
+  "id": 7,
+  "start": 18.279,
+  "end": 19.85,
+  "text": "And is there a good restaurant"
+ },
+ {
+  "id": 8,
+  "start": 19.89,
+  "end": 21.271,
+  "text": "in this part of town?"
+ },
+ {
+  "id": 9,
+  "start": 21.521,
+  "end": 23.339,
+  "text": "No, I’m sorry,"
+ },
+ {
+  "id": 10,
+  "start": 23.49,
+  "end": 25.76,
+  "text": "there aren’t any restaurants near here."
+ },
+ {
+  "id": 11,
+  "start": 26.19,
+  "end": 28.198,
+  "text": "But there’s one near the station."
+ },
+ {
+  "id": 12,
+  "start": 28.294,
+  "end": 30.77,
+  "text": "OK, thanks for your help."
+ },
+ {
+  "id": 13,
+  "start": 31.19,
+  "end": 32.397,
+  "text": "No problem."
+ }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "id": 1,
+  "start": 0.038,
+  "end": 1.963,
+  "text": "Track 01.18"
+ },
+ {
+  "id": 2,
+  "start": 4.093,
+  "end": 5.054,
+  "text": "How can I help?"
+ },
+ {
+  "id": 3,
+  "start": 5.626,
+  "end": 7.315,
+  "text": "I’d like to do a fitness class."
+ },
+ {
+  "id": 4,
+  "start": 7.648,
+  "end": 8.6,
+  "text": "What’s your surname?"
+ },
+ {
+  "id": 5,
+  "start": 9.32,
+  "end": 9.987,
+  "text": "Seymour."
+ },
+ {
+  "id": 6,
+  "start": 10.923,
+  "end": 12.304,
+  "text": "Can you spell that, please?"
+ },
+ {
+  "id": 7,
+  "start": 12.677,
+  "end": 14.939,
+  "text": "S-E-Y-M-O-U-R."
+ },
+ {
+  "id": 8,
+  "start": 16.01,
+  "end": 17.291,
+  "text": "Seymour –"
+ },
+ {
+  "id": 9,
+  "start": 18.521,
+  "end": 20.125,
+  "text": "yes, here you are."
+ },
+ {
+  "id": 10,
+  "start": 20.751,
+  "end": 22.148,
+  "text": "And what’s your address?"
+ },
+ {
+  "id": 11,
+  "start": 22.22,
+  "end": 23.307,
+  "text": "18 New Street."
+ },
+ {
+  "id": 12,
+  "start": 23.645,
+  "end": 24.891,
+  "text": "What time’s the next class?"
+ },
+ {
+  "id": 13,
+  "start": 25.05,
+  "end": 26.352,
+  "text": "It’s at twenty past seven."
+ },
+ {
+  "id": 14,
+  "start": 26.883,
+  "end": 28.029,
+  "text": "And where’s the class?"
+ },
+ {
+  "id": 15,
+  "start": 28.14,
+  "end": 29.156,
+  "text": "It’s in Studio 1."
+ },
+ {
+  "id": 16,
+  "start": 29.29,
+  "end": 29.93,
+  "text": "Thanks for your help."
+ },
+ {
+  "id": 17,
+  "start": 29.93,
+  "end": 30.637,
+  "text": "You’re welcome."
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 2.682,
+  "text": "Track 07.22"
+ },
+ {
+  "id": 2,
+  "start": 2.921,
+  "end": 3.841,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.586,
+  "end": 6.617,
+  "text": "We only have three."
+ },
+ {
+  "id": 4,
+  "start": 7.627,
+  "end": 8.643,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 10.068,
+  "end": 12.536,
+  "text": "I’d like two of these cups."
+ }
+]

@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 0.452,
+  "end": 2.683,
+  "text": "Track 10.16"
+ },
+ {
+  "id": 2,
+  "start": 4.111,
+  "end": 6.167,
+  "text": "Are you waiting for the bus?"
+ },
+ {
+  "id": 3,
+  "start": 7.139,
+  "end": 8.782,
+  "text": "Yes, you are."
+ },
+ {
+  "id": 4,
+  "start": 10.238,
+  "end": 12.151,
+  "text": "No, you aren’t."
+ },
+ {
+  "id": 5,
+  "start": 14.149,
+  "end": 16.197,
+  "text": "Is she reading a book?"
+ },
+ {
+  "id": 6,
+  "start": 16.907,
+  "end": 18.82,
+  "text": "Yes, she is."
+ },
+ {
+  "id": 7,
+  "start": 20.156,
+  "end": 21.957,
+  "text": "No, she isn’t."
+ },
+ {
+  "id": 8,
+  "start": 23.894,
+  "end": 25.473,
+  "text": "Is it raining?"
+ },
+ {
+  "id": 9,
+  "start": 26.006,
+  "end": 27.768,
+  "text": "Yes, it is."
+ },
+ {
+  "id": 10,
+  "start": 29.26,
+  "end": 30.705,
+  "text": "No, it isn’t."
+ },
+ {
+  "id": 11,
+  "start": 32.583,
+  "end": 34.552,
+  "text": "Are they working?"
+ },
+ {
+  "id": 12,
+  "start": 34.857,
+  "end": 36.937,
+  "text": "Yes, they are."
+ },
+ {
+  "id": 13,
+  "start": 37.934,
+  "end": 40.014,
+  "text": "No, they aren’t."
+ }
+]

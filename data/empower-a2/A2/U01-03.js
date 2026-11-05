@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U01-03"]=[
+ {
+  "id": 1,
+  "start": 0.419,
+  "end": 2.183,
+  "text": "Track 01.03"
+ },
+ {
+  "id": 2,
+  "start": 4.429,
+  "end": 5.643,
+  "text": "She’s from Russia."
+ },
+ {
+  "id": 3,
+  "start": 6.151,
+  "end": 7.151,
+  "text": "She’s Russian."
+ },
+ {
+  "id": 4,
+  "start": 11.038,
+  "end": 12.308,
+  "text": "They’re from Brazil."
+ },
+ {
+  "id": 5,
+  "start": 12.839,
+  "end": 13.847,
+  "text": "They’re Brazilian."
+ },
+ {
+  "id": 6,
+  "start": 17.919,
+  "end": 19.109,
+  "text": "They’re from Spain."
+ },
+ {
+  "id": 7,
+  "start": 19.641,
+  "end": 20.744,
+  "text": "They’re Spanish."
+ },
+ {
+  "id": 8,
+  "start": 24.692,
+  "end": 25.906,
+  "text": "They’re from Germany."
+ },
+ {
+  "id": 9,
+  "start": 26.557,
+  "end": 27.549,
+  "text": "They’re German."
+ },
+ {
+  "id": 10,
+  "start": 31.558,
+  "end": 32.796,
+  "text": "They’re from Japan."
+ },
+ {
+  "id": 11,
+  "start": 33.256,
+  "end": 34.415,
+  "text": "They’re Japanese."
+ }
+];

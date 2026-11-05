@@ -1,0 +1,92 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U09-03"]=[
+ {
+  "id": 1,
+  "start": 0.516,
+  "end": 2.254,
+  "text": "Track 09.03"
+ },
+ {
+  "id": 2,
+  "start": 4.209,
+  "end": 5.846,
+  "text": "Conversation 1"
+ },
+ {
+  "id": 3,
+  "start": 12.369,
+  "end": 12.948,
+  "text": "Hello?"
+ },
+ {
+  "id": 4,
+  "start": 13.96,
+  "end": 16.471,
+  "text": "Hey, Susie. It’s Simon."
+ },
+ {
+  "id": 5,
+  "start": 17.018,
+  "end": 17.866,
+  "text": "Do you want to go"
+ },
+ {
+  "id": 6,
+  "start": 17.867,
+  "end": 19.124,
+  "text": "and see a film tonight"
+ },
+ {
+  "id": 7,
+  "start": 19.124,
+  "end": 20.9,
+  "text": "with Amy and Sandeep?"
+ },
+ {
+  "id": 8,
+  "start": 21.342,
+  "end": 23.471,
+  "text": "Yeah, great idea,"
+ },
+ {
+  "id": 9,
+  "start": 23.472,
+  "end": 24.492,
+  "text": "I’d love to."
+ },
+ {
+  "id": 10,
+  "start": 25.194,
+  "end": 29.378,
+  "text": "Let’s meet at the shopping centre at around seven. OK?"
+ },
+ {
+  "id": 11,
+  "start": 30.165,
+  "end": 33.2,
+  "text": "Where? The centre’s really big!"
+ },
+ {
+  "id": 12,
+  "start": 33.649,
+  "end": 35.711,
+  "text": "Oh, I don’t know."
+ },
+ {
+  "id": 13,
+  "start": 36.193,
+  "end": 37.75,
+  "text": "I’ll call you when we get there"
+ },
+ {
+  "id": 14,
+  "start": 37.75,
+  "end": 39.144,
+  "text": "and we can find each other."
+ },
+ {
+  "id": 15,
+  "start": 39.727,
+  "end": 40.976,
+  "text": "OK."
+ }
+];

@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.429,
+  "end": 2.46,
+  "text": "Track 09.03"
+ },
+ {
+  "id": 2,
+  "start": 4.238,
+  "end": 5.476,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.59,
+  "end": 8.86,
+  "text": "I go to work by train."
+ },
+ {
+  "id": 4,
+  "start": 9.261,
+  "end": 10.912,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 12.668,
+  "end": 14.978,
+  "text": "He takes a bus to school."
+ },
+ {
+  "id": 6,
+  "start": 16.443,
+  "end": 17.832,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 18.968,
+  "end": 20.849,
+  "text": "She drives to work."
+ },
+ {
+  "id": 8,
+  "start": 22.448,
+  "end": 23.606,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 24.751,
+  "end": 27.957,
+  "text": "She goes by plane to see her parents."
+ },
+ {
+  "id": 10,
+  "start": 29.605,
+  "end": 30.859,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 31.981,
+  "end": 34.116,
+  "text": "They always walk to school."
+ }
+]

@@ -1,0 +1,194 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U07-03"]=[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 2.595,
+  "text": "Track 07.03"
+ },
+ {
+  "id": 2,
+  "start": 4.2,
+  "end": 5.93,
+  "text": "I like this plant."
+ },
+ {
+  "id": 3,
+  "start": 5.962,
+  "end": 8.374,
+  "text": "What do you think? For the kitchen."
+ },
+ {
+  "id": 4,
+  "start": 9.205,
+  "end": 10.443,
+  "text": "Hmm …"
+ },
+ {
+  "id": 5,
+  "start": 10.695,
+  "end": 12.259,
+  "text": "it’s OK."
+ },
+ {
+  "id": 6,
+  "start": 12.298,
+  "end": 13.656,
+  "text": "Or these chairs."
+ },
+ {
+  "id": 7,
+  "start": 13.682,
+  "end": 15.857,
+  "text": "They’re really nice."
+ },
+ {
+  "id": 8,
+  "start": 15.993,
+  "end": 18.509,
+  "text": "No, I don’t really like them."
+ },
+ {
+  "id": 9,
+  "start": 19.011,
+  "end": 20.646,
+  "text": "That phone’s nice."
+ },
+ {
+  "id": 10,
+  "start": 20.698,
+  "end": 21.714,
+  "text": "A phone!"
+ },
+ {
+  "id": 11,
+  "start": 21.92,
+  "end": 23.253,
+  "text": "Don’t you want to buy things"
+ },
+ {
+  "id": 12,
+  "start": 23.278,
+  "end": 24.452,
+  "text": "for our new flat?"
+ },
+ {
+  "id": 13,
+  "start": 24.939,
+  "end": 26.899,
+  "text": "Yeah, sure. But"
+ },
+ {
+  "id": 14,
+  "start": 27.177,
+  "end": 28.454,
+  "text": "I like the phone."
+ },
+ {
+  "id": 15,
+  "start": 28.495,
+  "end": 29.178,
+  "text": "Hmm…"
+ },
+ {
+  "id": 16,
+  "start": 30.218,
+  "end": 34.736,
+  "text": "Oh, look. Those plates are beautiful."
+ },
+ {
+  "id": 17,
+  "start": 35.071,
+  "end": 35.944,
+  "text": "Are they?"
+ },
+ {
+  "id": 18,
+  "start": 36.546,
+  "end": 37.467,
+  "text": "Hmm …"
+ },
+ {
+  "id": 19,
+  "start": 37.901,
+  "end": 41.147,
+  "text": "Hey! Look at that speaker!"
+ },
+ {
+  "id": 20,
+  "start": 42.479,
+  "end": 44.076,
+  "text": "That’s so cool."
+ },
+ {
+  "id": 21,
+  "start": 44.101,
+  "end": 46.051,
+  "text": "It’s perfect for a party."
+ },
+ {
+  "id": 22,
+  "start": 46.416,
+  "end": 47.654,
+  "text": "A party?"
+ },
+ {
+  "id": 23,
+  "start": 47.721,
+  "end": 49.554,
+  "text": "In our new flat?"
+ },
+ {
+  "id": 24,
+  "start": 49.88,
+  "end": 50.881,
+  "text": "Of course!"
+ },
+ {
+  "id": 25,
+  "start": 51.079,
+  "end": 52.683,
+  "text": "Excuse me."
+ },
+ {
+  "id": 26,
+  "start": 53.405,
+  "end": 54.659,
+  "text": "Yes?"
+ },
+ {
+  "id": 27,
+  "start": 54.858,
+  "end": 56.517,
+  "text": "How much is that speaker?"
+ },
+ {
+  "id": 28,
+  "start": 57.004,
+  "end": 58.107,
+  "text": "The speaker?"
+ },
+ {
+  "id": 29,
+  "start": 58.361,
+  "end": 60.71,
+  "text": "£135."
+ },
+ {
+  "id": 30,
+  "start": 60.735,
+  "end": 61.92,
+  "text": "What?!"
+ },
+ {
+  "id": 31,
+  "start": 61.975,
+  "end": 63.276,
+  "text": "That’s very expensive, I don't …"
+ },
+ {
+  "id": 32,
+  "start": 63.301,
+  "end": 65.618,
+  "text": "OK, I’ll take it!"
+ }
+];

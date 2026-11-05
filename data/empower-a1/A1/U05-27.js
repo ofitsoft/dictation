@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U05-27"]=[
+ {
+  "id": 1,
+  "start": 0.776,
+  "end": 3.38,
+  "text": "Track 05.27"
+ },
+ {
+  "id": 2,
+  "start": 3.548,
+  "end": 4.667,
+  "text": "/o/"
+ },
+ {
+  "id": 3,
+  "start": 5.278,
+  "end": 6.365,
+  "text": "shop"
+ },
+ {
+  "id": 4,
+  "start": 8.651,
+  "end": 9.778,
+  "text": "hospital"
+ },
+ {
+  "id": 5,
+  "start": 11.87,
+  "end": 13.06,
+  "text": "hot"
+ },
+ {
+  "id": 6,
+  "start": 15.41,
+  "end": 16.544,
+  "text": "/aʊ/"
+ },
+ {
+  "id": 7,
+  "start": 17.208,
+  "end": 18.43,
+  "text": "shower"
+ },
+ {
+  "id": 8,
+  "start": 20.505,
+  "end": 21.767,
+  "text": "flower"
+ },
+ {
+  "id": 9,
+  "start": 23.598,
+  "end": 24.821,
+  "text": "towel"
+ },
+ {
+  "id": 10,
+  "start": 27.243,
+  "end": 28.306,
+  "text": "/əʊ/"
+ },
+ {
+  "id": 11,
+  "start": 29.1,
+  "end": 30.156,
+  "text": "pillow"
+ },
+ {
+  "id": 12,
+  "start": 32.141,
+  "end": 33.276,
+  "text": "know"
+ },
+ {
+  "id": 13,
+  "start": 35.484,
+  "end": 36.81,
+  "text": "hotel"
+ }
+];

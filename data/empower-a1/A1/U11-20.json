@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.413,
+  "end": 2.635,
+  "text": "Track 11.20"
+ },
+ {
+  "id": 2,
+  "start": 3.183,
+  "end": 4.373,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 5.146,
+  "end": 7.923,
+  "text": "I think the museum is very interesting."
+ },
+ {
+  "id": 4,
+  "start": 9.86,
+  "end": 10.868,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.503,
+  "end": 14.439,
+  "text": "What do you think of the new restaurant?"
+ },
+ {
+  "id": 6,
+  "start": 15.759,
+  "end": 16.989,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 17.606,
+  "end": 19.535,
+  "text": "I think you’re right."
+ },
+ {
+  "id": 8,
+  "start": 21.103,
+  "end": 22.183,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 23.042,
+  "end": 24.907,
+  "text": "I don’t think so."
+ },
+ {
+  "id": 10,
+  "start": 26.47,
+  "end": 27.565,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 28.125,
+  "end": 31.475,
+  "text": "I don’t think the colour blue is a good idea."
+ }
+]

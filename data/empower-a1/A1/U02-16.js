@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U02-16"]=[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.841,
+  "text": "Track 02.16"
+ },
+ {
+  "id": 2,
+  "start": 4.659,
+  "end": 6.69,
+  "text": "What’s in your bag?"
+ },
+ {
+  "id": 3,
+  "start": 7.238,
+  "end": 13.89,
+  "text": "Um, I have a book and my keys, and an umbrella."
+ },
+ {
+  "id": 4,
+  "start": 14.334,
+  "end": 15.889,
+  "text": "Do you have a phone?"
+ },
+ {
+  "id": 5,
+  "start": 16.056,
+  "end": 17.437,
+  "text": "Yes."
+ },
+ {
+  "id": 6,
+  "start": 17.667,
+  "end": 20.079,
+  "text": "Oh, and a bottle of water."
+ },
+ {
+  "id": 7,
+  "start": 20.357,
+  "end": 21.976,
+  "text": "Sorry!"
+ }
+];

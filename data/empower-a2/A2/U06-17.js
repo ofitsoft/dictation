@@ -1,0 +1,182 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U06-17"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.857,
+  "text": "Track 06.17"
+ },
+ {
+  "id": 2,
+  "start": 2.754,
+  "end": 4.333,
+  "text": "How I won the lottery"
+ },
+ {
+  "id": 3,
+  "start": 5.611,
+  "end": 6.524,
+  "text": "One day,"
+ },
+ {
+  "id": 4,
+  "start": 6.651,
+  "end": 7.885,
+  "text": "I went into town"
+ },
+ {
+  "id": 5,
+  "start": 7.885,
+  "end": 9.06,
+  "text": "and did some shopping."
+ },
+ {
+  "id": 6,
+  "start": 10.052,
+  "end": 11.651,
+  "text": "Then, on the way home,"
+ },
+ {
+  "id": 7,
+  "start": 11.873,
+  "end": 13.365,
+  "text": "I bought a lottery ticket"
+ },
+ {
+  "id": 8,
+  "start": 13.364,
+  "end": 15.413,
+  "text": "from a small shop by the bus stop."
+ },
+ {
+  "id": 9,
+  "start": 16.664,
+  "end": 18.68,
+  "text": "It had the number of my birthday:"
+ },
+ {
+  "id": 10,
+  "start": 19.314,
+  "end": 22.978,
+  "text": "24 11 1969."
+ },
+ {
+  "id": 11,
+  "start": 23.99,
+  "end": 26.315,
+  "text": "A beautiful woman sold it to me."
+ },
+ {
+  "id": 12,
+  "start": 27.339,
+  "end": 28.831,
+  "text": "When she gave it to me,"
+ },
+ {
+  "id": 13,
+  "start": 29.165,
+  "end": 30.753,
+  "text": "she smiled and said,"
+ },
+ {
+  "id": 14,
+  "start": 31.15,
+  "end": 31.84,
+  "text": "'Good luck,"
+ },
+ {
+  "id": 15,
+  "start": 32.047,
+  "end": 33.015,
+  "text": "I hope you win.'"
+ },
+ {
+  "id": 16,
+  "start": 34.674,
+  "end": 35.983,
+  "text": "A few days later,"
+ },
+ {
+  "id": 17,
+  "start": 36.388,
+  "end": 37.908,
+  "text": "I opened the newspaper"
+ },
+ {
+  "id": 18,
+  "start": 38.313,
+  "end": 40.075,
+  "text": "and read the winning number:"
+ },
+ {
+  "id": 19,
+  "start": 40.869,
+  "end": 43.714,
+  "text": "2-4-1 …"
+ },
+ {
+  "id": 20,
+  "start": 44.881,
+  "end": 46.926,
+  "text": "That was the moment I found out."
+ },
+ {
+  "id": 21,
+  "start": 47.941,
+  "end": 50.223,
+  "text": "My life completely changed"
+ },
+ {
+  "id": 22,
+  "start": 50.334,
+  "end": 51.771,
+  "text": "and I became rich."
+ },
+ {
+  "id": 23,
+  "start": 52.849,
+  "end": 55.576,
+  "text": "I immediately thought of the woman in the shop."
+ },
+ {
+  "id": 24,
+  "start": 56.664,
+  "end": 59.263,
+  "text": "I cut some fresh flowers from my garden"
+ },
+ {
+  "id": 25,
+  "start": 59.613,
+  "end": 62.108,
+  "text": "and went back to the shop to give them to her."
+ },
+ {
+  "id": 26,
+  "start": 63.544,
+  "end": 66.494,
+  "text": "'Is the woman who was here on Saturday in today?'"
+ },
+ {
+  "id": 27,
+  "start": 66.644,
+  "end": 67.359,
+  "text": "I asked."
+ },
+ {
+  "id": 28,
+  "start": 68.208,
+  "end": 69.724,
+  "text": "'I’ve got some flowers for her.'"
+ },
+ {
+  "id": 29,
+  "start": 71.174,
+  "end": 72.413,
+  "text": "But she wasn't there,"
+ },
+ {
+  "id": 30,
+  "start": 73.151,
+  "end": 74.778,
+  "text": "and I never saw her again."
+ }
+];

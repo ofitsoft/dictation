@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.022,
+  "end": 1.93,
+  "text": "Track 04.23"
+ },
+ {
+  "id": 2,
+  "start": 2.771,
+  "end": 3.254,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.133,
+  "end": 6.174,
+  "text": "I’ll have mushroom soup."
+ },
+ {
+  "id": 4,
+  "start": 6.587,
+  "end": 7.462,
+  "text": "Maybe not."
+ },
+ {
+  "id": 5,
+  "start": 7.993,
+  "end": 9.474,
+  "text": "I’d like the chicken salad."
+ },
+ {
+  "id": 6,
+  "start": 12.173,
+  "end": 12.663,
+  "text": "2"
+ },
+ {
+  "id": 7,
+  "start": 13.779,
+  "end": 15.462,
+  "text": "I’d like spaghetti, I think."
+ },
+ {
+  "id": 8,
+  "start": 16.087,
+  "end": 17.026,
+  "text": "No, wait."
+ },
+ {
+  "id": 9,
+  "start": 17.388,
+  "end": 18.909,
+  "text": "I’ll have the vegetable pie."
+ }
+]

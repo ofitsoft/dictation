@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 0.492,
+  "end": 2.136,
+  "text": "Track 02.04"
+ },
+ {
+  "id": 2,
+  "start": 3.29,
+  "end": 4.201,
+  "text": "I work."
+ },
+ {
+  "id": 3,
+  "start": 6.116,
+  "end": 7.287,
+  "text": "She works."
+ },
+ {
+  "id": 4,
+  "start": 9.152,
+  "end": 10.338,
+  "text": "We don’t work."
+ },
+ {
+  "id": 5,
+  "start": 12.203,
+  "end": 13.519,
+  "text": "It doesn’t work."
+ }
+]

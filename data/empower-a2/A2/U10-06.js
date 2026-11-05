@@ -1,0 +1,32 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U10-06"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.706,
+  "text": "Track 10.06"
+ },
+ {
+  "id": 2,
+  "start": 2.396,
+  "end": 4.579,
+  "text": "The most useful language is English."
+ },
+ {
+  "id": 3,
+  "start": 6.555,
+  "end": 8.801,
+  "text": "The easiest language is Spanish."
+ },
+ {
+  "id": 4,
+  "start": 10.796,
+  "end": 13.185,
+  "text": "What’s the hardest language in the world?"
+ },
+ {
+  "id": 5,
+  "start": 15.152,
+  "end": 17.658,
+  "text": "The best language practice is speaking."
+ }
+];

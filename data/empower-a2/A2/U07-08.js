@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U07-08"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.675,
+  "text": "Track 07.08"
+ },
+ {
+  "id": 2,
+  "start": 2.095,
+  "end": 2.841,
+  "text": "fast"
+ },
+ {
+  "id": 3,
+  "start": 3.341,
+  "end": 4.053,
+  "text": "slow"
+ },
+ {
+  "id": 4,
+  "start": 7.52,
+  "end": 8.22,
+  "text": "safe"
+ },
+ {
+  "id": 5,
+  "start": 8.972,
+  "end": 9.918,
+  "text": "dangerous"
+ },
+ {
+  "id": 6,
+  "start": 14.112,
+  "end": 14.799,
+  "text": "empty"
+ },
+ {
+  "id": 7,
+  "start": 15.989,
+  "end": 17.799,
+  "text": "crowded or full"
+ },
+ {
+  "id": 8,
+  "start": 23.115,
+  "end": 23.988,
+  "text": "comfortable"
+ },
+ {
+  "id": 9,
+  "start": 24.829,
+  "end": 25.893,
+  "text": "uncomfortable"
+ },
+ {
+  "id": 10,
+  "start": 30.861,
+  "end": 31.423,
+  "text": "cheap"
+ },
+ {
+  "id": 11,
+  "start": 32.194,
+  "end": 33.228,
+  "text": "expensive"
+ },
+ {
+  "id": 12,
+  "start": 36.642,
+  "end": 37.301,
+  "text": "clean"
+ },
+ {
+  "id": 13,
+  "start": 38.181,
+  "end": 38.841,
+  "text": "dirty"
+ }
+];

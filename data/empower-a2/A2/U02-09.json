@@ -1,0 +1,20 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.77,
+  "text": "Track 02.09"
+ },
+ {
+  "id": 2,
+  "start": 2.468,
+  "end": 3.587,
+  "text": "Do you study"
+ },
+ {
+  "id": 3,
+  "start": 3.587,
+  "end": 5.452,
+  "text": "full-time or part-time?"
+ }
+]

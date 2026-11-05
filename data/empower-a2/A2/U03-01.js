@@ -1,0 +1,50 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U03-01"]=[
+ {
+  "id": 1,
+  "start": 0.023,
+  "end": 1.627,
+  "text": "Track 03.01"
+ },
+ {
+  "id": 2,
+  "start": 3.194,
+  "end": 5.19,
+  "text": "I’m sometimes late for work."
+ },
+ {
+  "id": 3,
+  "start": 7.198,
+  "end": 8.575,
+  "text": "I’m always tired."
+ },
+ {
+  "id": 4,
+  "start": 10.517,
+  "end": 12.557,
+  "text": "I often play tennis in the morning."
+ },
+ {
+  "id": 5,
+  "start": 14.446,
+  "end": 16.932,
+  "text": "I usually go shopping in the afternoon."
+ },
+ {
+  "id": 6,
+  "start": 18.934,
+  "end": 21.273,
+  "text": "I never do any sport in the evening."
+ },
+ {
+  "id": 7,
+  "start": 23.228,
+  "end": 25.127,
+  "text": "How often do you go to the cinema?"
+ },
+ {
+  "id": 8,
+  "start": 27.053,
+  "end": 29.295,
+  "text": "When do you usually see your friends?"
+ }
+];

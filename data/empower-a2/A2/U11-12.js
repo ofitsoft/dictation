@@ -1,0 +1,86 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U11-12"]=[
+ {
+  "id": 1,
+  "start": 0.466,
+  "end": 2.508,
+  "text": "Track 11.12"
+ },
+ {
+  "id": 2,
+  "start": 4.404,
+  "end": 4.974,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.444,
+  "end": 8.691,
+  "text": "Have you ever been to these places?"
+ },
+ {
+  "id": 4,
+  "start": 9.385,
+  "end": 11.417,
+  "text": "What places do you mean?"
+ },
+ {
+  "id": 5,
+  "start": 13.447,
+  "end": 14.007,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 15.463,
+  "end": 18.249,
+  "text": "Have you ever been to Szimpla Kert?"
+ },
+ {
+  "id": 7,
+  "start": 18.874,
+  "end": 22.388,
+  "text": "Yes, I went there two weeks ago."
+ },
+ {
+  "id": 8,
+  "start": 22.858,
+  "end": 25.002,
+  "text": "They had a really good band."
+ },
+ {
+  "id": 9,
+  "start": 26.992,
+  "end": 27.601,
+  "text": "3"
+ },
+ {
+  "id": 10,
+  "start": 29.097,
+  "end": 30.85,
+  "text": "I bet you’ve never been"
+ },
+ {
+  "id": 11,
+  "start": 30.85,
+  "end": 31.922,
+  "text": "to a concert"
+ },
+ {
+  "id": 12,
+  "start": 31.922,
+  "end": 34.151,
+  "text": "at the National Concert Hall"
+ },
+ {
+  "id": 13,
+  "start": 34.571,
+  "end": 37.262,
+  "text": "Yes, I have, actually."
+ },
+ {
+  "id": 14,
+  "start": 37.707,
+  "end": 39.523,
+  "text": "I went there last year."
+ }
+];

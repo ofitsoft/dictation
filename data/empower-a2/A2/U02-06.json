@@ -1,0 +1,62 @@
+[
+ {
+  "id": 1,
+  "start": 0.008,
+  "end": 1.802,
+  "text": "Track 02.06"
+ },
+ {
+  "id": 2,
+  "start": 2.794,
+  "end": 3.77,
+  "text": "works"
+ },
+ {
+  "id": 3,
+  "start": 5.381,
+  "end": 6.27,
+  "text": "finishes"
+ },
+ {
+  "id": 4,
+  "start": 8.384,
+  "end": 9.361,
+  "text": "drives"
+ },
+ {
+  "id": 5,
+  "start": 11.234,
+  "end": 12.149,
+  "text": "eats"
+ },
+ {
+  "id": 6,
+  "start": 13.975,
+  "end": 14.816,
+  "text": "listens"
+ },
+ {
+  "id": 7,
+  "start": 16.819,
+  "end": 17.83,
+  "text": "uses"
+ },
+ {
+  "id": 8,
+  "start": 19.918,
+  "end": 20.759,
+  "text": "teaches"
+ },
+ {
+  "id": 9,
+  "start": 22.897,
+  "end": 23.845,
+  "text": "stops"
+ },
+ {
+  "id": 10,
+  "start": 25.981,
+  "end": 26.854,
+  "text": "watches"
+ }
+]

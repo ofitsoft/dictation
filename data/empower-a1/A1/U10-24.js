@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U10-24"]=[
+ {
+  "id": 1,
+  "start": 0.397,
+  "end": 2.635,
+  "text": "Track 10.24"
+ },
+ {
+  "id": 2,
+  "start": 4.452,
+  "end": 5.778,
+  "text": "Excuse me."
+ },
+ {
+  "id": 3,
+  "start": 5.915,
+  "end": 7.732,
+  "text": "Yes? How can I help you?"
+ },
+ {
+  "id": 4,
+  "start": 7.995,
+  "end": 11.158,
+  "text": "What time’s the next bus to Cambridge?"
+ },
+ {
+  "id": 5,
+  "start": 11.775,
+  "end": 14.505,
+  "text": "The next bus leaves in 20 minutes."
+ },
+ {
+  "id": 6,
+  "start": 14.77,
+  "end": 18.239,
+  "text": "So, at 5:15."
+ },
+ {
+  "id": 7,
+  "start": 18.499,
+  "end": 20.864,
+  "text": "And is it a direct bus?"
+ },
+ {
+  "id": 8,
+  "start": 21.116,
+  "end": 23.465,
+  "text": "No, you change at Birmingham."
+ },
+ {
+  "id": 9,
+  "start": 23.62,
+  "end": 27.12,
+  "text": "OK, and which bus stop is it?"
+ },
+ {
+  "id": 10,
+  "start": 27.428,
+  "end": 30.142,
+  "text": "It’s stop 7, near the ticket office."
+ },
+ {
+  "id": 11,
+  "start": 30.329,
+  "end": 33.052,
+  "text": "Great! Thanks for your help."
+ },
+ {
+  "id": 12,
+  "start": 33.284,
+  "end": 34.252,
+  "text": "No problem."
+ }
+];

@@ -1,0 +1,62 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U06-13"]=[
+ {
+  "id": 1,
+  "start": 0.405,
+  "end": 2.905,
+  "text": "Track 06.13"
+ },
+ {
+  "id": 2,
+  "start": 4.512,
+  "end": 6.337,
+  "text": "Does he work at a bank?"
+ },
+ {
+  "id": 3,
+  "start": 6.362,
+  "end": 8.521,
+  "text": "Yes, he does."
+ },
+ {
+  "id": 4,
+  "start": 9.127,
+  "end": 11.167,
+  "text": "No, he doesn’t."
+ },
+ {
+  "id": 5,
+  "start": 12.909,
+  "end": 14.568,
+  "text": "Does she get up early?"
+ },
+ {
+  "id": 6,
+  "start": 14.593,
+  "end": 16.847,
+  "text": "Yes, she does."
+ },
+ {
+  "id": 7,
+  "start": 17.597,
+  "end": 19.819,
+  "text": "No, she doesn’t."
+ },
+ {
+  "id": 8,
+  "start": 21.632,
+  "end": 24.068,
+  "text": "Does the party start at 9 o'clock?"
+ },
+ {
+  "id": 9,
+  "start": 24.093,
+  "end": 26.158,
+  "text": "Yes, it does."
+ },
+ {
+  "id": 10,
+  "start": 27.0,
+  "end": 29.071,
+  "text": "No, it doesn’t."
+ }
+];

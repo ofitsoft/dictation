@@ -1,0 +1,26 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U08-10"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.627,
+  "text": "Track 08.10"
+ },
+ {
+  "id": 2,
+  "start": 2.69,
+  "end": 3.283,
+  "text": "pretty"
+ },
+ {
+  "id": 3,
+  "start": 5.452,
+  "end": 6.333,
+  "text": "attractive"
+ },
+ {
+  "id": 4,
+  "start": 8.524,
+  "end": 9.309,
+  "text": "good-looking"
+ }
+];

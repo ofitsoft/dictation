@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "start": 0.016,
+  "end": 2.071,
+  "text": "Track 11.18"
+ },
+ {
+  "id": 2,
+  "start": 2.968,
+  "end": 3.897,
+  "text": "PART 3"
+ },
+ {
+  "id": 3,
+  "start": 7.186,
+  "end": 9.194,
+  "text": "I’ve got some of their music on my phone. ..."
+ },
+ {
+  "id": 4,
+  "start": 11.015,
+  "end": 12.602,
+  "text": "Here, listen."
+ },
+ {
+  "id": 5,
+  "start": 12.777,
+  "end": 14.288,
+  "text": "This is one of their tracks. ..."
+ },
+ {
+  "id": 6,
+  "start": 20.273,
+  "end": 21.436,
+  "text": "What do you think?"
+ },
+ {
+  "id": 7,
+  "start": 23.548,
+  "end": 24.532,
+  "text": "No, thanks."
+ },
+ {
+  "id": 8,
+  "start": 24.69,
+  "end": 26.246,
+  "text": "I’ve heard enough of them already."
+ }
+]

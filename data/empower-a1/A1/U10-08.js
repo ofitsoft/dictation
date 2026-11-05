@@ -1,0 +1,116 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U10-08"]=[
+ {
+  "id": 1,
+  "start": 0.333,
+  "end": 2.317,
+  "text": "Track 10.08"
+ },
+ {
+  "id": 2,
+  "start": 3.714,
+  "end": 5.254,
+  "text": "in the car"
+ },
+ {
+  "id": 3,
+  "start": 6.821,
+  "end": 8.257,
+  "text": "in a taxi"
+ },
+ {
+  "id": 4,
+  "start": 9.805,
+  "end": 11.511,
+  "text": "in a hotel"
+ },
+ {
+  "id": 5,
+  "start": 12.765,
+  "end": 14.146,
+  "text": "in bed"
+ },
+ {
+  "id": 6,
+  "start": 15.716,
+  "end": 18.771,
+  "text": "in/at a restaurant"
+ },
+ {
+  "id": 7,
+  "start": 20.111,
+  "end": 22.734,
+  "text": "in/at a café"
+ },
+ {
+  "id": 8,
+  "start": 25.065,
+  "end": 26.994,
+  "text": "at the station"
+ },
+ {
+  "id": 9,
+  "start": 27.924,
+  "end": 30.059,
+  "text": "at the airport"
+ },
+ {
+  "id": 10,
+  "start": 31.386,
+  "end": 33.394,
+  "text": "at the bus stop"
+ },
+ {
+  "id": 11,
+  "start": 34.621,
+  "end": 36.407,
+  "text": "at the cinema"
+ },
+ {
+  "id": 12,
+  "start": 37.847,
+  "end": 39.632,
+  "text": "at a party"
+ },
+ {
+  "id": 13,
+  "start": 40.569,
+  "end": 42.617,
+  "text": "at home"
+ },
+ {
+  "id": 14,
+  "start": 43.434,
+  "end": 45.433,
+  "text": "at work"
+ },
+ {
+  "id": 15,
+  "start": 46.653,
+  "end": 48.43,
+  "text": "at school"
+ },
+ {
+  "id": 16,
+  "start": 50.05,
+  "end": 51.939,
+  "text": "on a bus"
+ },
+ {
+  "id": 17,
+  "start": 53.538,
+  "end": 54.824,
+  "text": "on a train"
+ },
+ {
+  "id": 18,
+  "start": 56.216,
+  "end": 57.985,
+  "text": "on a plane"
+ },
+ {
+  "id": 19,
+  "start": 59.327,
+  "end": 60.898,
+  "text": "on holiday"
+ }
+];

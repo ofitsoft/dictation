@@ -1,0 +1,218 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U08-23"]=[
+ {
+  "id": 1,
+  "start": 0.5,
+  "end": 2.762,
+  "text": "Track 08.23"
+ },
+ {
+  "id": 2,
+  "start": 3.333,
+  "end": 4.69,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 14.597,
+  "end": 15.796,
+  "text": "Thank you."
+ },
+ {
+  "id": 4,
+  "start": 16.812,
+  "end": 18.852,
+  "text": "So, how was your Sunday?"
+ },
+ {
+  "id": 5,
+  "start": 19.171,
+  "end": 20.663,
+  "text": "It was OK."
+ },
+ {
+  "id": 6,
+  "start": 20.727,
+  "end": 22.441,
+  "text": "I was at a party in the evening."
+ },
+ {
+  "id": 7,
+  "start": 22.647,
+  "end": 23.281,
+  "text": "Was it good?"
+ },
+ {
+  "id": 8,
+  "start": 23.523,
+  "end": 26.323,
+  "text": "Yeah … but the food wasn’t very nice."
+ },
+ {
+  "id": 9,
+  "start": 26.537,
+  "end": 27.767,
+  "text": "Oh dear."
+ },
+ {
+  "id": 10,
+  "start": 28.309,
+  "end": 30.444,
+  "text": "I was tired. I went home early."
+ },
+ {
+  "id": 11,
+  "start": 30.666,
+  "end": 31.626,
+  "text": "What about you?"
+ },
+ {
+  "id": 12,
+  "start": 32.092,
+  "end": 32.893,
+  "text": "Me?"
+ },
+ {
+  "id": 13,
+  "start": 32.988,
+  "end": 34.227,
+  "text": "How was your Sunday?"
+ },
+ {
+  "id": 14,
+  "start": 34.877,
+  "end": 36.615,
+  "text": "Oh, it was OK."
+ },
+ {
+  "id": 15,
+  "start": 36.904,
+  "end": 38.84,
+  "text": "I went for a walk in the afternoon."
+ },
+ {
+  "id": 16,
+  "start": 39.296,
+  "end": 41.304,
+  "text": "And then I stayed at home and watched TV."
+ },
+ {
+  "id": 17,
+  "start": 42.85,
+  "end": 44.128,
+  "text": "London’s really big."
+ },
+ {
+  "id": 18,
+  "start": 44.274,
+  "end": 45.647,
+  "text": "It’s difficult to meet people."
+ },
+ {
+  "id": 19,
+  "start": 45.672,
+  "end": 47.069,
+  "text": "Well, you know me!"
+ },
+ {
+  "id": 20,
+  "start": 47.365,
+  "end": 49.071,
+  "text": "Yes, that’s true."
+ },
+ {
+  "id": 21,
+  "start": 50.097,
+  "end": 53.122,
+  "text": "I find London difficult too, sometimes."
+ },
+ {
+  "id": 22,
+  "start": 53.837,
+  "end": 56.992,
+  "text": "I know – let’s go somewhere this weekend."
+ },
+ {
+  "id": 23,
+  "start": 57.103,
+  "end": 58.984,
+  "text": "So you can see a different town."
+ },
+ {
+  "id": 24,
+  "start": 59.415,
+  "end": 60.969,
+  "text": "We could go to Henley."
+ },
+ {
+  "id": 25,
+  "start": 61.146,
+  "end": 62.995,
+  "text": "Henley? Where’s that?"
+ },
+ {
+  "id": 26,
+  "start": 63.119,
+  "end": 64.798,
+  "text": "Oh, it’s a small town,"
+ },
+ {
+  "id": 27,
+  "start": 64.823,
+  "end": 67.156,
+  "text": "it’s not far from London."
+ },
+ {
+  "id": 28,
+  "start": 67.354,
+  "end": 68.473,
+  "text": "I went to school there."
+ },
+ {
+  "id": 29,
+  "start": 68.537,
+  "end": 69.267,
+  "text": "Really?"
+ },
+ {
+  "id": 30,
+  "start": 69.453,
+  "end": 71.913,
+  "text": "Yes, it’s a beautiful place."
+ },
+ {
+  "id": 31,
+  "start": 72.112,
+  "end": 73.017,
+  "text": "Look."
+ },
+ {
+  "id": 32,
+  "start": 73.543,
+  "end": 75.94,
+  "text": "Oh, yes, it looks nice."
+ },
+ {
+  "id": 33,
+  "start": 76.147,
+  "end": 79.022,
+  "text": "So, shall we go there for the day next Saturday?"
+ },
+ {
+  "id": 34,
+  "start": 79.669,
+  "end": 82.248,
+  "text": "OK, that’s a lovely idea."
+ },
+ {
+  "id": 35,
+  "start": 82.351,
+  "end": 84.144,
+  "text": "I’d like to see some different places."
+ },
+ {
+  "id": 36,
+  "start": 84.426,
+  "end": 85.743,
+  "text": "Let’s go to Henley!"
+ }
+];

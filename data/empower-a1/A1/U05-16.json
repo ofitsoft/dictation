@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.427,
+  "end": 2.785,
+  "text": "Track 05.16"
+ },
+ {
+  "id": 2,
+  "start": 4.484,
+  "end": 6.357,
+  "text": "There isn’t a shower."
+ },
+ {
+  "id": 3,
+  "start": 8.167,
+  "end": 10.294,
+  "text": "There isn’t a blanket."
+ },
+ {
+  "id": 4,
+  "start": 12.01,
+  "end": 13.676,
+  "text": "There’s no shower."
+ },
+ {
+  "id": 5,
+  "start": 15.31,
+  "end": 17.143,
+  "text": "There’s no blanket."
+ },
+ {
+  "id": 6,
+  "start": 18.717,
+  "end": 21.019,
+  "text": "There aren’t any pillows."
+ },
+ {
+  "id": 7,
+  "start": 22.913,
+  "end": 25.278,
+  "text": "There aren’t any rooms."
+ },
+ {
+  "id": 8,
+  "start": 27.016,
+  "end": 29.008,
+  "text": "There are no pillows."
+ },
+ {
+  "id": 9,
+  "start": 30.859,
+  "end": 32.883,
+  "text": "There are no rooms."
+ }
+]

@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U08-01"]=[
+ {
+  "id": 1,
+  "start": 0.31,
+  "end": 2.254,
+  "text": "Track 08.01"
+ },
+ {
+  "id": 2,
+  "start": 2.897,
+  "end": 3.857,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.405,
+  "end": 6.119,
+  "text": "We were in Munich."
+ },
+ {
+  "id": 4,
+  "start": 7.157,
+  "end": 8.403,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 9.638,
+  "end": 11.511,
+  "text": "I was in Madrid."
+ },
+ {
+  "id": 6,
+  "start": 13.427,
+  "end": 14.506,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 15.206,
+  "end": 16.96,
+  "text": "We were in Newcastle."
+ },
+ {
+  "id": 8,
+  "start": 18.957,
+  "end": 19.997,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 20.482,
+  "end": 22.299,
+  "text": "I was in New York."
+ }
+];

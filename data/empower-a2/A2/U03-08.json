@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.492,
+  "end": 2.079,
+  "text": "Track 03.08"
+ },
+ {
+  "id": 2,
+  "start": 4.062,
+  "end": 5.271,
+  "text": "smartwatch"
+ },
+ {
+  "id": 3,
+  "start": 8.806,
+  "end": 9.496,
+  "text": "printer"
+ },
+ {
+  "id": 4,
+  "start": 13.025,
+  "end": 13.909,
+  "text": "laptop"
+ },
+ {
+  "id": 5,
+  "start": 17.399,
+  "end": 18.452,
+  "text": "smartphone"
+ },
+ {
+  "id": 6,
+  "start": 21.971,
+  "end": 22.681,
+  "text": "camera"
+ },
+ {
+  "id": 7,
+  "start": 26.186,
+  "end": 27.133,
+  "text": "computer"
+ },
+ {
+  "id": 8,
+  "start": 30.645,
+  "end": 31.612,
+  "text": "headphones"
+ },
+ {
+  "id": 9,
+  "start": 35.15,
+  "end": 35.899,
+  "text": "tablet"
+ },
+ {
+  "id": 10,
+  "start": 39.438,
+  "end": 40.251,
+  "text": "keyboard"
+ },
+ {
+  "id": 11,
+  "start": 43.755,
+  "end": 44.552,
+  "text": "speaker"
+ }
+]

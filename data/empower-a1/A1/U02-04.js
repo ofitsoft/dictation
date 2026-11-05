@@ -1,0 +1,32 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U02-04"]=[
+ {
+  "id": 1,
+  "start": 0.42,
+  "end": 2.547,
+  "text": "Track 02.04"
+ },
+ {
+  "id": 2,
+  "start": 3.77,
+  "end": 5.659,
+  "text": "It’s an old hotel."
+ },
+ {
+  "id": 3,
+  "start": 7.849,
+  "end": 9.738,
+  "text": "It isn’t a new hotel."
+ },
+ {
+  "id": 4,
+  "start": 11.817,
+  "end": 13.595,
+  "text": "They’re old houses."
+ },
+ {
+  "id": 5,
+  "start": 15.659,
+  "end": 17.944,
+  "text": "They aren’t big houses."
+ }
+];

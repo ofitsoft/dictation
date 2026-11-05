@@ -1,0 +1,110 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U10-05"]=[
+ {
+  "id": 1,
+  "start": 0.397,
+  "end": 2.444,
+  "text": "Track 10.05"
+ },
+ {
+  "id": 2,
+  "start": 4.083,
+  "end": 10.007,
+  "text": "I really love my flat – it’s great! But it’s very small,"
+ },
+ {
+  "id": 3,
+  "start": 10.308,
+  "end": 11.593,
+  "text": "and I need to think about"
+ },
+ {
+  "id": 4,
+  "start": 11.657,
+  "end": 13.768,
+  "text": "how I use the space."
+ },
+ {
+  "id": 5,
+  "start": 13.958,
+  "end": 16.652,
+  "text": "One really good thing is the light."
+ },
+ {
+  "id": 6,
+  "start": 17.121,
+  "end": 20.095,
+  "text": "I have big windows, so a lot of light"
+ },
+ {
+  "id": 7,
+  "start": 20.178,
+  "end": 24.52,
+  "text": "comes into the flat – the place doesn’t feel very small."
+ },
+ {
+  "id": 8,
+  "start": 24.996,
+  "end": 27.554,
+  "text": "The living room area has a TV,"
+ },
+ {
+  "id": 9,
+  "start": 27.945,
+  "end": 30.239,
+  "text": "a small table and a sofa."
+ },
+ {
+  "id": 10,
+  "start": 30.931,
+  "end": 33.018,
+  "text": "Then there’s a small kitchen."
+ },
+ {
+  "id": 11,
+  "start": 33.343,
+  "end": 35.605,
+  "text": "I don’t have a dining room."
+ },
+ {
+  "id": 12,
+  "start": 35.887,
+  "end": 37.006,
+  "text": "In the kitchen,"
+ },
+ {
+  "id": 13,
+  "start": 37.175,
+  "end": 39.532,
+  "text": "I have a table where I eat my meals"
+ },
+ {
+  "id": 14,
+  "start": 39.717,
+  "end": 42.217,
+  "text": "and I do all my work on my computer."
+ },
+ {
+  "id": 15,
+  "start": 43.014,
+  "end": 48.748,
+  "text": "Then the bedroom has, well, a bed, of course ..."
+ },
+ {
+  "id": 16,
+  "start": 48.868,
+  "end": 50.773,
+  "text": "and a small lamp."
+ },
+ {
+  "id": 17,
+  "start": 51.316,
+  "end": 54.356,
+  "text": "So, I don’t have a big flat,"
+ },
+ {
+  "id": 18,
+  "start": 54.6,
+  "end": 60.1,
+  "text": "but I live in the city centre – the city is my home!"
+ }
+];

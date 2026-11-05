@@ -1,0 +1,116 @@
+[
+ {
+  "id": 1,
+  "start": 0.019,
+  "end": 1.708,
+  "text": "Track 12.06"
+ },
+ {
+  "id": 2,
+  "start": 2.863,
+  "end": 5.019,
+  "text": "I’m going to travel the world next year."
+ },
+ {
+  "id": 3,
+  "start": 6.946,
+  "end": 9.187,
+  "text": "They’re going to travel the world next year."
+ },
+ {
+  "id": 4,
+  "start": 11.109,
+  "end": 13.577,
+  "text": "She’s going to travel the world next year."
+ },
+ {
+  "id": 5,
+  "start": 15.494,
+  "end": 17.606,
+  "text": "I’m not going to work in an office."
+ },
+ {
+  "id": 6,
+  "start": 19.527,
+  "end": 21.71,
+  "text": "You aren’t going to work in an office."
+ },
+ {
+  "id": 7,
+  "start": 23.598,
+  "end": 25.71,
+  "text": "He isn’t going to work in an office."
+ },
+ {
+  "id": 8,
+  "start": 27.63,
+  "end": 29.349,
+  "text": "Am I going to travel next year?"
+ },
+ {
+  "id": 9,
+  "start": 31.302,
+  "end": 32.337,
+  "text": "Yes, you are."
+ },
+ {
+  "id": 10,
+  "start": 34.256,
+  "end": 35.384,
+  "text": "No, you aren’t."
+ },
+ {
+  "id": 11,
+  "start": 37.267,
+  "end": 39.115,
+  "text": "Are you going to travel next year?"
+ },
+ {
+  "id": 12,
+  "start": 41.038,
+  "end": 42.058,
+  "text": "Yes, I am."
+ },
+ {
+  "id": 13,
+  "start": 43.97,
+  "end": 45.049,
+  "text": "No, I’m not."
+ },
+ {
+  "id": 14,
+  "start": 47.0,
+  "end": 48.893,
+  "text": "Is he going to travel next year?"
+ },
+ {
+  "id": 15,
+  "start": 50.812,
+  "end": 51.906,
+  "text": "Yes, he is."
+ },
+ {
+  "id": 16,
+  "start": 53.814,
+  "end": 54.952,
+  "text": "No, he isn’t."
+ },
+ {
+  "id": 17,
+  "start": 56.846,
+  "end": 58.499,
+  "text": "Who am I going to travel with?"
+ },
+ {
+  "id": 18,
+  "start": 60.417,
+  "end": 61.902,
+  "text": "Where are you going to go?"
+ },
+ {
+  "id": 19,
+  "start": 63.804,
+  "end": 65.311,
+  "text": "What’s he going to see?"
+ }
+]

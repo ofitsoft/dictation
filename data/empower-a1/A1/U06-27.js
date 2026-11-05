@@ -1,0 +1,116 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U06-27"]=[
+ {
+  "id": 1,
+  "start": 0.389,
+  "end": 2.881,
+  "text": "Track 06.27"
+ },
+ {
+  "id": 2,
+  "start": 4.193,
+  "end": 5.297,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 5.743,
+  "end": 6.909,
+  "text": "twelve"
+ },
+ {
+  "id": 4,
+  "start": 8.046,
+  "end": 9.213,
+  "text": "twenty"
+ },
+ {
+  "id": 5,
+  "start": 10.327,
+  "end": 11.446,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 12.654,
+  "end": 13.964,
+  "text": "study"
+ },
+ {
+  "id": 7,
+  "start": 14.934,
+  "end": 16.212,
+  "text": "start"
+ },
+ {
+  "id": 8,
+  "start": 18.009,
+  "end": 19.342,
+  "text": "3"
+ },
+ {
+  "id": 9,
+  "start": 19.9,
+  "end": 20.955,
+  "text": "plate"
+ },
+ {
+  "id": 10,
+  "start": 22.066,
+  "end": 22.995,
+  "text": "player"
+ },
+ {
+  "id": 11,
+  "start": 24.842,
+  "end": 25.993,
+  "text": "4"
+ },
+ {
+  "id": 12,
+  "start": 26.589,
+  "end": 27.7,
+  "text": "clock"
+ },
+ {
+  "id": 13,
+  "start": 28.916,
+  "end": 30.083,
+  "text": "class"
+ },
+ {
+  "id": 14,
+  "start": 31.8,
+  "end": 33.134,
+  "text": "5"
+ },
+ {
+  "id": 15,
+  "start": 33.764,
+  "end": 35.049,
+  "text": "breakfast"
+ },
+ {
+  "id": 16,
+  "start": 36.129,
+  "end": 37.196,
+  "text": "bread"
+ },
+ {
+  "id": 17,
+  "start": 39.055,
+  "end": 40.301,
+  "text": "6"
+ },
+ {
+  "id": 18,
+  "start": 40.849,
+  "end": 42.071,
+  "text": "spoon"
+ },
+ {
+  "id": 19,
+  "start": 43.111,
+  "end": 44.548,
+  "text": "sport"
+ }
+];

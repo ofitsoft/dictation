@@ -1,0 +1,62 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U01-22"]=[
+ {
+  "id": 1,
+  "start": 0.452,
+  "end": 2.77,
+  "text": "Track 01.22"
+ },
+ {
+  "id": 2,
+  "start": 4.362,
+  "end": 5.727,
+  "text": "PART 1"
+ },
+ {
+  "id": 3,
+  "start": 14.142,
+  "end": 14.745,
+  "text": "Good morning."
+ },
+ {
+  "id": 4,
+  "start": 14.77,
+  "end": 15.88,
+  "text": "Electric Blue Technology."
+ },
+ {
+  "id": 5,
+  "start": 15.985,
+  "end": 17.811,
+  "text": "Hi, my name’s Sophia Taylor."
+ },
+ {
+  "id": 6,
+  "start": 17.836,
+  "end": 18.803,
+  "text": "It’s my first day."
+ },
+ {
+  "id": 7,
+  "start": 19.122,
+  "end": 19.717,
+  "text": "Sophia?"
+ },
+ {
+  "id": 8,
+  "start": 20.061,
+  "end": 21.37,
+  "text": "Sophia Taylor? From Canada?"
+ },
+ {
+  "id": 9,
+  "start": 21.395,
+  "end": 22.236,
+  "text": "Yes, that’s right."
+ },
+ {
+  "id": 10,
+  "start": 22.277,
+  "end": 23.055,
+  "text": "Come on in!"
+ }
+];

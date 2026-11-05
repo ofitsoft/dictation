@@ -1,0 +1,20 @@
+[
+ {
+  "id": 1,
+  "start": 0.429,
+  "end": 2.341,
+  "text": "Track 01.01"
+ },
+ {
+  "id": 2,
+  "start": 4.018,
+  "end": 6.193,
+  "text": "Hi, I’m Berkay."
+ },
+ {
+  "id": 3,
+  "start": 6.762,
+  "end": 9.341,
+  "text": "Hello, I’m Harumi."
+ }
+]

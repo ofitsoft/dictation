@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.323,
+  "end": 2.693,
+  "text": "Track 03.24"
+ },
+ {
+  "id": 2,
+  "start": 3.079,
+  "end": 4.143,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.778,
+  "end": 5.817,
+  "text": "of"
+ },
+ {
+  "id": 4,
+  "start": 7.468,
+  "end": 8.643,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 9.011,
+  "end": 10.265,
+  "text": "a cup of tea"
+ },
+ {
+  "id": 6,
+  "start": 11.981,
+  "end": 12.997,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 13.711,
+  "end": 15.275,
+  "text": "a glass of cola"
+ }
+]

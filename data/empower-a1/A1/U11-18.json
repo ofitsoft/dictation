@@ -1,0 +1,104 @@
+[
+ {
+  "id": 1,
+  "start": 0.468,
+  "end": 2.881,
+  "text": "Track 11.18"
+ },
+ {
+  "id": 2,
+  "start": 3.524,
+  "end": 5.888,
+  "text": "1 a"
+ },
+ {
+  "id": 3,
+  "start": 6.344,
+  "end": 8.495,
+  "text": "Did you like Henley?"
+ },
+ {
+  "id": 4,
+  "start": 10.303,
+  "end": 12.779,
+  "text": "2 d"
+ },
+ {
+  "id": 5,
+  "start": 13.252,
+  "end": 15.109,
+  "text": "I don’t think so."
+ },
+ {
+  "id": 6,
+  "start": 17.333,
+  "end": 20.127,
+  "text": "3 c"
+ },
+ {
+  "id": 7,
+  "start": 20.71,
+  "end": 22.257,
+  "text": "Maybe you’re right."
+ },
+ {
+  "id": 8,
+  "start": 24.083,
+  "end": 26.551,
+  "text": "4 d"
+ },
+ {
+  "id": 9,
+  "start": 27.629,
+  "end": 30.549,
+  "text": "I don’t think the bedroom is a good idea."
+ },
+ {
+  "id": 10,
+  "start": 32.7,
+  "end": 35.431,
+  "text": "5 b"
+ },
+ {
+  "id": 11,
+  "start": 35.823,
+  "end": 38.735,
+  "text": "I think London Zoo is very nice."
+ },
+ {
+  "id": 12,
+  "start": 41.058,
+  "end": 43.756,
+  "text": "6 a"
+ },
+ {
+  "id": 13,
+  "start": 44.514,
+  "end": 46.546,
+  "text": "What about the Tower of London?"
+ },
+ {
+  "id": 14,
+  "start": 48.552,
+  "end": 51.314,
+  "text": "7 c"
+ },
+ {
+  "id": 15,
+  "start": 51.782,
+  "end": 53.473,
+  "text": "I think you’re right."
+ },
+ {
+  "id": 16,
+  "start": 55.287,
+  "end": 57.581,
+  "text": "8 a"
+ },
+ {
+  "id": 17,
+  "start": 58.012,
+  "end": 59.972,
+  "text": "What do you think?"
+ }
+]

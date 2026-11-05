@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U05-15"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.857,
+  "text": "Track 05.15"
+ },
+ {
+  "id": 2,
+  "start": 2.628,
+  "end": 3.492,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 4.951,
+  "end": 6.951,
+  "text": "This map shows there’s a bank on the corner"
+ },
+ {
+  "id": 4,
+  "start": 6.952,
+  "end": 8.952,
+  "text": "of Park Road and South Street."
+ },
+ {
+  "id": 5,
+  "start": 9.818,
+  "end": 11.818,
+  "text": "Excuse me – sorry."
+ },
+ {
+  "id": 6,
+  "start": 11.819,
+  "end": 12.96,
+  "text": "Is there a bank near here?"
+ },
+ {
+  "id": 7,
+  "start": 13.159,
+  "end": 13.923,
+  "text": "A bank?"
+ },
+ {
+  "id": 8,
+  "start": 14.263,
+  "end": 14.931,
+  "text": "Yes."
+ },
+ {
+  "id": 9,
+  "start": 14.932,
+  "end": 16.121,
+  "text": "There’s a bank down there."
+ },
+ {
+  "id": 10,
+  "start": 16.122,
+  "end": 17.447,
+  "text": "It’s about 50 metres away."
+ },
+ {
+  "id": 11,
+  "start": 17.756,
+  "end": 18.825,
+  "text": "Thanks very much."
+ },
+ {
+  "id": 12,
+  "start": 19.59,
+  "end": 20.635,
+  "text": "Let’s go."
+ }
+];

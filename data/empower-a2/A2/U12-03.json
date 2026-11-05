@@ -1,0 +1,320 @@
+[
+ {
+  "id": 1,
+  "start": 0.022,
+  "end": 1.72,
+  "text": "Track 12.03"
+ },
+ {
+  "id": 2,
+  "start": 2.949,
+  "end": 4.196,
+  "text": "Conversation 1"
+ },
+ {
+  "id": 3,
+  "start": 5.211,
+  "end": 6.905,
+  "text": "So, about next year -"
+ },
+ {
+  "id": 4,
+  "start": 7.263,
+  "end": 8.552,
+  "text": "what are you going to do?"
+ },
+ {
+  "id": 5,
+  "start": 9.231,
+  "end": 11.101,
+  "text": "I finally decided yesterday."
+ },
+ {
+  "id": 6,
+  "start": 11.561,
+  "end": 12.355,
+  "text": "And?"
+ },
+ {
+  "id": 7,
+  "start": 12.694,
+  "end": 15.487,
+  "text": "Well, I don’t really want to continue studying."
+ },
+ {
+  "id": 8,
+  "start": 16.068,
+  "end": 17.411,
+  "text": "I’d like to do some travelling."
+ },
+ {
+  "id": 9,
+  "start": 18.049,
+  "end": 20.224,
+  "text": "So, I’m not going to go to university next year."
+ },
+ {
+  "id": 10,
+  "start": 20.986,
+  "end": 22.141,
+  "text": "Go travelling?"
+ },
+ {
+  "id": 11,
+  "start": 22.79,
+  "end": 24.387,
+  "text": "Nice idea –"
+ },
+ {
+  "id": 12,
+  "start": 24.692,
+  "end": 27.098,
+  "text": "but that costs a lot of money."
+ },
+ {
+  "id": 13,
+  "start": 27.186,
+  "end": 28.615,
+  "text": "I’ve saved a bit of money."
+ },
+ {
+  "id": 14,
+  "start": 29.097,
+  "end": 30.392,
+  "text": "But you don’t need a lot."
+ },
+ {
+  "id": 15,
+  "start": 30.697,
+  "end": 31.243,
+  "text": "Look."
+ },
+ {
+  "id": 16,
+  "start": 31.781,
+  "end": 33.02,
+  "text": "I found this website:"
+ },
+ {
+  "id": 17,
+  "start": 33.205,
+  "end": 34.534,
+  "text": "Work Around the World."
+ },
+ {
+  "id": 18,
+  "start": 35.085,
+  "end": 36.108,
+  "text": "OK …"
+ },
+ {
+  "id": 19,
+  "start": 36.374,
+  "end": 39.87,
+  "text": "Well, you can go places and get free food and accommodation –"
+ },
+ {
+  "id": 20,
+  "start": 40.394,
+  "end": 41.873,
+  "text": "you just have to do a bit of work."
+ },
+ {
+  "id": 21,
+  "start": 42.457,
+  "end": 43.858,
+  "text": "I don’t know ..."
+ },
+ {
+  "id": 22,
+  "start": 44.223,
+  "end": 47.235,
+  "text": "I heard you work really hard on those things."
+ },
+ {
+  "id": 23,
+  "start": 47.235,
+  "end": 48.15,
+  "text": "But look at this one."
+ },
+ {
+  "id": 24,
+  "start": 48.597,
+  "end": 50.597,
+  "text": "I’m going to email and ask about it."
+ },
+ {
+  "id": 25,
+  "start": 51.191,
+  "end": 53.991,
+  "text": "It looks so beautiful there close to the mountains"
+ },
+ {
+  "id": 26,
+  "start": 54.381,
+  "end": 57.409,
+  "text": "and I love drawing and things, so it’s perfect."
+ },
+ {
+  "id": 27,
+  "start": 58.151,
+  "end": 59.374,
+  "text": "But what about …"
+ },
+ {
+  "id": 28,
+  "start": 60.4,
+  "end": 62.324,
+  "text": "what about all our friends?"
+ },
+ {
+  "id": 29,
+  "start": 62.356,
+  "end": 65.372,
+  "text": "I mean, university starts next year."
+ },
+ {
+  "id": 30,
+  "start": 65.372,
+  "end": 67.496,
+  "text": "I know. Sorry."
+ },
+ {
+  "id": 31,
+  "start": 67.829,
+  "end": 70.311,
+  "text": "It starts for everyone, but not for me."
+ },
+ {
+  "id": 32,
+  "start": 73.276,
+  "end": 74.615,
+  "text": "Conversation 2"
+ },
+ {
+  "id": 33,
+  "start": 75.542,
+  "end": 78.136,
+  "text": "I want to do something different for a while."
+ },
+ {
+  "id": 34,
+  "start": 78.535,
+  "end": 80.115,
+  "text": "I’m going to leave this job."
+ },
+ {
+  "id": 35,
+  "start": 80.535,
+  "end": 81.327,
+  "text": "Get a new one?"
+ },
+ {
+  "id": 36,
+  "start": 81.531,
+  "end": 84.645,
+  "text": "No, I want to go away and have some fun."
+ },
+ {
+  "id": 37,
+  "start": 84.923,
+  "end": 86.834,
+  "text": "Ah, so a holiday."
+ },
+ {
+  "id": 38,
+  "start": 86.875,
+  "end": 89.358,
+  "text": "Yes, a very long holiday."
+ },
+ {
+  "id": 39,
+  "start": 89.78,
+  "end": 91.149,
+  "text": "Look at this website …"
+ },
+ {
+  "id": 40,
+  "start": 91.548,
+  "end": 93.96,
+  "text": "Work Around the World holidays."
+ },
+ {
+  "id": 41,
+  "start": 94.026,
+  "end": 96.188,
+  "text": "There are some interesting things on it."
+ },
+ {
+  "id": 42,
+  "start": 96.312,
+  "end": 99.587,
+  "text": "Free accommodation and food … But no pay."
+ },
+ {
+  "id": 43,
+  "start": 99.698,
+  "end": 101.551,
+  "text": "No, but it doesn’t matter."
+ },
+ {
+  "id": 44,
+  "start": 102.138,
+  "end": 103.992,
+  "text": "Look at this job I read about."
+ },
+ {
+  "id": 45,
+  "start": 104.652,
+  "end": 106.633,
+  "text": "I’m going to find out more about it."
+ },
+ {
+  "id": 46,
+  "start": 107.033,
+  "end": 109.243,
+  "text": "It’s in such an amazing place."
+ },
+ {
+  "id": 47,
+  "start": 109.707,
+  "end": 112.005,
+  "text": "I can go to the beach every day."
+ },
+ {
+  "id": 48,
+  "start": 112.564,
+  "end": 113.752,
+  "text": "It says you have to spend"
+ },
+ {
+  "id": 49,
+  "start": 113.752,
+  "end": 115.326,
+  "text": "a lot of time with children."
+ },
+ {
+  "id": 50,
+  "start": 115.945,
+  "end": 117.606,
+  "text": "Do you even like children?"
+ },
+ {
+  "id": 51,
+  "start": 117.707,
+  "end": 119.082,
+  "text": "Yeah – I love them."
+ },
+ {
+  "id": 52,
+  "start": 119.485,
+  "end": 121.174,
+  "text": "And do you know how to teach?"
+ },
+ {
+  "id": 53,
+  "start": 121.203,
+  "end": 122.603,
+  "text": "I’m sure I can learn."
+ }
+]

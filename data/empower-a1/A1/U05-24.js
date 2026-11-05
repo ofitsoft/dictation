@@ -1,0 +1,86 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U05-24"]=[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.698,
+  "text": "Track 05.24"
+ },
+ {
+  "id": 2,
+  "start": 3.381,
+  "end": 5.675,
+  "text": "1 c"
+ },
+ {
+  "id": 3,
+  "start": 6.437,
+  "end": 7.857,
+  "text": "Where’s your flat?"
+ },
+ {
+  "id": 4,
+  "start": 8.505,
+  "end": 10.568,
+  "text": "It’s in the next street."
+ },
+ {
+  "id": 5,
+  "start": 11.775,
+  "end": 13.552,
+  "text": "It’s in this street."
+ },
+ {
+  "id": 6,
+  "start": 14.592,
+  "end": 17.779,
+  "text": "2 b"
+ },
+ {
+  "id": 7,
+  "start": 18.422,
+  "end": 20.874,
+  "text": "Is there a supermarket near here?"
+ },
+ {
+  "id": 8,
+  "start": 21.359,
+  "end": 24.263,
+  "text": "Yes, there’s one near my flat."
+ },
+ {
+  "id": 9,
+  "start": 25.63,
+  "end": 27.995,
+  "text": "No, sorry, there isn’t."
+ },
+ {
+  "id": 10,
+  "start": 29.893,
+  "end": 32.258,
+  "text": "3 a"
+ },
+ {
+  "id": 11,
+  "start": 32.846,
+  "end": 35.107,
+  "text": "Are there any shops near here?"
+ },
+ {
+  "id": 12,
+  "start": 35.607,
+  "end": 37.123,
+  "text": "Yes, there are."
+ },
+ {
+  "id": 13,
+  "start": 37.383,
+  "end": 39.145,
+  "text": "There’s one in this street."
+ },
+ {
+  "id": 14,
+  "start": 40.008,
+  "end": 42.54,
+  "text": "No, sorry, there aren’t."
+ }
+];

@@ -1,0 +1,92 @@
+[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.841,
+  "text": "Track 02.22"
+ },
+ {
+  "id": 2,
+  "start": 4.397,
+  "end": 5.587,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.246,
+  "end": 7.944,
+  "text": "What’s your surname?"
+ },
+ {
+  "id": 4,
+  "start": 8.079,
+  "end": 9.492,
+  "text": "It’s Robinson."
+ },
+ {
+  "id": 5,
+  "start": 10.289,
+  "end": 11.447,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 12.931,
+  "end": 14.788,
+  "text": "What’s your address?"
+ },
+ {
+  "id": 7,
+  "start": 15.05,
+  "end": 17.367,
+  "text": "It’s 7 King Street."
+ },
+ {
+  "id": 8,
+  "start": 18.747,
+  "end": 20.215,
+  "text": "3"
+ },
+ {
+  "id": 9,
+  "start": 20.695,
+  "end": 22.337,
+  "text": "What’s your phone number?"
+ },
+ {
+  "id": 10,
+  "start": 22.591,
+  "end": 25.218,
+  "text": "It’s O124"
+ },
+ {
+  "id": 11,
+  "start": 25.718,
+  "end": 27.441,
+  "text": "352"
+ },
+ {
+  "id": 12,
+  "start": 27.768,
+  "end": 29.482,
+  "text": "738."
+ },
+ {
+  "id": 13,
+  "start": 31.066,
+  "end": 32.288,
+  "text": "4"
+ },
+ {
+  "id": 14,
+  "start": 33.241,
+  "end": 35.384,
+  "text": "What’s your email address?"
+ },
+ {
+  "id": 15,
+  "start": 35.86,
+  "end": 41.73,
+  "text": "It’s chrisrobinson@powermail.com."
+ }
+]

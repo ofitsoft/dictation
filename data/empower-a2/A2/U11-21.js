@@ -1,0 +1,188 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U11-21"]=[
+ {
+  "id": 1,
+  "start": 0.024,
+  "end": 2.206,
+  "text": "Track 11.21"
+ },
+ {
+  "id": 2,
+  "start": 3.864,
+  "end": 5.905,
+  "text": "Melissa : Have you seen the new James Bond film?"
+ },
+ {
+  "id": 3,
+  "start": 6.015,
+  "end": 7.587,
+  "text": "Yes, have you?"
+ },
+ {
+  "id": 4,
+  "start": 7.682,
+  "end": 8.906,
+  "text": "Yes, I’ve seen it, yeah."
+ },
+ {
+  "id": 5,
+  "start": 9.416,
+  "end": 10.628,
+  "text": "Not very good, is it?"
+ },
+ {
+  "id": 6,
+  "start": 10.987,
+  "end": 12.604,
+  "text": "Oh, I don’t agree."
+ },
+ {
+  "id": 7,
+  "start": 12.85,
+  "end": 14.144,
+  "text": "I really enjoyed it."
+ },
+ {
+  "id": 8,
+  "start": 14.468,
+  "end": 16.05,
+  "text": "Well, I thought it was boring."
+ },
+ {
+  "id": 9,
+  "start": 16.325,
+  "end": 18.738,
+  "text": "James Bond films are always the same."
+ },
+ {
+  "id": 10,
+  "start": 19.104,
+  "end": 20.408,
+  "text": "James Bond is cool,"
+ },
+ {
+  "id": 11,
+  "start": 20.622,
+  "end": 22.368,
+  "text": "he goes to some beautiful country"
+ },
+ {
+  "id": 12,
+  "start": 22.368,
+  "end": 23.802,
+  "text": "and he meets a beautiful girl."
+ },
+ {
+  "id": 13,
+  "start": 24.363,
+  "end": 26.381,
+  "text": "The bad guys all die at the end."
+ },
+ {
+  "id": 14,
+  "start": 26.674,
+  "end": 28.492,
+  "text": "You always know what’s going to happen."
+ },
+ {
+  "id": 15,
+  "start": 28.955,
+  "end": 31.053,
+  "text": "Of course the special effects were great,"
+ },
+ {
+  "id": 16,
+  "start": 31.41,
+  "end": 32.49,
+  "text": "but that’s about all."
+ },
+ {
+  "id": 17,
+  "start": 32.88,
+  "end": 35.405,
+  "text": "Well, it’s not meant to be too serious, you know."
+ },
+ {
+  "id": 18,
+  "start": 36.068,
+  "end": 37.107,
+  "text": "I thought it was fun,"
+ },
+ {
+  "id": 19,
+  "start": 37.526,
+  "end": 38.36,
+  "text": "I liked it."
+ },
+ {
+  "id": 20,
+  "start": 38.665,
+  "end": 39.496,
+  "text": "Did you really?"
+ },
+ {
+  "id": 21,
+  "start": 39.496,
+  "end": 40.551,
+  "text": "Yes, I did."
+ },
+ {
+  "id": 22,
+  "start": 41.025,
+  "end": 42.343,
+  "text": "I thought it was exciting."
+ },
+ {
+  "id": 23,
+  "start": 42.914,
+  "end": 44.264,
+  "text": "It was great to watch,"
+ },
+ {
+  "id": 24,
+  "start": 44.553,
+  "end": 46.013,
+  "text": "the actors were great"
+ },
+ {
+  "id": 25,
+  "start": 46.203,
+  "end": 48.124,
+  "text": "and James Bond was fantastic."
+ },
+ {
+  "id": 26,
+  "start": 48.652,
+  "end": 50.842,
+  "text": "I’m going to see it again this weekend."
+ },
+ {
+  "id": 27,
+  "start": 51.297,
+  "end": 52.083,
+  "text": "Do you want to come?"
+ },
+ {
+  "id": 28,
+  "start": 52.083,
+  "end": 53.823,
+  "text": "What, again?"
+ },
+ {
+  "id": 29,
+  "start": 53.849,
+  "end": 54.504,
+  "text": "No thanks,"
+ },
+ {
+  "id": 30,
+  "start": 54.504,
+  "end": 55.488,
+  "text": "once was enough."
+ },
+ {
+  "id": 31,
+  "start": 55.904,
+  "end": 57.865,
+  "text": "I’m going to see the new Tarantino film."
+ }
+];

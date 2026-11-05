@@ -1,0 +1,134 @@
+[
+ {
+  "id": 1,
+  "start": 0.333,
+  "end": 2.341,
+  "text": "Track 01.10"
+ },
+ {
+  "id": 2,
+  "start": 4.115,
+  "end": 5.345,
+  "text": "I’m Vilma."
+ },
+ {
+  "id": 3,
+  "start": 5.941,
+  "end": 9.116,
+  "text": "I’m from Rio de Janeiro, in Brazil."
+ },
+ {
+  "id": 4,
+  "start": 11.089,
+  "end": 14.558,
+  "text": "Hi, I’m Pablo. I’m from Spain."
+ },
+ {
+  "id": 5,
+  "start": 14.98,
+  "end": 16.687,
+  "text": "I’m from Barcelona."
+ },
+ {
+  "id": 6,
+  "start": 18.55,
+  "end": 19.7,
+  "text": "Hello."
+ },
+ {
+  "id": 7,
+  "start": 19.725,
+  "end": 22.353,
+  "text": "I’m from Puebla, in Mexico"
+ },
+ {
+  "id": 8,
+  "start": 22.378,
+  "end": 24.115,
+  "text": "and my name’s Camila."
+ },
+ {
+  "id": 9,
+  "start": 25.923,
+  "end": 27.804,
+  "text": "Hi, I’m Li."
+ },
+ {
+  "id": 10,
+  "start": 28.06,
+  "end": 30.52,
+  "text": "I’m from Beijing, in China."
+ },
+ {
+  "id": 11,
+  "start": 31.095,
+  "end": 33.158,
+  "text": "But I’m not in Beijing now."
+ },
+ {
+  "id": 12,
+  "start": 33.455,
+  "end": 35.781,
+  "text": "I’m a student in Shanghai."
+ },
+ {
+  "id": 13,
+  "start": 37.61,
+  "end": 39.412,
+  "text": "My name’s Harumi."
+ },
+ {
+  "id": 14,
+  "start": 40.017,
+  "end": 42.708,
+  "text": "I’m from Tokyo, in Japan."
+ },
+ {
+  "id": 15,
+  "start": 44.609,
+  "end": 45.569,
+  "text": "I’m Michael."
+ },
+ {
+  "id": 16,
+  "start": 46.158,
+  "end": 47.753,
+  "text": "I’m from the UK."
+ },
+ {
+  "id": 17,
+  "start": 48.332,
+  "end": 50.023,
+  "text": "I’m a teacher in London."
+ },
+ {
+  "id": 18,
+  "start": 51.895,
+  "end": 54.331,
+  "text": "I’m from Istanbul, in Turkey,"
+ },
+ {
+  "id": 19,
+  "start": 54.577,
+  "end": 56.276,
+  "text": "and my name’s Berkay."
+ },
+ {
+  "id": 20,
+  "start": 58.093,
+  "end": 59.093,
+  "text": "Hello."
+ },
+ {
+  "id": 21,
+  "start": 59.434,
+  "end": 62.363,
+  "text": "I’m a teacher and my name’s Kelly."
+ },
+ {
+  "id": 22,
+  "start": 62.722,
+  "end": 65.595,
+  "text": "I’m from New York, in the USA."
+ }
+]

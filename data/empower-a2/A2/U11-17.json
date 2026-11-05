@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 2.071,
+  "text": "Narrator:Track 11.17"
+ },
+ {
+  "id": 2,
+  "start": 5.007,
+  "end": 6.603,
+  "text": "So, what did you think of it?"
+ },
+ {
+  "id": 3,
+  "start": 6.675,
+  "end": 7.849,
+  "text": "Did you enjoy it?"
+ },
+ {
+  "id": 4,
+  "start": 7.931,
+  "end": 8.78,
+  "text": "Yeah,"
+ },
+ {
+  "id": 5,
+  "start": 9.494,
+  "end": 10.778,
+  "text": "it was a good concert."
+ },
+ {
+  "id": 6,
+  "start": 10.778,
+  "end": 12.048,
+  "text": "I really liked it."
+ },
+ {
+  "id": 7,
+  "start": 12.048,
+  "end": 13.325,
+  "text": "How about you?"
+ }
+]

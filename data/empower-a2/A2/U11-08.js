@@ -1,0 +1,146 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U11-08"]=[
+ {
+  "id": 1,
+  "start": 0.515,
+  "end": 2.175,
+  "text": "Track 11.08"
+ },
+ {
+  "id": 2,
+  "start": 4.19,
+  "end": 4.76,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.206,
+  "end": 6.992,
+  "text": "classical"
+ },
+ {
+  "id": 4,
+  "start": 10.455,
+  "end": 11.242,
+  "text": "jazz"
+ },
+ {
+  "id": 5,
+  "start": 14.752,
+  "end": 15.39,
+  "text": "opera"
+ },
+ {
+  "id": 6,
+  "start": 18.87,
+  "end": 19.449,
+  "text": "rock"
+ },
+ {
+  "id": 7,
+  "start": 22.971,
+  "end": 23.541,
+  "text": "pop"
+ },
+ {
+  "id": 8,
+  "start": 27.033,
+  "end": 27.737,
+  "text": "folk"
+ },
+ {
+  "id": 9,
+  "start": 31.216,
+  "end": 32.018,
+  "text": "dance"
+ },
+ {
+  "id": 10,
+  "start": 35.555,
+  "end": 36.777,
+  "text": "world music"
+ },
+ {
+  "id": 11,
+  "start": 40.243,
+  "end": 41.489,
+  "text": "live music"
+ },
+ {
+  "id": 12,
+  "start": 46.241,
+  "end": 46.804,
+  "text": "2"
+ },
+ {
+  "id": 13,
+  "start": 48.305,
+  "end": 49.298,
+  "text": "an orchestra"
+ },
+ {
+  "id": 14,
+  "start": 52.813,
+  "end": 53.787,
+  "text": "a musician"
+ },
+ {
+  "id": 15,
+  "start": 57.277,
+  "end": 58.181,
+  "text": "a band"
+ },
+ {
+  "id": 16,
+  "start": 61.648,
+  "end": 62.581,
+  "text": "a DJ"
+ },
+ {
+  "id": 17,
+  "start": 66.104,
+  "end": 66.809,
+  "text": "a singer"
+ },
+ {
+  "id": 18,
+  "start": 70.3,
+  "end": 71.386,
+  "text": "a rock star"
+ },
+ {
+  "id": 19,
+  "start": 75.29,
+  "end": 75.909,
+  "text": "3"
+ },
+ {
+  "id": 20,
+  "start": 77.377,
+  "end": 78.456,
+  "text": "a concert hall"
+ },
+ {
+  "id": 21,
+  "start": 81.93,
+  "end": 82.652,
+  "text": "a club"
+ },
+ {
+  "id": 22,
+  "start": 86.166,
+  "end": 87.381,
+  "text": "a music venue"
+ },
+ {
+  "id": 23,
+  "start": 90.893,
+  "end": 91.76,
+  "text": "a theatre"
+ },
+ {
+  "id": 24,
+  "start": 95.277,
+  "end": 96.198,
+  "text": "a festival"
+ }
+];

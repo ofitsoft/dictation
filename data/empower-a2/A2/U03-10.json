@@ -1,0 +1,248 @@
+[
+ {
+  "id": 1,
+  "start": 0.012,
+  "end": 1.622,
+  "text": "Track 03.10"
+ },
+ {
+  "id": 2,
+  "start": 3.263,
+  "end": 4.488,
+  "text": "Conversation 1"
+ },
+ {
+  "id": 3,
+  "start": 5.494,
+  "end": 7.191,
+  "text": "So tell me, Don."
+ },
+ {
+  "id": 4,
+  "start": 7.207,
+  "end": 8.896,
+  "text": "Have you got a smartphone?"
+ },
+ {
+  "id": 5,
+  "start": 9.369,
+  "end": 11.552,
+  "text": "Yes, I’ve got my daughter’s phone."
+ },
+ {
+  "id": 6,
+  "start": 11.917,
+  "end": 14.579,
+  "text": "She’s got a new phone, so I’ve got her old one."
+ },
+ {
+  "id": 7,
+  "start": 14.817,
+  "end": 16.127,
+  "text": "Do you use it a lot?"
+ },
+ {
+  "id": 8,
+  "start": 16.464,
+  "end": 17.412,
+  "text": "No, never."
+ },
+ {
+  "id": 9,
+  "start": 18.184,
+  "end": 20.805,
+  "text": "Well, sometimes, but not very often."
+ },
+ {
+  "id": 10,
+  "start": 21.396,
+  "end": 22.253,
+  "text": "Why not?"
+ },
+ {
+  "id": 11,
+  "start": 22.437,
+  "end": 23.386,
+  "text": "I don’t know really."
+ },
+ {
+  "id": 12,
+  "start": 24.052,
+  "end": 26.387,
+  "text": "If I’m at home, I use the house phone."
+ },
+ {
+  "id": 13,
+  "start": 27.044,
+  "end": 27.759,
+  "text": "Umm ..."
+ },
+ {
+  "id": 14,
+  "start": 28.216,
+  "end": 29.972,
+  "text": "If I go out, I don’t want to chat"
+ },
+ {
+  "id": 15,
+  "start": 29.972,
+  "end": 31.567,
+  "text": "to people or send texts."
+ },
+ {
+  "id": 16,
+  "start": 32.193,
+  "end": 33.525,
+  "text": "I just want to be quiet."
+ },
+ {
+  "id": 17,
+  "start": 34.109,
+  "end": 35.218,
+  "text": "So, no. In fact,"
+ },
+ {
+  "id": 18,
+  "start": 35.219,
+  "end": 37.377,
+  "text": "I usually leave my phone at home."
+ },
+ {
+  "id": 19,
+  "start": 37.764,
+  "end": 38.811,
+  "text": "I don’t want to lose it!"
+ },
+ {
+  "id": 20,
+  "start": 40.75,
+  "end": 42.046,
+  "text": "Conversation 2"
+ },
+ {
+  "id": 21,
+  "start": 42.956,
+  "end": 45.907,
+  "text": "So, Bella, have you got a computer?"
+ },
+ {
+  "id": 22,
+  "start": 46.087,
+  "end": 47.65,
+  "text": "Yes of course,"
+ },
+ {
+  "id": 23,
+  "start": 47.651,
+  "end": 49.624,
+  "text": "in fact I’ve got two,"
+ },
+ {
+  "id": 24,
+  "start": 49.874,
+  "end": 52.021,
+  "text": "a PC and a laptop."
+ },
+ {
+  "id": 25,
+  "start": 52.297,
+  "end": 53.693,
+  "text": "Do you use them both?"
+ },
+ {
+  "id": 26,
+  "start": 53.694,
+  "end": 55.347,
+  "text": "Oh, yes, all the time."
+ },
+ {
+  "id": 27,
+  "start": 55.88,
+  "end": 58.6,
+  "text": "I use the PC for studying mainly"
+ },
+ {
+  "id": 28,
+  "start": 58.6,
+  "end": 61.418,
+  "text": "and also for downloading films."
+ },
+ {
+  "id": 29,
+  "start": 61.541,
+  "end": 62.908,
+  "text": "And I use the laptop"
+ },
+ {
+  "id": 30,
+  "start": 62.909,
+  "end": 64.526,
+  "text": "when I go to university"
+ },
+ {
+  "id": 31,
+  "start": 64.688,
+  "end": 66.7,
+  "text": "or when I study in the library."
+ },
+ {
+  "id": 32,
+  "start": 68.604,
+  "end": 69.937,
+  "text": "Conversation 3"
+ },
+ {
+  "id": 33,
+  "start": 70.891,
+  "end": 72.769,
+  "text": "Have you got a digital camera?"
+ },
+ {
+  "id": 34,
+  "start": 72.981,
+  "end": 74.021,
+  "text": "Yes, I have."
+ },
+ {
+  "id": 35,
+  "start": 74.418,
+  "end": 76.112,
+  "text": "It takes really good photos,"
+ },
+ {
+  "id": 36,
+  "start": 76.458,
+  "end": 78.028,
+  "text": "but I don’t use it very often,"
+ },
+ {
+  "id": 37,
+  "start": 78.39,
+  "end": 79.736,
+  "text": "just for special photos."
+ },
+ {
+  "id": 38,
+  "start": 80.041,
+  "end": 82.041,
+  "text": "I’ve also got a smartphone of course,"
+ },
+ {
+  "id": 39,
+  "start": 82.33,
+  "end": 84.313,
+  "text": "and usually I take photos on that,"
+ },
+ {
+  "id": 40,
+  "start": 84.586,
+  "end": 87.119,
+  "text": "like holiday photos or photos of friends –"
+ },
+ {
+  "id": 41,
+  "start": 87.722,
+  "end": 90.255,
+  "text": "the photos are OK but they’re not fantastic."
+ }
+]

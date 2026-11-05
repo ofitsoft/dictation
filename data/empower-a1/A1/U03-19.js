@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U03-19"]=[
+ {
+  "id": 1,
+  "start": 0.323,
+  "end": 2.693,
+  "text": "Track 03.19"
+ },
+ {
+  "id": 2,
+  "start": 4.365,
+  "end": 5.444,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.786,
+  "end": 10.596,
+  "text": "We usually have rice with meat and vegetables."
+ },
+ {
+  "id": 4,
+  "start": 11.302,
+  "end": 12.596,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 14.453,
+  "end": 16.882,
+  "text": "I always have fish for dinner."
+ },
+ {
+  "id": 6,
+  "start": 18.544,
+  "end": 19.909,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 21.137,
+  "end": 24.558,
+  "text": "People never have dinner early in Spain."
+ },
+ {
+  "id": 8,
+  "start": 25.998,
+  "end": 27.196,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 28.357,
+  "end": 32.302,
+  "text": "I sometimes have bread and cheese."
+ }
+];

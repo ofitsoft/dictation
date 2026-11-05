@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.025,
+  "end": 1.778,
+  "text": "Track 12.20"
+ },
+ {
+  "id": 2,
+  "start": 2.6,
+  "end": 3.098,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 3.994,
+  "end": 5.078,
+  "text": "Can you help me?"
+ },
+ {
+  "id": 4,
+  "start": 6.951,
+  "end": 7.456,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 8.34,
+  "end": 10.803,
+  "text": "Is there a city bus tour I can go on?"
+ },
+ {
+  "id": 6,
+  "start": 12.725,
+  "end": 13.255,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 14.196,
+  "end": 15.842,
+  "text": "How much is it for a ticket?"
+ },
+ {
+  "id": 8,
+  "start": 17.717,
+  "end": 18.304,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 19.196,
+  "end": 20.804,
+  "text": "Can I buy a ticket here?"
+ },
+ {
+  "id": 10,
+  "start": 22.69,
+  "end": 23.403,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 24.214,
+  "end": 25.702,
+  "text": "I’ll have a ticket, please."
+ }
+]

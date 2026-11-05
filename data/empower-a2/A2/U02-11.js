@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U02-11"]=[
+ {
+  "id": 1,
+  "start": 0.036,
+  "end": 1.72,
+  "text": "Track 02.11"
+ },
+ {
+  "id": 2,
+  "start": 3.585,
+  "end": 4.516,
+  "text": "Do you study?"
+ },
+ {
+  "id": 3,
+  "start": 6.385,
+  "end": 7.437,
+  "text": "Yes, I do."
+ },
+ {
+  "id": 4,
+  "start": 9.369,
+  "end": 10.418,
+  "text": "No, I don’t."
+ },
+ {
+  "id": 5,
+  "start": 12.308,
+  "end": 13.446,
+  "text": "Does she work?"
+ },
+ {
+  "id": 6,
+  "start": 15.304,
+  "end": 16.502,
+  "text": "Yes, she does."
+ },
+ {
+  "id": 7,
+  "start": 18.394,
+  "end": 19.567,
+  "text": "No, she doesn’t."
+ },
+ {
+  "id": 8,
+  "start": 21.521,
+  "end": 22.613,
+  "text": "Where do you work?"
+ },
+ {
+  "id": 9,
+  "start": 24.518,
+  "end": 25.659,
+  "text": "Where does she work?"
+ }
+];

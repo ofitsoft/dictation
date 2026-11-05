@@ -1,0 +1,302 @@
+[
+ {
+  "id": 1,
+  "start": 0.009,
+  "end": 1.706,
+  "text": "Track 02.07"
+ },
+ {
+  "id": 2,
+  "start": 3.23,
+  "end": 4.786,
+  "text": "Umm excuse me."
+ },
+ {
+  "id": 3,
+  "start": 4.841,
+  "end": 5.532,
+  "text": "Hi."
+ },
+ {
+  "id": 4,
+  "start": 5.856,
+  "end": 8.36,
+  "text": "Look, can I ask you a few questions"
+ },
+ {
+  "id": 5,
+  "start": 8.385,
+  "end": 9.669,
+  "text": "about your study routine?"
+ },
+ {
+  "id": 6,
+  "start": 9.931,
+  "end": 10.645,
+  "text": "Sorry?"
+ },
+ {
+  "id": 7,
+  "start": 10.83,
+  "end": 12.402,
+  "text": "Your study routine?"
+ },
+ {
+  "id": 8,
+  "start": 12.615,
+  "end": 14.637,
+  "text": "Umm … OK ..."
+ },
+ {
+  "id": 9,
+  "start": 14.795,
+  "end": 15.613,
+  "text": "but I’ve got to …"
+ },
+ {
+  "id": 10,
+  "start": 15.613,
+  "end": 16.327,
+  "text": "(interrupting) Great!"
+ },
+ {
+  "id": 11,
+  "start": 16.628,
+  "end": 18.811,
+  "text": "So, first question:"
+ },
+ {
+  "id": 12,
+  "start": 19.145,
+  "end": 21.081,
+  "text": "do you study full-time"
+ },
+ {
+  "id": 13,
+  "start": 21.105,
+  "end": 22.06,
+  "text": "or part-time?"
+ },
+ {
+  "id": 14,
+  "start": 22.37,
+  "end": 23.37,
+  "text": "Part-time."
+ },
+ {
+  "id": 15,
+  "start": 23.694,
+  "end": 24.765,
+  "text": "I have a job -"
+ },
+ {
+  "id": 16,
+  "start": 24.876,
+  "end": 26.013,
+  "text": "I’m a nurse"
+ },
+ {
+  "id": 17,
+  "start": 26.037,
+  "end": 27.558,
+  "text": "and I have a family."
+ },
+ {
+  "id": 18,
+  "start": 27.749,
+  "end": 28.995,
+  "text": "I’m really busy."
+ },
+ {
+  "id": 19,
+  "start": 28.995,
+  "end": 29.733,
+  "text": "OK…"
+ },
+ {
+  "id": 20,
+  "start": 30.209,
+  "end": 32.807,
+  "text": "and how many hours a week"
+ },
+ {
+  "id": 21,
+  "start": 32.831,
+  "end": 33.664,
+  "text": "do you study?"
+ },
+ {
+  "id": 22,
+  "start": 33.95,
+  "end": 36.4,
+  "text": "Well, at the university…"
+ },
+ {
+  "id": 23,
+  "start": 36.579,
+  "end": 38.27,
+  "text": "about five hours."
+ },
+ {
+  "id": 24,
+  "start": 38.412,
+  "end": 39.881,
+  "text": "And at home?"
+ },
+ {
+  "id": 25,
+  "start": 40.111,
+  "end": 41.595,
+  "text": "Tania : I don’t know –"
+ },
+ {
+  "id": 26,
+  "start": 41.841,
+  "end": 44.487,
+  "text": "maybe about ten hours."
+ },
+ {
+  "id": 27,
+  "start": 45.123,
+  "end": 46.043,
+  "text": "Do you study"
+ },
+ {
+  "id": 28,
+  "start": 46.068,
+  "end": 48.371,
+  "text": "in the morning or afternoon?"
+ },
+ {
+  "id": 29,
+  "start": 48.633,
+  "end": 51.368,
+  "text": "I usually study early in the morning"
+ },
+ {
+  "id": 30,
+  "start": 51.392,
+  "end": 52.868,
+  "text": "or late at night."
+ },
+ {
+  "id": 31,
+  "start": 54.209,
+  "end": 56.384,
+  "text": "When do you start studying each day?"
+ },
+ {
+  "id": 32,
+  "start": 56.741,
+  "end": 58.698,
+  "text": "Usually at half past eight"
+ },
+ {
+  "id": 33,
+  "start": 58.722,
+  "end": 60.0,
+  "text": "or nine o’clock."
+ },
+ {
+  "id": 34,
+  "start": 60.142,
+  "end": 62.42,
+  "text": "Do you finish studying very late?"
+ },
+ {
+  "id": 35,
+  "start": 62.5,
+  "end": 64.86,
+  "text": "Well, it changes every day."
+ },
+ {
+  "id": 36,
+  "start": 65.031,
+  "end": 67.222,
+  "text": "Well, last night, for example."
+ },
+ {
+  "id": 37,
+  "start": 67.38,
+  "end": 69.341,
+  "text": "Hmm… last night…"
+ },
+ {
+  "id": 38,
+  "start": 69.365,
+  "end": 71.445,
+  "text": "at quarter past eleven."
+ },
+ {
+  "id": 39,
+  "start": 71.499,
+  "end": 72.95,
+  "text": "That’s quite late!"
+ },
+ {
+  "id": 40,
+  "start": 73.379,
+  "end": 75.117,
+  "text": "And where do you study?"
+ },
+ {
+  "id": 41,
+  "start": 75.298,
+  "end": 76.379,
+  "text": "Everywhere!"
+ },
+ {
+  "id": 42,
+  "start": 76.617,
+  "end": 77.754,
+  "text": "On the bus,"
+ },
+ {
+  "id": 43,
+  "start": 77.754,
+  "end": 78.713,
+  "text": "at work,"
+ },
+ {
+  "id": 44,
+  "start": 78.713,
+  "end": 79.913,
+  "text": "at lunch time,"
+ },
+ {
+  "id": 45,
+  "start": 79.913,
+  "end": 81.183,
+  "text": "in the kitchen,"
+ },
+ {
+  "id": 46,
+  "start": 81.183,
+  "end": 83.603,
+  "text": "in the bedroom – everywhere!"
+ },
+ {
+  "id": 47,
+  "start": 84.023,
+  "end": 85.953,
+  "text": "And in your free time?"
+ },
+ {
+  "id": 48,
+  "start": 86.032,
+  "end": 87.238,
+  "text": "Free time?!"
+ },
+ {
+  "id": 49,
+  "start": 87.294,
+  "end": 89.151,
+  "text": "What do you do in your free time?"
+ },
+ {
+  "id": 50,
+  "start": 89.27,
+  "end": 92.0,
+  "text": "I don’t have any free time!"
+ }
+]

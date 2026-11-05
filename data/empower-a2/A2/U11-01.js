@@ -1,0 +1,194 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U11-01"]=[
+ {
+  "id": 1,
+  "start": 0.508,
+  "end": 2.508,
+  "text": "Track 11.01"
+ },
+ {
+  "id": 2,
+  "start": 4.308,
+  "end": 5.667,
+  "text": "How many quiz answers"
+ },
+ {
+  "id": 3,
+  "start": 5.691,
+  "end": 6.762,
+  "text": "did you get right?"
+ },
+ {
+  "id": 4,
+  "start": 7.35,
+  "end": 8.972,
+  "text": "All of them except"
+ },
+ {
+  "id": 5,
+  "start": 8.972,
+  "end": 11.234,
+  "text": "for numbers 1 and 5."
+ },
+ {
+  "id": 6,
+  "start": 12.044,
+  "end": 15.012,
+  "text": "I got question 2 and 4 wrong."
+ },
+ {
+  "id": 7,
+  "start": 15.385,
+  "end": 17.001,
+  "text": "How did you know Margot Robbie"
+ },
+ {
+  "id": 8,
+  "start": 17.001,
+  "end": 19.223,
+  "text": "learned to go on a circus trapeze?"
+ },
+ {
+  "id": 9,
+  "start": 19.713,
+  "end": 20.643,
+  "text": "I remembered"
+ },
+ {
+  "id": 10,
+  "start": 20.683,
+  "end": 23.012,
+  "text": "she was in The Legend of Tarzan,"
+ },
+ {
+  "id": 11,
+  "start": 23.368,
+  "end": 25.376,
+  "text": "but I haven’t seen the film."
+ },
+ {
+  "id": 12,
+  "start": 25.855,
+  "end": 28.523,
+  "text": "I’ve only seen her in I, Tonya."
+ },
+ {
+  "id": 13,
+  "start": 29.033,
+  "end": 30.047,
+  "text": "Which of the films"
+ },
+ {
+  "id": 14,
+  "start": 30.047,
+  "end": 31.555,
+  "text": "in the list have you seen?"
+ },
+ {
+  "id": 15,
+  "start": 32.722,
+  "end": 35.06,
+  "text": "I’ve seen Mary Queen of Scots."
+ },
+ {
+  "id": 16,
+  "start": 35.326,
+  "end": 36.783,
+  "text": "She’s really good in it."
+ },
+ {
+  "id": 17,
+  "start": 37.074,
+  "end": 38.022,
+  "text": "I’ve never seen any"
+ },
+ {
+  "id": 18,
+  "start": 38.022,
+  "end": 40.101,
+  "text": "of Mia Wasikowska’s films."
+ },
+ {
+  "id": 19,
+  "start": 40.919,
+  "end": 44.125,
+  "text": "Really? Try Jane Eyre –"
+ },
+ {
+  "id": 20,
+  "start": 44.125,
+  "end": 45.757,
+  "text": "she’s great in that."
+ },
+ {
+  "id": 21,
+  "start": 46.876,
+  "end": 49.019,
+  "text": "OK. I’ve read the book,"
+ },
+ {
+  "id": 22,
+  "start": 49.276,
+  "end": 50.757,
+  "text": "but I haven’t seen the film."
+ },
+ {
+  "id": 23,
+  "start": 51.374,
+  "end": 52.783,
+  "text": "What about Rose Byrne?"
+ },
+ {
+  "id": 24,
+  "start": 53.315,
+  "end": 55.139,
+  "text": "Have you ever seen any of her films?"
+ },
+ {
+  "id": 25,
+  "start": 55.624,
+  "end": 57.171,
+  "text": "No, I haven’t,"
+ },
+ {
+  "id": 26,
+  "start": 57.273,
+  "end": 59.528,
+  "text": "but I’ve heard she’s a good actor."
+ },
+ {
+  "id": 27,
+  "start": 60.249,
+  "end": 60.718,
+  "text": "Yeah,"
+ },
+ {
+  "id": 28,
+  "start": 60.806,
+  "end": 61.845,
+  "text": "she’s really good."
+ },
+ {
+  "id": 29,
+  "start": 62.584,
+  "end": 63.201,
+  "text": "I’ve seen her"
+ },
+ {
+  "id": 30,
+  "start": 63.201,
+  "end": 65.059,
+  "text": "in a couple of X-Men films."
+ },
+ {
+  "id": 31,
+  "start": 65.193,
+  "end": 67.209,
+  "text": "She plays a CIA agent –"
+ },
+ {
+  "id": 32,
+  "start": 67.523,
+  "end": 68.328,
+  "text": "she’s great."
+ }
+];

@@ -1,0 +1,62 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U08-09"]=[
+ {
+  "id": 1,
+  "start": 0.841,
+  "end": 2.952,
+  "text": "Track 08.09"
+ },
+ {
+  "id": 2,
+  "start": 4.614,
+  "end": 6.371,
+  "text": "Were you in Madrid yesterday?"
+ },
+ {
+  "id": 3,
+  "start": 6.49,
+  "end": 8.283,
+  "text": "Yes, I was."
+ },
+ {
+  "id": 4,
+  "start": 9.45,
+  "end": 11.347,
+  "text": "No, I wasn’t."
+ },
+ {
+  "id": 5,
+  "start": 13.211,
+  "end": 15.084,
+  "text": "Was she in Rome yesterday?"
+ },
+ {
+  "id": 6,
+  "start": 15.141,
+  "end": 16.959,
+  "text": "Yes, she was."
+ },
+ {
+  "id": 7,
+  "start": 18.117,
+  "end": 20.022,
+  "text": "No, she wasn’t."
+ },
+ {
+  "id": 8,
+  "start": 21.971,
+  "end": 23.804,
+  "text": "Were they in Paris yesterday?"
+ },
+ {
+  "id": 9,
+  "start": 23.988,
+  "end": 25.797,
+  "text": "Yes, they were."
+ },
+ {
+  "id": 10,
+  "start": 26.52,
+  "end": 28.742,
+  "text": "No, they weren’t."
+ }
+];

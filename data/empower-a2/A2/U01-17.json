@@ -1,0 +1,224 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.865,
+  "text": "Track 01.17"
+ },
+ {
+  "id": 2,
+  "start": 2.983,
+  "end": 3.832,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 9.932,
+  "end": 11.52,
+  "text": "Hi. How can I help?"
+ },
+ {
+  "id": 4,
+  "start": 12.123,
+  "end": 13.903,
+  "text": "I’d like to do a fitness class."
+ },
+ {
+  "id": 5,
+  "start": 14.226,
+  "end": 15.345,
+  "text": "Your card, please?"
+ },
+ {
+  "id": 6,
+  "start": 17.269,
+  "end": 18.507,
+  "text": "Sorry – it’s at home."
+ },
+ {
+  "id": 7,
+  "start": 18.927,
+  "end": 20.379,
+  "text": "OK. No problem. ..."
+ },
+ {
+  "id": 8,
+  "start": 20.633,
+  "end": 21.427,
+  "text": "What’s your name?"
+ },
+ {
+  "id": 9,
+  "start": 21.752,
+  "end": 22.379,
+  "text": "Leo."
+ },
+ {
+  "id": 10,
+  "start": 23.919,
+  "end": 24.387,
+  "text": "Sorry,"
+ },
+ {
+  "id": 11,
+  "start": 24.387,
+  "end": 25.3,
+  "text": "what’s your surname?"
+ },
+ {
+  "id": 12,
+  "start": 26.046,
+  "end": 26.768,
+  "text": "Seymour."
+ },
+ {
+  "id": 13,
+  "start": 27.641,
+  "end": 29.066,
+  "text": "Can you spell that, please?"
+ },
+ {
+  "id": 14,
+  "start": 29.36,
+  "end": 31.67,
+  "text": "S-E-Y-M-O-U-R."
+ },
+ {
+  "id": 15,
+  "start": 32.709,
+  "end": 34.035,
+  "text": "Seymour –"
+ },
+ {
+  "id": 16,
+  "start": 35.201,
+  "end": 36.791,
+  "text": "yes, here you are."
+ },
+ {
+  "id": 17,
+  "start": 37.459,
+  "end": 38.857,
+  "text": "And what’s your address?"
+ },
+ {
+  "id": 18,
+  "start": 38.92,
+  "end": 40.031,
+  "text": "18 New Street."
+ },
+ {
+  "id": 19,
+  "start": 41.672,
+  "end": 43.339,
+  "text": "18 New Street."
+ },
+ {
+  "id": 20,
+  "start": 43.339,
+  "end": 44.251,
+  "text": "Yes, that’s right."
+ },
+ {
+  "id": 21,
+  "start": 45.037,
+  "end": 46.747,
+  "text": "So a fitness class?"
+ },
+ {
+  "id": 22,
+  "start": 46.894,
+  "end": 48.196,
+  "text": "Yes, what time’s the next one?"
+ },
+ {
+  "id": 23,
+  "start": 48.283,
+  "end": 49.553,
+  "text": "It’s at twenty past seven."
+ },
+ {
+  "id": 24,
+  "start": 50.1,
+  "end": 50.608,
+  "text": "Sorry?"
+ },
+ {
+  "id": 25,
+  "start": 50.934,
+  "end": 51.823,
+  "text": "7.20."
+ },
+ {
+  "id": 26,
+  "start": 52.68,
+  "end": 54.323,
+  "text": "And…is it a big group?"
+ },
+ {
+  "id": 27,
+  "start": 55.843,
+  "end": 57.701,
+  "text": "No, only ten people."
+ },
+ {
+  "id": 28,
+  "start": 58.073,
+  "end": 58.431,
+  "text": "Great."
+ },
+ {
+  "id": 29,
+  "start": 58.613,
+  "end": 59.47,
+  "text": "Can I book a place?"
+ },
+ {
+  "id": 30,
+  "start": 59.724,
+  "end": 60.383,
+  "text": "Of course. ..."
+ },
+ {
+  "id": 31,
+  "start": 64.301,
+  "end": 64.88,
+  "text": "There you go."
+ },
+ {
+  "id": 32,
+  "start": 65.799,
+  "end": 66.902,
+  "text": "And where’s the class?"
+ },
+ {
+  "id": 33,
+  "start": 67.013,
+  "end": 68.092,
+  "text": "It’s in Studio 1."
+ },
+ {
+  "id": 34,
+  "start": 68.346,
+  "end": 70.394,
+  "text": "So that’s 7.20 in Studio 1?"
+ },
+ {
+  "id": 35,
+  "start": 70.476,
+  "end": 71.032,
+  "text": "That’s right."
+ },
+ {
+  "id": 36,
+  "start": 71.436,
+  "end": 72.119,
+  "text": "Thanks for your help."
+ },
+ {
+  "id": 37,
+  "start": 72.191,
+  "end": 72.968,
+  "text": "You’re welcome."
+ }
+]

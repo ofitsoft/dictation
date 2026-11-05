@@ -1,0 +1,458 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U08-03"]=[
+ {
+  "id": 1,
+  "start": 0.532,
+  "end": 2.15,
+  "text": "Track 08.03"
+ },
+ {
+  "id": 2,
+  "start": 4.214,
+  "end": 4.825,
+  "text": "Jayne,"
+ },
+ {
+  "id": 3,
+  "start": 5.008,
+  "end": 5.603,
+  "text": "welcome."
+ },
+ {
+  "id": 4,
+  "start": 6.174,
+  "end": 7.0,
+  "text": "Thank you."
+ },
+ {
+  "id": 5,
+  "start": 7.536,
+  "end": 8.206,
+  "text": "So,"
+ },
+ {
+  "id": 6,
+  "start": 8.608,
+  "end": 10.128,
+  "text": "it's an interesting question."
+ },
+ {
+  "id": 7,
+  "start": 10.894,
+  "end": 12.747,
+  "text": "Running is very popular,"
+ },
+ {
+  "id": 8,
+  "start": 13.148,
+  "end": 15.451,
+  "text": "lots of people train for marathons."
+ },
+ {
+  "id": 9,
+  "start": 15.918,
+  "end": 17.826,
+  "text": "But is it actually good for you?"
+ },
+ {
+  "id": 10,
+  "start": 18.028,
+  "end": 20.58,
+  "text": "Well, yes -"
+ },
+ {
+  "id": 11,
+  "start": 20.72,
+  "end": 22.847,
+  "text": "running is good for you."
+ },
+ {
+  "id": 12,
+  "start": 23.426,
+  "end": 25.446,
+  "text": "It's good for your heart,"
+ },
+ {
+  "id": 13,
+  "start": 25.596,
+  "end": 27.402,
+  "text": "it makes you feel good,"
+ },
+ {
+  "id": 14,
+  "start": 27.715,
+  "end": 28.87,
+  "text": "it's fun ..."
+ },
+ {
+  "id": 15,
+  "start": 29.834,
+  "end": 31.442,
+  "text": "But it can be bad for you?"
+ },
+ {
+  "id": 16,
+  "start": 32.238,
+  "end": 33.116,
+  "text": "Of course."
+ },
+ {
+  "id": 17,
+  "start": 33.696,
+  "end": 36.612,
+  "text": "If you train over a long time,"
+ },
+ {
+  "id": 18,
+  "start": 36.671,
+  "end": 38.943,
+  "text": "or if you do too much,"
+ },
+ {
+  "id": 19,
+  "start": 39.431,
+  "end": 41.859,
+  "text": "it can be bad for your heart."
+ },
+ {
+  "id": 20,
+  "start": 42.267,
+  "end": 43.886,
+  "text": "That's quite clear."
+ },
+ {
+  "id": 21,
+  "start": 44.759,
+  "end": 45.422,
+  "text": "OK,"
+ },
+ {
+  "id": 22,
+  "start": 45.672,
+  "end": 47.867,
+  "text": "someone wants to train for a marathon."
+ },
+ {
+  "id": 23,
+  "start": 48.305,
+  "end": 49.453,
+  "text": "What do you tell them?"
+ },
+ {
+  "id": 24,
+  "start": 49.863,
+  "end": 51.324,
+  "text": "How can they stay safe?"
+ },
+ {
+  "id": 25,
+  "start": 52.164,
+  "end": 52.803,
+  "text": "Well,"
+ },
+ {
+  "id": 26,
+  "start": 53.4,
+  "end": 55.111,
+  "text": "first I'd say,"
+ },
+ {
+  "id": 27,
+  "start": 55.202,
+  "end": 57.282,
+  "text": "don't do a marathon,"
+ },
+ {
+  "id": 28,
+  "start": 57.373,
+  "end": 60.119,
+  "text": "start with a half marathon!"
+ },
+ {
+  "id": 29,
+  "start": 60.59,
+  "end": 61.172,
+  "text": "OK,"
+ },
+ {
+  "id": 30,
+  "start": 61.569,
+  "end": 62.569,
+  "text": "half marathon."
+ },
+ {
+  "id": 31,
+  "start": 63.291,
+  "end": 64.231,
+  "text": "And then -"
+ },
+ {
+  "id": 32,
+  "start": 64.757,
+  "end": 68.237,
+  "text": "basically follow three rules."
+ },
+ {
+  "id": 33,
+  "start": 68.891,
+  "end": 69.505,
+  "text": "OK."
+ },
+ {
+  "id": 34,
+  "start": 70.196,
+  "end": 71.259,
+  "text": "Number one:"
+ },
+ {
+  "id": 35,
+  "start": 71.99,
+  "end": 74.445,
+  "text": "don't do too much."
+ },
+ {
+  "id": 36,
+  "start": 75.096,
+  "end": 77.009,
+  "text": "Don't go from nothing"
+ },
+ {
+  "id": 37,
+  "start": 77.311,
+  "end": 79.113,
+  "text": "to two hours' running."
+ },
+ {
+  "id": 38,
+  "start": 79.731,
+  "end": 81.855,
+  "text": "Start with 20 minutes,"
+ },
+ {
+  "id": 39,
+  "start": 82.315,
+  "end": 84.306,
+  "text": "then do a bit more,"
+ },
+ {
+  "id": 40,
+  "start": 84.663,
+  "end": 86.391,
+  "text": "then a bit more."
+ },
+ {
+  "id": 41,
+  "start": 87.185,
+  "end": 88.947,
+  "text": "So you build up slowly?"
+ },
+ {
+  "id": 42,
+  "start": 89.517,
+  "end": 90.418,
+  "text": "Exactly."
+ },
+ {
+  "id": 43,
+  "start": 91.161,
+  "end": 92.942,
+  "text": "Then number two:"
+ },
+ {
+  "id": 44,
+  "start": 93.529,
+  "end": 96.121,
+  "text": "drink a lot of water,"
+ },
+ {
+  "id": 45,
+  "start": 96.149,
+  "end": 98.563,
+  "text": "and I mean a lot."
+ },
+ {
+  "id": 46,
+  "start": 99.361,
+  "end": 100.355,
+  "text": "When you run,"
+ },
+ {
+  "id": 47,
+  "start": 100.749,
+  "end": 102.466,
+  "text": "your body gets hot,"
+ },
+ {
+  "id": 48,
+  "start": 102.749,
+  "end": 104.529,
+  "text": "so you need water."
+ },
+ {
+  "id": 49,
+  "start": 105.198,
+  "end": 107.856,
+  "text": "You see people in marathons sometimes -"
+ },
+ {
+  "id": 50,
+  "start": 108.431,
+  "end": 110.315,
+  "text": "they seem just fine,"
+ },
+ {
+  "id": 51,
+  "start": 110.718,
+  "end": 112.5,
+  "text": "then suddenly - boom,"
+ },
+ {
+  "id": 52,
+  "start": 113.079,
+  "end": 113.767,
+  "text": "they're down,"
+ },
+ {
+  "id": 53,
+  "start": 114.283,
+  "end": 115.754,
+  "text": "they can't continue."
+ },
+ {
+  "id": 54,
+  "start": 116.412,
+  "end": 118.266,
+  "text": "Usually - I'd say,"
+ },
+ {
+  "id": 55,
+  "start": 118.666,
+  "end": 121.72,
+  "text": "70, 80 per cent of the time -"
+ },
+ {
+  "id": 56,
+  "start": 122.164,
+  "end": 124.901,
+  "text": "it's because they didn't drink enough water."
+ },
+ {
+  "id": 57,
+  "start": 125.282,
+  "end": 126.615,
+  "text": "Simple as that."
+ },
+ {
+  "id": 58,
+  "start": 127.334,
+  "end": 128.08,
+  "text": "OK,"
+ },
+ {
+  "id": 59,
+  "start": 128.571,
+  "end": 129.616,
+  "text": "so water."
+ },
+ {
+  "id": 60,
+  "start": 130.236,
+  "end": 131.72,
+  "text": "What's rule number three?"
+ },
+ {
+  "id": 61,
+  "start": 132.823,
+  "end": 134.476,
+  "text": "Listen to your body,"
+ },
+ {
+  "id": 62,
+  "start": 134.873,
+  "end": 137.373,
+  "text": "that's really important."
+ },
+ {
+  "id": 63,
+  "start": 138.228,
+  "end": 139.369,
+  "text": "You feel tired ..."
+ },
+ {
+  "id": 64,
+  "start": 140.092,
+  "end": 140.569,
+  "text": "stop."
+ },
+ {
+  "id": 65,
+  "start": 141.553,
+  "end": 142.766,
+  "text": "Your foot hurts ..."
+ },
+ {
+  "id": 66,
+  "start": 143.442,
+  "end": 144.005,
+  "text": "stop."
+ },
+ {
+  "id": 67,
+  "start": 145.766,
+  "end": 148.163,
+  "text": "People often fight against it,"
+ },
+ {
+  "id": 68,
+  "start": 148.658,
+  "end": 151.639,
+  "text": "they think, ‘Yeah, I can do this,’"
+ },
+ {
+  "id": 69,
+  "start": 152.179,
+  "end": 154.29,
+  "text": "but that's how you have problems."
+ },
+ {
+  "id": 70,
+  "start": 154.902,
+  "end": 155.782,
+  "text": "And also –"
+ },
+ {
+  "id": 71,
+  "start": 156.321,
+  "end": 157.424,
+  "text": "enjoy it."
+ },
+ {
+  "id": 72,
+  "start": 157.816,
+  "end": 158.884,
+  "text": "It's for fun,"
+ },
+ {
+  "id": 73,
+  "start": 159.17,
+  "end": 160.821,
+  "text": "it's not your work."
+ },
+ {
+  "id": 74,
+  "start": 161.598,
+  "end": 162.267,
+  "text": "OK,"
+ },
+ {
+  "id": 75,
+  "start": 162.584,
+  "end": 164.624,
+  "text": "so that's rule number four!"
+ },
+ {
+  "id": 76,
+  "start": 166.15,
+  "end": 257.43,
+  "text": "I suppose so, yeah."
+ }
+];

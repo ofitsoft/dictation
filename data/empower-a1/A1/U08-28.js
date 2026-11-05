@@ -1,0 +1,98 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U08-28"]=[
+ {
+  "id": 1,
+  "start": 0.357,
+  "end": 2.833,
+  "text": "Track 08.28"
+ },
+ {
+  "id": 2,
+  "start": 3.095,
+  "end": 4.254,
+  "text": "/eɪ/"
+ },
+ {
+  "id": 3,
+  "start": 4.865,
+  "end": 5.802,
+  "text": "play"
+ },
+ {
+  "id": 4,
+  "start": 7.852,
+  "end": 9.106,
+  "text": "stay"
+ },
+ {
+  "id": 5,
+  "start": 11.265,
+  "end": 12.241,
+  "text": "day"
+ },
+ {
+  "id": 6,
+  "start": 14.378,
+  "end": 15.568,
+  "text": "game"
+ },
+ {
+  "id": 7,
+  "start": 17.429,
+  "end": 18.874,
+  "text": "paper"
+ },
+ {
+  "id": 8,
+  "start": 20.749,
+  "end": 22.146,
+  "text": "radio"
+ },
+ {
+  "id": 9,
+  "start": 24.092,
+  "end": 25.124,
+  "text": "great"
+ },
+ {
+  "id": 10,
+  "start": 27.248,
+  "end": 28.303,
+  "text": "grey"
+ },
+ {
+  "id": 11,
+  "start": 30.767,
+  "end": 31.727,
+  "text": "/aɪ/"
+ },
+ {
+  "id": 12,
+  "start": 32.49,
+  "end": 33.498,
+  "text": "white"
+ },
+ {
+  "id": 13,
+  "start": 35.646,
+  "end": 36.614,
+  "text": "knife"
+ },
+ {
+  "id": 14,
+  "start": 38.79,
+  "end": 39.862,
+  "text": "wife"
+ },
+ {
+  "id": 15,
+  "start": 42.056,
+  "end": 43.239,
+  "text": "night"
+ },
+ {
+  "id": 16,
+  "start": 45.321,
+  "end": 46.369,
+  "text": "right"
+ }
+];

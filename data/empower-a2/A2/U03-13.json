@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.022,
+  "end": 2.054,
+  "text": "Track 03.13"
+ },
+ {
+  "id": 2,
+  "start": 3.832,
+  "end": 5.067,
+  "text": "I’ve got a car."
+ },
+ {
+  "id": 3,
+  "start": 6.966,
+  "end": 8.148,
+  "text": "She’s got a car."
+ },
+ {
+  "id": 4,
+  "start": 10.034,
+  "end": 11.495,
+  "text": "They haven’t got a car."
+ },
+ {
+  "id": 5,
+  "start": 13.387,
+  "end": 14.771,
+  "text": "He hasn’t got a car."
+ },
+ {
+  "id": 6,
+  "start": 16.675,
+  "end": 17.951,
+  "text": "Have you got a car?"
+ },
+ {
+  "id": 7,
+  "start": 19.861,
+  "end": 20.864,
+  "text": "Yes, I have."
+ },
+ {
+  "id": 8,
+  "start": 22.761,
+  "end": 23.876,
+  "text": "No, I haven’t."
+ },
+ {
+  "id": 9,
+  "start": 25.726,
+  "end": 27.097,
+  "text": "Has she got a car?"
+ },
+ {
+  "id": 10,
+  "start": 28.944,
+  "end": 30.048,
+  "text": "Yes, she has."
+ },
+ {
+  "id": 11,
+  "start": 31.971,
+  "end": 33.135,
+  "text": "No, she hasn’t."
+ }
+]

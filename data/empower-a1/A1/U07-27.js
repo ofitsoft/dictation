@@ -1,0 +1,194 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U07-27"]=[
+ {
+  "id": 1,
+  "start": 0.302,
+  "end": 2.984,
+  "text": "Track 07.27"
+ },
+ {
+  "id": 2,
+  "start": 3.499,
+  "end": 4.325,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 5.154,
+  "end": 6.503,
+  "text": "suitcase"
+ },
+ {
+  "id": 4,
+  "start": 8.505,
+  "end": 9.465,
+  "text": "clock"
+ },
+ {
+  "id": 5,
+  "start": 11.481,
+  "end": 12.576,
+  "text": "place"
+ },
+ {
+  "id": 6,
+  "start": 14.72,
+  "end": 15.863,
+  "text": "chair"
+ },
+ {
+  "id": 7,
+  "start": 17.913,
+  "end": 18.842,
+  "text": "cup"
+ },
+ {
+  "id": 8,
+  "start": 20.751,
+  "end": 22.156,
+  "text": "jacket"
+ },
+ {
+  "id": 9,
+  "start": 24.083,
+  "end": 25.344,
+  "text": "coat"
+ },
+ {
+  "id": 10,
+  "start": 27.019,
+  "end": 28.185,
+  "text": "dark"
+ },
+ {
+  "id": 11,
+  "start": 29.66,
+  "end": 30.652,
+  "text": "2"
+ },
+ {
+  "id": 12,
+  "start": 32.165,
+  "end": 33.395,
+  "text": "blue"
+ },
+ {
+  "id": 13,
+  "start": 35.247,
+  "end": 36.318,
+  "text": "black"
+ },
+ {
+  "id": 14,
+  "start": 38.459,
+  "end": 39.514,
+  "text": "brown"
+ },
+ {
+  "id": 15,
+  "start": 41.608,
+  "end": 42.806,
+  "text": "blouse"
+ },
+ {
+  "id": 16,
+  "start": 44.777,
+  "end": 45.928,
+  "text": "bed"
+ },
+ {
+  "id": 17,
+  "start": 47.683,
+  "end": 48.778,
+  "text": "bowl"
+ },
+ {
+  "id": 18,
+  "start": 51.393,
+  "end": 52.806,
+  "text": "3"
+ },
+ {
+  "id": 19,
+  "start": 53.166,
+  "end": 54.301,
+  "text": "pink"
+ },
+ {
+  "id": 20,
+  "start": 56.123,
+  "end": 57.29,
+  "text": "lamp"
+ },
+ {
+  "id": 21,
+  "start": 59.418,
+  "end": 60.783,
+  "text": "photograph"
+ },
+ {
+  "id": 22,
+  "start": 62.814,
+  "end": 64.068,
+  "text": "picture"
+ },
+ {
+  "id": 23,
+  "start": 65.953,
+  "end": 67.049,
+  "text": "pillow"
+ },
+ {
+  "id": 24,
+  "start": 69.159,
+  "end": 70.389,
+  "text": "plate"
+ },
+ {
+  "id": 25,
+  "start": 72.177,
+  "end": 73.328,
+  "text": "plant"
+ },
+ {
+  "id": 26,
+  "start": 75.744,
+  "end": 77.053,
+  "text": "4"
+ },
+ {
+  "id": 27,
+  "start": 77.625,
+  "end": 78.974,
+  "text": "magazine"
+ },
+ {
+  "id": 28,
+  "start": 81.03,
+  "end": 82.268,
+  "text": "bag"
+ },
+ {
+  "id": 29,
+  "start": 84.187,
+  "end": 85.353,
+  "text": "light"
+ },
+ {
+  "id": 30,
+  "start": 87.133,
+  "end": 88.442,
+  "text": "grey"
+ },
+ {
+  "id": 31,
+  "start": 90.502,
+  "end": 91.558,
+  "text": "green"
+ },
+ {
+  "id": 32,
+  "start": 93.556,
+  "end": 95.016,
+  "text": "thing"
+ }
+];

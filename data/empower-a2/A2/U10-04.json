@@ -1,0 +1,494 @@
+[
+ {
+  "id": 1,
+  "start": 0.024,
+  "end": 1.643,
+  "text": "Track 10.04"
+ },
+ {
+  "id": 2,
+  "start": 2.795,
+  "end": 3.684,
+  "text": "Radio presenter: Good evening"
+ },
+ {
+  "id": 3,
+  "start": 3.708,
+  "end": 5.517,
+  "text": "and welcome to the programme."
+ },
+ {
+  "id": 4,
+  "start": 5.811,
+  "end": 6.867,
+  "text": "Today, we’re talking"
+ },
+ {
+  "id": 5,
+  "start": 6.867,
+  "end": 8.7,
+  "text": "to Professor Ryan Hunter."
+ },
+ {
+  "id": 6,
+  "start": 9.001,
+  "end": 10.554,
+  "text": "The Professor is well-known"
+ },
+ {
+  "id": 7,
+  "start": 10.578,
+  "end": 12.237,
+  "text": "for his love of languages"
+ },
+ {
+  "id": 8,
+  "start": 12.261,
+  "end": 13.192,
+  "text": "and has a new book"
+ },
+ {
+  "id": 9,
+  "start": 13.224,
+  "end": 14.39,
+  "text": "in the shops tomorrow."
+ },
+ {
+  "id": 10,
+  "start": 14.605,
+  "end": 15.743,
+  "text": "Professor, welcome!"
+ },
+ {
+  "id": 11,
+  "start": 16.172,
+  "end": 16.767,
+  "text": "Thank you."
+ },
+ {
+  "id": 12,
+  "start": 16.767,
+  "end": 18.068,
+  "text": "It’s great to be here!"
+ },
+ {
+  "id": 13,
+  "start": 18.537,
+  "end": 19.598,
+  "text": "Radio presenter: So let’s start"
+ },
+ {
+  "id": 14,
+  "start": 19.622,
+  "end": 20.971,
+  "text": "with my first question."
+ },
+ {
+  "id": 15,
+  "start": 21.391,
+  "end": 23.196,
+  "text": "Professor, in your opinion,"
+ },
+ {
+  "id": 16,
+  "start": 23.244,
+  "end": 25.791,
+  "text": "what’s the most beautiful language in the world?"
+ },
+ {
+  "id": 17,
+  "start": 26.14,
+  "end": 27.928,
+  "text": "That’s a very good question."
+ },
+ {
+  "id": 18,
+  "start": 28.134,
+  "end": 28.817,
+  "text": "Of course,"
+ },
+ {
+  "id": 19,
+  "start": 28.817,
+  "end": 31.838,
+  "text": "there is no right or wrong answer here."
+ },
+ {
+  "id": 20,
+  "start": 31.989,
+  "end": 34.311,
+  "text": "I’m sure we all have our favourites."
+ },
+ {
+  "id": 21,
+  "start": 34.811,
+  "end": 37.105,
+  "text": "But for me the answer is easy:"
+ },
+ {
+  "id": 22,
+  "start": 37.494,
+  "end": 38.232,
+  "text": "Italian."
+ },
+ {
+  "id": 23,
+  "start": 38.589,
+  "end": 41.455,
+  "text": "It was the first language I learned."
+ },
+ {
+  "id": 24,
+  "start": 41.768,
+  "end": 43.74,
+  "text": "I still remember my teacher,"
+ },
+ {
+  "id": 25,
+  "start": 43.882,
+  "end": 45.319,
+  "text": "Signora Monti."
+ },
+ {
+  "id": 26,
+  "start": 46.137,
+  "end": 48.197,
+  "text": "Signora Monti was the best teacher"
+ },
+ {
+  "id": 27,
+  "start": 48.197,
+  "end": 49.387,
+  "text": "at my school"
+ },
+ {
+  "id": 28,
+  "start": 49.61,
+  "end": 52.054,
+  "text": "and she started my love of languages."
+ },
+ {
+  "id": 29,
+  "start": 52.846,
+  "end": 54.481,
+  "text": "Now I can speak more than"
+ },
+ {
+  "id": 30,
+  "start": 54.505,
+  "end": 55.933,
+  "text": "20 languages well,"
+ },
+ {
+  "id": 31,
+  "start": 56.227,
+  "end": 57.747,
+  "text": "but Italian is the most"
+ },
+ {
+  "id": 32,
+  "start": 57.771,
+  "end": 59.303,
+  "text": "musical language I know."
+ },
+ {
+  "id": 33,
+  "start": 59.795,
+  "end": 61.07,
+  "text": "It’s the language of"
+ },
+ {
+  "id": 34,
+  "start": 61.165,
+  "end": 62.602,
+  "text": "opera and love."
+ },
+ {
+  "id": 35,
+  "start": 62.887,
+  "end": 64.923,
+  "text": "Radio presenter: OK, next question."
+ },
+ {
+  "id": 36,
+  "start": 65.137,
+  "end": 67.608,
+  "text": "What’s the most difficult language in the world?"
+ },
+ {
+  "id": 37,
+  "start": 68.108,
+  "end": 68.849,
+  "text": "Hmm."
+ },
+ {
+  "id": 38,
+  "start": 68.952,
+  "end": 71.159,
+  "text": "That’s an interesting question, too."
+ },
+ {
+  "id": 39,
+  "start": 71.405,
+  "end": 74.257,
+  "text": "It partly depends on your first language."
+ },
+ {
+  "id": 40,
+  "start": 74.733,
+  "end": 75.76,
+  "text": "For example,"
+ },
+ {
+  "id": 41,
+  "start": 75.815,
+  "end": 77.514,
+  "text": "for a speaker of English,"
+ },
+ {
+  "id": 42,
+  "start": 77.538,
+  "end": 79.601,
+  "text": "Japanese is very difficult,"
+ },
+ {
+  "id": 43,
+  "start": 79.887,
+  "end": 81.019,
+  "text": "but for a speaker"
+ },
+ {
+  "id": 44,
+  "start": 81.043,
+  "end": 84.186,
+  "text": "of Mandarin Chinese it’s much easier."
+ },
+ {
+  "id": 45,
+  "start": 84.67,
+  "end": 85.598,
+  "text": "However,"
+ },
+ {
+  "id": 46,
+  "start": 85.772,
+  "end": 87.278,
+  "text": "a few years ago,"
+ },
+ {
+  "id": 47,
+  "start": 87.405,
+  "end": 90.09,
+  "text": "we did a project at my university"
+ },
+ {
+  "id": 48,
+  "start": 90.32,
+  "end": 92.506,
+  "text": "and decided that the hardest language"
+ },
+ {
+  "id": 49,
+  "start": 92.53,
+  "end": 94.3,
+  "text": "to learn is Basque,"
+ },
+ {
+  "id": 50,
+  "start": 94.467,
+  "end": 95.663,
+  "text": "a language from"
+ },
+ {
+  "id": 51,
+  "start": 95.687,
+  "end": 97.758,
+  "text": "parts of Spain and France."
+ },
+ {
+  "id": 52,
+  "start": 98.649,
+  "end": 100.802,
+  "text": "Last year we did another project"
+ },
+ {
+  "id": 53,
+  "start": 100.826,
+  "end": 101.85,
+  "text": "on the Internet"
+ },
+ {
+  "id": 54,
+  "start": 102.008,
+  "end": 104.421,
+  "text": "to find the easiest language to learn."
+ },
+ {
+  "id": 55,
+  "start": 105.138,
+  "end": 106.831,
+  "text": "More than 3,000"
+ },
+ {
+  "id": 56,
+  "start": 106.856,
+  "end": 108.586,
+  "text": "people answered the question"
+ },
+ {
+  "id": 57,
+  "start": 108.834,
+  "end": 111.693,
+  "text": "and the most popular answer was Spanish."
+ },
+ {
+  "id": 58,
+  "start": 112.274,
+  "end": 114.607,
+  "text": "So perhaps Spanish is the"
+ },
+ {
+  "id": 59,
+  "start": 114.631,
+  "end": 116.363,
+  "text": "easiest language to learn."
+ },
+ {
+  "id": 60,
+  "start": 116.912,
+  "end": 118.344,
+  "text": "That’s probably because"
+ },
+ {
+  "id": 61,
+  "start": 118.369,
+  "end": 119.598,
+  "text": "it’s not very different"
+ },
+ {
+  "id": 62,
+  "start": 119.623,
+  "end": 121.773,
+  "text": "from many other European languages."
+ },
+ {
+  "id": 63,
+  "start": 122.444,
+  "end": 124.366,
+  "text": "Radio presenter: And one final question,"
+ },
+ {
+  "id": 64,
+  "start": 124.653,
+  "end": 127.485,
+  "text": "what’s the most useful language to speak?"
+ },
+ {
+  "id": 65,
+  "start": 127.882,
+  "end": 129.165,
+  "text": "That’s easy –"
+ },
+ {
+  "id": 66,
+  "start": 129.189,
+  "end": 131.364,
+  "text": "the language of the country where you live."
+ },
+ {
+  "id": 67,
+  "start": 131.364,
+  "end": 133.411,
+  "text": "But if you want to learn"
+ },
+ {
+  "id": 68,
+  "start": 133.435,
+  "end": 135.911,
+  "text": "the most popular language in the world,"
+ },
+ {
+  "id": 69,
+  "start": 136.006,
+  "end": 138.922,
+  "text": "then take lessons in Mandarin Chinese."
+ },
+ {
+  "id": 70,
+  "start": 139.376,
+  "end": 142.946,
+  "text": "More than 900 million people speak it."
+ },
+ {
+  "id": 71,
+  "start": 143.364,
+  "end": 145.443,
+  "text": "That’s not a surprise as China"
+ },
+ {
+  "id": 72,
+  "start": 145.475,
+  "end": 148.002,
+  "text": "has the biggest population in the world."
+ },
+ {
+  "id": 73,
+  "start": 148.33,
+  "end": 150.432,
+  "text": "So with Mandarin Chinese"
+ },
+ {
+  "id": 74,
+  "start": 150.456,
+  "end": 153.448,
+  "text": "you can speak to about 14%"
+ },
+ {
+  "id": 75,
+  "start": 153.472,
+  "end": 155.504,
+  "text": "of all the people in the world."
+ },
+ {
+  "id": 76,
+  "start": 155.67,
+  "end": 156.779,
+  "text": "That’s pretty useful."
+ },
+ {
+  "id": 77,
+  "start": 157.149,
+  "end": 159.516,
+  "text": "Radio presenter: That’s very useful, indeed!"
+ },
+ {
+  "id": 78,
+  "start": 159.602,
+  "end": 159.983,
+  "text": "Well,"
+ },
+ {
+  "id": 79,
+  "start": 159.983,
+  "end": 160.967,
+  "text": "Professor Hunter,"
+ },
+ {
+  "id": 80,
+  "start": 160.967,
+  "end": 162.876,
+  "text": "thanks for talking with us today."
+ },
+ {
+  "id": 81,
+  "start": 162.975,
+  "end": 164.468,
+  "text": "I’m sure our listeners enjoyed"
+ },
+ {
+  "id": 82,
+  "start": 164.493,
+  "end": 166.238,
+  "text": "hearing your thoughts on language!"
+ }
+]

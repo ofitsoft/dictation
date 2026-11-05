@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U12-10"]=[
+ {
+  "id": 1,
+  "start": 0.019,
+  "end": 1.702,
+  "text": "Track 12.10"
+ },
+ {
+  "id": 2,
+  "start": 2.981,
+  "end": 3.975,
+  "text": "I should go."
+ },
+ {
+  "id": 3,
+  "start": 5.913,
+  "end": 6.956,
+  "text": "They shouldn’t go."
+ },
+ {
+  "id": 4,
+  "start": 8.888,
+  "end": 9.904,
+  "text": "Should she go?"
+ },
+ {
+  "id": 5,
+  "start": 11.827,
+  "end": 12.991,
+  "text": "Yes, she should."
+ },
+ {
+  "id": 6,
+  "start": 14.976,
+  "end": 16.099,
+  "text": "No, she shouldn’t."
+ },
+ {
+  "id": 7,
+  "start": 17.999,
+  "end": 19.133,
+  "text": "When should we go?"
+ }
+];

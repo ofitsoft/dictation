@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U02-10"]=[
+ {
+  "id": 1,
+  "start": 0.42,
+  "end": 2.547,
+  "text": "Track 02.10"
+ },
+ {
+  "id": 2,
+  "start": 4.27,
+  "end": 6.175,
+  "text": "My flat is small."
+ },
+ {
+  "id": 3,
+  "start": 7.746,
+  "end": 9.357,
+  "text": "Is this your book?"
+ },
+ {
+  "id": 4,
+  "start": 11.262,
+  "end": 14.135,
+  "text": "His home is old and beautiful."
+ },
+ {
+  "id": 5,
+  "start": 15.849,
+  "end": 17.818,
+  "text": "She’s here with her friend."
+ },
+ {
+  "id": 6,
+  "start": 19.757,
+  "end": 22.487,
+  "text": "This is our home in Madrid."
+ },
+ {
+  "id": 7,
+  "start": 24.145,
+  "end": 25.875,
+  "text": "Is that their home?"
+ }
+];

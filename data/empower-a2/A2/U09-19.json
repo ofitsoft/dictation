@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.984,
+  "text": "Track 09.19"
+ },
+ {
+  "id": 2,
+  "start": 3.048,
+  "end": 3.493,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.617,
+  "end": 5.519,
+  "text": "Can I help you?"
+ },
+ {
+  "id": 4,
+  "start": 7.867,
+  "end": 8.357,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 9.114,
+  "end": 10.188,
+  "text": "What size are you?"
+ },
+ {
+  "id": 6,
+  "start": 12.535,
+  "end": 13.047,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 13.96,
+  "end": 15.118,
+  "text": "Can I try them on?"
+ },
+ {
+  "id": 8,
+  "start": 17.481,
+  "end": 18.044,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 19.025,
+  "end": 20.086,
+  "text": "How much are they?"
+ },
+ {
+  "id": 10,
+  "start": 22.43,
+  "end": 23.069,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 24.089,
+  "end": 25.77,
+  "text": "The fitting rooms are over there."
+ }
+]

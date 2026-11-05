@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U02-12"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.802,
+  "text": "Track 02.12"
+ },
+ {
+  "id": 2,
+  "start": 2.722,
+  "end": 3.214,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.349,
+  "end": 6.659,
+  "text": "How many hours a week do you study?"
+ },
+ {
+  "id": 4,
+  "start": 8.988,
+  "end": 9.519,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 10.559,
+  "end": 12.673,
+  "text": "Do you study grammar or vocabulary?"
+ },
+ {
+  "id": 6,
+  "start": 15.081,
+  "end": 15.732,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 16.613,
+  "end": 17.756,
+  "text": "When do you study?"
+ },
+ {
+  "id": 8,
+  "start": 20.119,
+  "end": 20.698,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 21.698,
+  "end": 22.786,
+  "text": "Where do you study?"
+ }
+];

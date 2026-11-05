@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U08-05"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.73,
+  "text": "Track 08.05"
+ },
+ {
+  "id": 2,
+  "start": 2.618,
+  "end": 3.079,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.047,
+  "end": 4.743,
+  "text": "full"
+ },
+ {
+  "id": 4,
+  "start": 6.698,
+  "end": 7.156,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 8.119,
+  "end": 8.648,
+  "text": "good"
+ },
+ {
+  "id": 6,
+  "start": 10.595,
+  "end": 11.148,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 12.072,
+  "end": 12.767,
+  "text": "pool"
+ },
+ {
+  "id": 8,
+  "start": 14.682,
+  "end": 15.299,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 16.063,
+  "end": 16.632,
+  "text": "put"
+ },
+ {
+  "id": 10,
+  "start": 18.587,
+  "end": 19.267,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 19.825,
+  "end": 20.635,
+  "text": "food"
+ },
+ {
+  "id": 12,
+  "start": 22.563,
+  "end": 23.23,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 23.849,
+  "end": 24.523,
+  "text": "blue"
+ }
+];

@@ -1,0 +1,188 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U04-17"]=[
+ {
+  "id": 1,
+  "start": 0.026,
+  "end": 1.832,
+  "text": "Track 04.17"
+ },
+ {
+  "id": 2,
+  "start": 2.417,
+  "end": 3.228,
+  "text": "PART 1"
+ },
+ {
+  "id": 3,
+  "start": 5.864,
+  "end": 6.401,
+  "text": "Thanks Leo"
+ },
+ {
+  "id": 4,
+  "start": 6.495,
+  "end": 7.241,
+  "text": "After you…"
+ },
+ {
+  "id": 5,
+  "start": 12.4,
+  "end": 12.843,
+  "text": "Is this it?"
+ },
+ {
+  "id": 6,
+  "start": 13.403,
+  "end": 14.118,
+  "text": "This is it."
+ },
+ {
+  "id": 7,
+  "start": 14.769,
+  "end": 15.308,
+  "text": "Great."
+ },
+ {
+  "id": 8,
+  "start": 28.829,
+  "end": 29.788,
+  "text": "It’s empty."
+ },
+ {
+  "id": 9,
+  "start": 30.582,
+  "end": 31.959,
+  "text": "Maybe it isn’t open."
+ },
+ {
+  "id": 10,
+  "start": 33.934,
+  "end": 35.157,
+  "text": "Good evening, good evening."
+ },
+ {
+  "id": 11,
+  "start": 35.583,
+  "end": 36.259,
+  "text": "Hello."
+ },
+ {
+  "id": 12,
+  "start": 36.564,
+  "end": 37.474,
+  "text": "Are you open?"
+ },
+ {
+  "id": 13,
+  "start": 37.517,
+  "end": 38.433,
+  "text": "Yes, of course."
+ },
+ {
+  "id": 14,
+  "start": 38.471,
+  "end": 39.724,
+  "text": "Do you have a reservation?"
+ },
+ {
+  "id": 15,
+  "start": 40.029,
+  "end": 41.228,
+  "text": "No, we don’t."
+ },
+ {
+  "id": 16,
+  "start": 41.582,
+  "end": 43.272,
+  "text": "Do we need a reservation?"
+ },
+ {
+  "id": 17,
+  "start": 43.428,
+  "end": 45.493,
+  "text": "Erm, not really. It’s very early …"
+ },
+ {
+  "id": 18,
+  "start": 45.503,
+  "end": 47.701,
+  "text": "OK, then, we’d like a table for four."
+ },
+ {
+  "id": 19,
+  "start": 47.747,
+  "end": 48.366,
+  "text": "Certainly."
+ },
+ {
+  "id": 20,
+  "start": 48.609,
+  "end": 50.135,
+  "text": "Can we have a table by the window?"
+ },
+ {
+  "id": 21,
+  "start": 50.145,
+  "end": 51.985,
+  "text": "Yes. These two over here are both free."
+ },
+ {
+  "id": 22,
+  "start": 52.225,
+  "end": 53.158,
+  "text": "What do you think?"
+ },
+ {
+  "id": 23,
+  "start": 53.734,
+  "end": 54.647,
+  "text": "The one on the left?"
+ },
+ {
+  "id": 24,
+  "start": 55.322,
+  "end": 55.934,
+  "text": "Fine."
+ },
+ {
+  "id": 25,
+  "start": 56.023,
+  "end": 56.586,
+  "text": "Sure."
+ },
+ {
+  "id": 26,
+  "start": 56.86,
+  "end": 58.474,
+  "text": "What about the one on the right?"
+ },
+ {
+  "id": 27,
+  "start": 58.925,
+  "end": 59.973,
+  "text": "If you prefer …"
+ },
+ {
+  "id": 28,
+  "start": 61.081,
+  "end": 61.754,
+  "text": "Maybe not."
+ },
+ {
+  "id": 29,
+  "start": 62.538,
+  "end": 63.795,
+  "text": "The one on the left is fine …"
+ },
+ {
+  "id": 30,
+  "start": 64.089,
+  "end": 64.646,
+  "text": "Of course."
+ },
+ {
+  "id": 31,
+  "start": 64.662,
+  "end": 65.539,
+  "text": "This way, please."
+ }
+];

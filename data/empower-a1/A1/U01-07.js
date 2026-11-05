@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U01-07"]=[
+ {
+  "id": 1,
+  "start": 0.421,
+  "end": 2.46,
+  "text": "Track 01.07"
+ },
+ {
+  "id": 2,
+  "start": 4.257,
+  "end": 5.583,
+  "text": "Are you Berkay?"
+ },
+ {
+  "id": 3,
+  "start": 6.426,
+  "end": 7.941,
+  "text": "Yes, I am."
+ },
+ {
+  "id": 4,
+  "start": 7.966,
+  "end": 9.973,
+  "text": "Hi, I’m Kelly."
+ },
+ {
+  "id": 5,
+  "start": 10.66,
+  "end": 11.747,
+  "text": "Oh, hi."
+ },
+ {
+  "id": 6,
+  "start": 12.199,
+  "end": 13.699,
+  "text": "Are you a student here?"
+ },
+ {
+  "id": 7,
+  "start": 13.724,
+  "end": 16.877,
+  "text": "No, I’m not a student."
+ },
+ {
+  "id": 8,
+  "start": 17.244,
+  "end": 18.681,
+  "text": "I’m your teacher!"
+ },
+ {
+  "id": 9,
+  "start": 19.294,
+  "end": 21.341,
+  "text": "Oh … sorry."
+ }
+];

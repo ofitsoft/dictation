@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U11-09"]=[
+ {
+  "id": 1,
+  "start": 0.484,
+  "end": 2.341,
+  "text": "Track 11.09"
+ },
+ {
+  "id": 2,
+  "start": 4.213,
+  "end": 4.921,
+  "text": "singer"
+ },
+ {
+  "id": 3,
+  "start": 8.429,
+  "end": 9.331,
+  "text": "musician"
+ },
+ {
+  "id": 4,
+  "start": 12.814,
+  "end": 13.597,
+  "text": "classical"
+ },
+ {
+  "id": 5,
+  "start": 17.082,
+  "end": 17.849,
+  "text": "orchestra"
+ },
+ {
+  "id": 6,
+  "start": 21.293,
+  "end": 22.095,
+  "text": "festival"
+ }
+];

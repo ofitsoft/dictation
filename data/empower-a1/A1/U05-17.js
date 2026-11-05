@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U05-17"]=[
+ {
+  "id": 1,
+  "start": 0.427,
+  "end": 2.785,
+  "text": "Track 05.17"
+ },
+ {
+  "id": 2,
+  "start": 4.079,
+  "end": 5.627,
+  "text": "Is there a café?"
+ },
+ {
+  "id": 3,
+  "start": 6.921,
+  "end": 8.333,
+  "text": "Yes, there is."
+ },
+ {
+  "id": 4,
+  "start": 9.913,
+  "end": 11.524,
+  "text": "No, there isn’t."
+ },
+ {
+  "id": 5,
+  "start": 13.627,
+  "end": 15.746,
+  "text": "Are there any small rooms?"
+ },
+ {
+  "id": 6,
+  "start": 17.127,
+  "end": 18.54,
+  "text": "Yes, there are."
+ },
+ {
+  "id": 7,
+  "start": 20.627,
+  "end": 22.262,
+  "text": "No, there aren’t."
+ }
+];

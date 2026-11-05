@@ -1,0 +1,122 @@
+[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.69,
+  "text": "Track 04.15"
+ },
+ {
+  "id": 2,
+  "start": 3.317,
+  "end": 4.556,
+  "text": "PART 1"
+ },
+ {
+  "id": 3,
+  "start": 19.148,
+  "end": 20.473,
+  "text": "Good morning!"
+ },
+ {
+  "id": 4,
+  "start": 21.609,
+  "end": 22.76,
+  "text": "Hi there."
+ },
+ {
+  "id": 5,
+  "start": 24.173,
+  "end": 26.618,
+  "text": "So … how’s the new flat?"
+ },
+ {
+  "id": 6,
+  "start": 27.115,
+  "end": 30.123,
+  "text": "Oh it’s great. I really like it."
+ },
+ {
+  "id": 7,
+  "start": 30.663,
+  "end": 31.948,
+  "text": "You must come and see it."
+ },
+ {
+  "id": 8,
+  "start": 32.155,
+  "end": 33.329,
+  "text": "I’d love to …"
+ },
+ {
+  "id": 9,
+  "start": 35.268,
+  "end": 36.848,
+  "text": "Are you OK, Sophia?"
+ },
+ {
+  "id": 10,
+  "start": 38.034,
+  "end": 39.097,
+  "text": "Well,"
+ },
+ {
+  "id": 11,
+  "start": 39.51,
+  "end": 40.566,
+  "text": "yes and no …"
+ },
+ {
+  "id": 12,
+  "start": 41.375,
+  "end": 43.193,
+  "text": "An email from my sister."
+ },
+ {
+  "id": 13,
+  "start": 43.272,
+  "end": 44.598,
+  "text": "In Canada?"
+ },
+ {
+  "id": 14,
+  "start": 44.685,
+  "end": 45.796,
+  "text": "That’s right."
+ },
+ {
+  "id": 15,
+  "start": 47.338,
+  "end": 49.711,
+  "text": "Is she OK?"
+ },
+ {
+  "id": 16,
+  "start": 50.687,
+  "end": 53.211,
+  "text": "Oh, she’s fine. It’s just …"
+ },
+ {
+  "id": 17,
+  "start": 53.772,
+  "end": 55.401,
+  "text": "… she’s in Canada."
+ },
+ {
+  "id": 18,
+  "start": 55.527,
+  "end": 57.654,
+  "text": "And my parents, and my brother."
+ },
+ {
+  "id": 19,
+  "start": 58.016,
+  "end": 59.524,
+  "text": "And you’re here in London."
+ },
+ {
+  "id": 20,
+  "start": 60.024,
+  "end": 61.421,
+  "text": "It’s difficult."
+ }
+]

@@ -1,0 +1,110 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U09-13"]=[
+ {
+  "id": 1,
+  "start": 0.412,
+  "end": 2.714,
+  "text": "Track 09.13"
+ },
+ {
+  "id": 2,
+  "start": 2.897,
+  "end": 4.135,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.624,
+  "end": 6.703,
+  "text": "It often rains in England."
+ },
+ {
+  "id": 4,
+  "start": 8.427,
+  "end": 10.689,
+  "text": "There’s a lot of rain in England."
+ },
+ {
+  "id": 5,
+  "start": 12.247,
+  "end": 14.501,
+  "text": "It’s often rainy in England."
+ },
+ {
+  "id": 6,
+  "start": 15.49,
+  "end": 16.482,
+  "text": "2"
+ },
+ {
+  "id": 7,
+  "start": 17.991,
+  "end": 20.491,
+  "text": "It often snows in Antarctica."
+ },
+ {
+  "id": 8,
+  "start": 22.007,
+  "end": 24.713,
+  "text": "There’s always snow in Antarctica."
+ },
+ {
+  "id": 9,
+  "start": 26.252,
+  "end": 29.038,
+  "text": "It’s always snowy in Antarctica."
+ },
+ {
+  "id": 10,
+  "start": 31.049,
+  "end": 32.057,
+  "text": "3"
+ },
+ {
+  "id": 11,
+  "start": 32.811,
+  "end": 35.358,
+  "text": "There’s a lot of wind in my town."
+ },
+ {
+  "id": 12,
+  "start": 37.052,
+  "end": 39.489,
+  "text": "It’s often windy in my town."
+ },
+ {
+  "id": 13,
+  "start": 41.389,
+  "end": 42.469,
+  "text": "4"
+ },
+ {
+  "id": 14,
+  "start": 43.099,
+  "end": 45.567,
+  "text": "It’s very sunny and hot today."
+ },
+ {
+  "id": 15,
+  "start": 47.23,
+  "end": 49.683,
+  "text": "It was sunny and warm yesterday."
+ },
+ {
+  "id": 16,
+  "start": 51.53,
+  "end": 52.633,
+  "text": "5"
+ },
+ {
+  "id": 17,
+  "start": 53.344,
+  "end": 55.963,
+  "text": "There are a lot of clouds today."
+ },
+ {
+  "id": 18,
+  "start": 57.594,
+  "end": 59.752,
+  "text": "It’s cloudy and cold today."
+ }
+];

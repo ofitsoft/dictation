@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1,
+  "start": 0.341,
+  "end": 2.611,
+  "text": "Track 01.18"
+ },
+ {
+  "id": 2,
+  "start": 4.392,
+  "end": 6.289,
+  "text": "He isn’t Japanese."
+ },
+ {
+  "id": 3,
+  "start": 8.087,
+  "end": 10.111,
+  "text": "She isn’t Mexican."
+ },
+ {
+  "id": 4,
+  "start": 11.921,
+  "end": 13.952,
+  "text": "They aren’t American."
+ }
+]

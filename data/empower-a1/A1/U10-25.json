@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 0.332,
+  "end": 2.674,
+  "text": "Track 10.25"
+ },
+ {
+  "id": 2,
+  "start": 3.865,
+  "end": 4.937,
+  "text": "bathroom"
+ },
+ {
+  "id": 3,
+  "start": 7.03,
+  "end": 8.093,
+  "text": "birthday"
+ },
+ {
+  "id": 4,
+  "start": 10.059,
+  "end": 11.21,
+  "text": "change"
+ },
+ {
+  "id": 5,
+  "start": 13.151,
+  "end": 14.826,
+  "text": "choose"
+ },
+ {
+  "id": 6,
+  "start": 16.585,
+  "end": 17.673,
+  "text": "kitchen"
+ },
+ {
+  "id": 7,
+  "start": 19.548,
+  "end": 20.62,
+  "text": "mother"
+ },
+ {
+  "id": 8,
+  "start": 22.545,
+  "end": 23.775,
+  "text": "question"
+ },
+ {
+  "id": 9,
+  "start": 25.726,
+  "end": 27.003,
+  "text": "thanks"
+ },
+ {
+  "id": 10,
+  "start": 28.982,
+  "end": 30.046,
+  "text": "the"
+ },
+ {
+  "id": 11,
+  "start": 31.969,
+  "end": 33.263,
+  "text": "three"
+ },
+ {
+  "id": 12,
+  "start": 35.038,
+  "end": 36.236,
+  "text": "they’re"
+ },
+ {
+  "id": 13,
+  "start": 37.937,
+  "end": 39.325,
+  "text": "weather"
+ }
+]

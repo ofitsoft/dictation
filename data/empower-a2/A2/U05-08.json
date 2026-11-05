@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.595,
+  "text": "Track 05.08"
+ },
+ {
+  "id": 2,
+  "start": 3.088,
+  "end": 4.65,
+  "text": "I love that armchair."
+ },
+ {
+  "id": 3,
+  "start": 4.833,
+  "end": 6.057,
+  "text": "Yes, it’s quite …"
+ },
+ {
+  "id": 4,
+  "start": 6.848,
+  "end": 8.016,
+  "text": "interesting."
+ },
+ {
+  "id": 5,
+  "start": 8.421,
+  "end": 9.528,
+  "text": "Is it yours?"
+ },
+ {
+  "id": 6,
+  "start": 9.529,
+  "end": 10.965,
+  "text": "No it’s David’s."
+ },
+ {
+  "id": 7,
+  "start": 10.966,
+  "end": 12.25,
+  "text": "He’s my flatmate."
+ },
+ {
+  "id": 8,
+  "start": 12.6,
+  "end": 13.714,
+  "text": "I love it."
+ },
+ {
+  "id": 9,
+  "start": 14.881,
+  "end": 16.319,
+  "text": "That mirror over there."
+ },
+ {
+  "id": 10,
+  "start": 16.899,
+  "end": 18.306,
+  "text": "Is that Mum and Dad’s?"
+ },
+ {
+  "id": 11,
+  "start": 18.696,
+  "end": 21.658,
+  "text": "Well, yes, but really it’s mine now."
+ }
+]

@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U12-09"]=[
+ {
+  "id": 1,
+  "start": 0.468,
+  "end": 2.5,
+  "text": "Track 12.09"
+ },
+ {
+  "id": 2,
+  "start": 3.391,
+  "end": 4.343,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.877,
+  "end": 6.329,
+  "text": "After class,"
+ },
+ {
+  "id": 4,
+  "start": 6.354,
+  "end": 8.671,
+  "text": "I’m not going to do my homework."
+ },
+ {
+  "id": 5,
+  "start": 9.485,
+  "end": 10.707,
+  "text": "Why not?"
+ },
+ {
+  "id": 6,
+  "start": 10.732,
+  "end": 11.939,
+  "text": "I’m tired."
+ },
+ {
+  "id": 7,
+  "start": 12.288,
+  "end": 14.169,
+  "text": "I’m going to do it tomorrow."
+ },
+ {
+  "id": 8,
+  "start": 15.84,
+  "end": 16.76,
+  "text": "2"
+ },
+ {
+  "id": 9,
+  "start": 17.755,
+  "end": 19.033,
+  "text": "After class,"
+ },
+ {
+  "id": 10,
+  "start": 19.058,
+  "end": 20.835,
+  "text": "I’m not going to go home."
+ },
+ {
+  "id": 11,
+  "start": 21.254,
+  "end": 22.261,
+  "text": "Why not?"
+ },
+ {
+  "id": 12,
+  "start": 22.532,
+  "end": 24.873,
+  "text": "I’m going to meet friends in a café."
+ }
+];

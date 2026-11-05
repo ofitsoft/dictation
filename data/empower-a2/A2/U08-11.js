@@ -1,0 +1,86 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U08-11"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.571,
+  "text": "Track 08.11"
+ },
+ {
+  "id": 2,
+  "start": 2.357,
+  "end": 3.135,
+  "text": "PART 1"
+ },
+ {
+  "id": 3,
+  "start": 25.515,
+  "end": 26.005,
+  "text": "Right,"
+ },
+ {
+  "id": 4,
+  "start": 26.03,
+  "end": 27.054,
+  "text": "the running machine next!"
+ },
+ {
+  "id": 5,
+  "start": 29.214,
+  "end": 30.755,
+  "text": "Hey, are you OK?"
+ },
+ {
+  "id": 6,
+  "start": 33.211,
+  "end": 34.493,
+  "text": "Are you all right?"
+ },
+ {
+  "id": 7,
+  "start": 34.926,
+  "end": 36.381,
+  "text": "Um, I think so."
+ },
+ {
+  "id": 8,
+  "start": 36.728,
+  "end": 37.834,
+  "text": "Are you sure?"
+ },
+ {
+  "id": 9,
+  "start": 38.088,
+  "end": 39.302,
+  "text": "You don’t look well."
+ },
+ {
+  "id": 10,
+  "start": 39.648,
+  "end": 41.048,
+  "text": "Yes, I feel a bit tired."
+ },
+ {
+  "id": 11,
+  "start": 42.545,
+  "end": 44.069,
+  "text": "Actually, I feel awful."
+ },
+ {
+  "id": 12,
+  "start": 44.718,
+  "end": 45.298,
+  "text": "Oh dear."
+ },
+ {
+  "id": 13,
+  "start": 45.783,
+  "end": 46.398,
+  "text": "Come and sit down."
+ },
+ {
+  "id": 14,
+  "start": 46.398,
+  "end": 47.466,
+  "text": "I’ll get you some water."
+ }
+];

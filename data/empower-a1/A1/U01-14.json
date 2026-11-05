@@ -1,0 +1,140 @@
+[
+ {
+  "id": 1,
+  "start": 0.421,
+  "end": 2.683,
+  "text": "Track 01.14"
+ },
+ {
+  "id": 2,
+  "start": 4.471,
+  "end": 5.406,
+  "text": "Brazil"
+ },
+ {
+  "id": 3,
+  "start": 6.191,
+  "end": 7.152,
+  "text": "Brazilian"
+ },
+ {
+  "id": 4,
+  "start": 8.991,
+  "end": 10.027,
+  "text": "Australia"
+ },
+ {
+  "id": 5,
+  "start": 10.552,
+  "end": 11.686,
+  "text": "Australian"
+ },
+ {
+  "id": 6,
+  "start": 13.449,
+  "end": 14.35,
+  "text": "Italy"
+ },
+ {
+  "id": 7,
+  "start": 14.779,
+  "end": 15.803,
+  "text": "Italian"
+ },
+ {
+  "id": 8,
+  "start": 17.682,
+  "end": 18.801,
+  "text": "Mexico"
+ },
+ {
+  "id": 9,
+  "start": 19.293,
+  "end": 20.317,
+  "text": "Mexican"
+ },
+ {
+  "id": 10,
+  "start": 22.147,
+  "end": 23.369,
+  "text": "the USA"
+ },
+ {
+  "id": 11,
+  "start": 24.149,
+  "end": 26.284,
+  "text": "the United States of America"
+ },
+ {
+  "id": 12,
+  "start": 26.834,
+  "end": 27.921,
+  "text": "American"
+ },
+ {
+  "id": 13,
+  "start": 29.664,
+  "end": 30.632,
+  "text": "Spain"
+ },
+ {
+  "id": 14,
+  "start": 31.371,
+  "end": 32.395,
+  "text": "Spanish"
+ },
+ {
+  "id": 15,
+  "start": 34.311,
+  "end": 35.406,
+  "text": "the UK"
+ },
+ {
+  "id": 16,
+  "start": 36.138,
+  "end": 37.868,
+  "text": "the United Kingdom"
+ },
+ {
+  "id": 17,
+  "start": 38.55,
+  "end": 39.4,
+  "text": "British"
+ },
+ {
+  "id": 18,
+  "start": 41.263,
+  "end": 42.12,
+  "text": "Turkey"
+ },
+ {
+  "id": 19,
+  "start": 42.781,
+  "end": 43.924,
+  "text": "Turkish"
+ },
+ {
+  "id": 20,
+  "start": 45.576,
+  "end": 46.449,
+  "text": "China"
+ },
+ {
+  "id": 21,
+  "start": 47.172,
+  "end": 48.434,
+  "text": "Chinese"
+ },
+ {
+  "id": 22,
+  "start": 50.128,
+  "end": 51.271,
+  "text": "Japan"
+ },
+ {
+  "id": 23,
+  "start": 51.921,
+  "end": 53.23,
+  "text": "Japanese"
+ }
+]

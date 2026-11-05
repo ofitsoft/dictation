@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.476,
+  "end": 2.706,
+  "text": "Track 11.19"
+ },
+ {
+  "id": 2,
+  "start": 3.524,
+  "end": 5.627,
+  "text": "1 c"
+ },
+ {
+  "id": 3,
+  "start": 5.992,
+  "end": 7.706,
+  "text": "Yes, I agree."
+ },
+ {
+  "id": 4,
+  "start": 9.892,
+  "end": 12.138,
+  "text": "2 a"
+ },
+ {
+  "id": 5,
+  "start": 12.263,
+  "end": 14.049,
+  "text": "Do you like this clock?"
+ },
+ {
+  "id": 6,
+  "start": 16.384,
+  "end": 18.797,
+  "text": "3 a"
+ },
+ {
+  "id": 7,
+  "start": 19.287,
+  "end": 21.287,
+  "text": "What do you think of London?"
+ },
+ {
+  "id": 8,
+  "start": 23.356,
+  "end": 25.61,
+  "text": "4 d"
+ },
+ {
+  "id": 9,
+  "start": 25.927,
+  "end": 27.625,
+  "text": "I’m not so sure."
+ }
+]

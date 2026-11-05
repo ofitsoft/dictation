@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1,
+  "start": 0.405,
+  "end": 2.587,
+  "text": "Track 06.05"
+ },
+ {
+  "id": 2,
+  "start": 3.749,
+  "end": 5.916,
+  "text": "He doesn’t work on Monday."
+ },
+ {
+  "id": 3,
+  "start": 7.975,
+  "end": 10.189,
+  "text": "She doesn’t study Spanish."
+ },
+ {
+  "id": 4,
+  "start": 12.198,
+  "end": 14.556,
+  "text": "The village doesn’t have a school."
+ }
+]

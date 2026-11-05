@@ -1,0 +1,26 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U12-17"]=[
+ {
+  "id": 1,
+  "start": 0.421,
+  "end": 2.746,
+  "text": "Track 12.17"
+ },
+ {
+  "id": 2,
+  "start": 4.074,
+  "end": 5.876,
+  "text": "When am I going to see you?"
+ },
+ {
+  "id": 3,
+  "start": 8.102,
+  "end": 9.689,
+  "text": "What are you going to do?"
+ },
+ {
+  "id": 4,
+  "start": 11.944,
+  "end": 13.77,
+  "text": "Where is he going to live?"
+ }
+];

@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 0.349,
+  "end": 2.507,
+  "text": "Track 09.08"
+ },
+ {
+  "id": 2,
+  "start": 3.0,
+  "end": 4.048,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.748,
+  "end": 6.978,
+  "text": "We didn’t stay in their house."
+ },
+ {
+  "id": 4,
+  "start": 7.808,
+  "end": 8.911,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 9.917,
+  "end": 11.806,
+  "text": "We didn’t have a car."
+ }
+]

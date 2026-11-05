@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U06-10"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.722,
+  "text": "Track 06.10"
+ },
+ {
+  "id": 2,
+  "start": 2.682,
+  "end": 3.262,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.095,
+  "end": 6.762,
+  "text": "We were in Australia in 2012."
+ },
+ {
+  "id": 4,
+  "start": 9.069,
+  "end": 9.64,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 10.402,
+  "end": 13.185,
+  "text": "My birthday's on the nineteenth of June."
+ },
+ {
+  "id": 6,
+  "start": 15.494,
+  "end": 16.023,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 16.891,
+  "end": 18.889,
+  "text": "Our next holiday's in May."
+ }
+];

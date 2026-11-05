@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 0.333,
+  "end": 2.547,
+  "text": "Track 11.09"
+ },
+ {
+  "id": 2,
+  "start": 3.69,
+  "end": 5.476,
+  "text": "I can swim."
+ },
+ {
+  "id": 3,
+  "start": 7.275,
+  "end": 9.076,
+  "text": "You can swim."
+ },
+ {
+  "id": 4,
+  "start": 10.976,
+  "end": 12.611,
+  "text": "He can swim."
+ },
+ {
+  "id": 5,
+  "start": 14.613,
+  "end": 16.431,
+  "text": "She can swim."
+ },
+ {
+  "id": 6,
+  "start": 18.298,
+  "end": 20.195,
+  "text": "We can swim."
+ },
+ {
+  "id": 7,
+  "start": 22.09,
+  "end": 24.027,
+  "text": "They can swim."
+ },
+ {
+  "id": 8,
+  "start": 26.186,
+  "end": 28.234,
+  "text": "I can’t swim."
+ },
+ {
+  "id": 9,
+  "start": 30.127,
+  "end": 31.905,
+  "text": "You can’t swim."
+ },
+ {
+  "id": 10,
+  "start": 33.937,
+  "end": 35.794,
+  "text": "He can’t swim."
+ },
+ {
+  "id": 11,
+  "start": 37.648,
+  "end": 39.561,
+  "text": "She can’t swim."
+ },
+ {
+  "id": 12,
+  "start": 41.408,
+  "end": 43.217,
+  "text": "We can’t swim."
+ },
+ {
+  "id": 13,
+  "start": 45.254,
+  "end": 47.223,
+  "text": "They can’t swim."
+ }
+]

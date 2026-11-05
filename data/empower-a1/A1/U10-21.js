@@ -1,0 +1,134 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U10-21"]=[
+ {
+  "id": 1,
+  "start": 0.54,
+  "end": 2.651,
+  "text": "Track 10.21"
+ },
+ {
+  "id": 2,
+  "start": 3.389,
+  "end": 4.81,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 9.79,
+  "end": 10.592,
+  "text": "Excuse me."
+ },
+ {
+  "id": 4,
+  "start": 10.751,
+  "end": 11.727,
+  "text": "Yes? How can I help?"
+ },
+ {
+  "id": 5,
+  "start": 11.806,
+  "end": 13.457,
+  "text": "What time’s the next train to London?"
+ },
+ {
+  "id": 6,
+  "start": 13.662,
+  "end": 16.288,
+  "text": "The next train is at … 4:35."
+ },
+ {
+  "id": 7,
+  "start": 16.473,
+  "end": 17.592,
+  "text": "What time is it now?"
+ },
+ {
+  "id": 8,
+  "start": 18.004,
+  "end": 19.203,
+  "text": "What time is it now?"
+ },
+ {
+  "id": 9,
+  "start": 19.37,
+  "end": 21.259,
+  "text": "What time does it say on your clock?"
+ },
+ {
+  "id": 10,
+  "start": 21.781,
+  "end": 23.305,
+  "text": "12:30."
+ },
+ {
+  "id": 11,
+  "start": 23.421,
+  "end": 24.468,
+  "text": "Well, that’s not right."
+ },
+ {
+  "id": 12,
+  "start": 24.924,
+  "end": 26.543,
+  "text": "How much did you pay for that clock?"
+ },
+ {
+  "id": 13,
+  "start": 27.339,
+  "end": 29.95,
+  "text": "Anyway, it’s 4:32 now."
+ },
+ {
+  "id": 14,
+  "start": 30.724,
+  "end": 32.39,
+  "text": "The train leaves in three minutes!"
+ },
+ {
+  "id": 15,
+  "start": 32.486,
+  "end": 33.542,
+  "text": "Quick! Let’s go!"
+ },
+ {
+  "id": 16,
+  "start": 33.641,
+  "end": 34.926,
+  "text": "Sorry, which platform is it?"
+ },
+ {
+  "id": 17,
+  "start": 34.95,
+  "end": 36.188,
+  "text": "It’s Platform 3."
+ },
+ {
+  "id": 18,
+  "start": 36.287,
+  "end": 37.81,
+  "text": "It’s across the bridge and down the stairs."
+ },
+ {
+  "id": 19,
+  "start": 38.025,
+  "end": 38.874,
+  "text": "Thanks!"
+ },
+ {
+  "id": 20,
+  "start": 39.106,
+  "end": 40.447,
+  "text": "Would you like some help with the clock?"
+ },
+ {
+  "id": 21,
+  "start": 40.828,
+  "end": 41.867,
+  "text": "I can carry it if you like."
+ },
+ {
+  "id": 22,
+  "start": 41.988,
+  "end": 43.33,
+  "text": "No thanks, we’re fine."
+ }
+];

@@ -1,0 +1,104 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U04-21"]=[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.69,
+  "text": "Track 04.21"
+ },
+ {
+  "id": 2,
+  "start": 3.0,
+  "end": 4.056,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.73,
+  "end": 5.73,
+  "text": "chips"
+ },
+ {
+  "id": 4,
+  "start": 7.738,
+  "end": 9.079,
+  "text": "jeans"
+ },
+ {
+  "id": 5,
+  "start": 11.141,
+  "end": 12.181,
+  "text": "question"
+ },
+ {
+  "id": 6,
+  "start": 13.894,
+  "end": 14.894,
+  "text": "2"
+ },
+ {
+  "id": 7,
+  "start": 16.283,
+  "end": 17.489,
+  "text": "large"
+ },
+ {
+  "id": 8,
+  "start": 19.521,
+  "end": 20.624,
+  "text": "job"
+ },
+ {
+  "id": 9,
+  "start": 22.25,
+  "end": 23.663,
+  "text": "choose"
+ },
+ {
+  "id": 10,
+  "start": 26.1,
+  "end": 27.338,
+  "text": "3"
+ },
+ {
+  "id": 11,
+  "start": 28.386,
+  "end": 29.521,
+  "text": "orange"
+ },
+ {
+  "id": 12,
+  "start": 31.383,
+  "end": 32.502,
+  "text": "cheap"
+ },
+ {
+  "id": 13,
+  "start": 34.43,
+  "end": 35.565,
+  "text": "match"
+ },
+ {
+  "id": 14,
+  "start": 37.938,
+  "end": 39.073,
+  "text": "4"
+ },
+ {
+  "id": 15,
+  "start": 40.156,
+  "end": 41.322,
+  "text": "page"
+ },
+ {
+  "id": 16,
+  "start": 43.19,
+  "end": 44.468,
+  "text": "cheese"
+ },
+ {
+  "id": 17,
+  "start": 46.395,
+  "end": 47.586,
+  "text": "Germany"
+ }
+];

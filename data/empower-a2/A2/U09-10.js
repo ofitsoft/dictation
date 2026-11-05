@@ -1,0 +1,212 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U09-10"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.857,
+  "text": "Track 09.10"
+ },
+ {
+  "id": 2,
+  "start": 7.851,
+  "end": 8.339,
+  "text": "Hello?"
+ },
+ {
+  "id": 3,
+  "start": 8.701,
+  "end": 10.841,
+  "text": "Hi Lucas, it’s Tina."
+ },
+ {
+  "id": 4,
+  "start": 10.968,
+  "end": 12.875,
+  "text": "Oh, Tina – hi!"
+ },
+ {
+  "id": 5,
+  "start": 12.969,
+  "end": 14.694,
+  "text": "I just read your message."
+ },
+ {
+  "id": 6,
+  "start": 14.943,
+  "end": 16.57,
+  "text": "Sounds like you’re having fun."
+ },
+ {
+  "id": 7,
+  "start": 16.764,
+  "end": 19.781,
+  "text": "Yeah, it’s great here – I love it."
+ },
+ {
+  "id": 8,
+  "start": 20.041,
+  "end": 22.592,
+  "text": "I can’t believe you’re wearing red."
+ },
+ {
+  "id": 9,
+  "start": 22.635,
+  "end": 24.249,
+  "text": "I know, I know."
+ },
+ {
+  "id": 10,
+  "start": 24.249,
+  "end": 25.545,
+  "text": "You hate red."
+ },
+ {
+  "id": 11,
+  "start": 25.545,
+  "end": 30.04,
+  "text": "Yes, but it’s Chinese New Year – everyone’s wearing red –"
+ },
+ {
+  "id": 12,
+  "start": 30.476,
+  "end": 32.997,
+  "text": "I’m even wearing red socks and a red belt."
+ },
+ {
+  "id": 13,
+  "start": 33.473,
+  "end": 36.014,
+  "text": "And someone also gave me a red scarf."
+ },
+ {
+  "id": 14,
+  "start": 36.166,
+  "end": 38.935,
+  "text": "I hope you’re not wearing red shoes."
+ },
+ {
+  "id": 15,
+  "start": 38.935,
+  "end": 42.311,
+  "text": "No, no – I’m wearing black boots."
+ },
+ {
+  "id": 16,
+  "start": 48.949,
+  "end": 49.597,
+  "text": "Hello?"
+ },
+ {
+  "id": 17,
+  "start": 50.305,
+  "end": 52.377,
+  "text": "Hi, Diana. It’s Pete."
+ },
+ {
+  "id": 18,
+  "start": 52.643,
+  "end": 54.232,
+  "text": "Oh hi, Pete!"
+ },
+ {
+  "id": 19,
+  "start": 54.461,
+  "end": 55.746,
+  "text": "Thanks for calling!"
+ },
+ {
+  "id": 20,
+  "start": 56.017,
+  "end": 58.633,
+  "text": "Thanks for the message and the photo."
+ },
+ {
+  "id": 21,
+  "start": 58.796,
+  "end": 59.882,
+  "text": "No problem."
+ },
+ {
+  "id": 22,
+  "start": 60.259,
+  "end": 62.992,
+  "text": "I’m having such a brilliant time here."
+ },
+ {
+  "id": 23,
+  "start": 64.426,
+  "end": 66.475,
+  "text": "That doesn’t look like you in the photo."
+ },
+ {
+  "id": 24,
+  "start": 66.749,
+  "end": 68.482,
+  "text": "Yeah, that’s me."
+ },
+ {
+  "id": 25,
+  "start": 69.07,
+  "end": 70.964,
+  "text": "But you’re wearing a dress."
+ },
+ {
+  "id": 26,
+  "start": 71.267,
+  "end": 73.026,
+  "text": "You never wear dresses!"
+ },
+ {
+  "id": 27,
+  "start": 73.421,
+  "end": 74.91,
+  "text": "And gloves too."
+ },
+ {
+  "id": 28,
+  "start": 75.477,
+  "end": 77.039,
+  "text": "You look so cool."
+ },
+ {
+  "id": 29,
+  "start": 77.391,
+  "end": 78.116,
+  "text": "Thanks."
+ },
+ {
+  "id": 30,
+  "start": 78.799,
+  "end": 81.015,
+  "text": "I wear dresses sometimes you know."
+ },
+ {
+  "id": 31,
+  "start": 81.475,
+  "end": 85.675,
+  "text": "Yeah, but I normally see you in jumpers and jeans."
+ },
+ {
+  "id": 32,
+  "start": 86.174,
+  "end": 88.075,
+  "text": "And you're wearing jewellery, too –"
+ },
+ {
+  "id": 33,
+  "start": 88.61,
+  "end": 90.1,
+  "text": "those are lovely earrings."
+ },
+ {
+  "id": 34,
+  "start": 90.362,
+  "end": 94.161,
+  "text": "Well, this is special – it’s Carnevale."
+ },
+ {
+  "id": 35,
+  "start": 94.585,
+  "end": 96.551,
+  "text": "I’m having so much fun."
+ }
+];

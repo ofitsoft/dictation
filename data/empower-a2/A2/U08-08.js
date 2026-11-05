@@ -1,0 +1,224 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U08-08"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.587,
+  "text": "Track 08.08"
+ },
+ {
+  "id": 2,
+  "start": 2.682,
+  "end": 3.269,
+  "text": "Stella"
+ },
+ {
+  "id": 3,
+  "start": 4.19,
+  "end": 6.952,
+  "text": "Yoga is a great way to be fit,"
+ },
+ {
+  "id": 4,
+  "start": 7.063,
+  "end": 8.5,
+  "text": "strong and healthy"
+ },
+ {
+  "id": 5,
+  "start": 8.817,
+  "end": 10.384,
+  "text": "and anyone can do it."
+ },
+ {
+  "id": 6,
+  "start": 11.527,
+  "end": 14.595,
+  "text": "My friends and I go to yoga classes every week."
+ },
+ {
+  "id": 7,
+  "start": 15.924,
+  "end": 17.807,
+  "text": "My favourite yoga position"
+ },
+ {
+  "id": 8,
+  "start": 18.092,
+  "end": 19.528,
+  "text": "is quite difficult,"
+ },
+ {
+  "id": 9,
+  "start": 19.774,
+  "end": 21.552,
+  "text": "but it looks really good."
+ },
+ {
+  "id": 10,
+  "start": 22.478,
+  "end": 24.375,
+  "text": "You put your arms on the floor,"
+ },
+ {
+  "id": 11,
+  "start": 24.643,
+  "end": 26.751,
+  "text": "then you put your legs in the air"
+ },
+ {
+  "id": 12,
+  "start": 26.998,
+  "end": 28.553,
+  "text": "and try to touch your head"
+ },
+ {
+  "id": 13,
+  "start": 28.553,
+  "end": 29.593,
+  "text": "with your toes."
+ },
+ {
+  "id": 14,
+  "start": 30.231,
+  "end": 32.589,
+  "text": "It’s not easy but I love it."
+ },
+ {
+  "id": 15,
+  "start": 32.986,
+  "end": 34.002,
+  "text": "But, please,"
+ },
+ {
+  "id": 16,
+  "start": 34.002,
+  "end": 35.534,
+  "text": "don’t try it at home!"
+ },
+ {
+  "id": 17,
+  "start": 35.931,
+  "end": 38.724,
+  "text": "I needed years of practice to do that!"
+ },
+ {
+  "id": 18,
+  "start": 40.618,
+  "end": 41.348,
+  "text": "Mariana"
+ },
+ {
+  "id": 19,
+  "start": 42.268,
+  "end": 44.975,
+  "text": "I only started yoga three weeks ago."
+ },
+ {
+  "id": 20,
+  "start": 45.745,
+  "end": 50.483,
+  "text": "I’m very lazy, so I wanted to do some exercise that’s easy."
+ },
+ {
+  "id": 21,
+  "start": 51.063,
+  "end": 51.928,
+  "text": "But, you know,"
+ },
+ {
+  "id": 22,
+  "start": 52.515,
+  "end": 54.055,
+  "text": "it’s not so simple!"
+ },
+ {
+  "id": 23,
+  "start": 55.044,
+  "end": 58.798,
+  "text": "You need to think about how you move different parts of your body:"
+ },
+ {
+  "id": 24,
+  "start": 59.377,
+  "end": 60.492,
+  "text": "your stomach,"
+ },
+ {
+  "id": 25,
+  "start": 60.77,
+  "end": 62.381,
+  "text": "arms and legs ..."
+ },
+ {
+  "id": 26,
+  "start": 62.937,
+  "end": 64.123,
+  "text": "And sometimes"
+ },
+ {
+  "id": 27,
+  "start": 64.29,
+  "end": 65.631,
+  "text": "you don’t move at all –"
+ },
+ {
+  "id": 28,
+  "start": 66.337,
+  "end": 68.247,
+  "text": "you just stand in one place"
+ },
+ {
+  "id": 29,
+  "start": 68.247,
+  "end": 69.651,
+  "text": "for two or three minutes."
+ },
+ {
+  "id": 30,
+  "start": 70.477,
+  "end": 72.035,
+  "text": "But my favourite part"
+ },
+ {
+  "id": 31,
+  "start": 72.274,
+  "end": 73.782,
+  "text": "is the end of the class."
+ },
+ {
+  "id": 32,
+  "start": 74.235,
+  "end": 75.676,
+  "text": "We all lie on the floor"
+ },
+ {
+  "id": 33,
+  "start": 75.701,
+  "end": 77.565,
+  "text": "and relax for five minutes."
+ },
+ {
+  "id": 34,
+  "start": 78.184,
+  "end": 79.514,
+  "text": "Can I tell you something?"
+ },
+ {
+  "id": 35,
+  "start": 80.102,
+  "end": 82.094,
+  "text": "Last class I was so tired"
+ },
+ {
+  "id": 36,
+  "start": 82.379,
+  "end": 84.435,
+  "text": "that I went to sleep on the floor"
+ },
+ {
+  "id": 37,
+  "start": 84.435,
+  "end": 85.999,
+  "text": "in the middle of the studio!"
+ }
+];

@@ -1,0 +1,182 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U10-10"]=[
+ {
+  "id": 1,
+  "start": 0.005,
+  "end": 1.563,
+  "text": "Track 10.10"
+ },
+ {
+  "id": 2,
+  "start": 2.005,
+  "end": 2.775,
+  "text": "PART 1"
+ },
+ {
+  "id": 3,
+  "start": 10.498,
+  "end": 11.132,
+  "text": "Hi, Leo."
+ },
+ {
+  "id": 4,
+  "start": 11.625,
+  "end": 12.572,
+  "text": "Hi, Annie."
+ },
+ {
+  "id": 5,
+  "start": 12.728,
+  "end": 13.442,
+  "text": "Where is he?"
+ },
+ {
+  "id": 6,
+  "start": 14.315,
+  "end": 15.025,
+  "text": "Sorry, Annie."
+ },
+ {
+  "id": 7,
+  "start": 15.025,
+  "end": 16.747,
+  "text": "I mean, Dan says sorry."
+ },
+ {
+  "id": 8,
+  "start": 16.747,
+  "end": 17.858,
+  "text": "He had to go to a meeting."
+ },
+ {
+  "id": 9,
+  "start": 18.238,
+  "end": 19.731,
+  "text": "What about our lunch?!"
+ },
+ {
+  "id": 10,
+  "start": 19.985,
+  "end": 21.266,
+  "text": "He didn’t know about the meeting."
+ },
+ {
+  "id": 11,
+  "start": 21.266,
+  "end": 22.243,
+  "text": "Someone called him about"
+ },
+ {
+  "id": 12,
+  "start": 22.267,
+  "end": 23.1,
+  "text": "ten minutes ago."
+ },
+ {
+  "id": 13,
+  "start": 23.512,
+  "end": 24.893,
+  "text": "I wanted help with this."
+ },
+ {
+  "id": 14,
+  "start": 25.179,
+  "end": 25.877,
+  "text": "Oh, right."
+ },
+ {
+  "id": 15,
+  "start": 26.511,
+  "end": 27.836,
+  "text": "Leo, could you help me?"
+ },
+ {
+  "id": 16,
+  "start": 28.138,
+  "end": 28.701,
+  "text": "Erm.."
+ },
+ {
+  "id": 17,
+  "start": 29.225,
+  "end": 30.046,
+  "text": "There’s something"
+ },
+ {
+  "id": 18,
+  "start": 30.085,
+  "end": 31.157,
+  "text": "I don’t know how to do."
+ },
+ {
+  "id": 19,
+  "start": 31.794,
+  "end": 32.819,
+  "text": "Do you mind showing me?"
+ },
+ {
+  "id": 20,
+  "start": 33.416,
+  "end": 34.679,
+  "text": "No, not at all"
+ },
+ {
+  "id": 21,
+  "start": 34.703,
+  "end": 35.234,
+  "text": "if I can."
+ },
+ {
+  "id": 22,
+  "start": 35.496,
+  "end": 37.075,
+  "text": "Great, thanks."
+ },
+ {
+  "id": 23,
+  "start": 37.607,
+  "end": 37.996,
+  "text": "Well,"
+ },
+ {
+  "id": 24,
+  "start": 38.448,
+  "end": 39.504,
+  "text": "it is lunch time."
+ },
+ {
+  "id": 25,
+  "start": 39.671,
+  "end": 40.446,
+  "text": "Would you like to have"
+ },
+ {
+  "id": 26,
+  "start": 40.47,
+  "end": 41.327,
+  "text": "some lunch and …"
+ },
+ {
+  "id": 27,
+  "start": 41.819,
+  "end": 42.962,
+  "text": "… and you could help me"
+ },
+ {
+  "id": 28,
+  "start": 42.986,
+  "end": 43.787,
+  "text": "with my tablet."
+ },
+ {
+  "id": 29,
+  "start": 44.414,
+  "end": 44.928,
+  "text": "Yes."
+ },
+ {
+  "id": 30,
+  "start": 45.023,
+  "end": 45.896,
+  "text": "That would be lovely."
+ }
+];

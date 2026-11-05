@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "start": 0.357,
+  "end": 2.794,
+  "text": "Track 09.27"
+ },
+ {
+  "id": 2,
+  "start": 3.175,
+  "end": 4.627,
+  "text": "Yes"
+ },
+ {
+  "id": 3,
+  "start": 5.093,
+  "end": 6.664,
+  "text": "Of course."
+ },
+ {
+  "id": 4,
+  "start": 7.849,
+  "end": 9.563,
+  "text": "Yes, certainly."
+ },
+ {
+  "id": 5,
+  "start": 10.868,
+  "end": 13.003,
+  "text": "Sure, no problem."
+ },
+ {
+  "id": 6,
+  "start": 14.806,
+  "end": 16.036,
+  "text": "No"
+ },
+ {
+  "id": 7,
+  "start": 16.476,
+  "end": 18.262,
+  "text": "No, I can’t."
+ },
+ {
+  "id": 8,
+  "start": 19.684,
+  "end": 21.7,
+  "text": "I’m sorry, I can’t."
+ }
+]

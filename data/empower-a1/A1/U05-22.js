@@ -1,0 +1,236 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U05-22"]=[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.698,
+  "text": "Track 05.22"
+ },
+ {
+  "id": 2,
+  "start": 3.214,
+  "end": 4.675,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 10.796,
+  "end": 12.018,
+  "text": "Umm …"
+ },
+ {
+  "id": 4,
+  "start": 12.074,
+  "end": 14.955,
+  "text": "there’s one in this street … I think."
+ },
+ {
+  "id": 5,
+  "start": 15.844,
+  "end": 17.645,
+  "text": "I think maybe that’s a shop …"
+ },
+ {
+  "id": 6,
+  "start": 17.701,
+  "end": 18.78,
+  "text": "there."
+ },
+ {
+  "id": 7,
+  "start": 19.274,
+  "end": 21.424,
+  "text": "No, it’s a café!"
+ },
+ {
+  "id": 8,
+  "start": 22.203,
+  "end": 23.226,
+  "text": "Oh dear."
+ },
+ {
+  "id": 9,
+  "start": 23.345,
+  "end": 25.409,
+  "text": "Well, maybe we can have tea there!"
+ },
+ {
+  "id": 10,
+  "start": 25.885,
+  "end": 27.377,
+  "text": "James!"
+ },
+ {
+  "id": 11,
+  "start": 27.577,
+  "end": 28.903,
+  "text": "Megan. Hi."
+ },
+ {
+  "id": 12,
+  "start": 28.99,
+  "end": 30.024,
+  "text": "How are you?"
+ },
+ {
+  "id": 13,
+  "start": 30.128,
+  "end": 31.183,
+  "text": "I’m good, thanks."
+ },
+ {
+  "id": 14,
+  "start": 31.302,
+  "end": 32.215,
+  "text": "Hi there."
+ },
+ {
+  "id": 15,
+  "start": 33.374,
+  "end": 34.723,
+  "text": "Oh, sorry."
+ },
+ {
+  "id": 16,
+  "start": 34.838,
+  "end": 36.854,
+  "text": "Sophia, this is my cousin, James."
+ },
+ {
+  "id": 17,
+  "start": 36.918,
+  "end": 38.942,
+  "text": "And James, this is Sophia –"
+ },
+ {
+  "id": 18,
+  "start": 39.006,
+  "end": 39.943,
+  "text": "we work together."
+ },
+ {
+  "id": 19,
+  "start": 40.023,
+  "end": 40.682,
+  "text": "Nice to meet you."
+ },
+ {
+  "id": 20,
+  "start": 40.785,
+  "end": 42.451,
+  "text": "Yes, nice to meet you too."
+ },
+ {
+  "id": 21,
+  "start": 42.57,
+  "end": 44.039,
+  "text": "Sophia’s from Toronto."
+ },
+ {
+  "id": 22,
+  "start": 44.083,
+  "end": 45.035,
+  "text": "Really?"
+ },
+ {
+  "id": 23,
+  "start": 45.059,
+  "end": 46.297,
+  "text": "But I live here now."
+ },
+ {
+  "id": 24,
+  "start": 46.536,
+  "end": 47.583,
+  "text": "In London?"
+ },
+ {
+  "id": 25,
+  "start": 47.686,
+  "end": 49.917,
+  "text": "Yes. Really near here."
+ },
+ {
+  "id": 26,
+  "start": 50.982,
+  "end": 52.45,
+  "text": "James lives near here too."
+ },
+ {
+  "id": 27,
+  "start": 52.569,
+  "end": 54.902,
+  "text": "Oh, right. Where’s your flat?"
+ },
+ {
+  "id": 28,
+  "start": 54.976,
+  "end": 56.127,
+  "text": "It’s in the next street."
+ },
+ {
+  "id": 29,
+  "start": 57.055,
+  "end": 58.809,
+  "text": "James, do you know?"
+ },
+ {
+  "id": 30,
+  "start": 58.904,
+  "end": 61.007,
+  "text": "Is there a supermarket near here?"
+ },
+ {
+  "id": 31,
+  "start": 61.571,
+  "end": 63.309,
+  "text": "No, sorry, there isn’t."
+ },
+ {
+  "id": 32,
+  "start": 63.396,
+  "end": 64.078,
+  "text": "Well,"
+ },
+ {
+  "id": 33,
+  "start": 64.127,
+  "end": 65.785,
+  "text": "are there any shops near here?"
+ },
+ {
+  "id": 34,
+  "start": 65.873,
+  "end": 67.19,
+  "text": "We need some tea."
+ },
+ {
+  "id": 35,
+  "start": 67.294,
+  "end": 69.373,
+  "text": "Yes, there’s one near my flat ..."
+ },
+ {
+  "id": 36,
+  "start": 69.508,
+  "end": 70.603,
+  "text": "I can show you."
+ },
+ {
+  "id": 37,
+  "start": 70.683,
+  "end": 72.215,
+  "text": "Well, thank you very much."
+ },
+ {
+  "id": 38,
+  "start": 72.279,
+  "end": 73.571,
+  "text": "No problem – no problem at all."
+ },
+ {
+  "id": 39,
+  "start": 73.629,
+  "end": 74.827,
+  "text": "It’s this way."
+ }
+];

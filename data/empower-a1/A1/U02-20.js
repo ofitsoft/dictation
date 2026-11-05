@@ -1,0 +1,92 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U02-20"]=[
+ {
+  "id": 1,
+  "start": 0.427,
+  "end": 2.554,
+  "text": "Track 02.20"
+ },
+ {
+  "id": 2,
+  "start": 4.27,
+  "end": 5.468,
+  "text": "a"
+ },
+ {
+  "id": 3,
+  "start": 6.524,
+  "end": 7.524,
+  "text": "thirty"
+ },
+ {
+  "id": 4,
+  "start": 9.248,
+  "end": 10.256,
+  "text": "b"
+ },
+ {
+  "id": 5,
+  "start": 10.948,
+  "end": 12.17,
+  "text": "forty"
+ },
+ {
+  "id": 6,
+  "start": 13.922,
+  "end": 15.065,
+  "text": "c"
+ },
+ {
+  "id": 7,
+  "start": 16.105,
+  "end": 17.335,
+  "text": "fifteen"
+ },
+ {
+  "id": 8,
+  "start": 18.845,
+  "end": 19.973,
+  "text": "d"
+ },
+ {
+  "id": 9,
+  "start": 20.885,
+  "end": 21.909,
+  "text": "sixty"
+ },
+ {
+  "id": 10,
+  "start": 23.677,
+  "end": 24.74,
+  "text": "e"
+ },
+ {
+  "id": 11,
+  "start": 25.415,
+  "end": 26.645,
+  "text": "seventeen"
+ },
+ {
+  "id": 12,
+  "start": 28.327,
+  "end": 29.462,
+  "text": "f"
+ },
+ {
+  "id": 13,
+  "start": 30.246,
+  "end": 31.286,
+  "text": "eighteen"
+ },
+ {
+  "id": 14,
+  "start": 33.063,
+  "end": 34.413,
+  "text": "g"
+ },
+ {
+  "id": 15,
+  "start": 34.769,
+  "end": 35.857,
+  "text": "ninety"
+ }
+];

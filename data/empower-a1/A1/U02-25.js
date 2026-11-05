@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U02-25"]=[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.841,
+  "text": "Track 02.25"
+ },
+ {
+  "id": 2,
+  "start": 4.253,
+  "end": 5.31,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.0,
+  "end": 7.754,
+  "text": "How do you spell that?"
+ },
+ {
+  "id": 4,
+  "start": 8.635,
+  "end": 9.794,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.349,
+  "end": 13.0,
+  "text": "Can you spell that?"
+ },
+ {
+  "id": 6,
+  "start": 14.468,
+  "end": 15.897,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 16.603,
+  "end": 18.524,
+  "text": "Sorry, what’s the spelling?"
+ }
+];

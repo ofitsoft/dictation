@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U12-17"]=[
+ {
+  "id": 1,
+  "start": 0.019,
+  "end": 1.87,
+  "text": "Track 12.17"
+ },
+ {
+  "id": 2,
+  "start": 2.742,
+  "end": 3.198,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.057,
+  "end": 5.771,
+  "text": "We’re away next weekend."
+ },
+ {
+  "id": 4,
+  "start": 7.637,
+  "end": 8.2,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 9.085,
+  "end": 11.216,
+  "text": "I’d like some tourist information."
+ },
+ {
+  "id": 6,
+  "start": 13.139,
+  "end": 13.649,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 14.553,
+  "end": 16.253,
+  "text": "The kitchen is on your left."
+ },
+ {
+  "id": 8,
+  "start": 18.188,
+  "end": 18.785,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 19.567,
+  "end": 21.507,
+  "text": "Can I buy two tickets, please?"
+ }
+];

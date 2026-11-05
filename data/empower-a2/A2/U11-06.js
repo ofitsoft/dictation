@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U11-06"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.873,
+  "text": "Track 11.06"
+ },
+ {
+  "id": 2,
+  "start": 3.372,
+  "end": 5.992,
+  "text": "I’ve seen the film 400 times."
+ },
+ {
+  "id": 3,
+  "start": 7.949,
+  "end": 10.583,
+  "text": "He’s seen the film 400 times."
+ },
+ {
+  "id": 4,
+  "start": 12.539,
+  "end": 14.018,
+  "text": "They haven’t seen the film."
+ },
+ {
+  "id": 5,
+  "start": 15.973,
+  "end": 17.547,
+  "text": "She hasn’t seen the film."
+ },
+ {
+  "id": 6,
+  "start": 19.515,
+  "end": 20.709,
+  "text": "Have you seen the film?"
+ },
+ {
+  "id": 7,
+  "start": 22.648,
+  "end": 23.696,
+  "text": "Yes, I have."
+ },
+ {
+  "id": 8,
+  "start": 25.647,
+  "end": 26.723,
+  "text": "No, I haven’t."
+ },
+ {
+  "id": 9,
+  "start": 28.678,
+  "end": 29.932,
+  "text": "Has he seen the film?"
+ },
+ {
+  "id": 10,
+  "start": 31.912,
+  "end": 33.031,
+  "text": "Yes, he has."
+ },
+ {
+  "id": 11,
+  "start": 35.0,
+  "end": 36.143,
+  "text": "No, he hasn’t."
+ }
+];

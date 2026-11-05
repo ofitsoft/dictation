@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U07-23"]=[
+ {
+  "id": 1,
+  "start": 0.27,
+  "end": 2.706,
+  "text": "Track 07.23"
+ },
+ {
+  "id": 2,
+  "start": 3.365,
+  "end": 4.54,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.885,
+  "end": 6.703,
+  "text": "Would you like two or three?"
+ },
+ {
+  "id": 4,
+  "start": 7.854,
+  "end": 8.783,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 10.332,
+  "end": 12.078,
+  "text": "These are for me and you."
+ },
+ {
+  "id": 6,
+  "start": 13.868,
+  "end": 15.233,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 15.71,
+  "end": 17.401,
+  "text": "Would you like three or four?"
+ },
+ {
+  "id": 8,
+  "start": 19.228,
+  "end": 20.434,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 21.196,
+  "end": 22.617,
+  "text": "Are they for you or me?"
+ }
+];

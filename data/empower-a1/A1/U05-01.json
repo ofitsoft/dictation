@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.69,
+  "text": "Track 05.01"
+ },
+ {
+  "id": 2,
+  "start": 4.31,
+  "end": 5.579,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.619,
+  "end": 8.881,
+  "text": "There’s a large market."
+ },
+ {
+  "id": 4,
+  "start": 9.705,
+  "end": 11.038,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 12.662,
+  "end": 14.948,
+  "text": "There are a lot of shops."
+ },
+ {
+  "id": 6,
+  "start": 16.757,
+  "end": 17.971,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 19.014,
+  "end": 21.53,
+  "text": "There are a few hotels."
+ },
+ {
+  "id": 8,
+  "start": 23.159,
+  "end": 24.69,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 25.429,
+  "end": 28.421,
+  "text": "There’s only one petrol station."
+ }
+]

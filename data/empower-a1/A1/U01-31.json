@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1,
+  "start": 0.476,
+  "end": 2.865,
+  "text": "Track 01.31"
+ },
+ {
+  "id": 2,
+  "start": 3.772,
+  "end": 4.557,
+  "text": "Hi."
+ },
+ {
+  "id": 3,
+  "start": 4.964,
+  "end": 5.956,
+  "text": "Good evening."
+ },
+ {
+  "id": 4,
+  "start": 6.236,
+  "end": 7.077,
+  "text": "Hello."
+ },
+ {
+  "id": 5,
+  "start": 7.634,
+  "end": 8.824,
+  "text": "I’m Larissa"
+ },
+ {
+  "id": 6,
+  "start": 9.221,
+  "end": 10.951,
+  "text": "and this is Amira."
+ },
+ {
+  "id": 7,
+  "start": 11.375,
+  "end": 12.581,
+  "text": "Nice to meet you."
+ },
+ {
+  "id": 8,
+  "start": 12.922,
+  "end": 14.009,
+  "text": "I’m Karl."
+ },
+ {
+  "id": 9,
+  "start": 14.316,
+  "end": 15.879,
+  "text": "Nice to meet you, too."
+ },
+ {
+  "id": 10,
+  "start": 15.904,
+  "end": 16.856,
+  "text": "How are you?"
+ },
+ {
+  "id": 11,
+  "start": 17.168,
+  "end": 18.001,
+  "text": "I’m good."
+ },
+ {
+  "id": 12,
+  "start": 18.35,
+  "end": 19.342,
+  "text": "And you?"
+ },
+ {
+  "id": 13,
+  "start": 19.722,
+  "end": 20.722,
+  "text": "I’m fine."
+ },
+ {
+  "id": 14,
+  "start": 20.976,
+  "end": 22.452,
+  "text": "I’m fine too."
+ }
+]

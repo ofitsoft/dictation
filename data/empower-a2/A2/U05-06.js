@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U05-06"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.88,
+  "text": "Track 05.06"
+ },
+ {
+  "id": 2,
+  "start": 2.238,
+  "end": 2.706,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 3.579,
+  "end": 4.184,
+  "text": "am"
+ },
+ {
+  "id": 4,
+  "start": 6.182,
+  "end": 6.707,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 7.565,
+  "end": 8.446,
+  "text": "curtains"
+ },
+ {
+  "id": 6,
+  "start": 10.497,
+  "end": 11.124,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 11.863,
+  "end": 12.809,
+  "text": "wardrobe"
+ },
+ {
+  "id": 8,
+  "start": 14.831,
+  "end": 15.36,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 16.265,
+  "end": 17.283,
+  "text": "armchair"
+ },
+ {
+  "id": 10,
+  "start": 19.165,
+  "end": 19.887,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 20.579,
+  "end": 21.246,
+  "text": "cut"
+ },
+ {
+  "id": 12,
+  "start": 23.246,
+  "end": 23.92,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 24.706,
+  "end": 25.324,
+  "text": "bad"
+ }
+];

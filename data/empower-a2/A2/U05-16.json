@@ -1,0 +1,152 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.793,
+  "text": "Track 05.16"
+ },
+ {
+  "id": 2,
+  "start": 2.738,
+  "end": 3.761,
+  "text": "PART 3"
+ },
+ {
+  "id": 3,
+  "start": 9.11,
+  "end": 10.362,
+  "text": "Are you sure this is the right bank?"
+ },
+ {
+  "id": 4,
+  "start": 10.862,
+  "end": 11.798,
+  "text": "I don’t know…"
+ },
+ {
+  "id": 5,
+  "start": 12.052,
+  "end": 14.658,
+  "text": "This is Henrietta Street, not South Street."
+ },
+ {
+  "id": 6,
+  "start": 14.659,
+  "end": 16.343,
+  "text": "So, where’s South Street?"
+ },
+ {
+  "id": 7,
+  "start": 17.795,
+  "end": 19.795,
+  "text": "Sometimes these maps aren’t very clear."
+ },
+ {
+  "id": 8,
+  "start": 21.446,
+  "end": 22.46,
+  "text": "Excuse me."
+ },
+ {
+  "id": 9,
+  "start": 22.929,
+  "end": 23.362,
+  "text": "Yes?"
+ },
+ {
+  "id": 10,
+  "start": 23.405,
+  "end": 25.14,
+  "text": "Can you tell us how to get to South Street?"
+ },
+ {
+  "id": 11,
+  "start": 25.227,
+  "end": 26.069,
+  "text": "South Street."
+ },
+ {
+  "id": 12,
+  "start": 26.07,
+  "end": 26.854,
+  "text": "Yes, sure."
+ },
+ {
+  "id": 13,
+  "start": 27.259,
+  "end": 28.206,
+  "text": "Go straight on,"
+ },
+ {
+  "id": 14,
+  "start": 28.207,
+  "end": 29.372,
+  "text": "turn right at the corner."
+ },
+ {
+  "id": 15,
+  "start": 30.103,
+  "end": 31.232,
+  "text": "Into King Street?"
+ },
+ {
+  "id": 16,
+  "start": 31.233,
+  "end": 32.105,
+  "text": "That’s right."
+ },
+ {
+  "id": 17,
+  "start": 32.106,
+  "end": 34.924,
+  "text": "Then go along King Street until you come to Park Road."
+ },
+ {
+  "id": 18,
+  "start": 34.925,
+  "end": 36.745,
+  "text": "Ah, so Park Road is further along?"
+ },
+ {
+  "id": 19,
+  "start": 36.746,
+  "end": 38.626,
+  "text": "That’s right, about 100 metres."
+ },
+ {
+  "id": 20,
+  "start": 39.016,
+  "end": 40.512,
+  "text": "Turn right into Park Road,"
+ },
+ {
+  "id": 21,
+  "start": 40.513,
+  "end": 43.165,
+  "text": "go straight on and South Street is on your left."
+ },
+ {
+  "id": 22,
+  "start": 43.688,
+  "end": 45.548,
+  "text": "So we turn right and then"
+ },
+ {
+  "id": 23,
+  "start": 45.549,
+  "end": 47.072,
+  "text": "right again and it’s on the left?"
+ },
+ {
+  "id": 24,
+  "start": 47.073,
+  "end": 47.669,
+  "text": "That’s it."
+ },
+ {
+  "id": 25,
+  "start": 47.67,
+  "end": 49.67,
+  "text": "Great, thanks. Let’s run!"
+ }
+]

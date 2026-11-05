@@ -1,0 +1,116 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U11-24"]=[
+ {
+  "id": 1,
+  "start": 0.405,
+  "end": 2.73,
+  "text": "Track 11.24"
+ },
+ {
+  "id": 2,
+  "start": 2.875,
+  "end": 4.367,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.698,
+  "end": 5.825,
+  "text": "six"
+ },
+ {
+  "id": 4,
+  "start": 7.168,
+  "end": 8.398,
+  "text": "thanks"
+ },
+ {
+  "id": 5,
+  "start": 10.135,
+  "end": 11.437,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 11.942,
+  "end": 13.164,
+  "text": "dance"
+ },
+ {
+  "id": 7,
+  "start": 14.33,
+  "end": 15.695,
+  "text": "answer"
+ },
+ {
+  "id": 8,
+  "start": 17.352,
+  "end": 18.67,
+  "text": "3"
+ },
+ {
+  "id": 9,
+  "start": 19.162,
+  "end": 20.329,
+  "text": "right"
+ },
+ {
+  "id": 10,
+  "start": 21.393,
+  "end": 22.94,
+  "text": "white"
+ },
+ {
+  "id": 11,
+  "start": 24.238,
+  "end": 25.619,
+  "text": "4"
+ },
+ {
+  "id": 12,
+  "start": 26.004,
+  "end": 27.702,
+  "text": "tourist"
+ },
+ {
+  "id": 13,
+  "start": 28.698,
+  "end": 30.222,
+  "text": "danced"
+ },
+ {
+  "id": 14,
+  "start": 31.648,
+  "end": 33.148,
+  "text": "5"
+ },
+ {
+  "id": 15,
+  "start": 33.482,
+  "end": 34.942,
+  "text": "ask"
+ },
+ {
+  "id": 16,
+  "start": 36.091,
+  "end": 37.543,
+  "text": "school"
+ },
+ {
+  "id": 17,
+  "start": 38.875,
+  "end": 40.598,
+  "text": "6"
+ },
+ {
+  "id": 18,
+  "start": 40.805,
+  "end": 41.654,
+  "text": "sing"
+ },
+ {
+  "id": 19,
+  "start": 43.079,
+  "end": 44.531,
+  "text": "sang"
+ }
+];

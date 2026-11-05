@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.782,
+  "text": "Track 06.05"
+ },
+ {
+  "id": 2,
+  "start": 2.72,
+  "end": 4.142,
+  "text": "I was at home yesterday."
+ },
+ {
+  "id": 3,
+  "start": 6.032,
+  "end": 7.834,
+  "text": "He wasn’t at home yesterday."
+ },
+ {
+  "id": 4,
+  "start": 9.702,
+  "end": 11.378,
+  "text": "They were at home yesterday."
+ },
+ {
+  "id": 5,
+  "start": 13.288,
+  "end": 15.03,
+  "text": "We weren’t at home yesterday."
+ },
+ {
+  "id": 6,
+  "start": 16.906,
+  "end": 18.578,
+  "text": "Was she at home yesterday?"
+ },
+ {
+  "id": 7,
+  "start": 20.396,
+  "end": 21.736,
+  "text": "Yes, she was."
+ },
+ {
+  "id": 8,
+  "start": 23.49,
+  "end": 24.723,
+  "text": "No, she wasn’t."
+ },
+ {
+  "id": 9,
+  "start": 26.549,
+  "end": 28.257,
+  "text": "Were you at home yesterday?"
+ },
+ {
+  "id": 10,
+  "start": 30.184,
+  "end": 31.265,
+  "text": "Yes, we were."
+ },
+ {
+  "id": 11,
+  "start": 33.176,
+  "end": 34.423,
+  "text": "No, we weren’t."
+ },
+ {
+  "id": 12,
+  "start": 36.256,
+  "end": 37.748,
+  "text": "Where was he yesterday?"
+ },
+ {
+  "id": 13,
+  "start": 39.56,
+  "end": 41.122,
+  "text": "Where were you yesterday?"
+ }
+]

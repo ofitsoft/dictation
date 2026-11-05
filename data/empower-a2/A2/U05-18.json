@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.865,
+  "text": "Track 05.18"
+ },
+ {
+  "id": 2,
+  "start": 3.261,
+  "end": 6.634,
+  "text": "Go straight on and turn right at the corner."
+ },
+ {
+  "id": 3,
+  "start": 7.623,
+  "end": 9.452,
+  "text": "Go along King Street"
+ },
+ {
+  "id": 4,
+  "start": 9.528,
+  "end": 11.65,
+  "text": "until you come to Park Road,"
+ },
+ {
+  "id": 5,
+  "start": 12.14,
+  "end": 13.46,
+  "text": "then turn left."
+ },
+ {
+  "id": 6,
+  "start": 14.357,
+  "end": 17.325,
+  "text": "Go straight on for about fifty metres."
+ },
+ {
+  "id": 7,
+  "start": 17.95,
+  "end": 19.357,
+  "text": "The park is on your right."
+ }
+]

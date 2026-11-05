@@ -1,0 +1,98 @@
+[
+ {
+  "id": 1,
+  "start": 0.428,
+  "end": 2.523,
+  "text": "Track 11.08"
+ },
+ {
+  "id": 2,
+  "start": 4.119,
+  "end": 6.278,
+  "text": "I talked to Mark last night."
+ },
+ {
+  "id": 3,
+  "start": 6.426,
+  "end": 7.608,
+  "text": "He called me."
+ },
+ {
+  "id": 4,
+  "start": 9.645,
+  "end": 11.825,
+  "text": "You were in town yesterday."
+ },
+ {
+  "id": 5,
+  "start": 12.0,
+  "end": 13.516,
+  "text": "I saw you."
+ },
+ {
+  "id": 6,
+  "start": 15.452,
+  "end": 18.404,
+  "text": "He’s a great singer. I like him."
+ },
+ {
+  "id": 7,
+  "start": 20.633,
+  "end": 22.379,
+  "text": "She lives nearby."
+ },
+ {
+  "id": 8,
+  "start": 22.784,
+  "end": 24.459,
+  "text": "I often visit her."
+ },
+ {
+  "id": 9,
+  "start": 26.505,
+  "end": 28.187,
+  "text": "I live near Henley."
+ },
+ {
+  "id": 10,
+  "start": 28.513,
+  "end": 30.156,
+  "text": "It’s a nice town."
+ },
+ {
+  "id": 11,
+  "start": 30.243,
+  "end": 31.521,
+  "text": "I like it."
+ },
+ {
+  "id": 12,
+  "start": 33.743,
+  "end": 35.417,
+  "text": "We were at the party."
+ },
+ {
+  "id": 13,
+  "start": 35.56,
+  "end": 37.211,
+  "text": "Did you see us?"
+ },
+ {
+  "id": 14,
+  "start": 39.092,
+  "end": 40.775,
+  "text": "These shoes are nice,"
+ },
+ {
+  "id": 15,
+  "start": 40.939,
+  "end": 42.359,
+  "text": "but they’re expensive."
+ },
+ {
+  "id": 16,
+  "start": 42.747,
+  "end": 44.334,
+  "text": "I can’t buy them."
+ }
+]

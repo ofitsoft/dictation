@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U08-07"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.627,
+  "text": "Track 08.07"
+ },
+ {
+  "id": 2,
+  "start": 2.768,
+  "end": 4.285,
+  "text": "I have to work hard."
+ },
+ {
+  "id": 3,
+  "start": 6.253,
+  "end": 7.783,
+  "text": "I don’t have to work hard."
+ },
+ {
+  "id": 4,
+  "start": 9.714,
+  "end": 11.286,
+  "text": "She has to work hard."
+ },
+ {
+  "id": 5,
+  "start": 13.246,
+  "end": 15.093,
+  "text": "He doesn’t have to work hard."
+ },
+ {
+  "id": 6,
+  "start": 17.055,
+  "end": 18.474,
+  "text": "Do you have to work hard?"
+ },
+ {
+  "id": 7,
+  "start": 20.421,
+  "end": 21.45,
+  "text": "Yes, I do."
+ },
+ {
+  "id": 8,
+  "start": 23.439,
+  "end": 24.458,
+  "text": "No, I don’t."
+ },
+ {
+  "id": 9,
+  "start": 26.426,
+  "end": 27.91,
+  "text": "Does he have to work hard?"
+ },
+ {
+  "id": 10,
+  "start": 29.894,
+  "end": 30.984,
+  "text": "Yes, he does."
+ },
+ {
+  "id": 11,
+  "start": 32.992,
+  "end": 34.023,
+  "text": "No, he doesn’t."
+ }
+];

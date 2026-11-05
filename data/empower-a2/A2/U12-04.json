@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 0.013,
+  "end": 1.667,
+  "text": "Track 12.04"
+ },
+ {
+  "id": 2,
+  "start": 2.728,
+  "end": 3.216,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.156,
+  "end": 6.1,
+  "text": "I’m going to email and ask about it."
+ },
+ {
+  "id": 4,
+  "start": 8.038,
+  "end": 8.523,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 9.452,
+  "end": 10.996,
+  "text": "I’m going to leave this job."
+ }
+]

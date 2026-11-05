@@ -1,0 +1,116 @@
+[
+ {
+  "id": 1,
+  "start": 0.357,
+  "end": 2.548,
+  "text": "Track 07.02"
+ },
+ {
+  "id": 2,
+  "start": 2.913,
+  "end": 4.579,
+  "text": "Sound 1"
+ },
+ {
+  "id": 3,
+  "start": 5.175,
+  "end": 5.897,
+  "text": "/b/"
+ },
+ {
+  "id": 4,
+  "start": 6.42,
+  "end": 7.531,
+  "text": "bag"
+ },
+ {
+  "id": 5,
+  "start": 8.954,
+  "end": 10.263,
+  "text": "football"
+ },
+ {
+  "id": 6,
+  "start": 12.744,
+  "end": 14.426,
+  "text": "Sound 2"
+ },
+ {
+  "id": 7,
+  "start": 14.951,
+  "end": 15.808,
+  "text": "/p/"
+ },
+ {
+  "id": 8,
+  "start": 16.334,
+  "end": 17.39,
+  "text": "plant"
+ },
+ {
+  "id": 9,
+  "start": 18.938,
+  "end": 20.002,
+  "text": "plate"
+ },
+ {
+  "id": 10,
+  "start": 21.546,
+  "end": 22.617,
+  "text": "picture"
+ },
+ {
+  "id": 11,
+  "start": 25.02,
+  "end": 26.647,
+  "text": "Sound 3"
+ },
+ {
+  "id": 12,
+  "start": 27.163,
+  "end": 28.02,
+  "text": "/g/"
+ },
+ {
+  "id": 13,
+  "start": 28.62,
+  "end": 29.739,
+  "text": "glass"
+ },
+ {
+  "id": 14,
+  "start": 31.274,
+  "end": 32.52,
+  "text": "guitar"
+ },
+ {
+  "id": 15,
+  "start": 34.887,
+  "end": 36.657,
+  "text": "Sound 4"
+ },
+ {
+  "id": 16,
+  "start": 37.236,
+  "end": 37.871,
+  "text": "/k/"
+ },
+ {
+  "id": 17,
+  "start": 38.498,
+  "end": 39.276,
+  "text": "cup"
+ },
+ {
+  "id": 18,
+  "start": 40.889,
+  "end": 42.519,
+  "text": "suitcase"
+ },
+ {
+  "id": 19,
+  "start": 43.936,
+  "end": 45.214,
+  "text": "clock"
+ }
+]

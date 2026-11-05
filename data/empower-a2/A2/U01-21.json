@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 2.039,
+  "text": "Track 01.21"
+ },
+ {
+  "id": 2,
+  "start": 3.413,
+  "end": 4.802,
+  "text": "It’s at twenty past seven."
+ },
+ {
+  "id": 3,
+  "start": 5.294,
+  "end": 5.802,
+  "text": "Sorry?"
+ },
+ {
+  "id": 4,
+  "start": 6.127,
+  "end": 7.111,
+  "text": "7.20."
+ },
+ {
+  "id": 5,
+  "start": 9.664,
+  "end": 10.871,
+  "text": "It’s in Studio 1."
+ },
+ {
+  "id": 6,
+  "start": 11.061,
+  "end": 13.18,
+  "text": "So that’s 7.20 in Studio 1?"
+ }
+]

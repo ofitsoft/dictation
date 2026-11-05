@@ -1,0 +1,254 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U04-24"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.927,
+  "text": "Track 04.24"
+ },
+ {
+  "id": 2,
+  "start": 3.563,
+  "end": 4.055,
+  "text": "Jake"
+ },
+ {
+  "id": 3,
+  "start": 4.973,
+  "end": 6.771,
+  "text": "I’m really bad at cooking."
+ },
+ {
+  "id": 4,
+  "start": 7.342,
+  "end": 10.619,
+  "text": "I eat a lot of fast food and ready meals."
+ },
+ {
+  "id": 5,
+  "start": 11.34,
+  "end": 13.454,
+  "text": "I’m OK at making pasta –"
+ },
+ {
+  "id": 6,
+  "start": 13.765,
+  "end": 16.182,
+  "text": "usually spaghetti with sauce."
+ },
+ {
+  "id": 7,
+  "start": 16.859,
+  "end": 18.537,
+  "text": "The one sauce I make"
+ },
+ {
+  "id": 8,
+  "start": 18.541,
+  "end": 20.674,
+  "text": "is tomato and mushroom."
+ },
+ {
+  "id": 9,
+  "start": 21.208,
+  "end": 22.476,
+  "text": "It’s not very good,"
+ },
+ {
+  "id": 10,
+  "start": 22.492,
+  "end": 23.689,
+  "text": "but I like it!"
+ },
+ {
+  "id": 11,
+  "start": 24.343,
+  "end": 26.659,
+  "text": "So I eat a lot of pasta"
+ },
+ {
+  "id": 12,
+  "start": 26.659,
+  "end": 28.132,
+  "text": "because it’s easy to make."
+ },
+ {
+  "id": 13,
+  "start": 30.229,
+  "end": 30.868,
+  "text": "Rosie"
+ },
+ {
+  "id": 14,
+  "start": 31.849,
+  "end": 33.503,
+  "text": "My husband’s a great cook"
+ },
+ {
+  "id": 15,
+  "start": 33.786,
+  "end": 35.879,
+  "text": "and he does all the cooking at home."
+ },
+ {
+  "id": 16,
+  "start": 36.113,
+  "end": 37.603,
+  "text": "He can look in our fridge"
+ },
+ {
+  "id": 17,
+  "start": 37.603,
+  "end": 39.884,
+  "text": "and find some vegetables and cheese"
+ },
+ {
+  "id": 18,
+  "start": 40.153,
+  "end": 41.369,
+  "text": "and then make a dish from it"
+ },
+ {
+  "id": 19,
+  "start": 41.369,
+  "end": 42.839,
+  "text": "that’s wonderful to eat,"
+ },
+ {
+  "id": 20,
+  "start": 43.099,
+  "end": 44.886,
+  "text": "like vegetable moussaka."
+ },
+ {
+  "id": 21,
+  "start": 45.104,
+  "end": 46.627,
+  "text": "I don’t know how he does it."
+ },
+ {
+  "id": 22,
+  "start": 46.973,
+  "end": 49.041,
+  "text": "But I’m lucky to have a husband like that!"
+ },
+ {
+  "id": 23,
+  "start": 51.049,
+  "end": 51.798,
+  "text": "Johanna"
+ },
+ {
+  "id": 24,
+  "start": 52.813,
+  "end": 54.908,
+  "text": "My friends say I’m a good cook."
+ },
+ {
+  "id": 25,
+  "start": 55.22,
+  "end": 57.702,
+  "text": "I’m not sure, but I enjoy cooking"
+ },
+ {
+  "id": 26,
+  "start": 57.702,
+  "end": 59.374,
+  "text": "and if you enjoy something,"
+ },
+ {
+  "id": 27,
+  "start": 59.393,
+  "end": 60.768,
+  "text": "you’re often good at it."
+ },
+ {
+  "id": 28,
+  "start": 61.784,
+  "end": 63.901,
+  "text": "I think it’s fun to try new dishes"
+ },
+ {
+  "id": 29,
+  "start": 64.225,
+  "end": 66.86,
+  "text": "and I certainly like eating the things I make!"
+ },
+ {
+  "id": 30,
+  "start": 67.429,
+  "end": 70.515,
+  "text": "Tonight I want to try a new fish dish."
+ },
+ {
+  "id": 31,
+  "start": 71.115,
+  "end": 73.176,
+  "text": "First, you grill the fish."
+ },
+ {
+  "id": 32,
+  "start": 73.177,
+  "end": 74.927,
+  "text": "Then, you make a lemon sauce."
+ },
+ {
+  "id": 33,
+  "start": 75.895,
+  "end": 79.838,
+  "text": "I think it’ll go well with a bean salad I often make."
+ },
+ {
+  "id": 34,
+  "start": 81.795,
+  "end": 82.401,
+  "text": "Toby"
+ },
+ {
+  "id": 35,
+  "start": 83.36,
+  "end": 85.802,
+  "text": "My mother is a fantastic cook."
+ },
+ {
+  "id": 36,
+  "start": 86.37,
+  "end": 88.98,
+  "text": "But isn’t everyone’s mother a fantastic cook?!"
+ },
+ {
+  "id": 37,
+  "start": 89.675,
+  "end": 91.392,
+  "text": "I eat everything she makes"
+ },
+ {
+  "id": 38,
+  "start": 91.392,
+  "end": 93.062,
+  "text": "and I always want more."
+ },
+ {
+  "id": 39,
+  "start": 93.592,
+  "end": 95.977,
+  "text": "I really, really like the cakes and"
+ },
+ {
+  "id": 40,
+  "start": 95.977,
+  "end": 97.305,
+  "text": "cookies she makes."
+ },
+ {
+  "id": 41,
+  "start": 97.745,
+  "end": 99.7,
+  "text": "My favourite is her pear cake –"
+ },
+ {
+  "id": 42,
+  "start": 100.001,
+  "end": 102.915,
+  "text": "I love eating it warm with chocolate sauce."
+ }
+];

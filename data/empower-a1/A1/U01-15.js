@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U01-15"]=[
+ {
+  "id": 1,
+  "start": 0.437,
+  "end": 2.579,
+  "text": "Track 01.15"
+ },
+ {
+  "id": 2,
+  "start": 4.361,
+  "end": 6.329,
+  "text": "1 c"
+ },
+ {
+  "id": 3,
+  "start": 7.57,
+  "end": 10.436,
+  "text": "Heather Watson is a tennis player."
+ },
+ {
+  "id": 4,
+  "start": 10.92,
+  "end": 12.309,
+  "text": "She’s British."
+ },
+ {
+  "id": 5,
+  "start": 13.361,
+  "end": 15.71,
+  "text": "2 a"
+ },
+ {
+  "id": 6,
+  "start": 17.008,
+  "end": 20.658,
+  "text": "Shohei Ohtani is a baseball player."
+ },
+ {
+  "id": 7,
+  "start": 21.25,
+  "end": 22.742,
+  "text": "He’s Japanese."
+ },
+ {
+  "id": 8,
+  "start": 24.621,
+  "end": 26.319,
+  "text": "3 b"
+ },
+ {
+  "id": 9,
+  "start": 27.576,
+  "end": 29.838,
+  "text": "Serena and Venus Williams"
+ },
+ {
+  "id": 10,
+  "start": 29.863,
+  "end": 31.227,
+  "text": "are tennis players."
+ },
+ {
+  "id": 11,
+  "start": 32.048,
+  "end": 33.405,
+  "text": "They’re American."
+ }
+];

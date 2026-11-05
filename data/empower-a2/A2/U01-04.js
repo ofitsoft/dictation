@@ -1,0 +1,248 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U01-04"]=[
+ {
+  "id": 1,
+  "start": 0.437,
+  "end": 2.071,
+  "text": "Track 01.04"
+ },
+ {
+  "id": 2,
+  "start": 4.056,
+  "end": 4.706,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.127,
+  "end": 7.111,
+  "text": "the USA"
+ },
+ {
+  "id": 4,
+  "start": 9.02,
+  "end": 9.575,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.052,
+  "end": 11.845,
+  "text": "Mexico"
+ },
+ {
+  "id": 6,
+  "start": 13.746,
+  "end": 14.413,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 15.869,
+  "end": 16.48,
+  "text": "Turkey"
+ },
+ {
+  "id": 8,
+  "start": 18.385,
+  "end": 19.306,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 20.642,
+  "end": 22.813,
+  "text": "The UK, Britain"
+ },
+ {
+  "id": 10,
+  "start": 24.695,
+  "end": 25.687,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 27.099,
+  "end": 27.703,
+  "text": "China"
+ },
+ {
+  "id": 12,
+  "start": 29.579,
+  "end": 30.658,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 32.119,
+  "end": 32.746,
+  "text": "Poland"
+ },
+ {
+  "id": 14,
+  "start": 34.806,
+  "end": 35.505,
+  "text": "7"
+ },
+ {
+  "id": 15,
+  "start": 36.917,
+  "end": 37.944,
+  "text": "Saudi Arabia"
+ },
+ {
+  "id": 16,
+  "start": 39.923,
+  "end": 40.51,
+  "text": "8"
+ },
+ {
+  "id": 17,
+  "start": 42.042,
+  "end": 42.894,
+  "text": "Argentina"
+ },
+ {
+  "id": 18,
+  "start": 44.815,
+  "end": 45.569,
+  "text": "9"
+ },
+ {
+  "id": 19,
+  "start": 47.076,
+  "end": 47.853,
+  "text": "Australia"
+ },
+ {
+  "id": 20,
+  "start": 49.822,
+  "end": 50.52,
+  "text": "10"
+ },
+ {
+  "id": 21,
+  "start": 52.222,
+  "end": 52.841,
+  "text": "Iran"
+ },
+ {
+  "id": 22,
+  "start": 54.793,
+  "end": 55.566,
+  "text": "11"
+ },
+ {
+  "id": 23,
+  "start": 56.986,
+  "end": 57.701,
+  "text": "Colombia"
+ },
+ {
+  "id": 24,
+  "start": 59.617,
+  "end": 60.379,
+  "text": "12"
+ },
+ {
+  "id": 25,
+  "start": 61.897,
+  "end": 62.754,
+  "text": "South Africa"
+ },
+ {
+  "id": 26,
+  "start": 64.725,
+  "end": 65.614,
+  "text": "13"
+ },
+ {
+  "id": 27,
+  "start": 67.07,
+  "end": 67.673,
+  "text": "Canada"
+ },
+ {
+  "id": 28,
+  "start": 69.574,
+  "end": 70.542,
+  "text": "14"
+ },
+ {
+  "id": 29,
+  "start": 71.899,
+  "end": 72.741,
+  "text": "New Zealand"
+ },
+ {
+  "id": 30,
+  "start": 74.688,
+  "end": 75.656,
+  "text": "15"
+ },
+ {
+  "id": 31,
+  "start": 77.088,
+  "end": 77.969,
+  "text": "Nigeria"
+ },
+ {
+  "id": 32,
+  "start": 79.822,
+  "end": 80.87,
+  "text": "16"
+ },
+ {
+  "id": 33,
+  "start": 82.286,
+  "end": 83.032,
+  "text": "Ireland"
+ },
+ {
+  "id": 34,
+  "start": 84.953,
+  "end": 86.048,
+  "text": "17"
+ },
+ {
+  "id": 35,
+  "start": 87.512,
+  "end": 88.139,
+  "text": "Italy"
+ },
+ {
+  "id": 36,
+  "start": 90.118,
+  "end": 90.991,
+  "text": "18"
+ },
+ {
+  "id": 37,
+  "start": 92.511,
+  "end": 93.392,
+  "text": "Pakistan"
+ },
+ {
+  "id": 38,
+  "start": 95.332,
+  "end": 96.34,
+  "text": "19"
+ },
+ {
+  "id": 39,
+  "start": 97.776,
+  "end": 98.634,
+  "text": "Thailand"
+ },
+ {
+  "id": 40,
+  "start": 100.597,
+  "end": 101.375,
+  "text": "20"
+ },
+ {
+  "id": 41,
+  "start": 102.952,
+  "end": 103.468,
+  "text": "Russia"
+ }
+];

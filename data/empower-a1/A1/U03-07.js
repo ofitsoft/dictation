@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U03-07"]=[
+ {
+  "id": 1,
+  "start": 0.323,
+  "end": 2.693,
+  "text": "Track 03.07"
+ },
+ {
+  "id": 2,
+  "start": 3.833,
+  "end": 7.04,
+  "text": "Rajit, what do you eat in a week?"
+ },
+ {
+  "id": 3,
+  "start": 7.468,
+  "end": 9.746,
+  "text": "Oh lots of things."
+ },
+ {
+  "id": 4,
+  "start": 9.969,
+  "end": 13.151,
+  "text": "I eat rice every day, and bread."
+ },
+ {
+  "id": 5,
+  "start": 13.461,
+  "end": 15.564,
+  "text": "I eat a lot of fruit."
+ },
+ {
+  "id": 6,
+  "start": 15.866,
+  "end": 17.429,
+  "text": "I eat fish …"
+ },
+ {
+  "id": 7,
+  "start": 17.477,
+  "end": 18.882,
+  "text": "Do you eat meat?"
+ },
+ {
+  "id": 8,
+  "start": 18.982,
+  "end": 21.395,
+  "text": "No, I don’t like meat."
+ },
+ {
+  "id": 9,
+  "start": 21.593,
+  "end": 23.331,
+  "text": "Do you like vegetables?"
+ },
+ {
+  "id": 10,
+  "start": 23.427,
+  "end": 26.419,
+  "text": "Oh yes, I like vegetables."
+ },
+ {
+  "id": 11,
+  "start": 26.568,
+  "end": 28.512,
+  "text": "I eat a lot of vegetables."
+ },
+ {
+  "id": 12,
+  "start": 28.544,
+  "end": 30.396,
+  "text": "Do you eat them every day?"
+ },
+ {
+  "id": 13,
+  "start": 30.508,
+  "end": 33.047,
+  "text": "Yes. They’re very good for me."
+ }
+];

@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U04-21"]=[
+ {
+  "id": 1,
+  "start": 0.023,
+  "end": 1.944,
+  "text": "Track 04.21"
+ },
+ {
+  "id": 2,
+  "start": 2.649,
+  "end": 3.176,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.168,
+  "end": 7.289,
+  "text": "For my starter I’d like raw fish."
+ },
+ {
+  "id": 4,
+  "start": 9.942,
+  "end": 10.515,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.404,
+  "end": 14.839,
+  "text": "And I’ll have vegetable pie for my main course."
+ },
+ {
+  "id": 6,
+  "start": 17.528,
+  "end": 18.088,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 18.994,
+  "end": 21.705,
+  "text": "I’d like chicken salad for my starter."
+ }
+];

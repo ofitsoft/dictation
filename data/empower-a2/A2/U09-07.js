@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U09-07"]=[
+ {
+  "id": 1,
+  "start": 0.033,
+  "end": 1.683,
+  "text": "Track 09.07"
+ },
+ {
+  "id": 2,
+  "start": 2.68,
+  "end": 3.116,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.081,
+  "end": 6.206,
+  "text": "I’m standing by the entrance."
+ },
+ {
+  "id": 4,
+  "start": 8.579,
+  "end": 9.035,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 9.987,
+  "end": 11.406,
+  "text": "We’re waiting for you."
+ },
+ {
+  "id": 6,
+  "start": 13.781,
+  "end": 14.349,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 15.353,
+  "end": 17.066,
+  "text": "We aren’t buying anything."
+ },
+ {
+  "id": 8,
+  "start": 19.426,
+  "end": 19.996,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 20.903,
+  "end": 22.311,
+  "text": "Are you having a coffee?"
+ },
+ {
+  "id": 10,
+  "start": 24.665,
+  "end": 25.295,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 26.126,
+  "end": 27.897,
+  "text": "Where are you waiting for us?"
+ }
+];

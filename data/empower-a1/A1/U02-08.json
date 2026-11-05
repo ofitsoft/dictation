@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.015,
+  "end": 2.309,
+  "text": "Track 02.08"
+ },
+ {
+  "id": 2,
+  "start": 3.5,
+  "end": 4.738,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 5.476,
+  "end": 7.476,
+  "text": "It’s a small house."
+ },
+ {
+  "id": 4,
+  "start": 8.135,
+  "end": 9.5,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 10.747,
+  "end": 12.367,
+  "text": "It’s a new flat."
+ },
+ {
+  "id": 6,
+  "start": 14.081,
+  "end": 15.263,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 16.113,
+  "end": 18.065,
+  "text": "It’s a big city."
+ },
+ {
+  "id": 8,
+  "start": 19.568,
+  "end": 20.846,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 21.714,
+  "end": 23.492,
+  "text": "It’s an old house."
+ }
+]

@@ -1,0 +1,188 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U09-04"]=[
+ {
+  "id": 1,
+  "start": 0.518,
+  "end": 2.239,
+  "text": "Track 09.04"
+ },
+ {
+  "id": 2,
+  "start": 4.217,
+  "end": 5.809,
+  "text": "Conversation 2"
+ },
+ {
+  "id": 3,
+  "start": 11.265,
+  "end": 11.863,
+  "text": "Hello?"
+ },
+ {
+  "id": 4,
+  "start": 12.656,
+  "end": 15.9,
+  "text": "Simon! Hi! Where are you?"
+ },
+ {
+  "id": 5,
+  "start": 16.246,
+  "end": 17.937,
+  "text": "Are you having a coffee?"
+ },
+ {
+  "id": 6,
+  "start": 18.46,
+  "end": 20.853,
+  "text": "No, I’m just buying that new book"
+ },
+ {
+  "id": 7,
+  "start": 20.853,
+  "end": 21.938,
+  "text": "I told you about."
+ },
+ {
+  "id": 8,
+  "start": 22.494,
+  "end": 23.424,
+  "text": "What are you doing?"
+ },
+ {
+  "id": 9,
+  "start": 23.983,
+  "end": 25.908,
+  "text": "I’m just getting off the bus."
+ },
+ {
+  "id": 10,
+  "start": 26.47,
+  "end": 28.77,
+  "text": "So where do you want to meet?"
+ },
+ {
+  "id": 11,
+  "start": 28.933,
+  "end": 30.374,
+  "text": "It’s nearly seven."
+ },
+ {
+  "id": 12,
+  "start": 31.271,
+  "end": 34.332,
+  "text": "Let’s meet at the entrance in five minutes."
+ },
+ {
+  "id": 13,
+  "start": 34.81,
+  "end": 35.533,
+  "text": "All right."
+ },
+ {
+  "id": 14,
+  "start": 36.297,
+  "end": 38.783,
+  "text": "And can you call Amy and Sandeep"
+ },
+ {
+  "id": 15,
+  "start": 38.784,
+  "end": 40.023,
+  "text": "to tell them where to meet?"
+ },
+ {
+  "id": 16,
+  "start": 40.558,
+  "end": 42.366,
+  "text": "Yeah, sure, no problem."
+ },
+ {
+  "id": 17,
+  "start": 42.871,
+  "end": 44.015,
+  "text": "Hurry up!"
+ },
+ {
+  "id": 18,
+  "start": 46.374,
+  "end": 48.054,
+  "text": "Conversation 3"
+ },
+ {
+  "id": 19,
+  "start": 53.444,
+  "end": 54.075,
+  "text": "Hello?"
+ },
+ {
+  "id": 20,
+  "start": 55.219,
+  "end": 57.253,
+  "text": "Sandeep, it’s Susie."
+ },
+ {
+  "id": 21,
+  "start": 57.7,
+  "end": 58.631,
+  "text": "Where are you?"
+ },
+ {
+  "id": 22,
+  "start": 59.182,
+  "end": 60.556,
+  "text": "Oh! Hi, Susie."
+ },
+ {
+  "id": 23,
+  "start": 61.008,
+  "end": 62.413,
+  "text": "I’m just getting some cash."
+ },
+ {
+  "id": 24,
+  "start": 62.739,
+  "end": 64.178,
+  "text": "Amy’s looking at furniture."
+ },
+ {
+  "id": 25,
+  "start": 64.842,
+  "end": 68.291,
+  "text": "Furniture? Are you buying furniture?"
+ },
+ {
+  "id": 26,
+  "start": 68.892,
+  "end": 70.95,
+  "text": "No, we aren’t buying anything."
+ },
+ {
+  "id": 27,
+  "start": 71.176,
+  "end": 72.219,
+  "text": "She’s just looking."
+ },
+ {
+  "id": 28,
+  "start": 72.834,
+  "end": 73.647,
+  "text": "OK,"
+ },
+ {
+  "id": 29,
+  "start": 73.899,
+  "end": 77.198,
+  "text": "well, can you meet Simon and me at the entrance"
+ },
+ {
+  "id": 30,
+  "start": 77.199,
+  "end": 79.437,
+  "text": "to the cinema in five minutes?"
+ },
+ {
+  "id": 31,
+  "start": 80.172,
+  "end": 82.612,
+  "text": "Yeah, sure. See you there!"
+ }
+];

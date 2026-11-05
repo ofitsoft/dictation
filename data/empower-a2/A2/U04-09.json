@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1,
+  "start": 0.043,
+  "end": 1.614,
+  "text": "Track 04.09"
+ },
+ {
+  "id": 2,
+  "start": 3.71,
+  "end": 7.118,
+  "text": "Hello, I’d like a lemon and an onion, please."
+ },
+ {
+  "id": 3,
+  "start": 7.584,
+  "end": 8.547,
+  "text": "Just one?"
+ },
+ {
+  "id": 4,
+  "start": 8.772,
+  "end": 11.316,
+  "text": "Yes, and I’d like some potatoes, too."
+ },
+ {
+  "id": 5,
+  "start": 11.994,
+  "end": 13.717,
+  "text": "Is this bag OK?"
+ },
+ {
+  "id": 6,
+  "start": 13.806,
+  "end": 14.894,
+  "text": "Yes, fine."
+ },
+ {
+  "id": 7,
+  "start": 15.258,
+  "end": 17.401,
+  "text": "Have you got any small tomatoes?"
+ },
+ {
+  "id": 8,
+  "start": 17.765,
+  "end": 18.738,
+  "text": "I’m sorry,"
+ },
+ {
+  "id": 9,
+  "start": 18.738,
+  "end": 20.893,
+  "text": "but I haven’t got any small tomatoes."
+ },
+ {
+  "id": 10,
+  "start": 21.085,
+  "end": 23.146,
+  "text": "OK, the big ones there are fine."
+ },
+ {
+  "id": 11,
+  "start": 23.593,
+  "end": 25.343,
+  "text": "Also I’d like some cheese."
+ },
+ {
+  "id": 12,
+  "start": 26.008,
+  "end": 26.914,
+  "text": "I’m sorry,"
+ },
+ {
+  "id": 13,
+  "start": 26.915,
+  "end": 28.199,
+  "text": "I don’t sell cheese."
+ },
+ {
+  "id": 14,
+  "start": 28.812,
+  "end": 30.185,
+  "text": "Try that guy over there."
+ }
+]

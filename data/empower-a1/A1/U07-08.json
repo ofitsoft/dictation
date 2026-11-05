@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.397,
+  "end": 2.524,
+  "text": "Track 07.08"
+ },
+ {
+  "id": 2,
+  "start": 3.73,
+  "end": 4.754,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 5.37,
+  "end": 7.537,
+  "text": "five pounds ninety-nine"
+ },
+ {
+  "id": 4,
+  "start": 8.605,
+  "end": 9.779,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.092,
+  "end": 13.37,
+  "text": "sixteen dollars fifty"
+ },
+ {
+  "id": 6,
+  "start": 15.221,
+  "end": 16.483,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 17.041,
+  "end": 19.065,
+  "text": "four euros fifty"
+ },
+ {
+  "id": 8,
+  "start": 21.083,
+  "end": 22.147,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 22.525,
+  "end": 24.232,
+  "text": "a hundred dollars"
+ }
+]

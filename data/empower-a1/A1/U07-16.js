@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U07-16"]=[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 2.762,
+  "text": "Track 07.16"
+ },
+ {
+  "id": 2,
+  "start": 3.04,
+  "end": 3.976,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.714,
+  "end": 6.417,
+  "text": "Is this my old T-shirt?"
+ },
+ {
+  "id": 4,
+  "start": 6.655,
+  "end": 9.338,
+  "text": "No, it’s Greg’s T-shirt."
+ },
+ {
+  "id": 5,
+  "start": 10.409,
+  "end": 11.663,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 13.035,
+  "end": 14.853,
+  "text": "Are these your jeans?"
+ },
+ {
+  "id": 7,
+  "start": 15.098,
+  "end": 17.9,
+  "text": "No, they’re Sara’s jeans."
+ }
+];

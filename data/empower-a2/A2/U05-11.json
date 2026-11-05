@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.706,
+  "text": "Track 05.11"
+ },
+ {
+  "id": 2,
+  "start": 2.388,
+  "end": 3.833,
+  "text": "My sister has a car."
+ },
+ {
+  "id": 3,
+  "start": 4.349,
+  "end": 5.634,
+  "text": "It’s my sister’s car."
+ },
+ {
+  "id": 4,
+  "start": 7.548,
+  "end": 9.42,
+  "text": "My grandparents have a house."
+ },
+ {
+  "id": 5,
+  "start": 10.088,
+  "end": 11.92,
+  "text": "It’s my grandparents’ house."
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.396,
+  "end": 2.222,
+  "text": "Track 04.08"
+ },
+ {
+  "id": 2,
+  "start": 3.374,
+  "end": 4.674,
+  "text": "I’ve got a lemon."
+ },
+ {
+  "id": 3,
+  "start": 6.428,
+  "end": 8.071,
+  "text": "I don’t need an onion."
+ },
+ {
+  "id": 4,
+  "start": 9.897,
+  "end": 11.458,
+  "text": "We’d like some grapes."
+ },
+ {
+  "id": 5,
+  "start": 13.331,
+  "end": 15.254,
+  "text": "We don’t want any potatoes."
+ },
+ {
+  "id": 6,
+  "start": 17.056,
+  "end": 18.666,
+  "text": "They’ve got some pasta."
+ },
+ {
+  "id": 7,
+  "start": 20.444,
+  "end": 22.015,
+  "text": "Do you want any cheese?"
+ }
+]

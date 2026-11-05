@@ -1,0 +1,152 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U08-12"]=[
+ {
+  "id": 1,
+  "start": 0.357,
+  "end": 2.548,
+  "text": "Track 08.12"
+ },
+ {
+  "id": 2,
+  "start": 2.611,
+  "end": 3.349,
+  "text": "look"
+ },
+ {
+  "id": 3,
+  "start": 4.484,
+  "end": 5.516,
+  "text": "looked"
+ },
+ {
+  "id": 4,
+  "start": 7.192,
+  "end": 8.486,
+  "text": "watch"
+ },
+ {
+  "id": 5,
+  "start": 8.775,
+  "end": 9.917,
+  "text": "watched"
+ },
+ {
+  "id": 6,
+  "start": 11.421,
+  "end": 12.643,
+  "text": "call"
+ },
+ {
+  "id": 7,
+  "start": 13.163,
+  "end": 14.369,
+  "text": "called"
+ },
+ {
+  "id": 8,
+  "start": 15.922,
+  "end": 17.041,
+  "text": "jump"
+ },
+ {
+  "id": 9,
+  "start": 17.479,
+  "end": 18.773,
+  "text": "jumped"
+ },
+ {
+  "id": 10,
+  "start": 20.154,
+  "end": 21.273,
+  "text": "walk"
+ },
+ {
+  "id": 11,
+  "start": 21.794,
+  "end": 22.944,
+  "text": "walked"
+ },
+ {
+  "id": 12,
+  "start": 24.595,
+  "end": 25.603,
+  "text": "try"
+ },
+ {
+  "id": 13,
+  "start": 26.017,
+  "end": 27.112,
+  "text": "tried"
+ },
+ {
+  "id": 14,
+  "start": 28.721,
+  "end": 29.951,
+  "text": "have"
+ },
+ {
+  "id": 15,
+  "start": 30.217,
+  "end": 31.494,
+  "text": "had"
+ },
+ {
+  "id": 16,
+  "start": 32.883,
+  "end": 33.994,
+  "text": "hear"
+ },
+ {
+  "id": 17,
+  "start": 34.547,
+  "end": 35.467,
+  "text": "heard"
+ },
+ {
+  "id": 18,
+  "start": 36.929,
+  "end": 38.009,
+  "text": "eat"
+ },
+ {
+  "id": 19,
+  "start": 38.721,
+  "end": 39.721,
+  "text": "ate"
+ },
+ {
+  "id": 20,
+  "start": 41.41,
+  "end": 42.331,
+  "text": "see"
+ },
+ {
+  "id": 21,
+  "start": 42.839,
+  "end": 43.99,
+  "text": "saw"
+ },
+ {
+  "id": 22,
+  "start": 45.355,
+  "end": 46.839,
+  "text": "go"
+ },
+ {
+  "id": 23,
+  "start": 47.127,
+  "end": 48.393,
+  "text": "went"
+ },
+ {
+  "id": 24,
+  "start": 49.901,
+  "end": 50.854,
+  "text": "come"
+ },
+ {
+  "id": 25,
+  "start": 51.552,
+  "end": 52.568,
+  "text": "came"
+ }
+];

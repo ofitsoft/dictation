@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U06-09"]=[
+ {
+  "id": 1,
+  "start": 0.024,
+  "end": 1.706,
+  "text": "Track 06.09"
+ },
+ {
+  "id": 2,
+  "start": 2.46,
+  "end": 3.413,
+  "text": "January"
+ },
+ {
+  "id": 3,
+  "start": 5.5,
+  "end": 6.405,
+  "text": "February"
+ },
+ {
+  "id": 4,
+  "start": 8.497,
+  "end": 9.389,
+  "text": "March"
+ },
+ {
+  "id": 5,
+  "start": 11.437,
+  "end": 12.111,
+  "text": "April"
+ },
+ {
+  "id": 6,
+  "start": 14.216,
+  "end": 14.875,
+  "text": "May"
+ },
+ {
+  "id": 7,
+  "start": 16.958,
+  "end": 17.637,
+  "text": "June"
+ },
+ {
+  "id": 8,
+  "start": 19.761,
+  "end": 20.511,
+  "text": "July"
+ },
+ {
+  "id": 9,
+  "start": 22.607,
+  "end": 23.428,
+  "text": "August"
+ },
+ {
+  "id": 10,
+  "start": 25.566,
+  "end": 26.492,
+  "text": "September"
+ },
+ {
+  "id": 11,
+  "start": 28.571,
+  "end": 29.404,
+  "text": "October"
+ },
+ {
+  "id": 12,
+  "start": 31.546,
+  "end": 32.484,
+  "text": "November"
+ },
+ {
+  "id": 13,
+  "start": 34.405,
+  "end": 35.238,
+  "text": "December"
+ }
+];

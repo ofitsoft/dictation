@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U01-24"]=[
+ {
+  "id": 1,
+  "start": 0.452,
+  "end": 2.714,
+  "text": "Track 01.24"
+ },
+ {
+  "id": 2,
+  "start": 3.367,
+  "end": 4.7,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 12.759,
+  "end": 13.314,
+  "text": "Hello!"
+ },
+ {
+  "id": 4,
+  "start": 13.339,
+  "end": 14.116,
+  "text": "Good morning!"
+ },
+ {
+  "id": 5,
+  "start": 14.477,
+  "end": 15.811,
+  "text": "Welcome, Sophia. I’m David."
+ },
+ {
+  "id": 6,
+  "start": 15.836,
+  "end": 16.963,
+  "text": "Nice to meet you, David."
+ },
+ {
+  "id": 7,
+  "start": 16.988,
+  "end": 17.852,
+  "text": "Nice to meet you, too."
+ },
+ {
+  "id": 8,
+  "start": 17.877,
+  "end": 18.391,
+  "text": "How are you?"
+ },
+ {
+  "id": 9,
+  "start": 18.416,
+  "end": 19.893,
+  "text": "I’m good, thank you. And you?"
+ },
+ {
+  "id": 10,
+  "start": 19.918,
+  "end": 20.927,
+  "text": "I’m fine, thanks."
+ },
+ {
+  "id": 11,
+  "start": 20.952,
+  "end": 22.467,
+  "text": "OK, well, come with me, please."
+ },
+ {
+  "id": 12,
+  "start": 22.492,
+  "end": 23.094,
+  "text": "OK!"
+ }
+];

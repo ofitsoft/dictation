@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U12-14"]=[
+ {
+  "id": 1,
+  "start": 0.365,
+  "end": 2.794,
+  "text": "Track 12.14"
+ },
+ {
+  "id": 2,
+  "start": 4.551,
+  "end": 6.313,
+  "text": "Conversation 1"
+ },
+ {
+  "id": 3,
+  "start": 7.061,
+  "end": 9.545,
+  "text": "What are you going to do this weekend, Lee?"
+ },
+ {
+  "id": 4,
+  "start": 10.008,
+  "end": 11.818,
+  "text": "Oh, I don’t know."
+ },
+ {
+  "id": 5,
+  "start": 12.167,
+  "end": 13.27,
+  "text": "Nothing much."
+ },
+ {
+  "id": 6,
+  "start": 13.71,
+  "end": 15.25,
+  "text": "Are you going to go out?"
+ },
+ {
+  "id": 7,
+  "start": 15.777,
+  "end": 17.436,
+  "text": "I’m going to see a film."
+ },
+ {
+  "id": 8,
+  "start": 17.827,
+  "end": 19.549,
+  "text": "What film are you going to see?"
+ },
+ {
+  "id": 9,
+  "start": 20.235,
+  "end": 21.544,
+  "text": "I don’t know yet."
+ },
+ {
+  "id": 10,
+  "start": 21.83,
+  "end": 23.187,
+  "text": "I don’t know what’s on."
+ },
+ {
+  "id": 11,
+  "start": 23.857,
+  "end": 25.285,
+  "text": "What about Sunday?"
+ },
+ {
+  "id": 12,
+  "start": 25.859,
+  "end": 26.74,
+  "text": "Well,"
+ },
+ {
+  "id": 13,
+  "start": 26.765,
+  "end": 29.343,
+  "text": "I’m going to go out somewhere …"
+ },
+ {
+  "id": 14,
+  "start": 30.051,
+  "end": 33.158,
+  "text": "maybe ... see what the weather’s like."
+ },
+ {
+  "id": 15,
+  "start": 34.972,
+  "end": 36.734,
+  "text": "Conversation 2"
+ },
+ {
+  "id": 16,
+  "start": 37.666,
+  "end": 40.809,
+  "text": "So what are you going to do this weekend, Marcus?"
+ },
+ {
+  "id": 17,
+  "start": 40.834,
+  "end": 42.762,
+  "text": "Well, on Saturday"
+ },
+ {
+  "id": 18,
+  "start": 42.787,
+  "end": 44.335,
+  "text": "I’m going to get up early,"
+ },
+ {
+  "id": 19,
+  "start": 44.36,
+  "end": 46.059,
+  "text": "and I’m going to go for a run."
+ },
+ {
+  "id": 20,
+  "start": 46.084,
+  "end": 48.475,
+  "text": "Then I’m going to go shopping."
+ },
+ {
+  "id": 21,
+  "start": 48.971,
+  "end": 50.399,
+  "text": "What are you going to buy?"
+ },
+ {
+  "id": 22,
+  "start": 50.599,
+  "end": 53.424,
+  "text": "Well, I want to buy a new jacket"
+ },
+ {
+  "id": 23,
+  "start": 53.449,
+  "end": 54.402,
+  "text": "and some shoes."
+ },
+ {
+  "id": 24,
+  "start": 54.427,
+  "end": 58.651,
+  "text": "And in the evening, I’m going to meet some friends for a meal."
+ },
+ {
+  "id": 25,
+  "start": 59.053,
+  "end": 60.688,
+  "text": "Where are you going to go?"
+ },
+ {
+  "id": 26,
+  "start": 60.864,
+  "end": 63.572,
+  "text": "There’s a new restaurant called Sandy’s."
+ },
+ {
+  "id": 27,
+  "start": 63.597,
+  "end": 65.009,
+  "text": "We’re going to go there."
+ },
+ {
+  "id": 28,
+  "start": 65.28,
+  "end": 68.082,
+  "text": "And on Sunday, I’m going to play tennis."
+ }
+];

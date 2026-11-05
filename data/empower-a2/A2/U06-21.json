@@ -1,0 +1,236 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.782,
+  "text": "Track 06.21"
+ },
+ {
+  "id": 2,
+  "start": 3.038,
+  "end": 3.929,
+  "text": "PART 2"
+ },
+ {
+  "id": 3,
+  "start": 17.081,
+  "end": 18.181,
+  "text": "Would you like a coffee?"
+ },
+ {
+  "id": 4,
+  "start": 19.256,
+  "end": 21.073,
+  "text": "Yeah, that’d be great. Thanks, Dan. ..."
+ },
+ {
+  "id": 5,
+  "start": 34.875,
+  "end": 36.318,
+  "text": "Hello. Dan’s phone."
+ },
+ {
+  "id": 6,
+  "start": 36.896,
+  "end": 39.376,
+  "text": "Oh. Hello. Is Dan there?"
+ },
+ {
+  "id": 7,
+  "start": 39.773,
+  "end": 41.084,
+  "text": "Sorry, he’s not here just now."
+ },
+ {
+  "id": 8,
+  "start": 41.085,
+  "end": 42.123,
+  "text": "He went to get coffee."
+ },
+ {
+  "id": 9,
+  "start": 42.476,
+  "end": 45.057,
+  "text": "Oh. It’s his sister, Annie."
+ },
+ {
+  "id": 10,
+  "start": 45.404,
+  "end": 46.723,
+  "text": "Can he call me back?"
+ },
+ {
+  "id": 11,
+  "start": 47.416,
+  "end": 49.416,
+  "text": "Hi, Annie. It’s Leo."
+ },
+ {
+  "id": 12,
+  "start": 49.935,
+  "end": 50.552,
+  "text": "Leo?"
+ },
+ {
+  "id": 13,
+  "start": 51.209,
+  "end": 52.745,
+  "text": "Oh … Leo."
+ },
+ {
+  "id": 14,
+  "start": 53.195,
+  "end": 53.633,
+  "text": "Hi!"
+ },
+ {
+  "id": 15,
+  "start": 53.8,
+  "end": 55.493,
+  "text": "Can you wait a minute?"
+ },
+ {
+  "id": 16,
+  "start": 55.595,
+  "end": 56.589,
+  "text": "He’ll be back soon."
+ },
+ {
+  "id": 17,
+  "start": 57.174,
+  "end": 62.856,
+  "text": "Sure … So … Leo. How are you?"
+ },
+ {
+  "id": 18,
+  "start": 64.329,
+  "end": 65.293,
+  "text": "I’m …"
+ },
+ {
+  "id": 19,
+  "start": 65.854,
+  "end": 67.162,
+  "text": "I’m really well."
+ },
+ {
+  "id": 20,
+  "start": 67.314,
+  "end": 68.279,
+  "text": "What about you?"
+ },
+ {
+  "id": 21,
+  "start": 69.239,
+  "end": 71.776,
+  "text": "Oh, great – just great."
+ },
+ {
+  "id": 22,
+  "start": 73.162,
+  "end": 74.372,
+  "text": "Oh, good. That’s, erm"
+ },
+ {
+  "id": 23,
+  "start": 75.483,
+  "end": 76.283,
+  "text": "… great."
+ },
+ {
+  "id": 24,
+  "start": 76.695,
+  "end": 77.474,
+  "text": "Yeah."
+ },
+ {
+  "id": 25,
+  "start": 79.076,
+  "end": 80.878,
+  "text": "He’s back. ... It’s Annie."
+ },
+ {
+  "id": 26,
+  "start": 80.879,
+  "end": 81.634,
+  "text": "Oh, good."
+ },
+ {
+  "id": 27,
+  "start": 81.635,
+  "end": 82.687,
+  "text": "Just a minute."
+ },
+ {
+  "id": 28,
+  "start": 83.156,
+  "end": 84.872,
+  "text": "He’s got coffee for us."
+ },
+ {
+  "id": 29,
+  "start": 85.76,
+  "end": 86.582,
+  "text": "Lucky you!"
+ },
+ {
+  "id": 30,
+  "start": 87.216,
+  "end": 87.93,
+  "text": "There you are."
+ },
+ {
+  "id": 31,
+  "start": 89.684,
+  "end": 90.499,
+  "text": "Bye, Annie."
+ },
+ {
+  "id": 32,
+  "start": 90.867,
+  "end": 91.544,
+  "text": "Bye."
+ },
+ {
+  "id": 33,
+  "start": 92.858,
+  "end": 93.367,
+  "text": "Thanks."
+ },
+ {
+  "id": 34,
+  "start": 94.342,
+  "end": 94.989,
+  "text": "Hi, Annie."
+ },
+ {
+  "id": 35,
+  "start": 95.34,
+  "end": 96.057,
+  "text": "It’s me."
+ },
+ {
+  "id": 36,
+  "start": 96.375,
+  "end": 97.666,
+  "text": "Dan – finally!"
+ },
+ {
+  "id": 37,
+  "start": 97.948,
+  "end": 99.461,
+  "text": "You left a message."
+ },
+ {
+  "id": 38,
+  "start": 99.599,
+  "end": 100.543,
+  "text": "Yes, that’s right."
+ },
+ {
+  "id": 39,
+  "start": 101.128,
+  "end": 102.557,
+  "text": "I need your help with something …"
+ }
+]

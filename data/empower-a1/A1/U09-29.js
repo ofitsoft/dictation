@@ -1,0 +1,188 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U09-29"]=[
+ {
+  "id": 1,
+  "start": 0.452,
+  "end": 2.603,
+  "text": "Track 09.29"
+ },
+ {
+  "id": 2,
+  "start": 3.532,
+  "end": 4.77,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.871,
+  "end": 6.386,
+  "text": "train"
+ },
+ {
+  "id": 4,
+  "start": 8.171,
+  "end": 9.156,
+  "text": "car"
+ },
+ {
+  "id": 5,
+  "start": 11.271,
+  "end": 12.343,
+  "text": "plane"
+ },
+ {
+  "id": 6,
+  "start": 14.381,
+  "end": 15.548,
+  "text": "rain"
+ },
+ {
+  "id": 7,
+  "start": 17.361,
+  "end": 18.655,
+  "text": "2"
+ },
+ {
+  "id": 8,
+  "start": 19.305,
+  "end": 20.44,
+  "text": "camp"
+ },
+ {
+  "id": 9,
+  "start": 22.362,
+  "end": 23.624,
+  "text": "what"
+ },
+ {
+  "id": 10,
+  "start": 25.673,
+  "end": 26.713,
+  "text": "hot"
+ },
+ {
+  "id": 11,
+  "start": 28.781,
+  "end": 30.154,
+  "text": "not"
+ },
+ {
+  "id": 12,
+  "start": 31.619,
+  "end": 32.786,
+  "text": "3"
+ },
+ {
+  "id": 13,
+  "start": 33.506,
+  "end": 34.538,
+  "text": "go"
+ },
+ {
+  "id": 14,
+  "start": 36.478,
+  "end": 37.684,
+  "text": "boat"
+ },
+ {
+  "id": 15,
+  "start": 39.358,
+  "end": 40.747,
+  "text": "snow"
+ },
+ {
+  "id": 16,
+  "start": 42.687,
+  "end": 43.822,
+  "text": "wind"
+ },
+ {
+  "id": 17,
+  "start": 45.979,
+  "end": 47.138,
+  "text": "4"
+ },
+ {
+  "id": 18,
+  "start": 47.804,
+  "end": 49.201,
+  "text": "flat"
+ },
+ {
+  "id": 19,
+  "start": 51.09,
+  "end": 52.439,
+  "text": "camp"
+ },
+ {
+  "id": 20,
+  "start": 54.367,
+  "end": 55.518,
+  "text": "take"
+ },
+ {
+  "id": 21,
+  "start": 57.57,
+  "end": 58.768,
+  "text": "tram"
+ },
+ {
+  "id": 22,
+  "start": 60.435,
+  "end": 61.578,
+  "text": "5"
+ },
+ {
+  "id": 23,
+  "start": 62.744,
+  "end": 63.911,
+  "text": "cloud"
+ },
+ {
+  "id": 24,
+  "start": 65.947,
+  "end": 67.193,
+  "text": "home"
+ },
+ {
+  "id": 25,
+  "start": 69.171,
+  "end": 70.274,
+  "text": "cold"
+ },
+ {
+  "id": 26,
+  "start": 72.223,
+  "end": 73.398,
+  "text": "no"
+ },
+ {
+  "id": 27,
+  "start": 74.89,
+  "end": 76.311,
+  "text": "6"
+ },
+ {
+  "id": 28,
+  "start": 77.543,
+  "end": 78.718,
+  "text": "bus"
+ },
+ {
+  "id": 29,
+  "start": 80.593,
+  "end": 81.831,
+  "text": "sun"
+ },
+ {
+  "id": 30,
+  "start": 83.804,
+  "end": 85.138,
+  "text": "drove"
+ },
+ {
+  "id": 31,
+  "start": 86.816,
+  "end": 88.395,
+  "text": "lovely"
+ }
+];

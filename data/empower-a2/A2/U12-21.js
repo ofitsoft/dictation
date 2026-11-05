@@ -1,0 +1,236 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U12-21"]=[
+ {
+  "id": 1,
+  "start": 0.489,
+  "end": 2.362,
+  "text": "Track 12.21"
+ },
+ {
+  "id": 2,
+  "start": 4.343,
+  "end": 6.57,
+  "text": "Hey Louise! Here’s your coffee."
+ },
+ {
+  "id": 3,
+  "start": 7.923,
+  "end": 9.199,
+  "text": "Thanks Fred."
+ },
+ {
+  "id": 4,
+  "start": 9.937,
+  "end": 11.884,
+  "text": "When’s our next meeting?"
+ },
+ {
+  "id": 5,
+  "start": 12.489,
+  "end": 13.643,
+  "text": "In half an hour."
+ },
+ {
+  "id": 6,
+  "start": 14.16,
+  "end": 17.07,
+  "text": "Good – time to take a break."
+ },
+ {
+  "id": 7,
+  "start": 17.938,
+  "end": 19.634,
+  "text": "You’re looking happy today."
+ },
+ {
+  "id": 8,
+  "start": 20.24,
+  "end": 23.606,
+  "text": "Well, yeah, I feel happy."
+ },
+ {
+  "id": 9,
+  "start": 24.174,
+  "end": 26.393,
+  "text": "Oh – good news?"
+ },
+ {
+  "id": 10,
+  "start": 26.841,
+  "end": 30.185,
+  "text": "Well, yes, I just booked my next holiday."
+ },
+ {
+  "id": 11,
+  "start": 30.568,
+  "end": 32.006,
+  "text": "There was a sale online."
+ },
+ {
+  "id": 12,
+  "start": 32.239,
+  "end": 35.198,
+  "text": "Exciting! Where are you going to go?"
+ },
+ {
+  "id": 13,
+  "start": 35.696,
+  "end": 38.039,
+  "text": "To Porto – for a week with my brother."
+ },
+ {
+  "id": 14,
+  "start": 38.29,
+  "end": 39.943,
+  "text": "Oh, great."
+ },
+ {
+  "id": 15,
+  "start": 40.407,
+  "end": 42.903,
+  "text": "Is it your first time in Portugal?"
+ },
+ {
+  "id": 16,
+  "start": 43.395,
+  "end": 46.108,
+  "text": "Yes, it is – can’t wait to go!"
+ },
+ {
+  "id": 17,
+  "start": 46.484,
+  "end": 48.174,
+  "text": "We’re going to stay in Porto,"
+ },
+ {
+  "id": 18,
+  "start": 48.427,
+  "end": 51.527,
+  "text": "but we also plan to visit places in the countryside."
+ },
+ {
+  "id": 19,
+  "start": 51.907,
+  "end": 53.132,
+  "text": "Oh, yeah,"
+ },
+ {
+  "id": 20,
+  "start": 53.799,
+  "end": 56.264,
+  "text": "I’ve heard it’s really beautiful."
+ },
+ {
+  "id": 21,
+  "start": 56.86,
+  "end": 59.909,
+  "text": "I found tickets online at a really good price."
+ },
+ {
+  "id": 22,
+  "start": 60.318,
+  "end": 61.321,
+  "text": "Lucky you!"
+ },
+ {
+  "id": 23,
+  "start": 61.74,
+  "end": 62.293,
+  "text": "Yes,"
+ },
+ {
+  "id": 24,
+  "start": 62.746,
+  "end": 63.897,
+  "text": "and we’re going to stay in"
+ },
+ {
+  "id": 25,
+  "start": 63.897,
+  "end": 66.351,
+  "text": "this nice hostel with free wi-fi,"
+ },
+ {
+  "id": 26,
+  "start": 66.607,
+  "end": 71.1,
+  "text": "a kitchen and these incredible sleeping pods – very private."
+ },
+ {
+  "id": 27,
+  "start": 71.538,
+  "end": 73.192,
+  "text": "And it’s not expensive at all."
+ },
+ {
+  "id": 28,
+  "start": 73.913,
+  "end": 76.104,
+  "text": "So when are you going to go?"
+ },
+ {
+  "id": 29,
+  "start": 76.606,
+  "end": 78.214,
+  "text": "At the end of next month."
+ },
+ {
+  "id": 30,
+  "start": 78.358,
+  "end": 79.609,
+  "text": "Early autumn?"
+ },
+ {
+  "id": 31,
+  "start": 80.106,
+  "end": 83.394,
+  "text": "OK, I think the weather is still good then."
+ },
+ {
+  "id": 32,
+  "start": 83.88,
+  "end": 84.608,
+  "text": "That’s right."
+ },
+ {
+  "id": 33,
+  "start": 85.319,
+  "end": 89.118,
+  "text": "I actually have a friend, Fabiana,"
+ },
+ {
+  "id": 34,
+  "start": 89.336,
+  "end": 90.938,
+  "text": "who lives in Porto."
+ },
+ {
+  "id": 35,
+  "start": 91.405,
+  "end": 93.77,
+  "text": "You can email her for information"
+ },
+ {
+  "id": 36,
+  "start": 93.77,
+  "end": 95.941,
+  "text": "so you can plan your holiday."
+ },
+ {
+  "id": 37,
+  "start": 96.481,
+  "end": 98.311,
+  "text": "She won’t mind helping you."
+ },
+ {
+  "id": 38,
+  "start": 98.69,
+  "end": 100.845,
+  "text": "I’ll send you her email address."
+ },
+ {
+  "id": 39,
+  "start": 101.992,
+  "end": 102.697,
+  "text": "Thanks!"
+ }
+];

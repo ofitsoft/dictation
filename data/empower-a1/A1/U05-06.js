@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U05-06"]=[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.698,
+  "text": "Track 05.06"
+ },
+ {
+  "id": 2,
+  "start": 4.722,
+  "end": 5.786,
+  "text": "food"
+ },
+ {
+  "id": 3,
+  "start": 7.778,
+  "end": 8.897,
+  "text": "new"
+ },
+ {
+  "id": 4,
+  "start": 10.763,
+  "end": 11.803,
+  "text": "two"
+ },
+ {
+  "id": 5,
+  "start": 13.794,
+  "end": 14.817,
+  "text": "who"
+ },
+ {
+  "id": 6,
+  "start": 16.86,
+  "end": 17.995,
+  "text": "mother"
+ },
+ {
+  "id": 7,
+  "start": 20.006,
+  "end": 21.165,
+  "text": "umbrella"
+ },
+ {
+  "id": 8,
+  "start": 23.275,
+  "end": 24.417,
+  "text": "beautiful"
+ },
+ {
+  "id": 9,
+  "start": 26.437,
+  "end": 28.079,
+  "text": "sometimes"
+ }
+];

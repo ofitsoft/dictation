@@ -1,0 +1,104 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U03-30"]=[
+ {
+  "id": 1,
+  "start": 0.323,
+  "end": 2.693,
+  "text": "Track 03.30"
+ },
+ {
+  "id": 2,
+  "start": 4.484,
+  "end": 5.54,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.254,
+  "end": 7.524,
+  "text": "water"
+ },
+ {
+  "id": 4,
+  "start": 8.532,
+  "end": 9.651,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.0,
+  "end": 12.27,
+  "text": "tomato"
+ },
+ {
+  "id": 6,
+  "start": 13.73,
+  "end": 15.04,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 15.675,
+  "end": 16.929,
+  "text": "glass"
+ },
+ {
+  "id": 8,
+  "start": 18.742,
+  "end": 19.894,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 20.727,
+  "end": 21.957,
+  "text": "morning"
+ },
+ {
+  "id": 10,
+  "start": 23.54,
+  "end": 24.754,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 25.367,
+  "end": 26.399,
+  "text": "potato"
+ },
+ {
+  "id": 12,
+  "start": 28.411,
+  "end": 29.641,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 30.145,
+  "end": 31.216,
+  "text": "orange"
+ },
+ {
+  "id": 14,
+  "start": 32.905,
+  "end": 34.111,
+  "text": "7"
+ },
+ {
+  "id": 15,
+  "start": 34.786,
+  "end": 36.032,
+  "text": "quarter"
+ },
+ {
+  "id": 16,
+  "start": 37.905,
+  "end": 39.016,
+  "text": "8"
+ },
+ {
+  "id": 17,
+  "start": 39.278,
+  "end": 40.476,
+  "text": "all"
+ }
+];

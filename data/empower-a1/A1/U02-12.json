@@ -1,0 +1,128 @@
+[
+ {
+  "id": 1,
+  "start": 0.42,
+  "end": 2.547,
+  "text": "Track 02.12"
+ },
+ {
+  "id": 2,
+  "start": 3.556,
+  "end": 4.77,
+  "text": "a book"
+ },
+ {
+  "id": 3,
+  "start": 5.46,
+  "end": 6.5,
+  "text": "books"
+ },
+ {
+  "id": 4,
+  "start": 8.524,
+  "end": 10.103,
+  "text": "a bottle of water"
+ },
+ {
+  "id": 5,
+  "start": 11.2,
+  "end": 12.724,
+  "text": "bottles of water"
+ },
+ {
+  "id": 6,
+  "start": 14.954,
+  "end": 16.382,
+  "text": "a computer"
+ },
+ {
+  "id": 7,
+  "start": 17.12,
+  "end": 18.771,
+  "text": "computers"
+ },
+ {
+  "id": 8,
+  "start": 20.67,
+  "end": 21.9,
+  "text": "a key"
+ },
+ {
+  "id": 9,
+  "start": 22.717,
+  "end": 23.741,
+  "text": "keys"
+ },
+ {
+  "id": 10,
+  "start": 25.654,
+  "end": 27.416,
+  "text": "a newspaper"
+ },
+ {
+  "id": 11,
+  "start": 28.138,
+  "end": 29.305,
+  "text": "newspapers"
+ },
+ {
+  "id": 12,
+  "start": 31.359,
+  "end": 32.533,
+  "text": "a knife"
+ },
+ {
+  "id": 13,
+  "start": 33.486,
+  "end": 34.676,
+  "text": "knives"
+ },
+ {
+  "id": 14,
+  "start": 36.708,
+  "end": 38.073,
+  "text": "a phone"
+ },
+ {
+  "id": 15,
+  "start": 38.764,
+  "end": 39.859,
+  "text": "phones"
+ },
+ {
+  "id": 16,
+  "start": 42.047,
+  "end": 43.182,
+  "text": "a ticket"
+ },
+ {
+  "id": 17,
+  "start": 44.213,
+  "end": 45.245,
+  "text": "tickets"
+ },
+ {
+  "id": 18,
+  "start": 47.38,
+  "end": 48.499,
+  "text": "a watch"
+ },
+ {
+  "id": 19,
+  "start": 49.443,
+  "end": 50.617,
+  "text": "watches"
+ },
+ {
+  "id": 20,
+  "start": 52.611,
+  "end": 53.929,
+  "text": "an umbrella"
+ },
+ {
+  "id": 21,
+  "start": 54.921,
+  "end": 56.198,
+  "text": "umbrellas"
+ }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.715,
+  "text": "Track 09.02"
+ },
+ {
+  "id": 2,
+  "start": 3.069,
+  "end": 3.524,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.539,
+  "end": 5.994,
+  "text": "£25"
+ },
+ {
+  "id": 4,
+  "start": 8.291,
+  "end": 8.767,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 9.467,
+  "end": 10.676,
+  "text": "four pounds fifty"
+ },
+ {
+  "id": 6,
+  "start": 12.97,
+  "end": 13.535,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 14.146,
+  "end": 15.131,
+  "text": "sixty p"
+ },
+ {
+  "id": 8,
+  "start": 17.443,
+  "end": 18.027,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 18.552,
+  "end": 20.182,
+  "text": "seven euros forty"
+ },
+ {
+  "id": 10,
+  "start": 22.464,
+  "end": 23.137,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 23.769,
+  "end": 25.004,
+  "text": "twenty-five cents"
+ },
+ {
+  "id": 12,
+  "start": 27.316,
+  "end": 27.99,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 28.66,
+  "end": 29.837,
+  "text": "$28"
+ },
+ {
+  "id": 14,
+  "start": 32.134,
+  "end": 32.722,
+  "text": "7"
+ },
+ {
+  "id": 15,
+  "start": 33.628,
+  "end": 34.773,
+  "text": "seventy cents"
+ },
+ {
+  "id": 16,
+  "start": 37.061,
+  "end": 37.542,
+  "text": "8"
+ },
+ {
+  "id": 17,
+  "start": 38.25,
+  "end": 39.862,
+  "text": "fifteen dollars fifty"
+ }
+]

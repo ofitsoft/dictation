@@ -1,0 +1,98 @@
+[
+ {
+  "id": 1,
+  "start": 0.013,
+  "end": 1.797,
+  "text": "Track 12.15"
+ },
+ {
+  "id": 2,
+  "start": 3.703,
+  "end": 5.267,
+  "text": "Hello, how can I help you?"
+ },
+ {
+  "id": 3,
+  "start": 5.726,
+  "end": 6.369,
+  "text": "Hello."
+ },
+ {
+  "id": 4,
+  "start": 6.393,
+  "end": 9.866,
+  "text": "I’ve got a reservation for a double room for two nights."
+ },
+ {
+  "id": 5,
+  "start": 10.158,
+  "end": 11.517,
+  "text": "A double room?"
+ },
+ {
+  "id": 6,
+  "start": 11.729,
+  "end": 12.804,
+  "text": "Your name please?"
+ },
+ {
+  "id": 7,
+  "start": 12.982,
+  "end": 13.649,
+  "text": "Morton."
+ },
+ {
+  "id": 8,
+  "start": 14.363,
+  "end": 15.214,
+  "text": "Thank you."
+ },
+ {
+  "id": 9,
+  "start": 15.239,
+  "end": 17.041,
+  "text": "So, that’s two nights?"
+ },
+ {
+  "id": 10,
+  "start": 17.18,
+  "end": 19.624,
+  "text": "Yes. Is breakfast included?"
+ },
+ {
+  "id": 11,
+  "start": 19.811,
+  "end": 23.329,
+  "text": "Yes, it’s from 6:30 am until 9:30 am"
+ },
+ {
+  "id": 12,
+  "start": 23.338,
+  "end": 24.199,
+  "text": "in the dining room."
+ },
+ {
+  "id": 13,
+  "start": 24.954,
+  "end": 26.552,
+  "text": "Is there wi-fi in the room?"
+ },
+ {
+  "id": 14,
+  "start": 26.643,
+  "end": 27.566,
+  "text": "Yes, there is."
+ },
+ {
+  "id": 15,
+  "start": 28.094,
+  "end": 29.715,
+  "text": "And what time is checkout?"
+ },
+ {
+  "id": 16,
+  "start": 29.88,
+  "end": 32.214,
+  "text": "It’s 11 o’clock on the day you leave."
+ }
+]

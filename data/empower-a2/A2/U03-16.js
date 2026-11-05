@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U03-16"]=[
+ {
+  "id": 1,
+  "start": 0.04,
+  "end": 1.855,
+  "text": "Track 03.16"
+ },
+ {
+  "id": 2,
+  "start": 3.426,
+  "end": 5.666,
+  "text": "Why don’t we go to the cinema?"
+ },
+ {
+  "id": 3,
+  "start": 6.093,
+  "end": 6.894,
+  "text": "The cinema?"
+ },
+ {
+  "id": 4,
+  "start": 7.195,
+  "end": 8.382,
+  "text": "That’s a good idea."
+ },
+ {
+  "id": 5,
+  "start": 8.822,
+  "end": 10.235,
+  "text": "How about this Saturday?"
+ },
+ {
+  "id": 6,
+  "start": 11.04,
+  "end": 12.82,
+  "text": "I’m sorry I can’t."
+ },
+ {
+  "id": 7,
+  "start": 12.853,
+  "end": 14.219,
+  "text": "I’m away this weekend."
+ },
+ {
+  "id": 8,
+  "start": 14.612,
+  "end": 16.333,
+  "text": "Are you free on Monday?"
+ },
+ {
+  "id": 9,
+  "start": 16.564,
+  "end": 18.065,
+  "text": "Yes, Monday’s fine."
+ }
+];

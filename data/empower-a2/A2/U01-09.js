@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U01-09"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.722,
+  "text": "Track 01.09"
+ },
+ {
+  "id": 2,
+  "start": 2.571,
+  "end": 3.095,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 3.921,
+  "end": 6.365,
+  "text": "My computer's quite old now."
+ },
+ {
+  "id": 4,
+  "start": 6.675,
+  "end": 8.151,
+  "text": "I need to buy a new one."
+ },
+ {
+  "id": 5,
+  "start": 11.044,
+  "end": 11.544,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 12.283,
+  "end": 14.349,
+  "text": "I don't think he's got a lot of money."
+ },
+ {
+  "id": 7,
+  "start": 14.827,
+  "end": 15.922,
+  "text": "He's quite poor."
+ },
+ {
+  "id": 8,
+  "start": 18.808,
+  "end": 19.387,
+  "text": "3"
+ },
+ {
+  "id": 9,
+  "start": 20.427,
+  "end": 22.541,
+  "text": "Their new house is finished now"
+ },
+ {
+  "id": 10,
+  "start": 22.819,
+  "end": 24.121,
+  "text": "and it's very modern."
+ },
+ {
+  "id": 11,
+  "start": 27.055,
+  "end": 27.642,
+  "text": "4"
+ },
+ {
+  "id": 12,
+  "start": 28.46,
+  "end": 30.317,
+  "text": "He buys anything he wants,"
+ },
+ {
+  "id": 13,
+  "start": 30.484,
+  "end": 32.071,
+  "text": "so I think he's rich."
+ }
+];

@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.666,
+  "text": "Track 05.04"
+ },
+ {
+  "id": 2,
+  "start": 2.595,
+  "end": 4.857,
+  "text": "There’s a good hotel in the town centre."
+ },
+ {
+  "id": 3,
+  "start": 7.383,
+  "end": 9.238,
+  "text": "There isn’t a cinema in the town."
+ },
+ {
+  "id": 4,
+  "start": 11.78,
+  "end": 13.435,
+  "text": "There are some nice cafés."
+ },
+ {
+  "id": 5,
+  "start": 15.956,
+  "end": 17.544,
+  "text": "There aren’t any parks."
+ },
+ {
+  "id": 6,
+  "start": 19.99,
+  "end": 21.992,
+  "text": "Is there a good hotel in the town?"
+ },
+ {
+  "id": 7,
+  "start": 22.902,
+  "end": 24.062,
+  "text": "Yes, there is."
+ },
+ {
+  "id": 8,
+  "start": 24.806,
+  "end": 26.038,
+  "text": "No, there isn’t."
+ },
+ {
+  "id": 9,
+  "start": 28.426,
+  "end": 30.222,
+  "text": "Are there any good restaurants?"
+ },
+ {
+  "id": 10,
+  "start": 30.91,
+  "end": 32.071,
+  "text": "Yes, there are."
+ },
+ {
+  "id": 11,
+  "start": 32.745,
+  "end": 33.943,
+  "text": "No, there aren’t."
+ }
+]

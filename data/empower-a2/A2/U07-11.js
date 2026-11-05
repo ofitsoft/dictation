@@ -1,0 +1,92 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U07-11"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.825,
+  "text": "Track 07.11"
+ },
+ {
+  "id": 2,
+  "start": 3.373,
+  "end": 5.81,
+  "text": "Yes, I love going on the metro,"
+ },
+ {
+  "id": 3,
+  "start": 6.016,
+  "end": 7.079,
+  "text": "it’s so quick."
+ },
+ {
+  "id": 4,
+  "start": 9.196,
+  "end": 9.969,
+  "text": "No,"
+ },
+ {
+  "id": 5,
+  "start": 10.31,
+  "end": 12.137,
+  "text": "I don’t like using the metro,"
+ },
+ {
+  "id": 6,
+  "start": 12.137,
+  "end": 13.835,
+  "text": "it’s so crowded."
+ },
+ {
+  "id": 7,
+  "start": 15.942,
+  "end": 18.205,
+  "text": "Oh, I love the stations."
+ },
+ {
+  "id": 8,
+  "start": 18.538,
+  "end": 19.907,
+  "text": "I think they’re beautiful."
+ },
+ {
+  "id": 9,
+  "start": 21.878,
+  "end": 23.228,
+  "text": "Yes, of course,"
+ },
+ {
+  "id": 10,
+  "start": 23.609,
+  "end": 25.276,
+  "text": "I go everywhere by car."
+ },
+ {
+  "id": 11,
+  "start": 25.545,
+  "end": 27.308,
+  "text": "I like driving in Moscow."
+ },
+ {
+  "id": 12,
+  "start": 29.529,
+  "end": 31.043,
+  "text": "I hate sitting in traffic,"
+ },
+ {
+  "id": 13,
+  "start": 31.043,
+  "end": 32.257,
+  "text": "it’s so boring."
+ },
+ {
+  "id": 14,
+  "start": 34.246,
+  "end": 36.048,
+  "text": "Oh, I don’t mind it,"
+ },
+ {
+  "id": 15,
+  "start": 36.253,
+  "end": 37.635,
+  "text": "it’s not too bad."
+ }
+];

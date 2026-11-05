@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U12-13"]=[
+ {
+  "id": 1,
+  "start": 0.01,
+  "end": 1.871,
+  "text": "Track 12.13"
+ },
+ {
+  "id": 2,
+  "start": 3.498,
+  "end": 4.013,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.967,
+  "end": 6.15,
+  "text": "I’m getting married."
+ },
+ {
+  "id": 4,
+  "start": 6.788,
+  "end": 7.503,
+  "text": "Are you?"
+ },
+ {
+  "id": 5,
+  "start": 9.403,
+  "end": 9.892,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 10.795,
+  "end": 12.469,
+  "text": "I really like grammar."
+ },
+ {
+  "id": 7,
+  "start": 13.1,
+  "end": 13.804,
+  "text": "Do you?"
+ },
+ {
+  "id": 8,
+  "start": 15.703,
+  "end": 16.275,
+  "text": "3"
+ },
+ {
+  "id": 9,
+  "start": 17.251,
+  "end": 19.207,
+  "text": "I went to New York for the weekend."
+ },
+ {
+  "id": 10,
+  "start": 19.746,
+  "end": 20.461,
+  "text": "Did you?"
+ },
+ {
+  "id": 11,
+  "start": 22.352,
+  "end": 22.949,
+  "text": "4"
+ },
+ {
+  "id": 12,
+  "start": 23.888,
+  "end": 25.493,
+  "text": "I’ve eaten an insect."
+ },
+ {
+  "id": 13,
+  "start": 25.83,
+  "end": 26.567,
+  "text": "Have you?"
+ }
+];

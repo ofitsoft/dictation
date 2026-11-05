@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "start": 0.309,
+  "end": 2.693,
+  "text": "Track 03.20"
+ },
+ {
+  "id": 2,
+  "start": 4.135,
+  "end": 6.079,
+  "text": "We always have breakfast"
+ },
+ {
+  "id": 3,
+  "start": 6.119,
+  "end": 7.452,
+  "text": "at seven o’clock."
+ },
+ {
+  "id": 4,
+  "start": 9.728,
+  "end": 12.442,
+  "text": "I usually have a sandwich for lunch."
+ },
+ {
+  "id": 5,
+  "start": 14.539,
+  "end": 17.103,
+  "text": "We sometimes eat fish for dinner."
+ },
+ {
+  "id": 6,
+  "start": 19.302,
+  "end": 21.063,
+  "text": "I never eat cake."
+ }
+]

@@ -1,0 +1,146 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U05-07"]=[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.698,
+  "text": "Track 05.07"
+ },
+ {
+  "id": 2,
+  "start": 4.151,
+  "end": 5.888,
+  "text": "Excuse me!"
+ },
+ {
+  "id": 3,
+  "start": 5.913,
+  "end": 7.657,
+  "text": "Where are the shops?"
+ },
+ {
+  "id": 4,
+  "start": 7.69,
+  "end": 9.079,
+  "text": "Are they near here?"
+ },
+ {
+  "id": 5,
+  "start": 9.27,
+  "end": 11.246,
+  "text": "Yes, there are a few shops"
+ },
+ {
+  "id": 6,
+  "start": 11.271,
+  "end": 14.198,
+  "text": "in New Street, that’s just near here."
+ },
+ {
+  "id": 7,
+  "start": 14.402,
+  "end": 16.314,
+  "text": "There’s a small food shop"
+ },
+ {
+  "id": 8,
+  "start": 16.427,
+  "end": 18.697,
+  "text": "and there’s also a good bookshop."
+ },
+ {
+  "id": 9,
+  "start": 19.053,
+  "end": 21.049,
+  "text": "It’s really big and the people"
+ },
+ {
+  "id": 10,
+  "start": 21.05,
+  "end": 22.405,
+  "text": "there are very nice!"
+ },
+ {
+  "id": 11,
+  "start": 22.913,
+  "end": 25.712,
+  "text": "Oh, and there’s a nice Italian café"
+ },
+ {
+  "id": 12,
+  "start": 25.713,
+  "end": 27.949,
+  "text": "in New Street, near the station."
+ },
+ {
+  "id": 13,
+  "start": 28.53,
+  "end": 30.545,
+  "text": "They have very good cakes,"
+ },
+ {
+  "id": 14,
+  "start": 30.57,
+  "end": 32.038,
+  "text": "and great coffee."
+ },
+ {
+  "id": 15,
+  "start": 32.444,
+  "end": 33.793,
+  "text": "What about a bank?"
+ },
+ {
+  "id": 16,
+  "start": 33.821,
+  "end": 34.837,
+  "text": "A bank …"
+ },
+ {
+  "id": 17,
+  "start": 35.178,
+  "end": 38.051,
+  "text": "Yes, there’s a bank in Old Street."
+ },
+ {
+  "id": 18,
+  "start": 38.131,
+  "end": 39.543,
+  "text": "It’s near the school."
+ },
+ {
+  "id": 19,
+  "start": 39.67,
+  "end": 40.892,
+  "text": "And restaurants?"
+ },
+ {
+  "id": 20,
+  "start": 40.983,
+  "end": 42.626,
+  "text": "Well, there’s a new"
+ },
+ {
+  "id": 21,
+  "start": 42.651,
+  "end": 44.261,
+  "text": "Chinese restaurant."
+ },
+ {
+  "id": 22,
+  "start": 44.419,
+  "end": 46.023,
+  "text": "That’s in Old Street."
+ },
+ {
+  "id": 23,
+  "start": 46.175,
+  "end": 47.77,
+  "text": "It’s near the cinema."
+ },
+ {
+  "id": 24,
+  "start": 48.065,
+  "end": 49.954,
+  "text": "But it’s expensive."
+ }
+];

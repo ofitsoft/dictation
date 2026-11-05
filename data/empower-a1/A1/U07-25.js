@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U07-25"]=[
+ {
+  "id": 1,
+  "start": 0.23,
+  "end": 2.912,
+  "text": "Track 07.25"
+ },
+ {
+  "id": 2,
+  "start": 4.59,
+  "end": 7.456,
+  "text": "OK, that’s two pounds, please."
+ },
+ {
+  "id": 3,
+  "start": 7.483,
+  "end": 8.356,
+  "text": "Here you are."
+ },
+ {
+  "id": 4,
+  "start": 8.855,
+  "end": 10.783,
+  "text": "Enter your PIN, please."
+ },
+ {
+  "id": 5,
+  "start": 10.831,
+  "end": 12.053,
+  "text": "OK, no problem."
+ },
+ {
+  "id": 6,
+  "start": 12.54,
+  "end": 14.302,
+  "text": "Here’s your receipt."
+ }
+];

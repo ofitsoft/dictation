@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.381,
+  "end": 2.722,
+  "text": "Track 01.27"
+ },
+ {
+  "id": 2,
+  "start": 4.16,
+  "end": 5.152,
+  "text": "A"
+ },
+ {
+  "id": 3,
+  "start": 6.322,
+  "end": 7.711,
+  "text": "I’m fine, thanks."
+ },
+ {
+  "id": 4,
+  "start": 8.537,
+  "end": 9.767,
+  "text": "I’m good, thank you."
+ },
+ {
+  "id": 5,
+  "start": 11.438,
+  "end": 12.399,
+  "text": "B"
+ },
+ {
+  "id": 6,
+  "start": 13.56,
+  "end": 15.139,
+  "text": "I’m OK, thank you."
+ },
+ {
+  "id": 7,
+  "start": 15.96,
+  "end": 17.659,
+  "text": "Oh, not bad, thanks."
+ }
+]

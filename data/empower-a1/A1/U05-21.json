@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.698,
+  "text": "Track 05.21"
+ },
+ {
+  "id": 2,
+  "start": 3.119,
+  "end": 4.333,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.881,
+  "end": 7.857,
+  "text": "My country is very hot in summer."
+ },
+ {
+  "id": 4,
+  "start": 8.794,
+  "end": 10.103,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 11.554,
+  "end": 14.546,
+  "text": "James’s new car is really fast."
+ },
+ {
+  "id": 6,
+  "start": 16.398,
+  "end": 17.732,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 18.151,
+  "end": 20.802,
+  "text": "This film is so boring."
+ }
+]

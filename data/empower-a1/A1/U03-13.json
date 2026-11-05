@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "start": 0.323,
+  "end": 2.693,
+  "text": "Track 03.13"
+ },
+ {
+  "id": 2,
+  "start": 3.19,
+  "end": 4.206,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.96,
+  "end": 6.992,
+  "text": "I have lunch at one o’clock."
+ },
+ {
+  "id": 4,
+  "start": 7.841,
+  "end": 8.909,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 9.543,
+  "end": 12.233,
+  "text": "They have dinner at six o’clock."
+ },
+ {
+  "id": 6,
+  "start": 12.965,
+  "end": 14.187,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 14.746,
+  "end": 16.794,
+  "text": "In my family, we have"
+ },
+ {
+  "id": 8,
+  "start": 16.841,
+  "end": 19.246,
+  "text": "breakfast at seven o’clock."
+ }
+]

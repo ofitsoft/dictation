@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.323,
+  "end": 2.693,
+  "text": "Track 03.26"
+ },
+ {
+  "id": 2,
+  "start": 4.563,
+  "end": 5.667,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.786,
+  "end": 9.635,
+  "text": "I’d like a cup of coffee, please."
+ },
+ {
+  "id": 4,
+  "start": 10.305,
+  "end": 11.321,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 13.54,
+  "end": 14.968,
+  "text": "Can I have a cup of tea,"
+ },
+ {
+  "id": 6,
+  "start": 14.993,
+  "end": 15.809,
+  "text": "a cup of coffee"
+ },
+ {
+  "id": 7,
+  "start": 15.833,
+  "end": 17.897,
+  "text": "and a piece of chocolate cake, please?"
+ }
+]

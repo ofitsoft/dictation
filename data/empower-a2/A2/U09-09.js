@@ -1,0 +1,98 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U09-09"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 1.738,
+  "text": "Track 09.09"
+ },
+ {
+  "id": 2,
+  "start": 7.284,
+  "end": 7.738,
+  "text": "Hello?"
+ },
+ {
+  "id": 3,
+  "start": 8.683,
+  "end": 10.278,
+  "text": "Hi, Lucas! Are you busy?"
+ },
+ {
+  "id": 4,
+  "start": 10.493,
+  "end": 12.168,
+  "text": "Hi! Yes,"
+ },
+ {
+  "id": 5,
+  "start": 12.939,
+  "end": 13.775,
+  "text": "I’m getting ready"
+ },
+ {
+  "id": 6,
+  "start": 13.775,
+  "end": 15.408,
+  "text": "to go out to a street party."
+ },
+ {
+  "id": 7,
+  "start": 15.707,
+  "end": 16.391,
+  "text": "Oh sorry."
+ },
+ {
+  "id": 8,
+  "start": 16.827,
+  "end": 17.578,
+  "text": "I can call back."
+ },
+ {
+  "id": 9,
+  "start": 17.891,
+  "end": 18.889,
+  "text": "OK, thanks."
+ },
+ {
+  "id": 10,
+  "start": 19.563,
+  "end": 21.86,
+  "text": "I usually don’t go out much during the week,"
+ },
+ {
+  "id": 11,
+  "start": 21.932,
+  "end": 23.524,
+  "text": "but it’s New Year."
+ },
+ {
+  "id": 12,
+  "start": 23.871,
+  "end": 24.492,
+  "text": "Of course."
+ },
+ {
+  "id": 13,
+  "start": 24.741,
+  "end": 25.981,
+  "text": "Sorry, Johannes."
+ },
+ {
+  "id": 14,
+  "start": 26.442,
+  "end": 27.886,
+  "text": "My friends are arriving."
+ },
+ {
+  "id": 15,
+  "start": 28.336,
+  "end": 29.425,
+  "text": "I have to go now."
+ },
+ {
+  "id": 16,
+  "start": 29.973,
+  "end": 31.057,
+  "text": "We can speak later."
+ }
+];

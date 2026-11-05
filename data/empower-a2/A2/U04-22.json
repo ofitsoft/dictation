@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 0.013,
+  "end": 1.921,
+  "text": "Track 04.22"
+ },
+ {
+  "id": 2,
+  "start": 3.582,
+  "end": 6.447,
+  "text": "For my starter I’ll have mushroom soup."
+ },
+ {
+  "id": 3,
+  "start": 7.55,
+  "end": 9.385,
+  "text": "And then I’d like chicken curry"
+ },
+ {
+  "id": 4,
+  "start": 9.629,
+  "end": 10.804,
+  "text": "for my main course."
+ },
+ {
+  "id": 5,
+  "start": 11.666,
+  "end": 14.02,
+  "text": "And I’ll have some rice with my curry."
+ }
+]

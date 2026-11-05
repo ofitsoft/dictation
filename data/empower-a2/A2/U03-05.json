@@ -1,0 +1,68 @@
+[
+ {
+  "id": 1,
+  "start": 0.01,
+  "end": 1.769,
+  "text": "Track 03.05"
+ },
+ {
+  "id": 2,
+  "start": 2.474,
+  "end": 5.643,
+  "text": "How often do you and your family do things together?"
+ },
+ {
+  "id": 3,
+  "start": 6.017,
+  "end": 7.324,
+  "text": "About once a week."
+ },
+ {
+  "id": 4,
+  "start": 7.896,
+  "end": 8.873,
+  "text": "What do you do?"
+ },
+ {
+  "id": 5,
+  "start": 9.326,
+  "end": 12.075,
+  "text": "We usually go for a picnic or to a restaurant."
+ },
+ {
+  "id": 6,
+  "start": 12.617,
+  "end": 14.354,
+  "text": "Do you do that at the weekend?"
+ },
+ {
+  "id": 7,
+  "start": 14.694,
+  "end": 16.34,
+  "text": "Yes, every Sunday,"
+ },
+ {
+  "id": 8,
+  "start": 16.999,
+  "end": 18.849,
+  "text": "but we sometimes go to the cinema."
+ },
+ {
+  "id": 9,
+  "start": 19.573,
+  "end": 20.966,
+  "text": "Do you do anything else?"
+ },
+ {
+  "id": 10,
+  "start": 21.324,
+  "end": 24.623,
+  "text": "Well, about twice a year we go away for a weekend."
+ },
+ {
+  "id": 11,
+  "start": 25.013,
+  "end": 27.773,
+  "text": "It sounds like you have a nice time with your family."
+ }
+]

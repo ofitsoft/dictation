@@ -1,0 +1,146 @@
+[
+ {
+  "id": 1,
+  "start": 0.452,
+  "end": 2.548,
+  "text": "Track 12.10"
+ },
+ {
+  "id": 2,
+  "start": 4.162,
+  "end": 5.225,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 6.441,
+  "end": 7.91,
+  "text": "do sport"
+ },
+ {
+  "id": 4,
+  "start": 9.349,
+  "end": 10.944,
+  "text": "do your homework"
+ },
+ {
+  "id": 5,
+  "start": 12.717,
+  "end": 13.662,
+  "text": "2"
+ },
+ {
+  "id": 6,
+  "start": 14.936,
+  "end": 17.364,
+  "text": "invite someone to a party"
+ },
+ {
+  "id": 7,
+  "start": 19.184,
+  "end": 20.382,
+  "text": "3"
+ },
+ {
+  "id": 8,
+  "start": 21.697,
+  "end": 23.395,
+  "text": "visit a friend"
+ },
+ {
+  "id": 9,
+  "start": 25.144,
+  "end": 26.248,
+  "text": "4"
+ },
+ {
+  "id": 10,
+  "start": 27.425,
+  "end": 28.917,
+  "text": "make a list"
+ },
+ {
+  "id": 11,
+  "start": 30.269,
+  "end": 31.61,
+  "text": "make lunch"
+ },
+ {
+  "id": 12,
+  "start": 33.431,
+  "end": 34.494,
+  "text": "5"
+ },
+ {
+  "id": 13,
+  "start": 35.68,
+  "end": 37.394,
+  "text": "paint a picture"
+ },
+ {
+  "id": 14,
+  "start": 38.674,
+  "end": 40.372,
+  "text": "paint a wall"
+ },
+ {
+  "id": 15,
+  "start": 42.179,
+  "end": 43.369,
+  "text": "6"
+ },
+ {
+  "id": 16,
+  "start": 44.689,
+  "end": 46.284,
+  "text": "clean your flat"
+ },
+ {
+  "id": 17,
+  "start": 47.223,
+  "end": 49.104,
+  "text": "clean your windows"
+ },
+ {
+  "id": 18,
+  "start": 50.868,
+  "end": 52.082,
+  "text": "7"
+ },
+ {
+  "id": 19,
+  "start": 53.221,
+  "end": 54.832,
+  "text": "use your phone"
+ },
+ {
+  "id": 20,
+  "start": 55.953,
+  "end": 57.889,
+  "text": "use the Internet"
+ },
+ {
+  "id": 21,
+  "start": 59.546,
+  "end": 60.419,
+  "text": "8"
+ },
+ {
+  "id": 22,
+  "start": 61.476,
+  "end": 62.944,
+  "text": "go for a walk"
+ },
+ {
+  "id": 23,
+  "start": 63.786,
+  "end": 65.024,
+  "text": "go shopping"
+ },
+ {
+  "id": 24,
+  "start": 66.111,
+  "end": 67.889,
+  "text": "go to a museum"
+ }
+]

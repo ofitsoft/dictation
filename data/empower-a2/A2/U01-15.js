@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U01-15"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 2.071,
+  "text": "Track 01.15"
+ },
+ {
+  "id": 2,
+  "start": 3.627,
+  "end": 5.659,
+  "text": "My friend Tony’s English."
+ },
+ {
+  "id": 3,
+  "start": 5.976,
+  "end": 7.222,
+  "text": "He’s very kind."
+ },
+ {
+  "id": 4,
+  "start": 7.499,
+  "end": 8.716,
+  "text": "Is he from London?"
+ },
+ {
+  "id": 5,
+  "start": 9.049,
+  "end": 10.311,
+  "text": "Yes, he is."
+ },
+ {
+  "id": 6,
+  "start": 11.748,
+  "end": 12.605,
+  "text": "My friends,"
+ },
+ {
+  "id": 7,
+  "start": 12.605,
+  "end": 13.351,
+  "text": "Joe and Mel,"
+ },
+ {
+  "id": 8,
+  "start": 13.351,
+  "end": 14.184,
+  "text": "are American."
+ },
+ {
+  "id": 9,
+  "start": 14.732,
+  "end": 16.556,
+  "text": "They’re very warm and friendly."
+ },
+ {
+  "id": 10,
+  "start": 17.341,
+  "end": 18.214,
+  "text": "Are they married?"
+ },
+ {
+  "id": 11,
+  "start": 18.619,
+  "end": 19.841,
+  "text": "No, they aren’t."
+ },
+ {
+  "id": 12,
+  "start": 20.246,
+  "end": 21.635,
+  "text": "They’re just good friends."
+ }
+];

@@ -1,0 +1,26 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U05-02"]=[
+ {
+  "id": 1,
+  "start": 0.427,
+  "end": 2.476,
+  "text": "Track 05.02"
+ },
+ {
+  "id": 2,
+  "start": 3.254,
+  "end": 4.762,
+  "text": "There’s a café."
+ },
+ {
+  "id": 3,
+  "start": 6.405,
+  "end": 8.048,
+  "text": "There’s one café."
+ },
+ {
+  "id": 4,
+  "start": 10.257,
+  "end": 15.889,
+  "text": "There are cafés. There are three cafés."
+ }
+];

@@ -1,0 +1,392 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U11-11"]=[
+ {
+  "id": 1,
+  "start": 0.5,
+  "end": 2.405,
+  "text": "Track 11.11"
+ },
+ {
+  "id": 2,
+  "start": 4.368,
+  "end": 7.728,
+  "text": "Hey, Alana, have you seen this article?"
+ },
+ {
+  "id": 3,
+  "start": 8.348,
+  "end": 10.013,
+  "text": "It says Budapest is one"
+ },
+ {
+  "id": 4,
+  "start": 10.013,
+  "end": 12.378,
+  "text": "of the world’s top cities for music."
+ },
+ {
+  "id": 5,
+  "start": 13.053,
+  "end": 14.099,
+  "text": "I didn’t know that."
+ },
+ {
+  "id": 6,
+  "start": 14.124,
+  "end": 15.251,
+  "text": "You didn’t?"
+ },
+ {
+  "id": 7,
+  "start": 15.651,
+  "end": 17.616,
+  "text": "There’s so much good music"
+ },
+ {
+  "id": 8,
+  "start": 17.616,
+  "end": 19.449,
+  "text": "here in Budapest, Max!"
+ },
+ {
+  "id": 9,
+  "start": 19.75,
+  "end": 20.782,
+  "text": "I haven’t been"
+ },
+ {
+  "id": 10,
+  "start": 20.782,
+  "end": 22.732,
+  "text": "to any of these places"
+ },
+ {
+  "id": 11,
+  "start": 22.937,
+  "end": 25.217,
+  "text": "and I’ve lived here for over a year."
+ },
+ {
+  "id": 12,
+  "start": 26.033,
+  "end": 29.056,
+  "text": "You’ve lived here since you were 13, right?"
+ },
+ {
+  "id": 13,
+  "start": 29.628,
+  "end": 31.89,
+  "text": "Have you ever been to these places?"
+ },
+ {
+  "id": 14,
+  "start": 32.533,
+  "end": 34.602,
+  "text": "What places do you mean?"
+ },
+ {
+  "id": 15,
+  "start": 35.356,
+  "end": 36.947,
+  "text": "Like Szimpla Kert."
+ },
+ {
+  "id": 16,
+  "start": 37.675,
+  "end": 38.923,
+  "text": "The article says"
+ },
+ {
+  "id": 17,
+  "start": 38.923,
+  "end": 41.814,
+  "text": "it’s a famous place to hear music,"
+ },
+ {
+  "id": 18,
+  "start": 42.332,
+  "end": 44.173,
+  "text": "but I’ve never heard of it."
+ },
+ {
+  "id": 19,
+  "start": 45.048,
+  "end": 47.781,
+  "text": "Have you ever been to Szimpla Kert?"
+ },
+ {
+  "id": 20,
+  "start": 48.036,
+  "end": 51.5,
+  "text": "Yes, I went there two weeks ago."
+ },
+ {
+  "id": 21,
+  "start": 51.984,
+  "end": 54.111,
+  "text": "They had a really good band."
+ },
+ {
+  "id": 22,
+  "start": 54.518,
+  "end": 55.977,
+  "text": "Oh right,"
+ },
+ {
+  "id": 23,
+  "start": 56.719,
+  "end": 59.872,
+  "text": "and what about the A38 Ship?"
+ },
+ {
+  "id": 24,
+  "start": 60.112,
+  "end": 63.293,
+  "text": "Well that’s the ship on the river."
+ },
+ {
+  "id": 25,
+  "start": 63.687,
+  "end": 65.483,
+  "text": "You must know that!"
+ },
+ {
+  "id": 26,
+  "start": 65.76,
+  "end": 66.753,
+  "text": "Sure,"
+ },
+ {
+  "id": 27,
+  "start": 66.944,
+  "end": 68.021,
+  "text": "I know it,"
+ },
+ {
+  "id": 28,
+  "start": 68.493,
+  "end": 70.648,
+  "text": "but I’ve never been inside."
+ },
+ {
+  "id": 29,
+  "start": 71.314,
+  "end": 72.608,
+  "text": "Have you been there?"
+ },
+ {
+  "id": 30,
+  "start": 72.862,
+  "end": 75.505,
+  "text": "Yes, of course I have."
+ },
+ {
+  "id": 31,
+  "start": 76.013,
+  "end": 79.504,
+  "text": "We all went there for Zoltan’s birthday."
+ },
+ {
+  "id": 32,
+  "start": 79.719,
+  "end": 82.274,
+  "text": "We had a fantastic time."
+ },
+ {
+  "id": 33,
+  "start": 82.806,
+  "end": 83.813,
+  "text": "Didn’t you come?"
+ },
+ {
+  "id": 34,
+  "start": 83.925,
+  "end": 85.863,
+  "text": "Zoltan’s birthday?"
+ },
+ {
+  "id": 35,
+  "start": 86.616,
+  "end": 88.776,
+  "text": "Oh I remember,"
+ },
+ {
+  "id": 36,
+  "start": 89.014,
+  "end": 90.493,
+  "text": "I had exams,"
+ },
+ {
+  "id": 37,
+  "start": 90.493,
+  "end": 91.707,
+  "text": "I couldn’t go."
+ },
+ {
+  "id": 38,
+  "start": 92.599,
+  "end": 93.784,
+  "text": "OK, well"
+ },
+ {
+  "id": 39,
+  "start": 94.672,
+  "end": 96.455,
+  "text": "I bet you’ve never been"
+ },
+ {
+  "id": 40,
+  "start": 96.455,
+  "end": 97.487,
+  "text": "to a concert"
+ },
+ {
+  "id": 41,
+  "start": 97.487,
+  "end": 99.757,
+  "text": "at the National Concert Hall."
+ },
+ {
+  "id": 42,
+  "start": 100.328,
+  "end": 102.947,
+  "text": "I’ve heard it’s really expensive."
+ },
+ {
+  "id": 43,
+  "start": 103.237,
+  "end": 105.913,
+  "text": "Yes, I have, actually."
+ },
+ {
+  "id": 44,
+  "start": 106.359,
+  "end": 108.245,
+  "text": "I went there last year."
+ },
+ {
+  "id": 45,
+  "start": 108.869,
+  "end": 111.703,
+  "text": "It was my Dad’s 50th birthday;"
+ },
+ {
+  "id": 46,
+  "start": 112.206,
+  "end": 113.7,
+  "text": "we went to the opera."
+ },
+ {
+  "id": 47,
+  "start": 113.953,
+  "end": 114.891,
+  "text": "Really?"
+ },
+ {
+  "id": 48,
+  "start": 115.663,
+  "end": 117.306,
+  "text": "What did you see?"
+ },
+ {
+  "id": 49,
+  "start": 117.465,
+  "end": 119.552,
+  "text": "I don’t remember,"
+ },
+ {
+  "id": 50,
+  "start": 119.762,
+  "end": 121.978,
+  "text": "something by Mozart."
+ },
+ {
+  "id": 51,
+  "start": 122.742,
+  "end": 124.565,
+  "text": "I didn’t like it much."
+ },
+ {
+  "id": 52,
+  "start": 124.704,
+  "end": 127.113,
+  "text": "You’ve been everywhere."
+ },
+ {
+  "id": 53,
+  "start": 128.493,
+  "end": 131.703,
+  "text": "Yeah, well you should go out more –"
+ },
+ {
+  "id": 54,
+  "start": 132.25,
+  "end": 135.216,
+  "text": "you spend too much time studying."
+ },
+ {
+  "id": 55,
+  "start": 135.906,
+  "end": 136.414,
+  "text": "Look,"
+ },
+ {
+  "id": 56,
+  "start": 137.041,
+  "end": 138.551,
+  "text": "it’s a nice evening,"
+ },
+ {
+  "id": 57,
+  "start": 139.111,
+  "end": 140.564,
+  "text": "why don’t we go down"
+ },
+ {
+  "id": 58,
+  "start": 140.564,
+  "end": 142.564,
+  "text": "to the A38 Ship"
+ },
+ {
+  "id": 59,
+  "start": 142.953,
+  "end": 144.58,
+  "text": "and sit outside."
+ },
+ {
+  "id": 60,
+  "start": 145.202,
+  "end": 146.551,
+  "text": "I love going there."
+ },
+ {
+  "id": 61,
+  "start": 147.236,
+  "end": 149.259,
+  "text": "We can watch the sun go down."
+ },
+ {
+  "id": 62,
+  "start": 149.564,
+  "end": 150.325,
+  "text": "Mm,"
+ },
+ {
+  "id": 63,
+  "start": 150.387,
+  "end": 152.267,
+  "text": "well I’d love to,"
+ },
+ {
+  "id": 64,
+  "start": 152.614,
+  "end": 154.791,
+  "text": "I’ve always wanted to go there."
+ },
+ {
+  "id": 65,
+  "start": 155.372,
+  "end": 157.976,
+  "text": "But I have this essay to write ..."
+ }
+];

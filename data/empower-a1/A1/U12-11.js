@@ -1,0 +1,104 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U12-11"]=[
+ {
+  "id": 1,
+  "start": 0.357,
+  "end": 2.437,
+  "text": "Track 12.11"
+ },
+ {
+  "id": 2,
+  "start": 5.393,
+  "end": 6.655,
+  "text": "clean a room"
+ },
+ {
+  "id": 3,
+  "start": 8.458,
+  "end": 9.744,
+  "text": "clean your flat"
+ },
+ {
+  "id": 4,
+  "start": 11.565,
+  "end": 13.391,
+  "text": "exercise at the gym"
+ },
+ {
+  "id": 5,
+  "start": 15.244,
+  "end": 16.562,
+  "text": "go to the beach"
+ },
+ {
+  "id": 6,
+  "start": 18.383,
+  "end": 19.788,
+  "text": "go to a museum"
+ },
+ {
+  "id": 7,
+  "start": 21.616,
+  "end": 22.822,
+  "text": "make a cake"
+ },
+ {
+  "id": 8,
+  "start": 24.659,
+  "end": 26.048,
+  "text": "visit a friend"
+ },
+ {
+  "id": 9,
+  "start": 27.838,
+  "end": 29.282,
+  "text": "visit Paris"
+ },
+ {
+  "id": 10,
+  "start": 31.079,
+  "end": 33.19,
+  "text": "invite someone to a party"
+ },
+ {
+  "id": 11,
+  "start": 34.964,
+  "end": 36.869,
+  "text": "invite someone for a meal"
+ },
+ {
+  "id": 12,
+  "start": 38.738,
+  "end": 40.349,
+  "text": "use a computer"
+ },
+ {
+  "id": 13,
+  "start": 42.164,
+  "end": 43.577,
+  "text": "use the Internet"
+ },
+ {
+  "id": 14,
+  "start": 45.365,
+  "end": 46.453,
+  "text": "do yoga"
+ },
+ {
+  "id": 15,
+  "start": 48.218,
+  "end": 49.694,
+  "text": "do your homework"
+ },
+ {
+  "id": 16,
+  "start": 51.46,
+  "end": 52.761,
+  "text": "do the washing"
+ },
+ {
+  "id": 17,
+  "start": 54.556,
+  "end": 55.873,
+  "text": "do sport"
+ }
+];

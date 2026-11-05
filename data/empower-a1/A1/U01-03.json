@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 0.397,
+  "end": 2.437,
+  "text": "Track 01.03"
+ },
+ {
+  "id": 2,
+  "start": 3.662,
+  "end": 5.066,
+  "text": "I’m fine."
+ },
+ {
+  "id": 3,
+  "start": 7.125,
+  "end": 8.315,
+  "text": "You’re right."
+ },
+ {
+  "id": 4,
+  "start": 10.58,
+  "end": 12.684,
+  "text": "We’re from the USA."
+ },
+ {
+  "id": 5,
+  "start": 14.743,
+  "end": 16.671,
+  "text": "You’re John and Hannah."
+ }
+]

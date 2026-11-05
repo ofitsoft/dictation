@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "start": 0.389,
+  "end": 2.619,
+  "text": "Track 09.18"
+ },
+ {
+  "id": 2,
+  "start": 4.349,
+  "end": 5.762,
+  "text": "How did you get there?"
+ },
+ {
+  "id": 3,
+  "start": 5.971,
+  "end": 7.4,
+  "text": "By train."
+ },
+ {
+  "id": 4,
+  "start": 7.695,
+  "end": 8.83,
+  "text": "And, you know,"
+ },
+ {
+  "id": 5,
+  "start": 8.888,
+  "end": 10.96,
+  "text": "the weather was really warm."
+ },
+ {
+  "id": 6,
+  "start": 11.267,
+  "end": 12.91,
+  "text": "Did you enjoy it there?"
+ },
+ {
+  "id": 7,
+  "start": 13.137,
+  "end": 14.517,
+  "text": "Yes, I did."
+ },
+ {
+  "id": 8,
+  "start": 14.717,
+  "end": 16.249,
+  "text": "I had a great time."
+ },
+ {
+  "id": 9,
+  "start": 16.496,
+  "end": 18.639,
+  "text": "Try to go this year!"
+ }
+]

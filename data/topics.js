@@ -54,5 +54,117 @@ window.DICT=window.DICT||{};DICT["topics"]=[
     "count": 30
    }
   ]
+ },
+ {
+  "id": "empower-a1",
+  "title": "Empower A1",
+  "levels": "A1",
+  "lessons": 337,
+  "groups": [
+   {
+    "title": "Unit 1",
+    "count": 33
+   },
+   {
+    "title": "Unit 2",
+    "count": 32
+   },
+   {
+    "title": "Unit 3",
+    "count": 30
+   },
+   {
+    "title": "Unit 4",
+    "count": 24
+   },
+   {
+    "title": "Unit 5",
+    "count": 28
+   },
+   {
+    "title": "Unit 6",
+    "count": 27
+   },
+   {
+    "title": "Unit 7",
+    "count": 28
+   },
+   {
+    "title": "Unit 8",
+    "count": 29
+   },
+   {
+    "title": "Unit 9",
+    "count": 30
+   },
+   {
+    "title": "Unit 10",
+    "count": 26
+   },
+   {
+    "title": "Unit 11",
+    "count": 24
+   },
+   {
+    "title": "Unit 12",
+    "count": 26
+   }
+  ]
+ },
+ {
+  "id": "empower-a2",
+  "title": "Empower A2",
+  "levels": "A2",
+  "lessons": 247,
+  "groups": [
+   {
+    "title": "Unit 1",
+    "count": 25
+   },
+   {
+    "title": "Unit 2",
+    "count": 21
+   },
+   {
+    "title": "Unit 3",
+    "count": 20
+   },
+   {
+    "title": "Unit 4",
+    "count": 24
+   },
+   {
+    "title": "Unit 5",
+    "count": 19
+   },
+   {
+    "title": "Unit 6",
+    "count": 25
+   },
+   {
+    "title": "Unit 7",
+    "count": 21
+   },
+   {
+    "title": "Unit 8",
+    "count": 15
+   },
+   {
+    "title": "Unit 9",
+    "count": 20
+   },
+   {
+    "title": "Unit 10",
+    "count": 14
+   },
+   {
+    "title": "Unit 11",
+    "count": 21
+   },
+   {
+    "title": "Unit 12",
+    "count": 22
+   }
+  ]
  }
 ];

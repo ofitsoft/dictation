@@ -1,0 +1,242 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U07-21"]=[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.905,
+  "text": "Track 07.21"
+ },
+ {
+  "id": 2,
+  "start": 3.19,
+  "end": 6.72,
+  "text": "So here are the photos and the profiles of the families I can choose from."
+ },
+ {
+  "id": 3,
+  "start": 6.836,
+  "end": 8.288,
+  "text": "Hmm – OK –"
+ },
+ {
+  "id": 4,
+  "start": 8.661,
+  "end": 11.435,
+  "text": "so two very different kinds of families."
+ },
+ {
+  "id": 5,
+  "start": 11.542,
+  "end": 13.485,
+  "text": "Yes, it’s difficult to decide."
+ },
+ {
+  "id": 6,
+  "start": 14.017,
+  "end": 16.6,
+  "text": "Well, both families look very friendly."
+ },
+ {
+  "id": 7,
+  "start": 16.751,
+  "end": 17.83,
+  "text": "Yeah, they do."
+ },
+ {
+  "id": 8,
+  "start": 18.135,
+  "end": 20.222,
+  "text": "And the Conways look very kind."
+ },
+ {
+  "id": 9,
+  "start": 20.46,
+  "end": 22.175,
+  "text": "But maybe a bit quiet?"
+ },
+ {
+  "id": 10,
+  "start": 22.442,
+  "end": 23.496,
+  "text": "Mm maybe."
+ },
+ {
+  "id": 11,
+  "start": 24.291,
+  "end": 26.657,
+  "text": "Look, the Philips like doing sport –"
+ },
+ {
+  "id": 12,
+  "start": 26.8,
+  "end": 28.673,
+  "text": "swimming, surfing – that kind of thing."
+ },
+ {
+  "id": 13,
+  "start": 28.957,
+  "end": 31.512,
+  "text": "Yeah, but I don’t like going to the beach much."
+ },
+ {
+  "id": 14,
+  "start": 31.537,
+  "end": 33.004,
+  "text": "I prefer playing football."
+ },
+ {
+  "id": 15,
+  "start": 33.385,
+  "end": 34.504,
+  "text": "You mean, soccer."
+ },
+ {
+  "id": 16,
+  "start": 34.924,
+  "end": 37.25,
+  "text": "In Australia, we say soccer, not football."
+ },
+ {
+  "id": 17,
+  "start": 37.665,
+  "end": 39.408,
+  "text": "Oh, of course, I forgot."
+ },
+ {
+  "id": 18,
+  "start": 39.484,
+  "end": 41.007,
+  "text": "And, I have to say,"
+ },
+ {
+  "id": 19,
+  "start": 41.007,
+  "end": 43.622,
+  "text": "in Australia soccer isn’t so popular."
+ },
+ {
+  "id": 20,
+  "start": 43.995,
+  "end": 45.749,
+  "text": "Everyone loves rugby."
+ },
+ {
+  "id": 21,
+  "start": 46.139,
+  "end": 48.647,
+  "text": "But the Conways like watching any sport,"
+ },
+ {
+  "id": 22,
+  "start": 48.698,
+  "end": 50.924,
+  "text": "so maybe I can watch soccer with them."
+ },
+ {
+  "id": 23,
+  "start": 51.202,
+  "end": 52.25,
+  "text": "That’d be nice."
+ },
+ {
+  "id": 24,
+  "start": 52.531,
+  "end": 53.65,
+  "text": "Yeah, that’s true."
+ },
+ {
+  "id": 25,
+  "start": 53.847,
+  "end": 56.038,
+  "text": "But you like listening to music, don’t you?"
+ },
+ {
+  "id": 26,
+  "start": 56.292,
+  "end": 57.268,
+  "text": "Yeah, I do."
+ },
+ {
+  "id": 27,
+  "start": 57.725,
+  "end": 60.318,
+  "text": "And the Philips like listening to music, too."
+ },
+ {
+  "id": 28,
+  "start": 60.651,
+  "end": 62.466,
+  "text": "I’m not sure about children."
+ },
+ {
+  "id": 29,
+  "start": 62.945,
+  "end": 64.252,
+  "text": "Children are fun."
+ },
+ {
+  "id": 30,
+  "start": 64.506,
+  "end": 66.901,
+  "text": "Yes, but maybe not so quiet …"
+ },
+ {
+  "id": 31,
+  "start": 67.18,
+  "end": 69.435,
+  "text": "No, not if you want to study."
+ },
+ {
+  "id": 32,
+  "start": 69.768,
+  "end": 71.562,
+  "text": "And I really want to study a lot."
+ },
+ {
+  "id": 33,
+  "start": 71.879,
+  "end": 73.931,
+  "text": "You also need to think about transport."
+ },
+ {
+  "id": 34,
+  "start": 74.308,
+  "end": 76.217,
+  "text": "It’s quite expensive in Sydney."
+ },
+ {
+  "id": 35,
+  "start": 76.618,
+  "end": 79.382,
+  "text": "So I can save money if I stay at the Conways?"
+ },
+ {
+  "id": 36,
+  "start": 79.819,
+  "end": 81.33,
+  "text": "Yeah, you probably can."
+ },
+ {
+  "id": 37,
+  "start": 81.441,
+  "end": 82.767,
+  "text": "You can walk everywhere."
+ },
+ {
+  "id": 38,
+  "start": 83.124,
+  "end": 84.949,
+  "text": "It really is hard to choose."
+ },
+ {
+  "id": 39,
+  "start": 85.091,
+  "end": 86.164,
+  "text": "It sure is."
+ },
+ {
+  "id": 40,
+  "start": 86.386,
+  "end": 88.568,
+  "text": "But you’re the only person who can decide!"
+ }
+];

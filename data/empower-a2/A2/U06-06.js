@@ -1,0 +1,62 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U06-06"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 2.001,
+  "text": "Track 06.06"
+ },
+ {
+  "id": 2,
+  "start": 2.476,
+  "end": 2.928,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 3.888,
+  "end": 5.148,
+  "text": "She was a doctor."
+ },
+ {
+  "id": 4,
+  "start": 7.5,
+  "end": 8.021,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 8.886,
+  "end": 10.458,
+  "text": "They were at school together."
+ },
+ {
+  "id": 6,
+  "start": 12.839,
+  "end": 13.402,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 14.291,
+  "end": 15.497,
+  "text": "When was she born?"
+ },
+ {
+  "id": 8,
+  "start": 17.86,
+  "end": 18.452,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 19.365,
+  "end": 20.515,
+  "text": "Was she a doctor?"
+ },
+ {
+  "id": 10,
+  "start": 21.047,
+  "end": 22.293,
+  "text": "Yes, she was."
+ }
+];

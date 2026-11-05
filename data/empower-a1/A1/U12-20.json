@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 0.492,
+  "end": 2.659,
+  "text": "Track 12.20"
+ },
+ {
+  "id": 2,
+  "start": 3.312,
+  "end": 5.317,
+  "text": "1 a"
+ },
+ {
+  "id": 3,
+  "start": 6.109,
+  "end": 8.228,
+  "text": "Would you like to come for dinner?"
+ },
+ {
+  "id": 4,
+  "start": 10.262,
+  "end": 12.468,
+  "text": "2 c"
+ },
+ {
+  "id": 5,
+  "start": 13.324,
+  "end": 14.728,
+  "text": "I’d love to, but …"
+ },
+ {
+  "id": 6,
+  "start": 16.9,
+  "end": 19.035,
+  "text": "3 b"
+ },
+ {
+  "id": 7,
+  "start": 19.894,
+  "end": 22.41,
+  "text": "I’d love to come. Thank you."
+ },
+ {
+  "id": 8,
+  "start": 24.749,
+  "end": 26.789,
+  "text": "4 a"
+ },
+ {
+  "id": 9,
+  "start": 27.744,
+  "end": 29.426,
+  "text": "Are you free on Friday?"
+ },
+ {
+  "id": 10,
+  "start": 31.765,
+  "end": 34.011,
+  "text": "5 c"
+ },
+ {
+  "id": 11,
+  "start": 34.791,
+  "end": 36.688,
+  "text": "Sorry, I’m busy then."
+ },
+ {
+  "id": 12,
+  "start": 38.819,
+  "end": 40.914,
+  "text": "6 b"
+ },
+ {
+  "id": 13,
+  "start": 41.667,
+  "end": 43.032,
+  "text": "Saturday’s OK."
+ }
+]

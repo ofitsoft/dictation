@@ -1,0 +1,50 @@
+window.DICT=window.DICT||{};DICT["empower-a2/A2/U11-13"]=[
+ {
+  "id": 1,
+  "start": 0.001,
+  "end": 2.04,
+  "text": "Track 11.13"
+ },
+ {
+  "id": 2,
+  "start": 2.909,
+  "end": 4.889,
+  "text": "A : Have you ever been to Argentina?"
+ },
+ {
+  "id": 3,
+  "start": 5.468,
+  "end": 6.556,
+  "text": "Yes, I have."
+ },
+ {
+  "id": 4,
+  "start": 6.896,
+  "end": 8.667,
+  "text": "I’ve been there three times."
+ },
+ {
+  "id": 5,
+  "start": 9.773,
+  "end": 11.018,
+  "text": "I’ve been there, too."
+ },
+ {
+  "id": 6,
+  "start": 11.359,
+  "end": 12.732,
+  "text": "I went there last year."
+ },
+ {
+  "id": 7,
+  "start": 13.634,
+  "end": 14.228,
+  "text": "Really?"
+ },
+ {
+  "id": 8,
+  "start": 14.634,
+  "end": 16.325,
+  "text": "Which cities did you visit?"
+ }
+];

@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.69,
+  "text": "Track 04.22"
+ },
+ {
+  "id": 2,
+  "start": 3.079,
+  "end": 4.27,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.683,
+  "end": 6.619,
+  "text": "These are my friends."
+ },
+ {
+  "id": 4,
+  "start": 7.333,
+  "end": 8.5,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 10.021,
+  "end": 11.402,
+  "text": "I study there."
+ },
+ {
+  "id": 6,
+  "start": 13.185,
+  "end": 14.344,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 15.023,
+  "end": 16.643,
+  "text": "This is my father."
+ },
+ {
+  "id": 8,
+  "start": 18.398,
+  "end": 19.637,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 20.279,
+  "end": 21.875,
+  "text": "They’re at the cinema."
+ },
+ {
+  "id": 10,
+  "start": 23.757,
+  "end": 24.979,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 25.646,
+  "end": 27.757,
+  "text": "They teach at the university."
+ },
+ {
+  "id": 12,
+  "start": 29.203,
+  "end": 30.751,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 31.202,
+  "end": 33.114,
+  "text": "I like their daughter."
+ }
+]

@@ -1,0 +1,164 @@
+[
+ {
+  "id": 1,
+  "start": 0.365,
+  "end": 2.5,
+  "text": "Track 07.01"
+ },
+ {
+  "id": 2,
+  "start": 4.063,
+  "end": 5.437,
+  "text": "a bag"
+ },
+ {
+  "id": 3,
+  "start": 6.411,
+  "end": 7.934,
+  "text": "bags"
+ },
+ {
+  "id": 4,
+  "start": 9.284,
+  "end": 10.617,
+  "text": "a chair"
+ },
+ {
+  "id": 5,
+  "start": 11.647,
+  "end": 12.822,
+  "text": "chairs"
+ },
+ {
+  "id": 6,
+  "start": 14.349,
+  "end": 15.611,
+  "text": "a clock"
+ },
+ {
+  "id": 7,
+  "start": 16.709,
+  "end": 18.209,
+  "text": "clocks"
+ },
+ {
+  "id": 8,
+  "start": 19.444,
+  "end": 20.904,
+  "text": "a cup"
+ },
+ {
+  "id": 9,
+  "start": 21.688,
+  "end": 22.974,
+  "text": "cups"
+ },
+ {
+  "id": 10,
+  "start": 24.534,
+  "end": 25.971,
+  "text": "a glass"
+ },
+ {
+  "id": 11,
+  "start": 27.046,
+  "end": 28.284,
+  "text": "glasses"
+ },
+ {
+  "id": 12,
+  "start": 29.785,
+  "end": 31.198,
+  "text": "a guitar"
+ },
+ {
+  "id": 13,
+  "start": 32.154,
+  "end": 33.726,
+  "text": "guitars"
+ },
+ {
+  "id": 14,
+  "start": 35.175,
+  "end": 36.302,
+  "text": "a lamp"
+ },
+ {
+  "id": 15,
+  "start": 37.35,
+  "end": 38.644,
+  "text": "lamps"
+ },
+ {
+  "id": 16,
+  "start": 40.076,
+  "end": 41.314,
+  "text": "a picture"
+ },
+ {
+  "id": 17,
+  "start": 42.401,
+  "end": 43.822,
+  "text": "pictures"
+ },
+ {
+  "id": 18,
+  "start": 44.998,
+  "end": 46.609,
+  "text": "a plant"
+ },
+ {
+  "id": 19,
+  "start": 47.502,
+  "end": 48.907,
+  "text": "plants"
+ },
+ {
+  "id": 20,
+  "start": 50.312,
+  "end": 51.812,
+  "text": "a plate"
+ },
+ {
+  "id": 21,
+  "start": 52.536,
+  "end": 54.052,
+  "text": "plates"
+ },
+ {
+  "id": 22,
+  "start": 55.347,
+  "end": 56.95,
+  "text": "a football"
+ },
+ {
+  "id": 23,
+  "start": 57.85,
+  "end": 59.517,
+  "text": "footballs"
+ },
+ {
+  "id": 24,
+  "start": 60.901,
+  "end": 62.274,
+  "text": "a speaker"
+ },
+ {
+  "id": 25,
+  "start": 63.353,
+  "end": 64.782,
+  "text": "speakers"
+ },
+ {
+  "id": 26,
+  "start": 66.307,
+  "end": 67.792,
+  "text": "a suitcase"
+ },
+ {
+  "id": 27,
+  "start": 68.687,
+  "end": 70.52,
+  "text": "suitcases"
+ }
+]

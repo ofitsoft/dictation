@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U04-07"]=[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.388,
+  "text": "Track 04.07"
+ },
+ {
+  "id": 2,
+  "start": 2.841,
+  "end": 3.96,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 4.127,
+  "end": 6.722,
+  "text": "Do you work in an office?"
+ },
+ {
+  "id": 4,
+  "start": 8.341,
+  "end": 9.452,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 10.551,
+  "end": 12.765,
+  "text": "Where do you work?"
+ },
+ {
+  "id": 6,
+  "start": 14.773,
+  "end": 15.948,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 16.957,
+  "end": 19.084,
+  "text": "Where do you live?"
+ },
+ {
+  "id": 8,
+  "start": 20.592,
+  "end": 21.941,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 23.059,
+  "end": 26.479,
+  "text": "What do you study at university?"
+ },
+ {
+  "id": 10,
+  "start": 28.511,
+  "end": 29.757,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 30.857,
+  "end": 33.278,
+  "text": "Do you speak Spanish?"
+ }
+];

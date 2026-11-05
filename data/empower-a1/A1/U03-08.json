@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.323,
+  "end": 2.693,
+  "text": "Track 03.08"
+ },
+ {
+  "id": 2,
+  "start": 3.856,
+  "end": 5.205,
+  "text": "I eat fish."
+ },
+ {
+  "id": 3,
+  "start": 6.613,
+  "end": 8.01,
+  "text": "I don’t eat fish."
+ },
+ {
+  "id": 4,
+  "start": 9.78,
+  "end": 10.938,
+  "text": "Do you eat fish?"
+ },
+ {
+  "id": 5,
+  "start": 12.578,
+  "end": 13.998,
+  "text": "We like fruit."
+ },
+ {
+  "id": 6,
+  "start": 15.523,
+  "end": 17.174,
+  "text": "We don’t like fruit."
+ },
+ {
+  "id": 7,
+  "start": 18.879,
+  "end": 20.141,
+  "text": "Do you like fruit?"
+ }
+]

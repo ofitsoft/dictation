@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.323,
+  "end": 2.693,
+  "text": "Track 03.28"
+ },
+ {
+  "id": 2,
+  "start": 3.047,
+  "end": 5.206,
+  "text": "Can I have a glass of cola, please?"
+ },
+ {
+  "id": 3,
+  "start": 5.436,
+  "end": 8.023,
+  "text": "Certainly. And to eat?"
+ },
+ {
+  "id": 4,
+  "start": 8.23,
+  "end": 10.563,
+  "text": "A cheese sandwich, please."
+ },
+ {
+  "id": 5,
+  "start": 10.664,
+  "end": 13.704,
+  "text": "Of course. That’s £6.00, please."
+ },
+ {
+  "id": 6,
+  "start": 13.857,
+  "end": 14.88,
+  "text": "Here you are."
+ },
+ {
+  "id": 7,
+  "start": 14.913,
+  "end": 15.928,
+  "text": "Thank you."
+ }
+]

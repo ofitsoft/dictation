@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["empower-a1/A1/U04-24"]=[
+ {
+  "id": 1,
+  "start": 0.38,
+  "end": 2.69,
+  "text": "Track 04.24"
+ },
+ {
+  "id": 2,
+  "start": 3.063,
+  "end": 4.285,
+  "text": "1"
+ },
+ {
+  "id": 3,
+  "start": 5.214,
+  "end": 7.437,
+  "text": "Gary is a manager."
+ },
+ {
+  "id": 4,
+  "start": 8.238,
+  "end": 9.238,
+  "text": "2"
+ },
+ {
+  "id": 5,
+  "start": 10.919,
+  "end": 12.705,
+  "text": "John speaks German."
+ },
+ {
+  "id": 6,
+  "start": 14.614,
+  "end": 15.789,
+  "text": "3"
+ },
+ {
+  "id": 7,
+  "start": 16.538,
+  "end": 18.506,
+  "text": "It’s a picture of the gym."
+ },
+ {
+  "id": 8,
+  "start": 20.527,
+  "end": 21.551,
+  "text": "4"
+ },
+ {
+  "id": 9,
+  "start": 22.262,
+  "end": 24.429,
+  "text": "Is the university nice?"
+ },
+ {
+  "id": 10,
+  "start": 26.125,
+  "end": 27.459,
+  "text": "5"
+ },
+ {
+  "id": 11,
+  "start": 28.203,
+  "end": 30.537,
+  "text": "It’s a question about children."
+ },
+ {
+  "id": 12,
+  "start": 32.69,
+  "end": 33.838,
+  "text": "6"
+ },
+ {
+  "id": 13,
+  "start": 34.397,
+  "end": 36.063,
+  "text": "It’s a small cinema."
+ }
+];
