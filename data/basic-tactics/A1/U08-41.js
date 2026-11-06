@@ -1,0 +1,218 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U08-41"]=[
+ {
+  "id": 1,
+  "start": 10.039,
+  "end": 10.439,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 11.519,
+  "end": 13.779,
+  "text": "Do you play sports on weekends, Rita?"
+ },
+ {
+  "id": 3,
+  "start": 14.099,
+  "end": 16.359,
+  "text": "No, I hate sports."
+ },
+ {
+  "id": 4,
+  "start": 16.679,
+  "end": 19.719,
+  "text": "Really? So what do you do on weekends?"
+ },
+ {
+  "id": 5,
+  "start": 20.399,
+  "end": 23.859,
+  "text": "Uh, I watch my favorite programs on TV."
+ },
+ {
+  "id": 6,
+  "start": 24.219,
+  "end": 26.96,
+  "text": "Well, that's not too tiring!"
+ },
+ {
+  "id": 7,
+  "start": 28.14,
+  "end": 29.42,
+  "text": "2."
+ },
+ {
+  "id": 8,
+  "start": 30.64,
+  "end": 32.039,
+  "text": "Do you like sports, Curtis?"
+ },
+ {
+  "id": 9,
+  "start": 32.359,
+  "end": 34.539,
+  "text": "Sure, I play a lot of sports."
+ },
+ {
+  "id": 10,
+  "start": 35.079,
+  "end": 37.06,
+  "text": "So, what sports do you play?"
+ },
+ {
+  "id": 11,
+  "start": 37.439,
+  "end": 43.92,
+  "text": "Well, everything. Baseball, volleyball, swimming-but my favorite sport is tennis."
+ },
+ {
+  "id": 12,
+  "start": 44.399,
+  "end": 44.96,
+  "text": "Oh yeah?"
+ },
+ {
+  "id": 13,
+  "start": 45.2,
+  "end": 47.78,
+  "text": "Yeah, I play every day after work."
+ },
+ {
+  "id": 14,
+  "start": 48.979,
+  "end": 50.82,
+  "text": "3."
+ },
+ {
+  "id": 15,
+  "start": 52.02,
+  "end": 54.02,
+  "text": "You're in great shape, Robert."
+ },
+ {
+  "id": 16,
+  "start": 54.52,
+  "end": 55.299,
+  "text": "Thanks."
+ },
+ {
+  "id": 17,
+  "start": 55.64,
+  "end": 57.2,
+  "text": "So, how do you do it?"
+ },
+ {
+  "id": 18,
+  "start": 57.64,
+  "end": 62.359,
+  "text": "Well, I go to the pool about three times a week, and I swim for about two hours."
+ },
+ {
+  "id": 19,
+  "start": 62.939,
+  "end": 67.06,
+  "text": "Two hours? Are you practicing for the Olympic Games or something?"
+ },
+ {
+  "id": 20,
+  "start": 67.2,
+  "end": 68.14,
+  "text": "4."
+ },
+ {
+  "id": 21,
+  "start": 69.26,
+  "end": 72.64,
+  "text": "How do you keep in shape, Jon?"
+ },
+ {
+  "id": 22,
+  "start": 73.299,
+  "end": 74.579,
+  "text": "Me? I travel."
+ },
+ {
+  "id": 23,
+  "start": 75.019,
+  "end": 76.62,
+  "text": "What do you mean, you travel?"
+ },
+ {
+  "id": 24,
+  "start": 77.239,
+  "end": 80.28,
+  "text": "Well, I ride my bike about 20 miles every weekend."
+ },
+ {
+  "id": 25,
+  "start": 82.04,
+  "end": 82.819,
+  "text": "5."
+ },
+ {
+  "id": 26,
+  "start": 83.379,
+  "end": 86.04,
+  "text": "Wow! What happened?"
+ },
+ {
+  "id": 27,
+  "start": 86.64,
+  "end": 87.799,
+  "text": "I went skiing."
+ },
+ {
+  "id": 28,
+  "start": 88.28,
+  "end": 90.859,
+  "text": "Gee. That looks pretty bad."
+ },
+ {
+  "id": 29,
+  "start": 91.359,
+  "end": 92.14,
+  "text": "Yeah."
+ },
+ {
+  "id": 30,
+  "start": 92.78,
+  "end": 94.019,
+  "text": "Do you ski often?"
+ },
+ {
+  "id": 31,
+  "start": 94.359,
+  "end": 96.719,
+  "text": "No. It was my first time."
+ },
+ {
+  "id": 32,
+  "start": 97.04,
+  "end": 97.719,
+  "text": "6."
+ },
+ {
+  "id": 33,
+  "start": 97.719,
+  "end": 102.359,
+  "text": "Do you get much exercise, Joe?"
+ },
+ {
+  "id": 34,
+  "start": 102.98,
+  "end": 105.56,
+  "text": "Yes, I do. I walk a lot."
+ },
+ {
+  "id": 35,
+  "start": 105.9,
+  "end": 106.519,
+  "text": "Where?"
+ },
+ {
+  "id": 36,
+  "start": 107.019,
+  "end": 112.48,
+  "text": "To McDonald's. Yeah, I walk there about four times a week to get a hamburger and fries."
+ }
+];

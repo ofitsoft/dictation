@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 2.399,
+  "end": 6.099,
+  "text": "Can you tell me where the subway is, please?"
+ },
+ {
+  "id": 2,
+  "start": 8.419,
+  "end": 11.4,
+  "text": "Where's the bus station, please?"
+ },
+ {
+  "id": 3,
+  "start": 13.619,
+  "end": 17.92,
+  "text": "Excuse me. How do I get to Henry's Wine Bar?"
+ },
+ {
+  "id": 4,
+  "start": 20.339,
+  "end": 23.679,
+  "text": "Can you tell me where the supermarket is, please?"
+ },
+ {
+  "id": 5,
+  "start": 25.699,
+  "end": 29.98,
+  "text": "Excuse me. How do I get to the Tourist Information Office?"
+ }
+]

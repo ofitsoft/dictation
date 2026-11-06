@@ -1,0 +1,152 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-58"]=[
+ {
+  "id": 1,
+  "start": 0.04,
+  "end": 7.2,
+  "text": "You go along Nether Street and turn right."
+ },
+ {
+  "id": 2,
+  "start": 7.5,
+  "end": 8.039,
+  "text": "OK."
+ },
+ {
+  "id": 3,
+  "start": 8.74,
+  "end": 10.9,
+  "text": "And the internet café is on your left."
+ },
+ {
+  "id": 4,
+  "start": 11.46,
+  "end": 12.32,
+  "text": "Thank you."
+ },
+ {
+  "id": 5,
+  "start": 15.939,
+  "end": 19.3,
+  "text": "Can you tell me where the subway is, please?"
+ },
+ {
+  "id": 6,
+  "start": 19.579,
+  "end": 24.78,
+  "text": "Sure. You turn left and go past the bank. The subway's on the left."
+ },
+ {
+  "id": 7,
+  "start": 25.5,
+  "end": 26.32,
+  "text": "Thanks very much."
+ },
+ {
+  "id": 8,
+  "start": 27.5,
+  "end": 29.62,
+  "text": "So you go along Station Road and turn right onto Market Street."
+ },
+ {
+  "id": 9,
+  "start": 29.62,
+  "end": 46.92,
+  "text": "Yeah. And then go straight along Market Street and you'll see it on your left. It's on the corner of Northern Road."
+ },
+ {
+  "id": 10,
+  "start": 47.24,
+  "end": 47.759,
+  "text": "Thank you."
+ },
+ {
+  "id": 11,
+  "start": 52.439,
+  "end": 60.719,
+  "text": "Well, the quickest way is to go out onto Station Road and then turn right straight away onto Broadway."
+ },
+ {
+  "id": 12,
+  "start": 61.24,
+  "end": 61.96,
+  "text": "Broadway?"
+ },
+ {
+  "id": 13,
+  "start": 62.119,
+  "end": 68.54,
+  "text": "Yes, that's right. Go along Broadway, and then turn right into North Passage. You'll see it on the left."
+ },
+ {
+  "id": 14,
+  "start": 69.26,
+  "end": 70.5,
+  "text": "Thanks very much."
+ },
+ {
+  "id": 15,
+  "start": 74.48,
+  "end": 84.68,
+  "text": "Oh, it's on the High Street, so from Station Road you want to turn right onto Nether Street, then take the second road on the left. That's High Street."
+ },
+ {
+  "id": 16,
+  "start": 85.159,
+  "end": 86.76,
+  "text": "OK? And is it far?"
+ },
+ {
+  "id": 17,
+  "start": 87.0,
+  "end": 95.079,
+  "text": "Not really. Once you're on High Street you just follow the road until you get to the corner with Old Roman Way. Then you'll see it on the left."
+ },
+ {
+  "id": 18,
+  "start": 99.319,
+  "end": 107.84,
+  "text": "OK, the quickest way is to turn right onto Broadway, then turn left into Willow Way."
+ },
+ {
+  "id": 19,
+  "start": 108.299,
+  "end": 108.719,
+  "text": "OK."
+ },
+ {
+  "id": 20,
+  "start": 108.98,
+  "end": 112.56,
+  "text": "Then go along Willow Way until you reach Oak Street?"
+ },
+ {
+  "id": 21,
+  "start": 112.78,
+  "end": 113.4,
+  "text": "Oak Street?"
+ },
+ {
+  "id": 22,
+  "start": 113.62,
+  "end": 121.42,
+  "text": "Yes, then turn left into Oak Street. Go along Oak Street, then straight over Ribbon Hill into Archway."
+ },
+ {
+  "id": 23,
+  "start": 121.799,
+  "end": 124.98,
+  "text": "So, straight over Ribbon Hill into Archway?"
+ },
+ {
+  "id": 24,
+  "start": 125.14,
+  "end": 132.74,
+  "text": "Yes, go along Archway until you reach Museum Street, then you'll see it in front of you."
+ },
+ {
+  "id": 25,
+  "start": 133.08,
+  "end": 134.24,
+  "text": "Thank you very much."
+ }
+];

@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "start": 6.419,
+  "end": 8.019,
+  "text": "Hello. Doctor Park's surgery."
+ },
+ {
+  "id": 2,
+  "start": 13.619,
+  "end": 14.58,
+  "text": "When would you like to come?"
+ },
+ {
+  "id": 3,
+  "start": 20.26,
+  "end": 24.079,
+  "text": "Doctor Park can see you at 4:30 on Thursday. Would that be OK?"
+ },
+ {
+  "id": 4,
+  "start": 25.16,
+  "end": 36.299,
+  "text": "And what's your name please?"
+ },
+ {
+  "id": 5,
+  "start": 36.299,
+  "end": 43.219,
+  "text": "OK, that's fine."
+ },
+ {
+  "id": 6,
+  "start": 43.219,
+  "end": 46.84,
+  "text": "Yes, that's right. We'll see you on Thursday. Goodbye."
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "start": 6.16,
+  "end": 8.259,
+  "text": "What does your new boyfriend look like, Jenna?"
+ },
+ {
+  "id": 2,
+  "start": 8.72,
+  "end": 11.259,
+  "text": "Well, he's really good-looking."
+ },
+ {
+  "id": 3,
+  "start": 11.679,
+  "end": 13.519,
+  "text": "Oh? Is he tall?"
+ },
+ {
+  "id": 4,
+  "start": 13.96,
+  "end": 16.8,
+  "text": "No, he isn't. He's pretty short."
+ },
+ {
+  "id": 5,
+  "start": 17.16,
+  "end": 19.519,
+  "text": "Really? Are you taller than him?"
+ },
+ {
+  "id": 6,
+  "start": 19.839,
+  "end": 27.039,
+  "text": "No, we're about the same height. Let's see... and he has curly brown hair."
+ },
+ {
+  "id": 7,
+  "start": 27.699,
+  "end": 30.679,
+  "text": "He sounds cute. Is he about your age?"
+ },
+ {
+  "id": 8,
+  "start": 30.899,
+  "end": 34.56,
+  "text": "Yes, he is. And we have the same birthday."
+ }
+]

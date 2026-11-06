@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 0.02,
+  "end": 6.919,
+  "text": "Can I have ten first class stamps, please?"
+ },
+ {
+  "id": 2,
+  "start": 8.939,
+  "end": 11.9,
+  "text": "I'd like to open a bank account."
+ },
+ {
+  "id": 3,
+  "start": 14.0,
+  "end": 17.8,
+  "text": "How much is it to send this letter to Mexico?"
+ },
+ {
+  "id": 4,
+  "start": 19.8,
+  "end": 22.82,
+  "text": "I need to order a new cheque book."
+ },
+ {
+  "id": 5,
+  "start": 25.059,
+  "end": 28.039,
+  "text": "I'd like to check my balance, please."
+ },
+ {
+  "id": 6,
+  "start": 28.579,
+  "end": 29.879,
+  "text": "I'd like to send this parcel by registered mail."
+ },
+ {
+  "id": 7,
+  "start": 29.879,
+  "end": 40.88,
+  "text": "I'd like to send this letter special delivery, please."
+ }
+]

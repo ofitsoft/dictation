@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "start": 6.32,
+  "end": 6.719,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 7.86,
+  "end": 17.8,
+  "text": "And here is today's weather forecast for the international traveler. Let's start with Beijing. It will be a cold day in Beijing today, and windy. The low will be zero"
+ },
+ {
+  "id": 3,
+  "start": 18.1,
+  "end": 19.78,
+  "text": "and the high will be 6 degrees."
+ },
+ {
+  "id": 4,
+  "start": 20.32,
+  "end": 22.219,
+  "text": "2."
+ },
+ {
+  "id": 5,
+  "start": 23.379,
+  "end": 29.359,
+  "text": "Mexico City will be warm and wet, with a low of 23 degrees Centigrade and a high of 28."
+ },
+ {
+  "id": 6,
+  "start": 30.0,
+  "end": 31.839,
+  "text": "3."
+ },
+ {
+  "id": 7,
+  "start": 33.179,
+  "end": 38.859,
+  "text": "Tokyo is expecting cloudy weather with heavy rain. The low will be 4 degrees and the high 12."
+ },
+ {
+  "id": 8,
+  "start": 41.14,
+  "end": 41.539,
+  "text": "4."
+ },
+ {
+  "id": 9,
+  "start": 42.719,
+  "end": 50.479,
+  "text": "New York is going to have a windy day. It will be very cold with a low of minus 10 and a high of zero."
+ },
+ {
+  "id": 10,
+  "start": 51.78,
+  "end": 53.159,
+  "text": "5."
+ },
+ {
+  "id": 11,
+  "start": 54.299,
+  "end": 61.6,
+  "text": "In Taipei it will be cloudy, wet, and hot today. The low will be 20 degrees and the high will be 30."
+ },
+ {
+  "id": 12,
+  "start": 62.479,
+  "end": 64.359,
+  "text": "6."
+ },
+ {
+  "id": 13,
+  "start": 66.04,
+  "end": 75.219,
+  "text": "Expect another hot, dry day in Los Angeles - still no rain in the forecast. The low will be 80 degrees and the high 95."
+ }
+]

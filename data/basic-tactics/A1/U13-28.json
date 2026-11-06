@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 4.419,
+  "end": 7.9,
+  "text": "How was your dinner, Evan?"
+ },
+ {
+  "id": 2,
+  "start": 8.58,
+  "end": 10.82,
+  "text": "It was delicious! How about yours?"
+ },
+ {
+  "id": 3,
+  "start": 11.32,
+  "end": 15.619,
+  "text": "Actually, it wasn't great. My vegetables were overcooked."
+ },
+ {
+  "id": 4,
+  "start": 16.179,
+  "end": 16.78,
+  "text": "Really?"
+ },
+ {
+  "id": 5,
+  "start": 17.079,
+  "end": 19.96,
+  "text": "Yeah, and the potatoes weren't spicy enough."
+ },
+ {
+  "id": 6,
+  "start": 20.6,
+  "end": 25.64,
+  "text": "Oh, that's too bad. And you know, the service wasn't as fast as it usually is here."
+ },
+ {
+  "id": 7,
+  "start": 26.32,
+  "end": 30.559,
+  "text": "Yeah, I guess you're right. Let's eat somewhere else next time."
+ }
+]

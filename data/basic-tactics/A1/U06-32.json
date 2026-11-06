@@ -1,0 +1,218 @@
+[
+ {
+  "id": 1,
+  "start": 6.799,
+  "end": 9.619,
+  "text": "So how do you like your job, Chris?"
+ },
+ {
+  "id": 2,
+  "start": 10.619,
+  "end": 15.859,
+  "text": "Well, it was okay at first, but now, after two years, I don't like it."
+ },
+ {
+  "id": 3,
+  "start": 16.28,
+  "end": 17.44,
+  "text": "Oh, why is that?"
+ },
+ {
+  "id": 4,
+  "start": 17.82,
+  "end": 22.42,
+  "text": "It's boring. I do the same thing every day. I'm really sick of it."
+ },
+ {
+  "id": 5,
+  "start": 23.079,
+  "end": 24.539,
+  "text": "So why don't you change jobs?"
+ },
+ {
+  "id": 6,
+  "start": 25.239,
+  "end": 27.039,
+  "text": "I'm well-paid. I like the money!"
+ },
+ {
+  "id": 7,
+  "start": 27.679,
+  "end": 31.3,
+  "text": "Oh, I see. But you should leave if you're not happy."
+ },
+ {
+  "id": 8,
+  "start": 31.679,
+  "end": 33.439,
+  "text": "Yeah, maybe I should."
+ },
+ {
+  "id": 9,
+  "start": 35.719,
+  "end": 39.219,
+  "text": "Do you like teaching children, Alexa?"
+ },
+ {
+  "id": 10,
+  "start": 39.84,
+  "end": 44.659,
+  "text": "Oh, yes! I love working with kids. They're so much fun."
+ },
+ {
+  "id": 11,
+  "start": 45.039,
+  "end": 47.039,
+  "text": "Well, I guess you have the perfect job!"
+ },
+ {
+  "id": 12,
+  "start": 47.5,
+  "end": 53.06,
+  "text": "Yeah, I like it a lot. There's just one thing I don't like."
+ },
+ {
+  "id": 13,
+  "start": 53.799,
+  "end": 54.299,
+  "text": "What's that?"
+ },
+ {
+  "id": 14,
+  "start": 55.06,
+  "end": 62.979,
+  "text": "The distance to school. It's too far away. It takes me an hour to drive there every day."
+ },
+ {
+  "id": 15,
+  "start": 63.64,
+  "end": 65.18,
+  "text": "Wow. That must be awful!"
+ },
+ {
+  "id": 16,
+  "start": 65.819,
+  "end": 69.659,
+  "text": "It is, but the schools that are near me aren't as good."
+ },
+ {
+  "id": 17,
+  "start": 71.76,
+  "end": 74.959,
+  "text": "How's your new job going, Anna?"
+ },
+ {
+  "id": 18,
+  "start": 75.379,
+  "end": 77.9,
+  "text": "Good, thanks. I really like it."
+ },
+ {
+  "id": 19,
+  "start": 78.519,
+  "end": 79.939,
+  "text": "What do you like best about it?"
+ },
+ {
+  "id": 20,
+  "start": 80.68,
+  "end": 84.239,
+  "text": "I think it's the people I work with. They are so nice."
+ },
+ {
+  "id": 21,
+  "start": 85.079,
+  "end": 87.64,
+  "text": "People make all the difference in the job, don't they?"
+ },
+ {
+  "id": 22,
+  "start": 88.379,
+  "end": 96.019,
+  "text": "They sure do. The only trouble is, I have to travel a lot. I'm away from home about two weeks every month."
+ },
+ {
+  "id": 23,
+  "start": 96.799,
+  "end": 98.68,
+  "text": "Yeah, that can be difficult."
+ },
+ {
+  "id": 24,
+  "start": 99.219,
+  "end": 103.06,
+  "text": "It is. I hope I won't have to travel so much next year."
+ },
+ {
+  "id": 25,
+  "start": 105.4,
+  "end": 109.019,
+  "text": "Do you enjoy being a salesperson, Rachel?"
+ },
+ {
+  "id": 26,
+  "start": 109.459,
+  "end": 113.56,
+  "text": "Yes, I do like it. I get to meet so many people."
+ },
+ {
+  "id": 27,
+  "start": 113.879,
+  "end": 114.56,
+  "text": "Is it hard work?"
+ },
+ {
+  "id": 28,
+  "start": 115.019,
+  "end": 121.9,
+  "text": "Yes, it can be. I don't like the long hours. I'm always really tired when I get home at night."
+ },
+ {
+  "id": 29,
+  "start": 122.659,
+  "end": 124.42,
+  "text": "That's too bad. Why don't you quit?"
+ },
+ {
+  "id": 30,
+  "start": 125.14,
+  "end": 127.7,
+  "text": "Because I think my boss is great to work for."
+ },
+ {
+  "id": 31,
+  "start": 129.86,
+  "end": 133.759,
+  "text": "How long have you been working in a restaurant, Martin?"
+ },
+ {
+  "id": 32,
+  "start": 134.419,
+  "end": 135.86,
+  "text": "For more than five years."
+ },
+ {
+  "id": 33,
+  "start": 136.539,
+  "end": 139.34,
+  "text": "Wow. You must really enjoy it."
+ },
+ {
+  "id": 34,
+  "start": 140.039,
+  "end": 146.819,
+  "text": "Oh no, I don't enjoy it at all. It's hard work and pretty tiring, too. I'm on my feet all night."
+ },
+ {
+  "id": 35,
+  "start": 147.419,
+  "end": 148.78,
+  "text": "Oh, I see."
+ },
+ {
+  "id": 36,
+  "start": 149.58,
+  "end": 153.62,
+  "text": "But the tips are great. I really should find a better job soon, though."
+ }
+]

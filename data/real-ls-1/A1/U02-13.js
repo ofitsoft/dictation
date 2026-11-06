@@ -1,0 +1,56 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-13"]=[
+ {
+  "id": 1,
+  "start": 0.16,
+  "end": 5.44,
+  "text": "Can you deliver this next Wednesday?"
+ },
+ {
+  "id": 2,
+  "start": 7.4,
+  "end": 10.679,
+  "text": "Could you please reduce the price?"
+ },
+ {
+  "id": 3,
+  "start": 12.699,
+  "end": 14.199,
+  "text": "Do you want to pay by cash or credit card?"
+ },
+ {
+  "id": 4,
+  "start": 14.199,
+  "end": 16.199,
+  "text": "Could you send this by airmail?"
+ },
+ {
+  "id": 5,
+  "start": 18.219,
+  "end": 21.28,
+  "text": "Can you repair this computer?"
+ },
+ {
+  "id": 6,
+  "start": 23.379,
+  "end": 26.92,
+  "text": "Can you keep this for me until Tuesday?"
+ },
+ {
+  "id": 7,
+  "start": 29.019,
+  "end": 29.66,
+  "text": "Could you deliver this next Saturday?"
+ },
+ {
+  "id": 8,
+  "start": 29.66,
+  "end": 50.219,
+  "text": "Can you repair this photocopier today?"
+ },
+ {
+  "id": 9,
+  "start": 52.38,
+  "end": 55.939,
+  "text": "Can you keep this for me until Wednesday?"
+ }
+];

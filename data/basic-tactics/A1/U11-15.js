@@ -1,0 +1,170 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U11-15"]=[
+ {
+  "id": 1,
+  "start": 7.059,
+  "end": 7.44,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 7.839,
+  "end": 11.48,
+  "text": "Josh, would you like to go out for dinner Thursday?"
+ },
+ {
+  "id": 3,
+  "start": 12.019,
+  "end": 17.059,
+  "text": "Thursday? Oh, I'd love to, but I have to meet my sister for dinner."
+ },
+ {
+  "id": 4,
+  "start": 17.519,
+  "end": 19.719,
+  "text": "Oh, well, some other time, then."
+ },
+ {
+  "id": 5,
+  "start": 20.1,
+  "end": 20.739,
+  "text": "Sure."
+ },
+ {
+  "id": 6,
+  "start": 21.339,
+  "end": 23.219,
+  "text": "2."
+ },
+ {
+  "id": 7,
+  "start": 23.559,
+  "end": 27.1,
+  "text": "Melissa, would you like to see a movie on Saturday?"
+ },
+ {
+  "id": 8,
+  "start": 27.739,
+  "end": 30.179,
+  "text": "That sounds great. What time?"
+ },
+ {
+  "id": 9,
+  "start": 30.559,
+  "end": 31.44,
+  "text": "At 9:30?"
+ },
+ {
+  "id": 10,
+  "start": 32.159,
+  "end": 32.7,
+  "text": "All right."
+ },
+ {
+  "id": 11,
+  "start": 33.78,
+  "end": 35.119,
+  "text": "3."
+ },
+ {
+  "id": 12,
+  "start": 35.5,
+  "end": 39.28,
+  "text": "Hey, Jack, let's go for coffee after class on Monday."
+ },
+ {
+  "id": 13,
+  "start": 39.7,
+  "end": 43.34,
+  "text": "Oh, sorry. I have to go downtown. I have an appointment."
+ },
+ {
+  "id": 14,
+  "start": 43.759,
+  "end": 44.92,
+  "text": "Oh, okay."
+ },
+ {
+  "id": 15,
+  "start": 45.78,
+  "end": 47.46,
+  "text": "4."
+ },
+ {
+  "id": 16,
+  "start": 47.799,
+  "end": 52.219,
+  "text": "Olivia, do you want to come over to my house for dinner Wednesday?"
+ },
+ {
+  "id": 17,
+  "start": 52.52,
+  "end": 55.299,
+  "text": "Thanks, I'd love to. What time?"
+ },
+ {
+  "id": 18,
+  "start": 55.899,
+  "end": 56.799,
+  "text": "Around 6:30."
+ },
+ {
+  "id": 19,
+  "start": 57.1,
+  "end": 59.32,
+  "text": "Okay. See you then."
+ },
+ {
+  "id": 20,
+  "start": 60.6,
+  "end": 62.0,
+  "text": "5."
+ },
+ {
+  "id": 21,
+  "start": 62.5,
+  "end": 65.599,
+  "text": "Hey, Adam, let's play tennis on Sunday afternoon."
+ },
+ {
+  "id": 22,
+  "start": 66.42,
+  "end": 72.42,
+  "text": "Sunday afternoon? I can't. I'm going away for the weekend. Maybe some other time?"
+ },
+ {
+  "id": 23,
+  "start": 72.54,
+  "end": 73.359,
+  "text": "Sure."
+ },
+ {
+  "id": 24,
+  "start": 73.9,
+  "end": 76.26,
+  "text": "6."
+ },
+ {
+  "id": 25,
+  "start": 76.48,
+  "end": 83.12,
+  "text": "Hey, Jen. I'm going shopping Friday night. I need a new dress. Want to come?"
+ },
+ {
+  "id": 26,
+  "start": 83.84,
+  "end": 87.219,
+  "text": "Friday night? Okay, I'm not doing anything special."
+ },
+ {
+  "id": 27,
+  "start": 87.5,
+  "end": 89.599,
+  "text": "Good. Let's go after work."
+ },
+ {
+  "id": 28,
+  "start": 90.06,
+  "end": 90.579,
+  "text": "Fine."
+ }
+];

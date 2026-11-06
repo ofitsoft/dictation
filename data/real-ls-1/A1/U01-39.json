@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 4.78,
+  "end": 22.3,
+  "text": "doctor, water, pharmacy, tablet, sympathy"
+ },
+ {
+  "id": 2,
+  "start": 22.3,
+  "end": 33.31,
+  "text": "problem, important, conversation, patient, temperature"
+ },
+ {
+  "id": 3,
+  "start": 36.24,
+  "end": 40.009,
+  "text": "Have you got something for a headache?"
+ },
+ {
+  "id": 4,
+  "start": 41.909,
+  "end": 43.539,
+  "text": "What have you got for a sore throat?"
+ },
+ {
+  "id": 5,
+  "start": 46.46,
+  "end": 49.799,
+  "text": "Take regular exercise."
+ },
+ {
+  "id": 6,
+  "start": 50.75,
+  "end": 52.85,
+  "text": "I was ill a week ago."
+ },
+ {
+  "id": 7,
+  "start": 54.49,
+  "end": 56.109,
+  "text": "Can I make an appointment, please?"
+ }
+]

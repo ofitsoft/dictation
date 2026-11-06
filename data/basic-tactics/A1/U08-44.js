@@ -1,0 +1,32 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U08-44"]=[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 5.28,
+  "text": "Task 1"
+ },
+ {
+  "id": 2,
+  "start": 5.54,
+  "end": 10.74,
+  "text": "1. I play tennis a lot."
+ },
+ {
+  "id": 3,
+  "start": 11.699,
+  "end": 16.82,
+  "text": "2. I like to take walks."
+ },
+ {
+  "id": 4,
+  "start": 18.039,
+  "end": 22.82,
+  "text": "3. What sports do you play?"
+ },
+ {
+  "id": 5,
+  "start": 24.059,
+  "end": 29.059,
+  "text": "4. Do you like watching sports?"
+ }
+];

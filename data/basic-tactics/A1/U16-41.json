@@ -1,0 +1,92 @@
+[
+ {
+  "id": 1,
+  "start": 7.299,
+  "end": 7.48,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 7.9,
+  "end": 12.48,
+  "text": "Does the kitchen have everything you need, like a stove and a refrigerator?"
+ },
+ {
+  "id": 3,
+  "start": 13.179,
+  "end": 17.32,
+  "text": "There's a stove, but not a refrigerator. I need to buy one."
+ },
+ {
+  "id": 4,
+  "start": 18.519,
+  "end": 19.719,
+  "text": "2."
+ },
+ {
+  "id": 5,
+  "start": 20.94,
+  "end": 23.039,
+  "text": "You don't have a bed in your bedroom?"
+ },
+ {
+  "id": 6,
+  "start": 23.32,
+  "end": 27.82,
+  "text": "Well, I have a TV. But for now, I only have a mattress on the floor."
+ },
+ {
+  "id": 7,
+  "start": 28.26,
+  "end": 28.839,
+  "text": "Really?"
+ },
+ {
+  "id": 8,
+  "start": 29.5,
+  "end": 31.32,
+  "text": "3."
+ },
+ {
+  "id": 9,
+  "start": 32.539,
+  "end": 37.1,
+  "text": "We don't have much furniture yet. We don't even have a sofa in the living room."
+ },
+ {
+  "id": 10,
+  "start": 37.479,
+  "end": 39.6,
+  "text": "Hey. I've one I can sell you."
+ },
+ {
+  "id": 11,
+  "start": 39.88,
+  "end": 41.64,
+  "text": "Really? Great."
+ },
+ {
+  "id": 12,
+  "start": 42.42,
+  "end": 44.42,
+  "text": "4."
+ },
+ {
+  "id": 13,
+  "start": 45.539,
+  "end": 49.359,
+  "text": "The bathroom is very small. There's just a shower and a toilet."
+ },
+ {
+  "id": 14,
+  "start": 49.979,
+  "end": 52.439,
+  "text": "You can come and take a bath at my place any time."
+ },
+ {
+  "id": 15,
+  "start": 52.78,
+  "end": 54.579,
+  "text": "Thanks, I probably will."
+ }
+]

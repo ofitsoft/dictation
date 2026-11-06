@@ -1,0 +1,8 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-40"]=[
+ {
+  "id": 1,
+  "start": 3.1,
+  "end": 61.38,
+  "text": "OK, now before you go I want to tell you about some special lectures this month. Dr Grimshaw will give a lecture on Study Skills in Room 173 on the 12th. That's Tuesday 12th in Room 173. I recommend that all new students attend this lecture. Also, on the 23rd we have a guest speaker. Mr Collins from the British Council will be here to talk about Life and Culture in the UK. That's of interest to everyone so I recommend you all go to the Lecture Hall for that... and on the 26th you can hear Professor Kaminski from Moscow State University talk on The Future of Computer Languages. That should be a very interesting talk for any Computer Science students, and that's in the Theatre. I'll put full details of these events and some others on the Student Noticeboard so"
+ }
+];

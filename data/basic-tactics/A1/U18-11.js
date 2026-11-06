@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U18-11"]=[
+ {
+  "id": 1,
+  "start": 6.639,
+  "end": 8.039,
+  "text": "What's the weather like outside?"
+ },
+ {
+  "id": 2,
+  "start": 8.839,
+  "end": 14.66,
+  "text": "It's sunny, humid, and very hot. I think it's about 98 degrees."
+ },
+ {
+  "id": 3,
+  "start": 15.22,
+  "end": 16.1,
+  "text": "That sounds awful!"
+ },
+ {
+  "id": 4,
+  "start": 16.98,
+  "end": 21.62,
+  "text": "Do you want to go to the beach? Ann, Jo, and Jo's sister are going."
+ },
+ {
+  "id": 5,
+  "start": 22.019,
+  "end": 29.079,
+  "text": "No, thanks. It's too hot for the beach. I'm going to stay inside and read, drink ice water, and sit in front of the air conditioner."
+ },
+ {
+  "id": 6,
+  "start": 29.879,
+  "end": 33.939,
+  "text": "We might stop by Super Burger on the way home. Can I get you anything?"
+ },
+ {
+  "id": 7,
+  "start": 34.78,
+  "end": 39.32,
+  "text": "That would be great. I'd like a cheeseburger, fries, and a small soda."
+ }
+];

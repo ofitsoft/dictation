@@ -1,0 +1,116 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-02"]=[
+ {
+  "id": 1,
+  "start": 4.599,
+  "end": 5.919,
+  "text": "Hi. I'm Jake."
+ },
+ {
+  "id": 2,
+  "start": 6.16,
+  "end": 9.82,
+  "text": "Hi, Jake. I'm Samantha. Nice to meet you."
+ },
+ {
+  "id": 3,
+  "start": 10.22,
+  "end": 13.3,
+  "text": "Nice to meet you too. Are you a friend of Tim's?"
+ },
+ {
+  "id": 4,
+  "start": 13.4,
+  "end": 20.48,
+  "text": "Yes, I am. We go to college together."
+ },
+ {
+  "id": 5,
+  "start": 21.699,
+  "end": 24.019,
+  "text": "Hello. My name is Vladimir Petrov."
+ },
+ {
+  "id": 6,
+  "start": 24.519,
+  "end": 28.199,
+  "text": "Hello. Pleased to meet you. My name's Yoko Shirai."
+ },
+ {
+  "id": 7,
+  "start": 28.8,
+  "end": 29.719,
+  "text": "Pleased to meet you too."
+ },
+ {
+  "id": 8,
+  "start": 33.24,
+  "end": 36.859,
+  "text": "Hi. I'm Helen."
+ },
+ {
+  "id": 9,
+  "start": 37.14,
+  "end": 38.979,
+  "text": "Hi. I'm Dan."
+ },
+ {
+  "id": 10,
+  "start": 42.939,
+  "end": 47.06,
+  "text": "My name's Jake Ward. Nice to meet you."
+ },
+ {
+  "id": 11,
+  "start": 47.96,
+  "end": 50.979,
+  "text": "Nice to meet you, too. My name's Yoko Shirai."
+ },
+ {
+  "id": 12,
+  "start": 54.96,
+  "end": 58.82,
+  "text": "Hello. My name is Vladimir Petrov."
+ },
+ {
+  "id": 13,
+  "start": 59.359,
+  "end": 61.799,
+  "text": "I'm Helen Richards. Pleased to meet you."
+ },
+ {
+  "id": 14,
+  "start": 62.56,
+  "end": 63.56,
+  "text": "Pleased to meet you too."
+ },
+ {
+  "id": 15,
+  "start": 67.4,
+  "end": 72.0,
+  "text": "Hello there. I'm Jake. What's your name?"
+ },
+ {
+  "id": 16,
+  "start": 72.42,
+  "end": 73.079,
+  "text": "I'm Helen."
+ },
+ {
+  "id": 17,
+  "start": 73.62,
+  "end": 78.92,
+  "text": "Nice to meet you, Helen."
+ },
+ {
+  "id": 18,
+  "start": 80.079,
+  "end": 82.04,
+  "text": "Hi, I'm Samantha."
+ },
+ {
+  "id": 19,
+  "start": 82.819,
+  "end": 84.7,
+  "text": "Hi Samantha. I'm Vladimir."
+ }
+];

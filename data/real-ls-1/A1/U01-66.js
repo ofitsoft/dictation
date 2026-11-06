@@ -1,0 +1,50 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-66"]=[
+ {
+  "id": 1,
+  "start": 0.54,
+  "end": 4.259,
+  "text": "That's a good idea."
+ },
+ {
+  "id": 2,
+  "start": 6.219,
+  "end": 7.32,
+  "text": "That sounds great."
+ },
+ {
+  "id": 3,
+  "start": 9.439,
+  "end": 11.0,
+  "text": "I don't really want to do that."
+ },
+ {
+  "id": 4,
+  "start": 13.08,
+  "end": 14.38,
+  "text": "I'd rather do something else."
+ },
+ {
+  "id": 5,
+  "start": 16.539,
+  "end": 17.3,
+  "text": "I don't mind."
+ },
+ {
+  "id": 6,
+  "start": 18.44,
+  "end": 20.199,
+  "text": "It's up to you."
+ },
+ {
+  "id": 7,
+  "start": 22.3,
+  "end": 23.28,
+  "text": "That's fine with me."
+ },
+ {
+  "id": 8,
+  "start": 25.3,
+  "end": 26.339,
+  "text": "That sounds fun."
+ }
+];

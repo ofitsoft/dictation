@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "start": 0.14,
+  "end": 4.54,
+  "text": "Where are you travelling from today?"
+ },
+ {
+  "id": 2,
+  "start": 4.919,
+  "end": 5.78,
+  "text": "From London."
+ },
+ {
+  "id": 3,
+  "start": 6.54,
+  "end": 7.919,
+  "text": "What's the purpose of your visit?"
+ },
+ {
+  "id": 4,
+  "start": 8.32,
+  "end": 11.359,
+  "text": "Business, I'm afraid. I have a meeting tomorrow."
+ },
+ {
+  "id": 5,
+  "start": 12.119,
+  "end": 13.64,
+  "text": "Do you have anything to declare?"
+ },
+ {
+  "id": 6,
+  "start": 13.919,
+  "end": 15.699,
+  "text": "No, nothing to declare."
+ },
+ {
+  "id": 7,
+  "start": 16.48,
+  "end": 17.519,
+  "text": "Where are you going to stay?"
+ },
+ {
+  "id": 8,
+  "start": 17.879,
+  "end": 19.64,
+  "text": "At the Orlando Hotel."
+ },
+ {
+  "id": 9,
+  "start": 20.579,
+  "end": 22.6,
+  "text": "How long are you going to stay in the country?"
+ },
+ {
+  "id": 10,
+  "start": 23.059,
+  "end": 26.559,
+  "text": "Just three days. I go Beijing on Monday."
+ },
+ {
+  "id": 11,
+  "start": 27.12,
+  "end": 30.96,
+  "text": "OK, that's all. Thank you very much. Enjoy your stay in LA."
+ },
+ {
+  "id": 12,
+  "start": 31.239,
+  "end": 31.879,
+  "text": "Thanks a lot."
+ }
+]

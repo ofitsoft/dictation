@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 5.12,
+  "text": "Where are you travelling from today?"
+ },
+ {
+  "id": 2,
+  "start": 7.28,
+  "end": 9.699,
+  "text": "What's the purpose of your visit?"
+ },
+ {
+  "id": 3,
+  "start": 12.119,
+  "end": 14.88,
+  "text": "Do you have anything to declare?"
+ },
+ {
+  "id": 4,
+  "start": 16.98,
+  "end": 19.16,
+  "text": "Where are you going to stay?"
+ },
+ {
+  "id": 5,
+  "start": 22.46,
+  "end": 24.379,
+  "text": "How long are you going to stay in the country?"
+ },
+ {
+  "id": 6,
+  "start": 25.5,
+  "end": 31.44,
+  "text": "OK, that's all. Thank you very much. Enjoy your stay in LA."
+ }
+]

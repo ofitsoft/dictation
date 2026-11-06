@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "start": 7.179,
+  "end": 7.32,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.48,
+  "end": 10.16,
+  "text": "Is there a post office near here?"
+ },
+ {
+  "id": 3,
+  "start": 10.4,
+  "end": 11.8,
+  "text": "A post office?"
+ },
+ {
+  "id": 4,
+  "start": 12.08,
+  "end": 14.32,
+  "text": "2."
+ },
+ {
+  "id": 5,
+  "start": 15.48,
+  "end": 16.5,
+  "text": "Could I please have a man?"
+ },
+ {
+  "id": 6,
+  "start": 16.719,
+  "end": 17.839,
+  "text": "A map?"
+ },
+ {
+  "id": 7,
+  "start": 18.16,
+  "end": 20.46,
+  "text": "3."
+ },
+ {
+  "id": 8,
+  "start": 20.8,
+  "end": 23.14,
+  "text": "Do you know where the restrooms are?"
+ },
+ {
+  "id": 9,
+  "start": 23.859,
+  "end": 24.66,
+  "text": "The restrooms?"
+ },
+ {
+  "id": 10,
+  "start": 25.059,
+  "end": 27.239,
+  "text": "4."
+ },
+ {
+  "id": 11,
+  "start": 28.6,
+  "end": 30.399,
+  "text": "I'm trying to find a supermarket."
+ },
+ {
+  "id": 12,
+  "start": 31.0,
+  "end": 31.679,
+  "text": "A supermarket?"
+ }
+]

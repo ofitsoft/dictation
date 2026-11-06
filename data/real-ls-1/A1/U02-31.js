@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-31"]=[
+ {
+  "id": 1,
+  "start": 0.44,
+  "end": 4.799,
+  "text": "Did you enjoy the talk?"
+ },
+ {
+  "id": 2,
+  "start": 6.98,
+  "end": 11.38,
+  "text": "I thought that was very interesting. What do you think?"
+ },
+ {
+  "id": 3,
+  "start": 13.4,
+  "end": 18.3,
+  "text": "I really enjoyed that presentation. How about you?"
+ },
+ {
+  "id": 4,
+  "start": 20.399,
+  "end": 23.079,
+  "text": "What did you think of the talk?"
+ },
+ {
+  "id": 5,
+  "start": 25.28,
+  "end": 27.82,
+  "text": "That was interesting, wasn't it?"
+ },
+ {
+  "id": 6,
+  "start": 28.44,
+  "end": 29.92,
+  "text": "I didn't think that presentation was very good. How about you?"
+ }
+];

@@ -1,0 +1,62 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U08-43"]=[
+ {
+  "id": 1,
+  "start": 7.0,
+  "end": 7.12,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.32,
+  "end": 29.339,
+  "text": "I think exercise is so important to good health. There's a really good sports club near my school. During the week, I play tennis there for an hour before school starts. On weekends, I usually work out at the gym near my house for a few hours. I also play baseball with some friends from school. It's so much fun!"
+ },
+ {
+  "id": 3,
+  "start": 30.62,
+  "end": 31.879,
+  "text": "2."
+ },
+ {
+  "id": 4,
+  "start": 33.0,
+  "end": 52.64,
+  "text": "I don't like jogging or doing anything too energetic. I prefer taking walks. I like to take a short walk every day through the park across from my house. Sometimes my boyfriend goes with me. It's nice to talk and look at the flowers and trees. On Sunday, I like to swim, but for only about a half hour. I sleep the rest of the weekend."
+ },
+ {
+  "id": 5,
+  "start": 53.6,
+  "end": 55.159,
+  "text": "3."
+ },
+ {
+  "id": 6,
+  "start": 56.24,
+  "end": 83.079,
+  "text": "I am a big soccer fan, but I only watch it on TV. I can't stand playing it! There are great games to watch on weekends. I also enjoy watching tennis. I'd like to learn someday, but I don't like to sweat. I love chess and often play with my younger sister. She's really good at it and usually wins. On weekends, I love to play video games with some of my friends."
+ },
+ {
+  "id": 7,
+  "start": 83.819,
+  "end": 85.76,
+  "text": "4."
+ },
+ {
+  "id": 8,
+  "start": 86.799,
+  "end": 114.54,
+  "text": "I just love to exercise! I like many different sports. Let's see....I like swimming a lot. I get up very early, around 5 a.m., and swim for two hours from Monday to Friday. I also enjoy basketball and play with a group of friends from work every Tuesday night. And I've also started playing golf this year. Before playing, I jog to warm up."
+ },
+ {
+  "id": 9,
+  "start": 115.28,
+  "end": 117.26,
+  "text": "5."
+ },
+ {
+  "id": 10,
+  "start": 118.319,
+  "end": 139.68,
+  "text": "I enjoy exercise, but I don't do it as much as I should. I meet a friend every Wednesday and we play tennis. I'm not a very good player, but it's fun and we usually play for an hour. On weekends, I like to bike around our neighborhood. I guess I spend an hour or two doing that. Oh, and I love baseball, but only watching it while sitting on the couch eating popcorn!"
+ }
+];

@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1,
+  "start": 7.24,
+  "end": 9.46,
+  "text": "1. Did you cut yourself?"
+ },
+ {
+  "id": 2,
+  "start": 10.199,
+  "end": 15.759,
+  "text": "2. How did you break your arm?"
+ },
+ {
+  "id": 3,
+  "start": 16.719,
+  "end": 25.359,
+  "text": "3. Did you go to the doctor?"
+ },
+ {
+  "id": 4,
+  "start": 25.359,
+  "end": 28.079,
+  "text": "4. Why did you go to the doctor?"
+ }
+]

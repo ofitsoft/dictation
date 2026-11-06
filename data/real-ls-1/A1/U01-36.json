@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "start": 0.48,
+  "end": 8.5,
+  "text": "I walked home last night in the rain, and now I have a really bad cold."
+ },
+ {
+  "id": 2,
+  "start": 10.58,
+  "end": 17.399,
+  "text": "I've got a terrible cough. I think it's getting worse."
+ },
+ {
+  "id": 3,
+  "start": 19.5,
+  "end": 25.42,
+  "text": "Sorry, I can't play tennis tomorrow. I've got terrible backache."
+ },
+ {
+  "id": 4,
+  "start": 27.5,
+  "end": 32.659,
+  "text": "I spent too much time outside yesterday, and now I've got sunburn!"
+ },
+ {
+  "id": 5,
+  "start": 34.52,
+  "end": 38.979,
+  "text": "I don't feel very well. I think I have a temperature."
+ },
+ {
+  "id": 6,
+  "start": 41.0,
+  "end": 46.64,
+  "text": "I don't know why, but I've got a bad sore throat this morning."
+ }
+]

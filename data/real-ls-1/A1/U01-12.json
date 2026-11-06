@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "start": 0.44,
+  "end": 2.7,
+  "text": "thirteen pounds"
+ },
+ {
+  "id": 2,
+  "start": 6.98,
+  "end": 8.839,
+  "text": "forty dollars"
+ },
+ {
+  "id": 3,
+  "start": 11.22,
+  "end": 13.339,
+  "text": "fifty euros"
+ },
+ {
+  "id": 4,
+  "start": 15.859,
+  "end": 17.899,
+  "text": "sixteen pounds"
+ },
+ {
+  "id": 5,
+  "start": 20.359,
+  "end": 22.399,
+  "text": "seventy euros"
+ },
+ {
+  "id": 6,
+  "start": 24.879,
+  "end": 26.719,
+  "text": "eighteen dollars"
+ }
+]

@@ -226,5 +226,125 @@ window.DICT=window.DICT||{};DICT["topics"]=[
     "count": 16
    }
   ]
+ },
+ {
+  "id": "real-ls-1",
+  "title": "Real Listening and Speaking A1",
+  "levels": "A1",
+  "lessons": 108,
+  "groups": [
+   {
+    "title": "Unit 1",
+    "count": 63
+   },
+   {
+    "title": "Unit 2",
+    "count": 45
+   }
+  ]
+ },
+ {
+  "id": "basic-tactics",
+  "title": "Basic Tactics for Listening",
+  "levels": "A1",
+  "lessons": 131,
+  "groups": [
+   {
+    "title": "Unit 1",
+    "count": 5
+   },
+   {
+    "title": "Unit 2",
+    "count": 5
+   },
+   {
+    "title": "Unit 3",
+    "count": 6
+   },
+   {
+    "title": "Unit 4",
+    "count": 6
+   },
+   {
+    "title": "Unit 5",
+    "count": 6
+   },
+   {
+    "title": "Unit 6",
+    "count": 6
+   },
+   {
+    "title": "Unit 7",
+    "count": 5
+   },
+   {
+    "title": "Unit 8",
+    "count": 6
+   },
+   {
+    "title": "Unit 9",
+    "count": 6
+   },
+   {
+    "title": "Unit 10",
+    "count": 5
+   },
+   {
+    "title": "Unit 11",
+    "count": 6
+   },
+   {
+    "title": "Unit 12",
+    "count": 5
+   },
+   {
+    "title": "Unit 13",
+    "count": 5
+   },
+   {
+    "title": "Unit 14",
+    "count": 5
+   },
+   {
+    "title": "Unit 15",
+    "count": 6
+   },
+   {
+    "title": "Unit 16",
+    "count": 5
+   },
+   {
+    "title": "Unit 17",
+    "count": 5
+   },
+   {
+    "title": "Unit 18",
+    "count": 5
+   },
+   {
+    "title": "Unit 19",
+    "count": 5
+   },
+   {
+    "title": "Unit 20",
+    "count": 6
+   },
+   {
+    "title": "Unit 21",
+    "count": 5
+   },
+   {
+    "title": "Unit 22",
+    "count": 6
+   },
+   {
+    "title": "Unit 23",
+    "count": 6
+   },
+   {
+    "title": "Unit 24",
+    "count": 5
+   }
+  ]
  }
 ];

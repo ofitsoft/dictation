@@ -1,0 +1,26 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-50"]=[
+ {
+  "id": 1,
+  "start": 0.44,
+  "end": 12.74,
+  "text": "It's a really nice room, but it's a bit small. There's a mini-bar, though, which is great, and the TV has lots of movie channels."
+ },
+ {
+  "id": 2,
+  "start": 15.14,
+  "end": 29.839,
+  "text": "Yes, the room's fine, thanks. It's pretty big and there's a nice balcony. There's also a hair dryer and an iron and ironing board, which is useful because a lot of my clothes need ironing."
+ },
+ {
+  "id": 3,
+  "start": 32.479,
+  "end": 49.159,
+  "text": "Yeah, it's good. I like it. It has a bath and shower, which is great because I always like to have a bath in the evening and there's a nice view over the park. I can make tea and coffee, too."
+ },
+ {
+  "id": 4,
+  "start": 51.34,
+  "end": 60.82,
+  "text": "The bed's huge. It's the biggest I've ever seen! Oh, and the air-conditioning is really good, too. That's so important in hot weather."
+ }
+];

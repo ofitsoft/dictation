@@ -1,0 +1,50 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U21-25"]=[
+ {
+  "id": 1,
+  "start": 6.94,
+  "end": 7.48,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.74,
+  "end": 34.899,
+  "text": "So when you come out of the subway, look for a tall glass building. That's a hotel. Walk past that for two blocks and you'll see a small street on the right. That's my street. There's a grocery store on the corner. Go down the street and my place is the fourth house on the left. Maybe bring some music with you, because I don't have any dance music for the party."
+ },
+ {
+  "id": 3,
+  "start": 36.78,
+  "end": 37.399,
+  "text": "2."
+ },
+ {
+  "id": 4,
+  "start": 38.479,
+  "end": 59.64,
+  "text": "My place is fairly easy to find. Get off the bus across from the supermarket. When you get to the supermarket, could you pick up some snacks? Then walk north for two blocks. You'll see a footbridge. Cross that footbridge and you'll see a small street when you get to the other side. Go down the street, and on the corner you'll see an apartment building. That's my place."
+ },
+ {
+  "id": 5,
+  "start": 61.14,
+  "end": 62.039,
+  "text": "3."
+ },
+ {
+  "id": 6,
+  "start": 63.38,
+  "end": 84.7,
+  "text": "My apartment building is near the river. When you come out of the subway, walk towards the river and you'll see an intersection. Go through the intersection and take the first street on the left. Go down the street until you see a supermarket. My house is right next to it. If you can, could you bring some fruit to go with dinner?"
+ },
+ {
+  "id": 7,
+  "start": 87.019,
+  "end": 87.159,
+  "text": "4."
+ },
+ {
+  "id": 8,
+  "start": 88.319,
+  "end": 109.959,
+  "text": "I live in an apartment building close to the high school. Get off the bus across from the school and walk north for about four blocks. You'll see a gas station on your left. Turn right just past the gas station and go down the street until you see a church. My building is across from the church. Don't forget to bring your tennis racket."
+ }
+];

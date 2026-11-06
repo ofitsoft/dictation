@@ -1,0 +1,50 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U07-40"]=[
+ {
+  "id": 1,
+  "start": 6.339,
+  "end": 8.339,
+  "text": "What's your favorite TV show, Ryan?"
+ },
+ {
+  "id": 2,
+  "start": 8.8,
+  "end": 11.08,
+  "text": "Oh, probably My Crazy Life."
+ },
+ {
+  "id": 3,
+  "start": 11.699,
+  "end": 14.119,
+  "text": "Really? What's it about?"
+ },
+ {
+  "id": 4,
+  "start": 14.58,
+  "end": 19.399,
+  "text": "Well, it's a drama about a group of friends. It has a lot of romance."
+ },
+ {
+  "id": 5,
+  "start": 20.019,
+  "end": 22.6,
+  "text": "Huh. I've never seen it. Who's in it?"
+ },
+ {
+  "id": 6,
+  "start": 23.28,
+  "end": 25.48,
+  "text": "Max Fox and Lindsay Jones."
+ },
+ {
+  "id": 7,
+  "start": 25.98,
+  "end": 29.879,
+  "text": "Oh, Max is one of my favorite actors! When is it on?"
+ },
+ {
+  "id": 8,
+  "start": 30.64,
+  "end": 33.84,
+  "text": "It's on Thursdays at 9:00. Or you can watch it online."
+ }
+];

@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-30"]=[
+ {
+  "id": 1,
+  "start": 3.399,
+  "end": 4.86,
+  "text": "I'd like to open an account."
+ },
+ {
+  "id": 2,
+  "start": 5.44,
+  "end": 10.779,
+  "text": "Certainly. Can you fill in this form? Our New Accounts Manager will see you shortly."
+ },
+ {
+  "id": 3,
+  "start": 14.439,
+  "end": 17.1,
+  "text": "I want to cash this cheque, please."
+ },
+ {
+  "id": 4,
+  "start": 18.079,
+  "end": 19.94,
+  "text": "Please can you write your address on the back?"
+ },
+ {
+  "id": 5,
+  "start": 23.739,
+  "end": 28.219,
+  "text": "I need to transfer some money to my savings account."
+ },
+ {
+  "id": 6,
+  "start": 28.76,
+  "end": 31.66,
+  "text": "No problem. Can you show me your bank card, please?"
+ }
+];

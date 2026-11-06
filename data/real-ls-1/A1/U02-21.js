@@ -1,0 +1,20 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-21"]=[
+ {
+  "id": 1,
+  "start": 3.64,
+  "end": 30.8,
+  "text": "Hello, it's David Brown here. Um. I'm calling about the contract. I have a few questions and I think we should meet. I'm free on Friday so if you have time for lunch, let's say 12.45? Please call me to confirm. My number is 0207-9845-6109. Thanks. Bye."
+ },
+ {
+  "id": 2,
+  "start": 31.879,
+  "end": 56.219,
+  "text": "Hello Geena? Are you there? It's Susan here from Accounts. Listen, I can't find your sales report for the Shelford project. Do you know where it is? I need it before the sales meeting at four this afternoon. Please call me as soon as you get this message. I'm on extension 790. Thanks!"
+ },
+ {
+  "id": 3,
+  "start": 56.219,
+  "end": 98.59,
+  "text": "Robert Macintyre here, that's M-A-C-I-N-T-Y-R-E, from Shell International. Richard Thomas suggested I speak to you about the new project you are working on for us. We need to talk about prices. Can you call me on 0190-456-0280 when you get this message? I'll be in the office until 3.15 this afternoon. Or you can reach me on my mobile after 6.30 this evening. The number is 07967-7635423. Thank you."
+ }
+];

@@ -1,0 +1,20 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-41"]=[
+ {
+  "id": 1,
+  "start": 3.58,
+  "end": 23.019,
+  "text": "Hmm. OK, well I think you have a very bad sore throat. I'll give you a prescription for some tablets. I want you to take two of these every day... that's one in the morning and one at night. Oh, and drink lots of water as well. That will help."
+ },
+ {
+  "id": 2,
+  "start": 25.059,
+  "end": 42.399,
+  "text": "Yes, well a problem like backache is always very hard to deal with... there are so many reasons why people get backache. However, it's painful, so I'll give you some cream. Use it at night before you sleep, and see me again next week."
+ },
+ {
+  "id": 3,
+  "start": 43.479,
+  "end": 61.84,
+  "text": "Well, the good news is that I don't think it's the flu, but you do have a bad cold and cough. You don't need any medicine, just stay in bed and take it easy. Oh, and I wouldn't recommend going to work for three days or so."
+ }
+];

@@ -1,0 +1,152 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U18-08"]=[
+ {
+  "id": 1,
+  "start": 6.379,
+  "end": 7.059,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.14,
+  "end": 9.099,
+  "text": "Are you going out?"
+ },
+ {
+  "id": 3,
+  "start": 9.4,
+  "end": 13.039,
+  "text": "Yes. Later. What's the weather like outside?"
+ },
+ {
+  "id": 4,
+  "start": 13.699,
+  "end": 16.839,
+  "text": "Not very nice. Cloudy and windy."
+ },
+ {
+  "id": 5,
+  "start": 17.179,
+  "end": 19.239,
+  "text": "I think it's going to rain later."
+ },
+ {
+  "id": 6,
+  "start": 19.78,
+  "end": 22.399,
+  "text": "Oh, really? It was sunny this morning."
+ },
+ {
+  "id": 7,
+  "start": 23.66,
+  "end": 24.899,
+  "text": "2."
+ },
+ {
+  "id": 8,
+  "start": 26.16,
+  "end": 29.64,
+  "text": "Let's go out for a walk. It's so nice and sunny."
+ },
+ {
+  "id": 9,
+  "start": 30.039,
+  "end": 34.46,
+  "text": "Yes, it is. Not a cloud in the sky. Just let me put this on."
+ },
+ {
+  "id": 10,
+  "start": 34.679,
+  "end": 35.28,
+  "text": "3."
+ },
+ {
+  "id": 11,
+  "start": 35.28,
+  "end": 39.52,
+  "text": "Are you going out in this snow?"
+ },
+ {
+  "id": 12,
+  "start": 40.039,
+  "end": 42.719,
+  "text": "Yes, I have to go downtown."
+ },
+ {
+  "id": 13,
+  "start": 43.32,
+  "end": 46.439,
+  "text": "Well, wear something warm. It's really cold outside."
+ },
+ {
+  "id": 14,
+  "start": 48.219,
+  "end": 49.02,
+  "text": "4."
+ },
+ {
+  "id": 15,
+  "start": 50.179,
+  "end": 51.38,
+  "text": "Is it cold outside?"
+ },
+ {
+  "id": 16,
+  "start": 51.96,
+  "end": 55.74,
+  "text": "Not really. It's raining a little, but it's still nice."
+ },
+ {
+  "id": 17,
+  "start": 56.979,
+  "end": 58.42,
+  "text": "5."
+ },
+ {
+  "id": 18,
+  "start": 59.539,
+  "end": 61.38,
+  "text": "It's really hot and humid today."
+ },
+ {
+  "id": 19,
+  "start": 62.119,
+  "end": 65.64,
+  "text": "It sure is. It must be at least 95 degrees out there!"
+ },
+ {
+  "id": 20,
+  "start": 66.26,
+  "end": 67.9,
+  "text": "I think I'll go to the pool for a swim."
+ },
+ {
+  "id": 21,
+  "start": 68.68,
+  "end": 70.579,
+  "text": "6."
+ },
+ {
+  "id": 22,
+  "start": 70.78,
+  "end": 72.959,
+  "text": "Oh, look. It's snowing."
+ },
+ {
+  "id": 23,
+  "start": 73.34,
+  "end": 76.76,
+  "text": "Great. Let's get our things and have a snowball fight."
+ },
+ {
+  "id": 24,
+  "start": 77.4,
+  "end": 79.299,
+  "text": "No way! It's too cold for me."
+ },
+ {
+  "id": 25,
+  "start": 79.92,
+  "end": 82.7,
+  "text": "Come on. There's no wind. It'll be nice."
+ }
+];

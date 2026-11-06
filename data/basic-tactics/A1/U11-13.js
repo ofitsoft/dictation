@@ -1,0 +1,176 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U11-13"]=[
+ {
+  "id": 1,
+  "start": 6.58,
+  "end": 7.219,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.38,
+  "end": 10.419,
+  "text": "So do you think we should go and see it?"
+ },
+ {
+  "id": 3,
+  "start": 10.82,
+  "end": 17.0,
+  "text": "Yes, I think so. I hear it's very good. My friend said the story is great."
+ },
+ {
+  "id": 4,
+  "start": 17.559,
+  "end": 20.1,
+  "text": "Yeah... I've heard it's full of action."
+ },
+ {
+  "id": 5,
+  "start": 21.199,
+  "end": 22.739,
+  "text": "2."
+ },
+ {
+  "id": 6,
+  "start": 24.0,
+  "end": 26.48,
+  "text": "What's the weather going to be like on Saturday?"
+ },
+ {
+  "id": 7,
+  "start": 27.239,
+  "end": 28.12,
+  "text": "Hot and sunny."
+ },
+ {
+  "id": 8,
+  "start": 28.719,
+  "end": 33.14,
+  "text": "Oh, good, so let's go then. It'll be perfect for swimming."
+ },
+ {
+  "id": 9,
+  "start": 33.579,
+  "end": 37.179,
+  "text": "Yeah. But I just want to lie on the sand and sleep."
+ },
+ {
+  "id": 10,
+  "start": 39.52,
+  "end": 39.899,
+  "text": "3."
+ },
+ {
+  "id": 11,
+  "start": 40.96,
+  "end": 42.0,
+  "text": "What time is the game?"
+ },
+ {
+  "id": 12,
+  "start": 42.88,
+  "end": 43.679,
+  "text": "It's at two o'clock."
+ },
+ {
+  "id": 13,
+  "start": 44.119,
+  "end": 46.079,
+  "text": "Great. Are you playing?"
+ },
+ {
+  "id": 14,
+  "start": 46.479,
+  "end": 47.179,
+  "text": "Sure."
+ },
+ {
+  "id": 15,
+  "start": 48.039,
+  "end": 49.7,
+  "text": "4."
+ },
+ {
+  "id": 16,
+  "start": 50.859,
+  "end": 52.34,
+  "text": "What do you want to do this weekend?"
+ },
+ {
+  "id": 17,
+  "start": 53.02,
+  "end": 55.14,
+  "text": "I don't know. What do you want to do?"
+ },
+ {
+  "id": 18,
+  "start": 55.359,
+  "end": 56.299,
+  "text": "I don't know."
+ },
+ {
+  "id": 19,
+  "start": 56.799,
+  "end": 60.299,
+  "text": "Hey, I know. Let's get the guys and go rollerblading."
+ },
+ {
+  "id": 20,
+  "start": 60.92,
+  "end": 61.52,
+  "text": "Okay."
+ },
+ {
+  "id": 21,
+  "start": 62.659,
+  "end": 64.18,
+  "text": "5."
+ },
+ {
+  "id": 22,
+  "start": 65.359,
+  "end": 66.48,
+  "text": "What do you need to buy?"
+ },
+ {
+  "id": 23,
+  "start": 66.819,
+  "end": 69.359,
+  "text": "Well, I need some new jeans."
+ },
+ {
+  "id": 24,
+  "start": 69.98,
+  "end": 71.379,
+  "text": "And I need some shirts."
+ },
+ {
+  "id": 25,
+  "start": 71.819,
+  "end": 74.579,
+  "text": "Okay. Let's go on Saturday afternoon."
+ },
+ {
+  "id": 26,
+  "start": 75.28,
+  "end": 77.459,
+  "text": "6."
+ },
+ {
+  "id": 27,
+  "start": 78.459,
+  "end": 83.92,
+  "text": "Want to come with me on Saturday? I don't think it'll be too hot. It's great exercise."
+ },
+ {
+  "id": 28,
+  "start": 84.159,
+  "end": 88.68,
+  "text": "Okay. I'll pack a lunch. Maybe we can ride to the park and have a picnic."
+ },
+ {
+  "id": 29,
+  "start": 89.319,
+  "end": 89.939,
+  "text": "Great idea."
+ }
+];

@@ -1,0 +1,32 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U11-17"]=[
+ {
+  "id": 1,
+  "start": 1.02,
+  "end": 5.48,
+  "text": "Task 2"
+ },
+ {
+  "id": 2,
+  "start": 5.799,
+  "end": 11.3,
+  "text": "1. We can't go to the movies tonight."
+ },
+ {
+  "id": 3,
+  "start": 12.22,
+  "end": 17.739,
+  "text": "2. You can do whatever you want today."
+ },
+ {
+  "id": 4,
+  "start": 19.019,
+  "end": 24.16,
+  "text": "3. I can go to the soccer game with you."
+ },
+ {
+  "id": 5,
+  "start": 25.399,
+  "end": 29.98,
+  "text": "4. She can't meet me for dinner."
+ }
+];

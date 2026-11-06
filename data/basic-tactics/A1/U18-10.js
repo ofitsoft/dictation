@@ -1,0 +1,20 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U18-10"]=[
+ {
+  "id": 1,
+  "start": 6.879,
+  "end": 12.019,
+  "text": "1. In Taipei it will be cloudy, wet, and hot today."
+ },
+ {
+  "id": 2,
+  "start": 12.919,
+  "end": 20.699,
+  "text": "2. Tomorrow it's going to be sunny, hot, and humid."
+ },
+ {
+  "id": 3,
+  "start": 21.719,
+  "end": 28.199,
+  "text": "3. Remember to wear your boots, jacket, and hat."
+ }
+];

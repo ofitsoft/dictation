@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "start": 0.18,
+  "end": 4.299,
+  "text": "Where are you from?"
+ },
+ {
+  "id": 2,
+  "start": 6.339,
+  "end": 8.779,
+  "text": "What do you do?"
+ },
+ {
+  "id": 3,
+  "start": 10.839,
+  "end": 13.259,
+  "text": "Are you married?"
+ },
+ {
+  "id": 4,
+  "start": 15.32,
+  "end": 18.12,
+  "text": "Do you have any children?"
+ },
+ {
+  "id": 5,
+  "start": 20.199,
+  "end": 22.559,
+  "text": "Do you enjoy your job?"
+ },
+ {
+  "id": 6,
+  "start": 24.64,
+  "end": 27.359,
+  "text": "Do you have any plans for the weekend?"
+ }
+]

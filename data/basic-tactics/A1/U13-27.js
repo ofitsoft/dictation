@@ -1,0 +1,26 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U13-27"]=[
+ {
+  "id": 1,
+  "start": 7.019,
+  "end": 10.16,
+  "text": "1. The pie was delicious."
+ },
+ {
+  "id": 2,
+  "start": 10.82,
+  "end": 16.699,
+  "text": "2. The French fries were really salty."
+ },
+ {
+  "id": 3,
+  "start": 17.6,
+  "end": 22.92,
+  "text": "3. The steak wasn't cooked enough."
+ },
+ {
+  "id": 4,
+  "start": 24.1,
+  "end": 29.379,
+  "text": "4. The vegetables weren't very fresh."
+ }
+];

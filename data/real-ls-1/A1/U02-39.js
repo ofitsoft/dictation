@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-39"]=[
+ {
+  "id": 1,
+  "start": 0.5,
+  "end": 4.78,
+  "text": "Hello. Can I help you?"
+ },
+ {
+  "id": 2,
+  "start": 9.66,
+  "end": 13.24,
+  "text": "it starts next Monday, that's the fourth of September."
+ },
+ {
+  "id": 3,
+  "start": 18.879,
+  "end": 24.96,
+  "text": "There are five classes a week."
+ },
+ {
+  "id": 4,
+  "start": 26.28,
+  "end": 30.8,
+  "text": "Classes are on Monday to Friday, from nine till twelve."
+ },
+ {
+  "id": 5,
+  "start": 36.84,
+  "end": 38.159,
+  "text": "They're in room 2A."
+ },
+ {
+  "id": 6,
+  "start": 43.88,
+  "end": 45.799,
+  "text": "It's Mr Price. OK? Bye."
+ }
+];

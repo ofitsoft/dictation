@@ -1,0 +1,62 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-56"]=[
+ {
+  "id": 1,
+  "start": 2.779,
+  "end": 13.38,
+  "text": "The 7.45 train to Edinburgh will leave from Platform 1. Platform 1 for the 7.45 to Edinburgh."
+ },
+ {
+  "id": 2,
+  "start": 19.44,
+  "end": 25.399,
+  "text": "The 7.49 service to York will depart from Platform 3."
+ },
+ {
+  "id": 3,
+  "start": 29.46,
+  "end": 50.469,
+  "text": "The train to Cambridge will depart from Platform 9 at 8.15. That's Platform 9 for the 8.15 service to Cambridge."
+ },
+ {
+  "id": 4,
+  "start": 50.77,
+  "end": 65.829,
+  "text": "The 7.50 intercity service to Liverpool Lime Street is delayed. This train will now leave at 8.10, from Platform 7."
+ },
+ {
+  "id": 5,
+  "start": 67.04,
+  "end": 84.01,
+  "text": "The 7.45 train to Belfast will leave from Platform 1. Platform 1 for the 7.45 to Belfast."
+ },
+ {
+  "id": 6,
+  "start": 84.67,
+  "end": 93.129,
+  "text": "The 5.49 service to Bristol will depart from Platform 3."
+ },
+ {
+  "id": 7,
+  "start": 94.569,
+  "end": 112.23,
+  "text": "The train to Newcastle will depart from Platform 9 at 8.15. That's Platform 9 for the 8.15 service to Newcastle."
+ },
+ {
+  "id": 8,
+  "start": 113.069,
+  "end": 127.93,
+  "text": "The 10.50 intercity service to Liverpool Lime Street is cancelled. We apologize for any inconvenience this may cause."
+ },
+ {
+  "id": 9,
+  "start": 128.409,
+  "end": 135.71,
+  "text": "The 9.10 coach service to Wellington will leave from Bay 12. That's Bay 12 for the 9.10 service to Wellington."
+ },
+ {
+  "id": 10,
+  "start": 141.389,
+  "end": 152.93,
+  "text": "Passengers waiting for the 3.05 service to Cape Town please go to Bay 3. That's Bay 3 for the 3.05 service to Cape Town."
+ }
+];

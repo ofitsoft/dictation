@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U12-23"]=[
+ {
+  "id": 1,
+  "start": 6.9,
+  "end": 11.759,
+  "text": "Excuse me. I need a new computer. What's the price range for your laptops?"
+ },
+ {
+  "id": 2,
+  "start": 12.339,
+  "end": 23.94,
+  "text": "Well, our lowest-priced laptop is only three hundred twenty-nine ninety-nine. Our highest-priced model costs two thousand one hundred ninety nine ninety nine."
+ },
+ {
+  "id": 3,
+  "start": 24.539,
+  "end": 28.14,
+  "text": "That's expensive! Can you tell me about the low-priced one?"
+ },
+ {
+  "id": 4,
+  "start": 28.879,
+  "end": 32.96,
+  "text": "Well, it's fine for basic use, if you don't play games much."
+ },
+ {
+  "id": 5,
+  "start": 33.5,
+  "end": 38.719,
+  "text": "Well, I am a big gamer, but I don't want to spend over a thousand dollars. though."
+ },
+ {
+  "id": 6,
+  "start": 39.359,
+  "end": 46.7,
+  "text": "This model has a lot of power, and it only costs seven hundred ninety nine dollars. It's very popular."
+ },
+ {
+  "id": 7,
+  "start": 47.399,
+  "end": 49.64,
+  "text": "Hmm, let me take a look."
+ }
+];

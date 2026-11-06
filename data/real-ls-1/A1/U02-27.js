@@ -1,0 +1,8 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-27"]=[
+ {
+  "id": 1,
+  "start": 2.919,
+  "end": 41.039,
+  "text": "OK, so that's how the new ordering system will work. We started developing it three years ago, and I hope you'll agree there are many benefits to using a new computer system like this one. When the system is ready, it will save everybody a lot of time. The new system will also be more efficient, and there won't be so many mistakes. It should save us money, too. So, in conclusion, this new ordering system will make all of our lives a lot easier. Thanks for coming. I hope you have found the talk useful."
+ }
+];

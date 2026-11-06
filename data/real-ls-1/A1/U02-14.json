@@ -1,0 +1,110 @@
+[
+ {
+  "id": 1,
+  "start": 7.0,
+  "end": 7.9,
+  "text": "Hello, Hadley Office Supplies."
+ },
+ {
+  "id": 2,
+  "start": 8.82,
+  "end": 11.839,
+  "text": "Hello. I'd like to order some office furniture, please?"
+ },
+ {
+  "id": 3,
+  "start": 12.099,
+  "end": 14.58,
+  "text": "OK. Do you have an account with us?"
+ },
+ {
+  "id": 4,
+  "start": 14.66,
+  "end": 16.359,
+  "text": "Yes. ABS Printers."
+ },
+ {
+  "id": 5,
+  "start": 16.739,
+  "end": 23.14,
+  "text": "Let me see ABS Printers. Yes, that's fine. Erm, what items did you want to order?"
+ },
+ {
+  "id": 6,
+  "start": 23.64,
+  "end": 28.44,
+  "text": "Two large desks. I think the catalogue number is 3743."
+ },
+ {
+  "id": 7,
+  "start": 28.76,
+  "end": 37.52,
+  "text": "3743... large desk... That's right. They're £175 each. Two of those, you say?"
+ },
+ {
+  "id": 8,
+  "start": 37.7,
+  "end": 39.02,
+  "text": "Yes. Thanks."
+ },
+ {
+  "id": 9,
+  "start": 39.42,
+  "end": 39.979,
+  "text": "Anything else?"
+ },
+ {
+  "id": 10,
+  "start": 40.24,
+  "end": 44.039,
+  "text": "Yes, a chair. It's number 984a."
+ },
+ {
+  "id": 11,
+  "start": 44.42,
+  "end": 51.96,
+  "text": "Just a moment... 984a... Ah yes. One executive chair, £78?"
+ },
+ {
+  "id": 12,
+  "start": 52.34,
+  "end": 52.84,
+  "text": "That's right."
+ },
+ {
+  "id": 13,
+  "start": 53.219,
+  "end": 56.119,
+  "text": "OK. That's ordered for you. Is that everything?"
+ },
+ {
+  "id": 14,
+  "start": 56.7,
+  "end": 57.78,
+  "text": "Yes, that's it."
+ },
+ {
+  "id": 15,
+  "start": 58.399,
+  "end": 63.439,
+  "text": "OK. So that will be £502.90, including VAT."
+ },
+ {
+  "id": 16,
+  "start": 64.28,
+  "end": 65.62,
+  "text": "Could you deliver on Friday?"
+ },
+ {
+  "id": 17,
+  "start": 65.84,
+  "end": 66.92,
+  "text": "Yes, no problem."
+ },
+ {
+  "id": 18,
+  "start": 67.12,
+  "end": 68.28,
+  "text": "Great. Thanks a lot"
+ }
+]

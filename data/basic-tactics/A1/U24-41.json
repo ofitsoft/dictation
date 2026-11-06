@@ -1,0 +1,62 @@
+[
+ {
+  "id": 1,
+  "start": 7.379,
+  "end": 7.5,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 7.679,
+  "end": 18.059,
+  "text": "I have an awful backache. I was lifting heavy weights at the gym yesterday and I think I must have pulled a muscle. If it doesn't get better soon, I'll have to see the doctor."
+ },
+ {
+  "id": 3,
+  "start": 19.179,
+  "end": 20.5,
+  "text": "2."
+ },
+ {
+  "id": 4,
+  "start": 20.98,
+  "end": 37.02,
+  "text": "I was hiking up a mountain yesterday and I slipped and twisted my ankle as we were going down a steep path. It's so painful I can hardly walk. I bandaged it, but it still hurts. If it isn't better tomorrow, I'll go to the doctor."
+ },
+ {
+  "id": 5,
+  "start": 39.06,
+  "end": 39.52,
+  "text": "3."
+ },
+ {
+  "id": 6,
+  "start": 39.88,
+  "end": 53.96,
+  "text": "I flew back from Australia last week and I think I caught the flu from someone on the plane. The only time I get the flu is after a long flight. I've been taking pills for it, but I still feel sick."
+ },
+ {
+  "id": 7,
+  "start": 55.679,
+  "end": 56.579,
+  "text": "4."
+ },
+ {
+  "id": 8,
+  "start": 57.74,
+  "end": 75.099,
+  "text": "I went out to dinner a few days ago with a friend. We went to a very good seafood restaurant, but I think there was something wrong with the fish because my stomach really started hurting. I had to go to the hospital to get some medicine for it because it hurt so much. It's much better now."
+ },
+ {
+  "id": 9,
+  "start": 76.439,
+  "end": 77.739,
+  "text": "5."
+ },
+ {
+  "id": 10,
+  "start": 78.799,
+  "end": 88.859,
+  "text": "I was working in the garden last week and I cut my leg. It was a pretty deep cut, so I had to go to the doctor. She put some stitches in it. They'll be in for another week."
+ }
+]

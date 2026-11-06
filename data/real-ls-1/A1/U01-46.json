@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1,
+  "start": 0.06,
+  "end": 5.16,
+  "text": "Excuse me. Are you Mrs Hatano?"
+ },
+ {
+  "id": 2,
+  "start": 5.4,
+  "end": 6.44,
+  "text": "Yes, I am."
+ },
+ {
+  "id": 3,
+  "start": 7.139,
+  "end": 11.599,
+  "text": "Pleased to meet you. I'm from World Tours. I'm here to take you to your hotel."
+ },
+ {
+  "id": 4,
+  "start": 12.119,
+  "end": 12.679,
+  "text": "OK. Good."
+ },
+ {
+  "id": 5,
+  "start": 13.96,
+  "end": 14.759,
+  "text": "How was your flight?"
+ },
+ {
+  "id": 6,
+  "start": 15.119,
+  "end": 16.239,
+  "text": "It was fine, thank you."
+ },
+ {
+  "id": 7,
+  "start": 17.16,
+  "end": 18.12,
+  "text": "May I take your bags?"
+ },
+ {
+  "id": 8,
+  "start": 18.46,
+  "end": 24.46,
+  "text": "Yes. Thank you very much."
+ },
+ {
+  "id": 9,
+  "start": 24.46,
+  "end": 26.46,
+  "text": "Hi, John. Great to see you."
+ },
+ {
+  "id": 10,
+  "start": 26.859,
+  "end": 27.739,
+  "text": "Hi Eduardo."
+ },
+ {
+  "id": 11,
+  "start": 28.1,
+  "end": 29.899,
+  "text": "Here. I'll take your bag."
+ },
+ {
+  "id": 12,
+  "start": 30.199,
+  "end": 33.14,
+  "text": "Thanks. I'm exhausted!"
+ },
+ {
+  "id": 13,
+  "start": 33.56,
+  "end": 34.579,
+  "text": "Was the flight OK?"
+ },
+ {
+  "id": 14,
+  "start": 34.78,
+  "end": 36.679,
+  "text": "Yeah, not bad, thanks."
+ }
+]

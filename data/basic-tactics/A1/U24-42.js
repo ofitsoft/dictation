@@ -1,0 +1,194 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U24-42"]=[
+ {
+  "id": 1,
+  "start": 6.799,
+  "end": 7.28,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.5,
+  "end": 11.339,
+  "text": "I've really been having trouble sleeping lately."
+ },
+ {
+  "id": 3,
+  "start": 11.98,
+  "end": 13.039,
+  "text": "That's too bad."
+ },
+ {
+  "id": 4,
+  "start": 13.64,
+  "end": 20.539,
+  "text": "Yeah, I go to bed, but I often can't fall asleep. Do you ever have that problem?"
+ },
+ {
+  "id": 5,
+  "start": 21.0,
+  "end": 26.739,
+  "text": "Yeah, I sometimes do, too, especially if I'm feeling very worried or stressed out."
+ },
+ {
+  "id": 6,
+  "start": 27.3,
+  "end": 30.6,
+  "text": "So what do you do for it? Do you take sleeping pills?"
+ },
+ {
+  "id": 7,
+  "start": 31.179,
+  "end": 41.64,
+  "text": "I don't like the idea of sleeping pills, so I usually get up and watch TV or read until I feel tired. Then I go back to bed. Why don't you try it?"
+ },
+ {
+  "id": 8,
+  "start": 42.179,
+  "end": 43.64,
+  "text": "Yeah, I will."
+ },
+ {
+  "id": 9,
+  "start": 44.38,
+  "end": 46.0,
+  "text": "2."
+ },
+ {
+  "id": 10,
+  "start": 47.159,
+  "end": 51.439,
+  "text": "I've been feeling very tired lately, like I have no energy."
+ },
+ {
+  "id": 11,
+  "start": 51.799,
+  "end": 54.159,
+  "text": "Really? I used to have that problem."
+ },
+ {
+  "id": 12,
+  "start": 54.539,
+  "end": 57.42,
+  "text": "Oh yeah? Do you think I should see a doctor?"
+ },
+ {
+  "id": 13,
+  "start": 57.979,
+  "end": 61.579,
+  "text": "It may not be anything serious. Have you tried taking vitamins?"
+ },
+ {
+  "id": 14,
+  "start": 61.88,
+  "end": 63.039,
+  "text": "No, I haven't."
+ },
+ {
+  "id": 15,
+  "start": 63.78,
+  "end": 66.04,
+  "text": "Taking vitamins always helps me when I'm tired."
+ },
+ {
+  "id": 16,
+  "start": 66.5,
+  "end": 68.7,
+  "text": "3."
+ },
+ {
+  "id": 17,
+  "start": 69.9,
+  "end": 72.159,
+  "text": "I've been getting really bad backaches."
+ },
+ {
+  "id": 18,
+  "start": 72.7,
+  "end": 73.54,
+  "text": "Is that right?"
+ },
+ {
+  "id": 19,
+  "start": 73.76,
+  "end": 77.859,
+  "text": "Yeah. Sometimes the pain is so bad I can hardly move."
+ },
+ {
+  "id": 20,
+  "start": 78.439,
+  "end": 80.56,
+  "text": "Do you spend a lot of time in front of the computer?"
+ },
+ {
+  "id": 21,
+  "start": 80.84,
+  "end": 81.799,
+  "text": "Yes, I do."
+ },
+ {
+  "id": 22,
+  "start": 82.579,
+  "end": 85.799,
+  "text": "That's probably causing it. I used to get that problem, too."
+ },
+ {
+  "id": 23,
+  "start": 86.28,
+  "end": 88.12,
+  "text": "So did you stop using the computer?"
+ },
+ {
+  "id": 24,
+  "start": 88.4,
+  "end": 94.64,
+  "text": "No, I didn't need to. But I changed the way I sat, and that made a difference. Here. Let me show you."
+ },
+ {
+  "id": 25,
+  "start": 95.62,
+  "end": 97.26,
+  "text": "4."
+ },
+ {
+  "id": 26,
+  "start": 98.48,
+  "end": 100.519,
+  "text": "I'm getting a lot of colds this year."
+ },
+ {
+  "id": 27,
+  "start": 100.78,
+  "end": 101.48,
+  "text": "Really?"
+ },
+ {
+  "id": 28,
+  "start": 101.719,
+  "end": 103.659,
+  "text": "Yeah! About once a month."
+ },
+ {
+  "id": 29,
+  "start": 104.4,
+  "end": 105.079,
+  "text": "That's too bad."
+ },
+ {
+  "id": 30,
+  "start": 105.64,
+  "end": 108.18,
+  "text": "I've been taking vitamin C, but it doesn't help."
+ },
+ {
+  "id": 31,
+  "start": 108.599,
+  "end": 110.48,
+  "text": "Well, maybe you should go to the doctor."
+ },
+ {
+  "id": 32,
+  "start": 111.159,
+  "end": 113.879,
+  "text": "Maybe you're right. Can you recommend a good one?"
+ }
+];

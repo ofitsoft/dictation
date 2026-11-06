@@ -1,0 +1,206 @@
+[
+ {
+  "id": 1,
+  "start": 8.58,
+  "end": 11.359,
+  "text": "Hey, Sandra, do you want to go to the movies tonight?"
+ },
+ {
+  "id": 2,
+  "start": 11.82,
+  "end": 14.16,
+  "text": "Maybe... what time?"
+ },
+ {
+  "id": 3,
+  "start": 14.679,
+  "end": 16.42,
+  "text": "How about the nine fifteen show?"
+ },
+ {
+  "id": 4,
+  "start": 16.82,
+  "end": 21.46,
+  "text": "Oh, that's too late for me... I usually go to bed at eight thirty."
+ },
+ {
+  "id": 5,
+  "start": 22.179,
+  "end": 22.94,
+  "text": "So early?"
+ },
+ {
+  "id": 6,
+  "start": 23.26,
+  "end": 27.62,
+  "text": "Yeah.... I have to get up at five a.m. to study before school."
+ },
+ {
+  "id": 7,
+  "start": 28.6,
+  "end": 31.16,
+  "text": "Five a.m.? Why don't you study at night?"
+ },
+ {
+  "id": 8,
+  "start": 31.76,
+  "end": 35.039,
+  "text": "I don't like to stay up late. I'm a morning person."
+ },
+ {
+  "id": 9,
+  "start": 37.159,
+  "end": 40.06,
+  "text": "You look tired, John."
+ },
+ {
+  "id": 10,
+  "start": 40.679,
+  "end": 42.399,
+  "text": "Yeah, well, I'm always tired."
+ },
+ {
+  "id": 11,
+  "start": 42.7,
+  "end": 45.1,
+  "text": "Really? What time do you go to bed?"
+ },
+ {
+  "id": 12,
+  "start": 45.88,
+  "end": 51.32,
+  "text": "Usually around midnight. I like to stay up late. But I have to get up at six fifteen to go to work."
+ },
+ {
+  "id": 13,
+  "start": 53.56,
+  "end": 57.32,
+  "text": "Do you want to go running tomorrow morning, Sam?"
+ },
+ {
+  "id": 14,
+  "start": 58.02,
+  "end": 59.64,
+  "text": "It depends... what time?"
+ },
+ {
+  "id": 15,
+  "start": 60.38,
+  "end": 61.799,
+  "text": "How about six o'clock?"
+ },
+ {
+  "id": 16,
+  "start": 62.479,
+  "end": 66.239,
+  "text": "Six o'clock? I don't get up until around nine thirty!"
+ },
+ {
+  "id": 17,
+  "start": 66.76,
+  "end": 68.98,
+  "text": "Wow, you get a lot of sleep!"
+ },
+ {
+  "id": 18,
+  "start": 69.659,
+  "end": 73.879,
+  "text": "Not really.... I usually stay up until about three in the morning."
+ },
+ {
+  "id": 19,
+  "start": 76.079,
+  "end": 80.459,
+  "text": "Are you a morning person or a night person, Grace?"
+ },
+ {
+  "id": 20,
+  "start": 81.159,
+  "end": 83.879,
+  "text": "Oh, definitely a night person."
+ },
+ {
+  "id": 21,
+  "start": 84.159,
+  "end": 84.76,
+  "text": "Really?"
+ },
+ {
+  "id": 22,
+  "start": 85.079,
+  "end": 91.079,
+  "text": "Yeah, I can't fall asleep before midnight. I usually go to bed around one a.m."
+ },
+ {
+  "id": 23,
+  "start": 91.64,
+  "end": 93.959,
+  "text": "Huh. Do you sleep late in the morning?"
+ },
+ {
+  "id": 24,
+  "start": 94.579,
+  "end": 98.14,
+  "text": "Not really. I usually get up at a quarter to eight."
+ },
+ {
+  "id": 25,
+  "start": 100.319,
+  "end": 104.599,
+  "text": "Did you watch the eleven o'clock news last night, Mia?"
+ },
+ {
+  "id": 26,
+  "start": 105.14,
+  "end": 110.099,
+  "text": "No... I was asleep. I usually go to bed around ten."
+ },
+ {
+  "id": 27,
+  "start": 110.599,
+  "end": 113.18,
+  "text": "Ten o'clock? That's pretty early, isn't it?"
+ },
+ {
+  "id": 28,
+  "start": 113.5,
+  "end": 119.84,
+  "text": "Yeah, well, I'd like to stay up later... but I have to get up at six a.m. to go to work."
+ },
+ {
+  "id": 29,
+  "start": 121.459,
+  "end": 125.079,
+  "text": "Hi, James, what's new?"
+ },
+ {
+  "id": 30,
+  "start": 125.319,
+  "end": 127.84,
+  "text": "Well, I got a new job a few weeks ago."
+ },
+ {
+  "id": 31,
+  "start": 128.139,
+  "end": 131.06,
+  "text": "Really? Congratulations! How do you like it?"
+ },
+ {
+  "id": 32,
+  "start": 131.4,
+  "end": 135.34,
+  "text": "Well, it's great, except for the hours. I work the night shift."
+ },
+ {
+  "id": 33,
+  "start": 135.879,
+  "end": 138.0,
+  "text": "Oh, no! When do you sleep?"
+ },
+ {
+  "id": 34,
+  "start": 138.46,
+  "end": 143.84,
+  "text": "Well, I go to bed at eight in the morning. I sleep all day, and get up at four in the afternoon."
+ }
+]

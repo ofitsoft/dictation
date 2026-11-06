@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "start": 0.46,
+  "end": 5.019,
+  "text": "Now, I'd like you to meet my wife, Carol."
+ },
+ {
+  "id": 2,
+  "start": 5.78,
+  "end": 7.28,
+  "text": "Hello. Nice to meet you."
+ },
+ {
+  "id": 3,
+  "start": 8.08,
+  "end": 14.5,
+  "text": "And this is my daughter, Lisa."
+ },
+ {
+  "id": 4,
+  "start": 14.82,
+  "end": 16.539,
+  "text": "Hi. Nice to meet you."
+ },
+ {
+  "id": 5,
+  "start": 22.28,
+  "end": 23.14,
+  "text": "How was your trip?"
+ },
+ {
+  "id": 6,
+  "start": 24.199,
+  "end": 33.64,
+  "text": "And over here is my son Martin. Martin? Come and say hello."
+ },
+ {
+  "id": 7,
+  "start": 34.24,
+  "end": 35.979,
+  "text": "Hi there. Pleased to meet you."
+ },
+ {
+  "id": 8,
+  "start": 37.14,
+  "end": 43.84,
+  "text": "Now, let me show you to your room."
+ }
+]

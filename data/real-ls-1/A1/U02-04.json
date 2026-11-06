@@ -1,0 +1,122 @@
+[
+ {
+  "id": 1,
+  "start": 2.18,
+  "end": 5.82,
+  "text": "Hello. Do you know where Charles is?"
+ },
+ {
+  "id": 2,
+  "start": 6.059,
+  "end": 7.259,
+  "text": "I think he's at lunch."
+ },
+ {
+  "id": 3,
+  "start": 7.759,
+  "end": 10.66,
+  "text": "Oh, well. Can you ask him to call me when he gets in?"
+ },
+ {
+  "id": 4,
+  "start": 10.88,
+  "end": 12.5,
+  "text": "OK. I'll tell him."
+ },
+ {
+  "id": 5,
+  "start": 16.6,
+  "end": 20.199,
+  "text": "Is Cynthia there?"
+ },
+ {
+  "id": 6,
+  "start": 20.399,
+  "end": 22.14,
+  "text": "No, she isn't, I'm afraid."
+ },
+ {
+  "id": 7,
+  "start": 22.32,
+  "end": 31.199,
+  "text": "Hmm. We've got a meeting this afternoon, but Meeting Room 1's busy so can you tell her we've changed it to Meeting Room 4?"
+ },
+ {
+  "id": 8,
+  "start": 31.46,
+  "end": 37.32,
+  "text": "OK. I'll tell her."
+ },
+ {
+  "id": 9,
+  "start": 39.439,
+  "end": 40.179,
+  "text": "Where's Kevin?"
+ },
+ {
+  "id": 10,
+  "start": 40.939,
+  "end": 42.439,
+  "text": "I don't know, I'm afraid."
+ },
+ {
+  "id": 11,
+  "start": 42.64,
+  "end": 49.799,
+  "text": "Well, I need this month's sales report. Erm, can you tell him to email it as soon as possible? It's very important."
+ },
+ {
+  "id": 12,
+  "start": 50.28,
+  "end": 52.939,
+  "text": "The sales report? Sure, no problem."
+ },
+ {
+  "id": 13,
+  "start": 59.359,
+  "end": 62.1,
+  "text": "I'm trying to find Sue. Have you seen her?"
+ },
+ {
+  "id": 14,
+  "start": 62.6,
+  "end": 66.019,
+  "text": "Not since this morning. I think she's with a client."
+ },
+ {
+  "id": 15,
+  "start": 66.239,
+  "end": 70.84,
+  "text": "Well, we have a meeting at two o'clock. Remind her if you see her, will you?"
+ },
+ {
+  "id": 16,
+  "start": 71.04,
+  "end": 75.2,
+  "text": "Yes, OK, Judith. Two o'clock. I'll remind her when I see her."
+ },
+ {
+  "id": 17,
+  "start": 79.28,
+  "end": 85.12,
+  "text": "I can't find the key for the store cupboard. Do you know where it is?"
+ },
+ {
+  "id": 18,
+  "start": 85.239,
+  "end": 86.48,
+  "text": "I think Joseph had it."
+ },
+ {
+  "id": 19,
+  "start": 86.92,
+  "end": 88.68,
+  "text": "Ah, well, can you tell him I need it?"
+ },
+ {
+  "id": 20,
+  "start": 88.939,
+  "end": 89.4,
+  "text": "OK."
+ }
+]

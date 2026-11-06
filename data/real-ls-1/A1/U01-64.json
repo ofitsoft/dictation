@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 1.82,
+  "end": 6.679,
+  "text": "So, this is our first day in New York. What shall we do?"
+ },
+ {
+  "id": 2,
+  "start": 7.12,
+  "end": 13.039,
+  "text": "Well, how about going to the Metropolitan Museum of Art? People say it's really good."
+ },
+ {
+  "id": 3,
+  "start": 13.8,
+  "end": 18.399,
+  "text": "I'd rather not do that today. The weather's great. I want to be outside."
+ },
+ {
+  "id": 4,
+  "start": 18.839,
+  "end": 23.3,
+  "text": "OK, well... why don't we go to the Statue of Liberty?"
+ },
+ {
+  "id": 5,
+  "start": 23.559,
+  "end": 28.28,
+  "text": "That's a good idea. And afterwards what about going to Central Park?"
+ },
+ {
+  "id": 6,
+  "start": 28.5,
+  "end": 33.259,
+  "text": "Sure. That sounds great. Oh, and I want to go to Times Square as well."
+ },
+ {
+  "id": 7,
+  "start": 33.539,
+  "end": 37.219,
+  "text": "That's fine with me. Let's go there first. It's not far from here."
+ }
+]

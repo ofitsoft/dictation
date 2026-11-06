@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "start": 0.02,
+  "end": 3.94,
+  "text": "How can I help you?"
+ },
+ {
+  "id": 2,
+  "start": 4.08,
+  "end": 15.279,
+  "text": "Is it urgent?"
+ },
+ {
+  "id": 3,
+  "start": 15.279,
+  "end": 18.46,
+  "text": "Well, you'll probably want to send it by surface mail, then."
+ },
+ {
+  "id": 4,
+  "start": 19.739,
+  "end": 27.94,
+  "text": "By surface mail? Usually four to six weeks."
+ },
+ {
+  "id": 5,
+  "start": 33.64,
+  "end": 45.259,
+  "text": "Let me see. It weighs 1.4 kilos, so that will be £21 by airmail and £10.20 as a surface parcel."
+ },
+ {
+  "id": 6,
+  "start": 46.52,
+  "end": 52.82,
+  "text": "Usually six to ten days."
+ }
+]

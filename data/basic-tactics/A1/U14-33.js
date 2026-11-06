@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U14-33"]=[
+ {
+  "id": 1,
+  "start": 5.96,
+  "end": 11.66,
+  "text": "Hi, Angela! I haven't seen you for a long time. What's new?"
+ },
+ {
+  "id": 2,
+  "start": 12.199,
+  "end": 19.239,
+  "text": "Oh, not much really. I've been studying a lot. What about you? What have you been up to?"
+ },
+ {
+  "id": 3,
+  "start": 19.82,
+  "end": 23.879,
+  "text": "Uh, not much. I did visit Gina last week."
+ },
+ {
+  "id": 4,
+  "start": 24.32,
+  "end": 27.539,
+  "text": "Oh, nice. So, how's your sister these days?"
+ },
+ {
+  "id": 5,
+  "start": 28.32,
+  "end": 29.82,
+  "text": "She's fine, thanks."
+ },
+ {
+  "id": 6,
+  "start": 30.46,
+  "end": 31.96,
+  "text": "And how are your parents?"
+ },
+ {
+  "id": 7,
+  "start": 32.52,
+  "end": 35.359,
+  "text": "Oh, they're pretty busy, but doing well."
+ }
+];

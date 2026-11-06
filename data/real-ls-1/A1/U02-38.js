@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-38"]=[
+ {
+  "id": 1,
+  "start": 0.02,
+  "end": 5.379,
+  "text": "Have you got your schedule for this term, Monika?"
+ },
+ {
+  "id": 2,
+  "start": 5.58,
+  "end": 8.859,
+  "text": "Yes, Yuri, I have. It's going to be quite hard!"
+ },
+ {
+  "id": 3,
+  "start": 9.16,
+  "end": 11.8,
+  "text": "Really? What subjects do you take?"
+ },
+ {
+  "id": 4,
+  "start": 12.179,
+  "end": 18.44,
+  "text": "I've got Culture Studies, on Tuesdays and Thursdays at 8.30."
+ },
+ {
+  "id": 5,
+  "start": 18.64,
+  "end": 23.719,
+  "text": "Oh, 8.30! That's early. Do you have any classes after that?"
+ },
+ {
+  "id": 6,
+  "start": 23.879,
+  "end": 29.46,
+  "text": "Yes. Straight after that at 10 I have a class on Social Change."
+ },
+ {
+  "id": 7,
+  "start": 30.039,
+  "end": 32.78,
+  "text": "That sounds OK. Do you have the afternoon free?"
+ },
+ {
+  "id": 8,
+  "start": 32.96,
+  "end": 43.14,
+  "text": "Yes, but only Tuesdays and Thursdays. On Mondays, Wednesdays and Fridays I've got Language Development, at two o'clock."
+ },
+ {
+  "id": 9,
+  "start": 43.579,
+  "end": 46.6,
+  "text": "That sounds interesting. What other classes do you have?"
+ },
+ {
+  "id": 10,
+  "start": 46.899,
+  "end": 56.06,
+  "text": "I've got Education on Monday morning, at 9.40, and Communication Studies on Wednesdays and Fridays at 10."
+ },
+ {
+  "id": 11,
+  "start": 56.179,
+  "end": 58.719,
+  "text": "Wow. That's a lot of classes."
+ },
+ {
+  "id": 12,
+  "start": 58.88,
+  "end": 60.88,
+  "text": "I know. I hope they'll be good!"
+ }
+];

@@ -1,0 +1,32 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-62"]=[
+ {
+  "id": 1,
+  "start": 2.459,
+  "end": 5.679,
+  "text": "Are there any good markets here?"
+ },
+ {
+  "id": 2,
+  "start": 7.679,
+  "end": 10.619,
+  "text": "What museums do you recommend?"
+ },
+ {
+  "id": 3,
+  "start": 12.679,
+  "end": 15.88,
+  "text": "Where's the best place to go shopping?"
+ },
+ {
+  "id": 4,
+  "start": 17.879,
+  "end": 21.42,
+  "text": "Are there any temples I can visit near here?"
+ },
+ {
+  "id": 5,
+  "start": 23.44,
+  "end": 26.239,
+  "text": "Is there a guided tour I can go on?"
+ }
+];

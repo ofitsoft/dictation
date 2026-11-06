@@ -1,0 +1,86 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U09-02"]=[
+ {
+  "id": 1,
+  "start": 6.839,
+  "end": 7.28,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 7.62,
+  "end": 10.5,
+  "text": "Mom, have you seen my magazine?"
+ },
+ {
+  "id": 3,
+  "start": 11.199,
+  "end": 13.64,
+  "text": "I think it's in the living room next to the TV."
+ },
+ {
+  "id": 4,
+  "start": 14.779,
+  "end": 16.1,
+  "text": "2."
+ },
+ {
+  "id": 5,
+  "start": 17.26,
+  "end": 21.179,
+  "text": "Now where's today's newspaper? I can't find it anywhere."
+ },
+ {
+  "id": 6,
+  "start": 21.66,
+  "end": 25.42,
+  "text": "Oh, I was reading it. It's on the sofa, between the cushions."
+ },
+ {
+  "id": 7,
+  "start": 26.8,
+  "end": 27.96,
+  "text": "3."
+ },
+ {
+  "id": 8,
+  "start": 29.219,
+  "end": 31.44,
+  "text": "Do you know where the remote control is?"
+ },
+ {
+  "id": 9,
+  "start": 32.259,
+  "end": 35.539,
+  "text": "Look in the living room. I think I saw it in front of the TV."
+ },
+ {
+  "id": 10,
+  "start": 36.039,
+  "end": 37.039,
+  "text": "Oh, yeah."
+ },
+ {
+  "id": 11,
+  "start": 37.659,
+  "end": 39.84,
+  "text": "4."
+ },
+ {
+  "id": 12,
+  "start": 41.079,
+  "end": 46.119,
+  "text": "Where's my tennis racket? Did Dad borrow it again? I wish he'd ask me."
+ },
+ {
+  "id": 13,
+  "start": 46.7,
+  "end": 49.039,
+  "text": "I saw it in your bedroom, under your bed."
+ },
+ {
+  "id": 14,
+  "start": 49.52,
+  "end": 51.399,
+  "text": "Oh, yeah. That's right."
+ }
+];

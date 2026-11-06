@@ -1,0 +1,182 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U17-02"]=[
+ {
+  "id": 1,
+  "start": 6.94,
+  "end": 7.4,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.48,
+  "end": 10.3,
+  "text": "I hope to be famous someday."
+ },
+ {
+  "id": 3,
+  "start": 10.72,
+  "end": 12.859,
+  "text": "Really? Famous for what?"
+ },
+ {
+  "id": 4,
+  "start": 13.4,
+  "end": 20.079,
+  "text": "Oh, it doesn't really matter. Maybe I'll be a singer, or an actor... or maybe a professional baseball player."
+ },
+ {
+  "id": 5,
+  "start": 20.66,
+  "end": 21.98,
+  "text": "Well, good luck!"
+ },
+ {
+  "id": 6,
+  "start": 22.78,
+  "end": 24.46,
+  "text": "2."
+ },
+ {
+  "id": 7,
+  "start": 24.82,
+  "end": 30.519,
+  "text": "I don't care about making a lot of money. I just want to have a job that I love."
+ },
+ {
+  "id": 8,
+  "start": 31.079,
+  "end": 34.24,
+  "text": "Really? What kind of work do you want to do?"
+ },
+ {
+  "id": 9,
+  "start": 35.079,
+  "end": 41.899,
+  "text": "I'm not sure yet. Maybe be a doctor. But I want to be look forward to going to work every day."
+ },
+ {
+  "id": 10,
+  "start": 43.14,
+  "end": 44.359,
+  "text": "3."
+ },
+ {
+  "id": 11,
+  "start": 45.46,
+  "end": 48.96,
+  "text": "I love children. I hope to have a big family."
+ },
+ {
+  "id": 12,
+  "start": 49.539,
+  "end": 52.5,
+  "text": "Oh? How many children do you want to have?"
+ },
+ {
+  "id": 13,
+  "start": 53.06,
+  "end": 55.38,
+  "text": "Oh, maybe four or five."
+ },
+ {
+  "id": 14,
+  "start": 56.179,
+  "end": 58.859,
+  "text": "Four or five? Better you than me!"
+ },
+ {
+  "id": 15,
+  "start": 59.439,
+  "end": 61.399,
+  "text": "4."
+ },
+ {
+  "id": 16,
+  "start": 62.719,
+  "end": 64.959,
+  "text": "I've always dreamed of learning to surf."
+ },
+ {
+  "id": 17,
+  "start": 66.68,
+  "end": 70.2,
+  "text": "Surf? Isn't surfing difficult? And dangerous?"
+ },
+ {
+  "id": 18,
+  "start": 70.54,
+  "end": 74.719,
+  "text": "Well, yeah, but I've heard it's lots of fun. I really want to try it."
+ },
+ {
+  "id": 19,
+  "start": 75.359,
+  "end": 79.92,
+  "text": "Okay, okay. But maybe you should learn to swim first."
+ },
+ {
+  "id": 20,
+  "start": 80.439,
+  "end": 82.159,
+  "text": "Yeah, I guess so."
+ },
+ {
+  "id": 21,
+  "start": 83.659,
+  "end": 84.819,
+  "text": "5."
+ },
+ {
+  "id": 22,
+  "start": 86.0,
+  "end": 88.56,
+  "text": "I really hope to graduate from college."
+ },
+ {
+  "id": 23,
+  "start": 89.4,
+  "end": 92.159,
+  "text": "That's great. What college do you want to go to?"
+ },
+ {
+  "id": 24,
+  "start": 92.599,
+  "end": 98.26,
+  "text": "Oh, I'm still in high school. I'm studying for my exams at the moment."
+ },
+ {
+  "id": 25,
+  "start": 98.819,
+  "end": 101.659,
+  "text": "Oh. Well, study hard. And good luck!"
+ },
+ {
+  "id": 26,
+  "start": 102.599,
+  "end": 104.519,
+  "text": "6."
+ },
+ {
+  "id": 27,
+  "start": 105.659,
+  "end": 108.48,
+  "text": "My dream is to have a big house someday."
+ },
+ {
+  "id": 28,
+  "start": 108.739,
+  "end": 109.599,
+  "text": "Really?"
+ },
+ {
+  "id": 29,
+  "start": 109.859,
+  "end": 116.799,
+  "text": "Yeah. I want four bedrooms, a big yard, a 3-car garage, a pool..."
+ },
+ {
+  "id": 30,
+  "start": 117.099,
+  "end": 119.819,
+  "text": "Hey, sounds nice. Can I come visit?"
+ }
+];

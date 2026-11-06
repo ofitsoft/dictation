@@ -1,0 +1,50 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-43"]=[
+ {
+  "id": 1,
+  "start": 3.64,
+  "end": 5.679,
+  "text": "Hello. Can I have your passport, please?"
+ },
+ {
+  "id": 2,
+  "start": 7.66,
+  "end": 11.439,
+  "text": "Thank you. Oh, and have you got your ticket?"
+ },
+ {
+  "id": 3,
+  "start": 13.66,
+  "end": 17.94,
+  "text": "Thank you. Did you pack your bags yourself?"
+ },
+ {
+  "id": 4,
+  "start": 20.179,
+  "end": 23.0,
+  "text": "How many bags are you checking in?"
+ },
+ {
+  "id": 5,
+  "start": 25.039,
+  "end": 28.359,
+  "text": "Are you taking any hand luggage on board?"
+ },
+ {
+  "id": 6,
+  "start": 30.339,
+  "end": 34.179,
+  "text": "Are there any sharp items in your hand luggage?"
+ },
+ {
+  "id": 7,
+  "start": 36.24,
+  "end": 40.0,
+  "text": "Would you like an aisle seat or a window seat?"
+ },
+ {
+  "id": 8,
+  "start": 40.92,
+  "end": 50.039,
+  "text": "OK. Here you go. This is your boarding card. Your flight leaves at four o'clock. Enjoy your flight."
+ }
+];

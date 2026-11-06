@@ -1,0 +1,26 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-17"]=[
+ {
+  "id": 1,
+  "start": 2.259,
+  "end": 4.54,
+  "text": "Do you want dessert?"
+ },
+ {
+  "id": 2,
+  "start": 7.5,
+  "end": 9.4,
+  "text": "Can I take your coat?"
+ },
+ {
+  "id": 3,
+  "start": 12.46,
+  "end": 13.759,
+  "text": "Where do you want to sit?"
+ },
+ {
+  "id": 4,
+  "start": 16.699,
+  "end": 19.079,
+  "text": "What would you like as a starter?"
+ }
+];

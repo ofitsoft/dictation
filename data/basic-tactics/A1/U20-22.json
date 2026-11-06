@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "start": 6.74,
+  "end": 8.259,
+  "text": "Hello. City Taxi."
+ },
+ {
+  "id": 2,
+  "start": 8.74,
+  "end": 15.119,
+  "text": "Hello, has anyone turned in a cell phone? I think I left mine in a taxi this morning."
+ },
+ {
+  "id": 3,
+  "start": 15.619,
+  "end": 22.199,
+  "text": "Well, our taxi drivers find lots of cell phones every day. Can you describe it?"
+ },
+ {
+  "id": 4,
+  "start": 22.579,
+  "end": 26.359,
+  "text": "Yes, it's purple. And it's in an orange case"
+ },
+ {
+  "id": 5,
+  "start": 26.839,
+  "end": 35.039,
+  "text": "Hmm.... Those are unusual colors. Let's see... no, I'm sorry, we don't have it."
+ },
+ {
+  "id": 6,
+  "start": 35.719,
+  "end": 48.179,
+  "text": "Are you sure? I have to find it...it has all my important information in it. Wait what's that? Oh, it's in my jacket pocket!"
+ }
+]

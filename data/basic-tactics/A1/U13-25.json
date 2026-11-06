@@ -1,0 +1,200 @@
+[
+ {
+  "id": 1,
+  "start": 6.839,
+  "end": 7.28,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.48,
+  "end": 12.679,
+  "text": "There you are, sir. Two slices of pizza and a large cola."
+ },
+ {
+  "id": 3,
+  "start": 13.66,
+  "end": 15.359,
+  "text": "Thank you. Hmm."
+ },
+ {
+  "id": 4,
+  "start": 15.72,
+  "end": 16.699,
+  "text": "How does it look?"
+ },
+ {
+  "id": 5,
+  "start": 17.32,
+  "end": 24.879,
+  "text": "Okay, I guess, but I think I should have ordered three or four slices. These slices are much smaller than I expected."
+ },
+ {
+  "id": 6,
+  "start": 26.32,
+  "end": 27.32,
+  "text": "2."
+ },
+ {
+  "id": 7,
+  "start": 28.6,
+  "end": 33.299,
+  "text": "And here's your order. Steak with french fries and coffee."
+ },
+ {
+  "id": 8,
+  "start": 33.92,
+  "end": 37.32,
+  "text": "Thanks. I can't wait to eat. I'm starving."
+ },
+ {
+  "id": 9,
+  "start": 38.039,
+  "end": 39.759,
+  "text": "It looks okay. How is it?"
+ },
+ {
+  "id": 10,
+  "start": 40.439,
+  "end": 44.14,
+  "text": "Let me try. Oh, just perfect."
+ },
+ {
+  "id": 11,
+  "start": 45.159,
+  "end": 46.78,
+  "text": "3."
+ },
+ {
+  "id": 12,
+  "start": 48.1,
+  "end": 51.939,
+  "text": "Sorry to keep you waiting. One order of fried chicken with broccoli."
+ },
+ {
+  "id": 13,
+  "start": 52.74,
+  "end": 56.96,
+  "text": "Thanks. Oh my! This chicken looks pretty dry."
+ },
+ {
+  "id": 14,
+  "start": 57.399,
+  "end": 59.799,
+  "text": "Really. How does it taste?"
+ },
+ {
+  "id": 15,
+  "start": 60.56,
+  "end": 64.12,
+  "text": "I'm afraid it's not very fresh. I think it must have been frozen."
+ },
+ {
+  "id": 16,
+  "start": 64.84,
+  "end": 65.859,
+  "text": "Let's send it back."
+ },
+ {
+  "id": 17,
+  "start": 69.959,
+  "end": 72.959,
+  "text": "There's your order, ma'am. Fish, salad, and peas."
+ },
+ {
+  "id": 18,
+  "start": 73.459,
+  "end": 76.56,
+  "text": "Oh. But you told me today's vegetable was broccoli."
+ },
+ {
+  "id": 19,
+  "start": 77.219,
+  "end": 78.959,
+  "text": "You don't like peas, do you?"
+ },
+ {
+  "id": 20,
+  "start": 79.34,
+  "end": 81.92,
+  "text": "No, I don't. I hate peas!"
+ },
+ {
+  "id": 21,
+  "start": 82.819,
+  "end": 84.579,
+  "text": "5."
+ },
+ {
+  "id": 22,
+  "start": 85.7,
+  "end": 89.579,
+  "text": "And here's your dessert. Chocolate cake and a large cola."
+ },
+ {
+  "id": 23,
+  "start": 89.959,
+  "end": 90.599,
+  "text": "Great."
+ },
+ {
+  "id": 24,
+  "start": 91.099,
+  "end": 95.5,
+  "text": "Wow. That cake looks good. I wish I had ordered it."
+ },
+ {
+  "id": 25,
+  "start": 96.12,
+  "end": 98.439,
+  "text": "Do you want to try it? It's delicious."
+ },
+ {
+  "id": 26,
+  "start": 99.26,
+  "end": 102.48,
+  "text": "Just a taste. Mmm. Fabulous."
+ },
+ {
+  "id": 27,
+  "start": 104.239,
+  "end": 105.56,
+  "text": "6."
+ },
+ {
+  "id": 28,
+  "start": 106.719,
+  "end": 108.34,
+  "text": "Did you order the spaghetti?"
+ },
+ {
+  "id": 29,
+  "start": 108.939,
+  "end": 109.5,
+  "text": "That's right."
+ },
+ {
+  "id": 30,
+  "start": 109.84,
+  "end": 113.159,
+  "text": "Good. Here you are. And here's your cola."
+ },
+ {
+  "id": 31,
+  "start": 113.56,
+  "end": 116.519,
+  "text": "Thanks. I don't think I made a very good choice."
+ },
+ {
+  "id": 32,
+  "start": 117.04,
+  "end": 117.799,
+  "text": "Really?"
+ },
+ {
+  "id": 33,
+  "start": 118.12,
+  "end": 121.56,
+  "text": "Yeah. I think I can make better spaghetti than this."
+ }
+]

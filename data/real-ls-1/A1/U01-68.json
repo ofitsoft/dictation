@@ -1,0 +1,62 @@
+[
+ {
+  "id": 1,
+  "start": 0.04,
+  "end": 5.559,
+  "text": "Do you need any help?"
+ },
+ {
+  "id": 2,
+  "start": 7.679,
+  "end": 10.279,
+  "text": "Are you ready to order?"
+ },
+ {
+  "id": 3,
+  "start": 12.339,
+  "end": 14.66,
+  "text": "Pleased to meet you."
+ },
+ {
+  "id": 4,
+  "start": 16.679,
+  "end": 19.14,
+  "text": "Hello. How's it going?"
+ },
+ {
+  "id": 5,
+  "start": 21.219,
+  "end": 24.14,
+  "text": "How many stamps would you like?"
+ },
+ {
+  "id": 6,
+  "start": 26.3,
+  "end": 28.98,
+  "text": "Can I have your boarding card, please?"
+ },
+ {
+  "id": 7,
+  "start": 29.44,
+  "end": 29.5,
+  "text": "This is my husband, Miguel."
+ },
+ {
+  "id": 8,
+  "start": 29.5,
+  "end": 29.519,
+  "text": "What do you think of the castle?"
+ },
+ {
+  "id": 9,
+  "start": 29.519,
+  "end": 43.92,
+  "text": "I'm going on holiday tomorrow."
+ },
+ {
+  "id": 10,
+  "start": 46.02,
+  "end": 47.74,
+  "text": "Bye for now."
+ }
+]

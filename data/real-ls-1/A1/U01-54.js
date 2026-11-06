@@ -1,0 +1,68 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-54"]=[
+ {
+  "id": 1,
+  "start": 1.34,
+  "end": 3.339,
+  "text": "Next, please."
+ },
+ {
+  "id": 2,
+  "start": 4.2,
+  "end": 6.36,
+  "text": "Can I have a single to the city centre, please?"
+ },
+ {
+  "id": 3,
+  "start": 6.759,
+  "end": 9.119,
+  "text": "A single? Of course, here you are."
+ },
+ {
+  "id": 4,
+  "start": 9.779,
+  "end": 11.339,
+  "text": "Oh, how long does it take?"
+ },
+ {
+  "id": 5,
+  "start": 11.9,
+  "end": 12.859,
+  "text": "Clerk About thirty minutes."
+ },
+ {
+  "id": 6,
+  "start": 13.939,
+  "end": 15.259,
+  "text": "What time's the next train?"
+ },
+ {
+  "id": 7,
+  "start": 15.599,
+  "end": 18.5,
+  "text": "The next train's at 3.15."
+ },
+ {
+  "id": 8,
+  "start": 18.78,
+  "end": 21.339,
+  "text": "Er, which platform does it leave from?"
+ },
+ {
+  "id": 9,
+  "start": 21.92,
+  "end": 23.66,
+  "text": "Platform 3. Over there."
+ },
+ {
+  "id": 10,
+  "start": 24.179,
+  "end": 24.6,
+  "text": "Thank you."
+ },
+ {
+  "id": 11,
+  "start": 24.839,
+  "end": 25.42,
+  "text": "You're welcome."
+ }
+];

@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-59"]=[
+ {
+  "id": 1,
+  "start": 1.3,
+  "end": 6.78,
+  "text": "Go along here and turn left. The bus station is on the corner."
+ },
+ {
+  "id": 2,
+  "start": 7.219,
+  "end": 8.099,
+  "text": "On the corner?"
+ },
+ {
+  "id": 3,
+  "start": 8.259,
+  "end": 8.82,
+  "text": "Yes."
+ },
+ {
+  "id": 4,
+  "start": 10.859,
+  "end": 13.06,
+  "text": "The post office is past the bank on the left."
+ },
+ {
+  "id": 5,
+  "start": 13.759,
+  "end": 16.8,
+  "text": "OK, so past the bank on the left?"
+ },
+ {
+  "id": 6,
+  "start": 17.199,
+  "end": 17.739,
+  "text": "Yes."
+ }
+];

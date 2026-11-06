@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U05-25"]=[
+ {
+  "id": 1,
+  "start": 7.219,
+  "end": 7.62,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.779,
+  "end": 17.6,
+  "text": "This is Dr. Costello's office. We're calling to change your dental appointment to August 3rd at 9:30 in the morning. Thank you."
+ },
+ {
+  "id": 3,
+  "start": 18.539,
+  "end": 20.019,
+  "text": "2."
+ },
+ {
+  "id": 4,
+  "start": 20.519,
+  "end": 30.679,
+  "text": "Hi, Jack. It's Julia. I'm calling about Nicole's birthday party. It's on July 28th at 8 p.m. Are you free? I'll call you later."
+ },
+ {
+  "id": 5,
+  "start": 31.859,
+  "end": 33.079,
+  "text": "3."
+ },
+ {
+  "id": 6,
+  "start": 33.56,
+  "end": 50.7,
+  "text": "Hello, Jack. This is Aunt Betty. How are you, darling? Listen, I'm coming to town next month and I'd love to see you. I'm arriving on August the 10th at 11:15 in the morning. I'll call you from the airport. Bye!"
+ },
+ {
+  "id": 7,
+  "start": 50.859,
+  "end": 53.24,
+  "text": "4."
+ },
+ {
+  "id": 8,
+  "start": 53.539,
+  "end": 62.6,
+  "text": "Hi, Jack. This is Peter. Listen, I can't play tennis on Saturday. Are you free Sunday afternoon, July 26th, around three?"
+ },
+ {
+  "id": 9,
+  "start": 63.899,
+  "end": 65.079,
+  "text": "5."
+ },
+ {
+  "id": 10,
+  "start": 65.379,
+  "end": 76.799,
+  "text": "Hello, Jack. This is Sam. I'll be back from my trip on Tuesday, September 22nd. Let's meet in my office that Tuesday around 6 p.m., okay? Let me know."
+ },
+ {
+  "id": 11,
+  "start": 77.819,
+  "end": 79.659,
+  "text": "6."
+ },
+ {
+  "id": 12,
+  "start": 80.719,
+  "end": 90.359,
+  "text": "This is Star travel. We've booked your flight to New Orleans for next month. You leave on August 2nd on flight 101 from Kennedy Airport at 2 p.m."
+ }
+];

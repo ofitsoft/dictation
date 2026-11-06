@@ -1,0 +1,158 @@
+[
+ {
+  "id": 1,
+  "start": 2.24,
+  "end": 9.939,
+  "text": "Oh, er, hello. Er. Yes. Can I send this by airmail, please?"
+ },
+ {
+  "id": 2,
+  "start": 10.359,
+  "end": 12.8,
+  "text": "One postcard? Where do you want to send it?"
+ },
+ {
+  "id": 3,
+  "start": 12.939,
+  "end": 16.359,
+  "text": "To France. Oh, I have three actually."
+ },
+ {
+  "id": 4,
+  "start": 17.1,
+  "end": 19.78,
+  "text": "Three postcards will be £1.50."
+ },
+ {
+  "id": 5,
+  "start": 20.019,
+  "end": 25.899,
+  "text": "OK. Thanks."
+ },
+ {
+  "id": 6,
+  "start": 26.239,
+  "end": 29.519,
+  "text": "How much is it to send this parcel by airmail?"
+ },
+ {
+  "id": 7,
+  "start": 30.079,
+  "end": 30.66,
+  "text": "Where's it going to?"
+ },
+ {
+  "id": 8,
+  "start": 31.199,
+  "end": 31.859,
+  "text": "To Poland?"
+ },
+ {
+  "id": 9,
+  "start": 32.38,
+  "end": 33.32,
+  "text": "How much does it weigh?"
+ },
+ {
+  "id": 10,
+  "start": 33.64,
+  "end": 35.079,
+  "text": "Sorry, I not know."
+ },
+ {
+  "id": 11,
+  "start": 35.24,
+  "end": 37.34,
+  "text": "If you give it to me, please, I'll weigh it for you."
+ },
+ {
+  "id": 12,
+  "start": 37.479,
+  "end": 38.32,
+  "text": "Oh, yes. Thank you."
+ },
+ {
+  "id": 13,
+  "start": 38.6,
+  "end": 43.219,
+  "text": "Let me see... er, normal airmail will be £11.70."
+ },
+ {
+  "id": 14,
+  "start": 43.579,
+  "end": 49.039,
+  "text": "OK. Thanks."
+ },
+ {
+  "id": 15,
+  "start": 49.039,
+  "end": 52.74,
+  "text": "Can I send this letter by airmail, please?"
+ },
+ {
+  "id": 16,
+  "start": 53.0,
+  "end": 54.479,
+  "text": "Of course. Where's it going to?"
+ },
+ {
+  "id": 17,
+  "start": 54.939,
+  "end": 57.7,
+  "text": "To Japan. How much is it please?"
+ },
+ {
+  "id": 18,
+  "start": 58.42,
+  "end": 59.32,
+  "text": "That's £3."
+ },
+ {
+  "id": 19,
+  "start": 59.84,
+  "end": 63.039,
+  "text": "Ok, thanks. How long will it take?"
+ },
+ {
+  "id": 20,
+  "start": 63.399,
+  "end": 64.34,
+  "text": "About five days."
+ },
+ {
+  "id": 21,
+  "start": 64.819,
+  "end": 66.439,
+  "text": "Ok. Thanks a lot."
+ },
+ {
+  "id": 22,
+  "start": 70.4,
+  "end": 75.959,
+  "text": "Hello. I'd like to send this letter to Australia, please. It's quite urgent."
+ },
+ {
+  "id": 23,
+  "start": 76.2,
+  "end": 80.34,
+  "text": "OK. If it's urgent, you should probably send it by special delivery."
+ },
+ {
+  "id": 24,
+  "start": 80.879,
+  "end": 82.219,
+  "text": "How much will that cost?"
+ },
+ {
+  "id": 25,
+  "start": 82.76,
+  "end": 84.06,
+  "text": "That'll be £6."
+ },
+ {
+  "id": 26,
+  "start": 84.7,
+  "end": 85.28,
+  "text": "Thanks a lot."
+ }
+]

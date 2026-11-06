@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 4.32,
+  "end": 8.48,
+  "text": "When are you going on vacation, Nick?"
+ },
+ {
+  "id": 2,
+  "start": 9.16,
+  "end": 10.56,
+  "text": "We're leaving on August sixteenth."
+ },
+ {
+  "id": 3,
+  "start": 11.38,
+  "end": 12.56,
+  "text": "And when are you coming back?"
+ },
+ {
+  "id": 4,
+  "start": 13.419,
+  "end": 14.48,
+  "text": "On August twenty-third."
+ },
+ {
+  "id": 5,
+  "start": 15.0,
+  "end": 19.44,
+  "text": "Oh, no. That means you'll miss my party on the twenty-second."
+ },
+ {
+  "id": 6,
+  "start": 20.039,
+  "end": 22.42,
+  "text": "What do you mean? I'll be back before the twenty-seventh."
+ },
+ {
+  "id": 7,
+  "start": 23.079,
+  "end": 30.82,
+  "text": "I said the twenty-second, not the twenty-seventh, but maybe I can change the date. Are you free on the thirty-first?"
+ }
+]

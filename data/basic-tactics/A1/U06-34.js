@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U06-34"]=[
+ {
+  "id": 1,
+  "start": 2.5,
+  "end": 5.879,
+  "text": "Task 2"
+ },
+ {
+  "id": 2,
+  "start": 6.139,
+  "end": 10.519,
+  "text": "1. actor"
+ },
+ {
+  "id": 3,
+  "start": 10.519,
+  "end": 16.019,
+  "text": "2. electrician"
+ },
+ {
+  "id": 4,
+  "start": 16.14,
+  "end": 21.219,
+  "text": "3. musician"
+ },
+ {
+  "id": 5,
+  "start": 21.519,
+  "end": 27.1,
+  "text": "4. doctor"
+ },
+ {
+  "id": 6,
+  "start": 27.1,
+  "end": 33.159,
+  "text": "5. police officer"
+ },
+ {
+  "id": 7,
+  "start": 33.74,
+  "end": 36.84,
+  "text": "6. architect"
+ }
+];

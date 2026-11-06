@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U23-39"]=[
+ {
+  "id": 1,
+  "start": 6.519,
+  "end": 9.099,
+  "text": "So, how do you like living here?"
+ },
+ {
+  "id": 2,
+  "start": 9.439,
+  "end": 13.3,
+  "text": "Well, it's okay. The people are really friendly."
+ },
+ {
+  "id": 3,
+  "start": 13.599,
+  "end": 14.519,
+  "text": "That's true."
+ },
+ {
+  "id": 4,
+  "start": 15.259,
+  "end": 17.82,
+  "text": "And there are lots of great museums and nightlife."
+ },
+ {
+  "id": 5,
+  "start": 18.239,
+  "end": 21.92,
+  "text": "Yeah, the nightlife is terrific. I go out all the time."
+ },
+ {
+  "id": 6,
+  "start": 22.739,
+  "end": 26.879,
+  "text": "But it's too crowded for me, and I can't stand the pollution."
+ },
+ {
+  "id": 7,
+  "start": 27.519,
+  "end": 31.219,
+  "text": "I know what you mean. The traffic gets worse every year!"
+ }
+];

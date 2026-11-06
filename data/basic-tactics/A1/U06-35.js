@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U06-35"]=[
+ {
+  "id": 1,
+  "start": 4.36,
+  "end": 10.8,
+  "text": "My job is so boring. I really don't like being a receptionist."
+ },
+ {
+  "id": 2,
+  "start": 11.519,
+  "end": 14.64,
+  "text": "Really? Maybe you should try something new."
+ },
+ {
+  "id": 3,
+  "start": 15.32,
+  "end": 20.239,
+  "text": "I don't know. I've always wanted to be an architect, but I'd have to go back to school."
+ },
+ {
+  "id": 4,
+  "start": 20.94,
+  "end": 21.739,
+  "text": "So do it!"
+ },
+ {
+  "id": 5,
+  "start": 22.46,
+  "end": 25.82,
+  "text": "I can't. I need to make money, so I can't quit my job."
+ },
+ {
+  "id": 6,
+  "start": 26.579,
+  "end": 30.26,
+  "text": "Could you work part time in an office and also take classes?"
+ },
+ {
+  "id": 7,
+  "start": 30.6,
+  "end": 32.939,
+  "text": "Well, maybe. I'll think about it."
+ }
+];

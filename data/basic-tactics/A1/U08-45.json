@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 2.379,
+  "end": 5.019,
+  "text": "Task 2"
+ },
+ {
+  "id": 2,
+  "start": 5.459,
+  "end": 11.359,
+  "text": "1. I go to the gym every day."
+ },
+ {
+  "id": 3,
+  "start": 12.38,
+  "end": 18.44,
+  "text": "2. I watch a lot of baseball on TV."
+ },
+ {
+  "id": 4,
+  "start": 19.719,
+  "end": 24.78,
+  "text": "3. What do you do on weekends?"
+ },
+ {
+  "id": 5,
+  "start": 25.92,
+  "end": 30.699,
+  "text": "4. Do you play tennis?"
+ }
+]

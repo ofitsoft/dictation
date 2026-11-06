@@ -1,0 +1,44 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U16-44"]=[
+ {
+  "id": 1,
+  "start": 6.599,
+  "end": 8.08,
+  "text": "What's your new apartment like, Matt?"
+ },
+ {
+  "id": 2,
+  "start": 8.72,
+  "end": 14.98,
+  "text": "It's perfect. It's just the right size. There're two bedrooms, a living room, and a kitchen."
+ },
+ {
+  "id": 3,
+  "start": 15.279,
+  "end": 15.96,
+  "text": "Nice!"
+ },
+ {
+  "id": 4,
+  "start": 16.3,
+  "end": 19.399,
+  "text": "Yeah. Oh, and there's also an office."
+ },
+ {
+  "id": 5,
+  "start": 19.839,
+  "end": 22.839,
+  "text": "Wow, it sounds big! Do you have furniture yet?"
+ },
+ {
+  "id": 6,
+  "start": 23.5,
+  "end": 27.42,
+  "text": "Not yet, but there's a sale going on at Furniture World this weekend."
+ },
+ {
+  "id": 7,
+  "start": 27.839,
+  "end": 30.5,
+  "text": "Great. Let me know if you need help with anything."
+ }
+];

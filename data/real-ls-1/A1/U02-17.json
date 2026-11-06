@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1,
+  "start": 5.32,
+  "end": 11.939,
+  "text": "Thank you for calling Denco Computing. Paul speaking. How may I help you?"
+ },
+ {
+  "id": 2,
+  "start": 12.279,
+  "end": 17.699,
+  "text": "Hello. Hi, it's Jennifer Ratby here. Can I speak to David Henshaw, please?"
+ },
+ {
+  "id": 3,
+  "start": 18.399,
+  "end": 19.879,
+  "text": "Hold the line. I'll put you through."
+ },
+ {
+  "id": 4,
+  "start": 21.719,
+  "end": 23.519,
+  "text": "Good afternoon. This is David Henshaw."
+ },
+ {
+  "id": 5,
+  "start": 23.76,
+  "end": 26.859,
+  "text": "David? Hi, it's Jennifer Ratby here."
+ },
+ {
+  "id": 6,
+  "start": 27.059,
+  "end": 29.719,
+  "text": "Oh, hello Jennifer. What can I do for you?"
+ },
+ {
+  "id": 7,
+  "start": 30.179,
+  "end": 33.179,
+  "text": "It's about the contract. When do you think it will be ready?"
+ },
+ {
+  "id": 8,
+  "start": 33.799,
+  "end": 36.479,
+  "text": "I'll send it tomorrow. Is that OK with you?"
+ },
+ {
+  "id": 9,
+  "start": 36.7,
+  "end": 42.96,
+  "text": "Sure. Thanks a lot. Say, is Charles there? I need to talk to him about next year's prices."
+ },
+ {
+  "id": 10,
+  "start": 43.539,
+  "end": 45.46,
+  "text": "I'm afraid he's out of the office at the moment."
+ },
+ {
+  "id": 11,
+  "start": 46.039,
+  "end": 49.619,
+  "text": "How about Kevin? Is he in? I need to arrange a meeting."
+ },
+ {
+  "id": 12,
+  "start": 49.84,
+  "end": 54.1,
+  "text": "Yes, but he's on another call right now. Would you like to leave a message?"
+ },
+ {
+  "id": 13,
+  "start": 54.659,
+  "end": 56.799,
+  "text": "Could you ask him to call me back when he's free?"
+ },
+ {
+  "id": 14,
+  "start": 57.219,
+  "end": 58.88,
+  "text": "No problem. Thanks for calling."
+ }
+]

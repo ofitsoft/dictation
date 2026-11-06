@@ -1,0 +1,86 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U01-08"]=[
+ {
+  "id": 1,
+  "start": 1.32,
+  "end": 4.16,
+  "text": "Excuse me. Do you need any help?"
+ },
+ {
+  "id": 2,
+  "start": 4.58,
+  "end": 7.82,
+  "text": "No thank you. I am fine. I'm just looking."
+ },
+ {
+  "id": 3,
+  "start": 8.179,
+  "end": 11.08,
+  "text": "That shirt's in the sale. Today's the last day."
+ },
+ {
+  "id": 4,
+  "start": 11.3,
+  "end": 14.019,
+  "text": "Oh, right. Hmm. Well, I like the colour."
+ },
+ {
+  "id": 5,
+  "start": 14.619,
+  "end": 17.98,
+  "text": "It's £20 in the sale. The normal price is forty."
+ },
+ {
+  "id": 6,
+  "start": 18.28,
+  "end": 23.42,
+  "text": "Oh, OK. That's quite good. Oh, that jacket is nice. How much is it?"
+ },
+ {
+  "id": 7,
+  "start": 23.98,
+  "end": 30.699,
+  "text": "That's half price too- £120. It's leather, made in Italy. Would you like to try it on?"
+ },
+ {
+  "id": 8,
+  "start": 31.019,
+  "end": 34.399,
+  "text": "Oh, yes. I like it a lot. It is too good"
+ },
+ {
+  "id": 9,
+  "start": 35.119,
+  "end": 37.679,
+  "text": "Mmm, yes. I think it suits you."
+ },
+ {
+  "id": 10,
+  "start": 37.84,
+  "end": 41.38,
+  "text": "Really? Well, OK then. I'll take it."
+ },
+ {
+  "id": 11,
+  "start": 41.719,
+  "end": 42.759,
+  "text": "And the shirt as well?"
+ },
+ {
+  "id": 12,
+  "start": 43.06,
+  "end": 45.78,
+  "text": "Er. Well, what size it is?"
+ },
+ {
+  "id": 13,
+  "start": 46.399,
+  "end": 51.78,
+  "text": "It's a medium. I'm sure it'll fit you, and it will go very nicely with the jacket."
+ },
+ {
+  "id": 14,
+  "start": 52.32,
+  "end": 54.6,
+  "text": "OK. I will take the shirt as well!"
+ }
+];

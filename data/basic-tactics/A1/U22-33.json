@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 6.66,
+  "end": 11.3,
+  "text": "Hey Molly, have you met the new guy in our class? He sits right next to me."
+ },
+ {
+  "id": 2,
+  "start": 11.759,
+  "end": 14.259,
+  "text": "No, I haven't. What's he like?"
+ },
+ {
+  "id": 3,
+  "start": 14.939,
+  "end": 18.14,
+  "text": "He's really outgoing. He talks and laughs a lot."
+ },
+ {
+  "id": 4,
+  "start": 18.82,
+  "end": 21.059,
+  "text": "Really? He sounds nice."
+ },
+ {
+  "id": 5,
+  "start": 21.62,
+  "end": 28.879,
+  "text": "Yeah, he is. And he's funny. He tells jokes every day after class. He's pretty cute, too."
+ },
+ {
+  "id": 6,
+  "start": 29.579,
+  "end": 32.0,
+  "text": "It seems like you're interested in him..."
+ },
+ {
+  "id": 7,
+  "start": 32.439,
+  "end": 36.5,
+  "text": "Well, I am. But he already has a girlfriend."
+ }
+]

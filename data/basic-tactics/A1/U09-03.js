@@ -1,0 +1,188 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U09-03"]=[
+ {
+  "id": 1,
+  "start": 8.199,
+  "end": 11.339,
+  "text": "Do you think I should put the magazine rack next to the window?"
+ },
+ {
+  "id": 2,
+  "start": 11.56,
+  "end": 19.179,
+  "text": "No. Not next to the window. I'd put it in the corner next to the sofa. It will look nice there."
+ },
+ {
+  "id": 3,
+  "start": 20.12,
+  "end": 21.62,
+  "text": "2."
+ },
+ {
+  "id": 4,
+  "start": 22.82,
+  "end": 27.14,
+  "text": "Where do you think I should put the coffee table? Should I put it next to the sofa?"
+ },
+ {
+  "id": 5,
+  "start": 27.76,
+  "end": 32.74,
+  "text": "I think it will be better in front of the sofa. It'll be more useful there, I think."
+ },
+ {
+  "id": 6,
+  "start": 33.92,
+  "end": 35.179,
+  "text": "3."
+ },
+ {
+  "id": 7,
+  "start": 36.439,
+  "end": 40.079,
+  "text": "What about the plant stand? It might be nice next to the window."
+ },
+ {
+  "id": 8,
+  "start": 40.719,
+  "end": 45.479,
+  "text": "Yes, next to the window, either on the left or on the right."
+ },
+ {
+  "id": 9,
+  "start": 46.079,
+  "end": 47.659,
+  "text": "I think I'll put it on the right."
+ },
+ {
+  "id": 10,
+  "start": 48.6,
+  "end": 50.46,
+  "text": "4."
+ },
+ {
+  "id": 11,
+  "start": 51.719,
+  "end": 54.799,
+  "text": "Now what about the bookshelf? It's so big!"
+ },
+ {
+  "id": 12,
+  "start": 55.399,
+  "end": 57.42,
+  "text": "Hmm. What do you think?"
+ },
+ {
+  "id": 13,
+  "start": 58.2,
+  "end": 60.32,
+  "text": "How about next to the door, against the wall?"
+ },
+ {
+  "id": 14,
+  "start": 61.02,
+  "end": 62.14,
+  "text": "To the left of the door?"
+ },
+ {
+  "id": 15,
+  "start": 62.88,
+  "end": 64.76,
+  "text": "5."
+ },
+ {
+  "id": 16,
+  "start": 65.92,
+  "end": 69.28,
+  "text": "Now I need to find a place for this old chair that my mom gave me."
+ },
+ {
+  "id": 17,
+  "start": 70.12,
+  "end": 71.48,
+  "text": "How about over there?"
+ },
+ {
+  "id": 18,
+  "start": 71.959,
+  "end": 73.299,
+  "text": "You mean in front of the window?"
+ },
+ {
+  "id": 19,
+  "start": 74.239,
+  "end": 75.959,
+  "text": "6."
+ },
+ {
+  "id": 20,
+  "start": 77.12,
+  "end": 79.5,
+  "text": "We still have to find a place for this end table."
+ },
+ {
+  "id": 21,
+  "start": 80.04,
+  "end": 82.4,
+  "text": "Yes, where can we put it?"
+ },
+ {
+  "id": 22,
+  "start": 82.92,
+  "end": 85.959,
+  "text": "How about next to the sofa, in the corner near the door?"
+ },
+ {
+  "id": 23,
+  "start": 86.28,
+  "end": 88.78,
+  "text": "Yes, good. Is that okay now?"
+ },
+ {
+  "id": 24,
+  "start": 90.0,
+  "end": 91.659,
+  "text": "7."
+ },
+ {
+  "id": 25,
+  "start": 91.9,
+  "end": 94.519,
+  "text": "Where is a good place for the TV?"
+ },
+ {
+  "id": 26,
+  "start": 95.18,
+  "end": 99.299,
+  "text": "How about in the far left corner, to the left of the window?"
+ },
+ {
+  "id": 27,
+  "start": 99.64,
+  "end": 105.459,
+  "text": "Yeah, that sounds good. I'll put it there. There. How does it look?"
+ },
+ {
+  "id": 28,
+  "start": 106.48,
+  "end": 107.879,
+  "text": "8."
+ },
+ {
+  "id": 29,
+  "start": 109.219,
+  "end": 110.42,
+  "text": "What about the dinner table?"
+ },
+ {
+  "id": 30,
+  "start": 111.159,
+  "end": 117.459,
+  "text": "Maybe we can put the dinner table against the wall, across from the sofa. In the middle of the wall."
+ },
+ {
+  "id": 31,
+  "start": 118.079,
+  "end": 121.48,
+  "text": "Across from the sofa, against the wall. Is that what you mean?"
+ }
+];

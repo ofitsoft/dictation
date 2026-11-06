@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-36"]=[
+ {
+  "id": 1,
+  "start": 0.04,
+  "end": 8.039,
+  "text": "Do you think that the government should spend more on education?"
+ },
+ {
+  "id": 2,
+  "start": 10.06,
+  "end": 14.419,
+  "text": "Do you agree that education should be free to everyone?"
+ },
+ {
+  "id": 3,
+  "start": 16.559,
+  "end": 21.1,
+  "text": "Do you think children have the right to a good education?"
+ },
+ {
+  "id": 4,
+  "start": 23.239,
+  "end": 27.699,
+  "text": "Do you think that children should learn about politics at school?"
+ },
+ {
+  "id": 5,
+  "start": 29.839,
+  "end": 33.659,
+  "text": "Do you agree that schools should teach religion?"
+ },
+ {
+  "id": 6,
+  "start": 35.719,
+  "end": 40.84,
+  "text": "Do you think poor families should get money to send their children to school?"
+ }
+];

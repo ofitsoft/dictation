@@ -1,0 +1,62 @@
+[
+ {
+  "id": 1,
+  "start": 2.64,
+  "end": 6.839,
+  "text": "1 Hello. Can I speak to Miss Jenkins, please?"
+ },
+ {
+  "id": 2,
+  "start": 9.099,
+  "end": 12.58,
+  "text": "2 Could you repair this, please?"
+ },
+ {
+  "id": 3,
+  "start": 14.66,
+  "end": 19.359,
+  "text": "3 I think that presentation was really boring."
+ },
+ {
+  "id": 4,
+  "start": 20.579,
+  "end": 25.719,
+  "text": "4 I don't like my Cultural Studies class this term."
+ },
+ {
+  "id": 5,
+  "start": 27.739,
+  "end": 34.34,
+  "text": "5 In my opinion parents should be more responsible for their children's education."
+ },
+ {
+  "id": 6,
+  "start": 36.52,
+  "end": 42.24,
+  "text": "6 Can you say I phoned? My name is Yuri Borzakovsky."
+ },
+ {
+  "id": 7,
+  "start": 44.56,
+  "end": 46.84,
+  "text": "7 When can you deliver?"
+ },
+ {
+  "id": 8,
+  "start": 48.899,
+  "end": 51.5,
+  "text": "8 Let me show you the way."
+ },
+ {
+  "id": 9,
+  "start": 53.539,
+  "end": 56.42,
+  "text": "9 Would you like to leave a message?"
+ },
+ {
+  "id": 10,
+  "start": 58.5,
+  "end": 61.219,
+  "text": "10 What did you think of the talk?"
+ }
+]

@@ -1,0 +1,158 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U15-36"]=[
+ {
+  "id": 1,
+  "start": 6.78,
+  "end": 7.28,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.48,
+  "end": 9.38,
+  "text": "Is this you?"
+ },
+ {
+  "id": 3,
+  "start": 9.599,
+  "end": 11.359,
+  "text": "Yes, it is."
+ },
+ {
+  "id": 4,
+  "start": 11.74,
+  "end": 16.8,
+  "text": "Wow! It looks really fun, but hard. How do you stay on them?"
+ },
+ {
+  "id": 5,
+  "start": 17.379,
+  "end": 25.28,
+  "text": "In the beginning, you don't. You fall off all the time. But you learn pretty quickly. I had a wonderful time."
+ },
+ {
+  "id": 6,
+  "start": 26.839,
+  "end": 27.859,
+  "text": "2."
+ },
+ {
+  "id": 7,
+  "start": 29.059,
+  "end": 30.26,
+  "text": "What are you doing here?"
+ },
+ {
+  "id": 8,
+  "start": 31.059,
+  "end": 38.38,
+  "text": "My friends and I went camping. It was really great. But it got very cold at night. This is how we kept warm."
+ },
+ {
+  "id": 9,
+  "start": 39.42,
+  "end": 40.92,
+  "text": "3."
+ },
+ {
+  "id": 10,
+  "start": 42.02,
+  "end": 43.0,
+  "text": "What did you do?"
+ },
+ {
+  "id": 11,
+  "start": 43.32,
+  "end": 46.88,
+  "text": "Oh, I went sightseeing and visited all the museums."
+ },
+ {
+  "id": 12,
+  "start": 47.52,
+  "end": 49.38,
+  "text": "Oh, that sounds interesting."
+ },
+ {
+  "id": 13,
+  "start": 49.759,
+  "end": 53.659,
+  "text": "Actually, it was pretty boring. I hate museums."
+ },
+ {
+  "id": 14,
+  "start": 54.42,
+  "end": 56.2,
+  "text": "4."
+ },
+ {
+  "id": 15,
+  "start": 56.679,
+  "end": 60.399,
+  "text": "Oh, this must have been a wonderful vacation."
+ },
+ {
+  "id": 16,
+  "start": 60.679,
+  "end": 66.98,
+  "text": "Yes, it was fantastic. The weather was perfect. And the water was so clear."
+ },
+ {
+  "id": 17,
+  "start": 67.7,
+  "end": 70.859,
+  "text": "Wow. Look at you. You're all red."
+ },
+ {
+  "id": 18,
+  "start": 71.5,
+  "end": 73.819,
+  "text": "Yes, I got a terrible sunburn."
+ },
+ {
+  "id": 19,
+  "start": 75.14,
+  "end": 76.4,
+  "text": "5."
+ },
+ {
+  "id": 20,
+  "start": 77.48,
+  "end": 78.7,
+  "text": "What are you doing here?"
+ },
+ {
+  "id": 21,
+  "start": 79.06,
+  "end": 81.7,
+  "text": "Oh, I took a cooking course in Italy."
+ },
+ {
+  "id": 22,
+  "start": 82.099,
+  "end": 84.579,
+  "text": "Terrific. So what can you make now?"
+ },
+ {
+  "id": 23,
+  "start": 85.28,
+  "end": 86.599,
+  "text": "Spaghetti and meatballs!"
+ },
+ {
+  "id": 24,
+  "start": 87.28,
+  "end": 89.319,
+  "text": "6."
+ },
+ {
+  "id": 25,
+  "start": 90.48,
+  "end": 93.099,
+  "text": "Did you travel the whole way in this?"
+ },
+ {
+  "id": 26,
+  "start": 93.42,
+  "end": 99.54,
+  "text": "Yes, we did. It was really very comfortable to travel in. We slept in it, too."
+ }
+];

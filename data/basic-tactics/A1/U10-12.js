@@ -1,0 +1,50 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U10-12"]=[
+ {
+  "id": 1,
+  "start": 0.66,
+  "end": 7.94,
+  "text": "Do you have a big family, Eva?"
+ },
+ {
+  "id": 2,
+  "start": 8.779,
+  "end": 12.599,
+  "text": "Kind of. I have a younger brother and an older sister."
+ },
+ {
+  "id": 3,
+  "start": 13.24,
+  "end": 15.08,
+  "text": "Really? How old are they?"
+ },
+ {
+  "id": 4,
+  "start": 15.779,
+  "end": 20.96,
+  "text": "Let's see... my brother is eighteen and my sister is twenty-five."
+ },
+ {
+  "id": 5,
+  "start": 21.5,
+  "end": 23.719,
+  "text": "Oh. What does your sister do?"
+ },
+ {
+  "id": 6,
+  "start": 24.44,
+  "end": 25.079,
+  "text": "She's a chef."
+ },
+ {
+  "id": 7,
+  "start": 25.899,
+  "end": 29.76,
+  "text": "A chef? What a cool job! How do you like her food?"
+ },
+ {
+  "id": 8,
+  "start": 30.44,
+  "end": 34.38,
+  "text": "I haven't tried it, actually. She lives in California."
+ }
+];

@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "start": 7.799,
+  "end": 13.259,
+  "text": "1. first"
+ },
+ {
+  "id": 2,
+  "start": 13.259,
+  "end": 18.579,
+  "text": "2. second"
+ },
+ {
+  "id": 3,
+  "start": 18.579,
+  "end": 20.579,
+  "text": "3. third"
+ },
+ {
+  "id": 4,
+  "start": 20.579,
+  "end": 29.48,
+  "text": "4. fourth"
+ },
+ {
+  "id": 5,
+  "start": 29.48,
+  "end": 32.299,
+  "text": "5. fifth"
+ },
+ {
+  "id": 6,
+  "start": 32.74,
+  "end": 41.039,
+  "text": "6. sixth"
+ },
+ {
+  "id": 7,
+  "start": 41.039,
+  "end": 43.079,
+  "text": "7. seventh"
+ },
+ {
+  "id": 8,
+  "start": 43.079,
+  "end": 48.5,
+  "text": "8. eighth"
+ },
+ {
+  "id": 9,
+  "start": 49.5,
+  "end": 53.92,
+  "text": "9. ninth"
+ },
+ {
+  "id": 10,
+  "start": 53.92,
+  "end": 59.42,
+  "text": "10. tenth"
+ },
+ {
+  "id": 11,
+  "start": 59.42,
+  "end": 68.9,
+  "text": "11. twentieth"
+ },
+ {
+  "id": 12,
+  "start": 69.12,
+  "end": 70.859,
+  "text": "12. thirty-first"
+ }
+]

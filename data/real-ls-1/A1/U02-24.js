@@ -1,0 +1,20 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-24"]=[
+ {
+  "id": 1,
+  "start": 3.459,
+  "end": 16.48,
+  "text": "Hello everyone, and welcome. My name is George Anderson and the purpose of this talk is to explain our new website."
+ },
+ {
+  "id": 2,
+  "start": 16.48,
+  "end": 26.12,
+  "text": "Hello. It's great to see you all here today. I'm Amy Lee, and in this presentation I want to show you our marketing strategy for this year."
+ },
+ {
+  "id": 3,
+  "start": 29.46,
+  "end": 35.7,
+  "text": "Good morning, everyone. Today I'm going to talk to you about the new ordering system we have here."
+ }
+];

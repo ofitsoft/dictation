@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "start": 2.399,
+  "end": 5.599,
+  "text": "Task 1"
+ },
+ {
+  "id": 2,
+  "start": 5.98,
+  "end": 11.039,
+  "text": "1. It's a noisy city."
+ },
+ {
+  "id": 3,
+  "start": 11.939,
+  "end": 17.42,
+  "text": "2. It's very crowded."
+ },
+ {
+  "id": 4,
+  "start": 18.5,
+  "end": 23.179,
+  "text": "3. Everything is cheap."
+ },
+ {
+  "id": 5,
+  "start": 24.539,
+  "end": 29.699,
+  "text": "4. The parks are beautiful."
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1,
+  "start": 7.16,
+  "end": 10.48,
+  "text": "1. Would you like a large or a small coffee?"
+ },
+ {
+  "id": 2,
+  "start": 11.519,
+  "end": 17.28,
+  "text": "2. Are you paying with cash or credit?"
+ },
+ {
+  "id": 3,
+  "start": 18.44,
+  "end": 24.719,
+  "text": "3. Can this be machine-washed or should I dry clean it?"
+ },
+ {
+  "id": 4,
+  "start": 25.96,
+  "end": 31.839,
+  "text": "4. Do you like this blue coat or the red one?"
+ }
+]

@@ -1,0 +1,38 @@
+window.DICT=window.DICT||{};DICT["real-ls-1/A1/U02-29"]=[
+ {
+  "id": 1,
+  "start": 2.2,
+  "end": 5.96,
+  "text": "Hmm. I'm not sure I agree."
+ },
+ {
+  "id": 2,
+  "start": 8.019,
+  "end": 10.56,
+  "text": "That's a very good point."
+ },
+ {
+  "id": 3,
+  "start": 12.66,
+  "end": 16.219,
+  "text": "I don't think that's exactly right."
+ },
+ {
+  "id": 4,
+  "start": 19.539,
+  "end": 20.92,
+  "text": "I couldn't agree more."
+ },
+ {
+  "id": 5,
+  "start": 23.0,
+  "end": 26.219,
+  "text": "I think you may be wrong about that."
+ },
+ {
+  "id": 6,
+  "start": 28.26,
+  "end": 29.6,
+  "text": "I think you're right."
+ }
+];

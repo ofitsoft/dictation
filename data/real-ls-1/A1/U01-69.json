@@ -1,0 +1,164 @@
+[
+ {
+  "id": 1,
+  "start": 3.359,
+  "end": 7.219,
+  "text": "Excuse me. Where's the cash desk?"
+ },
+ {
+  "id": 2,
+  "start": 8.599,
+  "end": 12.359,
+  "text": "Sorry, how much are these?"
+ },
+ {
+  "id": 3,
+  "start": 14.279,
+  "end": 17.14,
+  "text": "OK. I'll take it."
+ },
+ {
+  "id": 4,
+  "start": 19.16,
+  "end": 22.98,
+  "text": "I'll speak to you later."
+ },
+ {
+  "id": 5,
+  "start": 26.0,
+  "end": 27.16,
+  "text": "Please call me soon."
+ },
+ {
+  "id": 6,
+  "start": 29.239,
+  "end": 29.92,
+  "text": "Is it OK if I use your phone?"
+ },
+ {
+  "id": 7,
+  "start": 29.92,
+  "end": 54.439,
+  "text": "Pleased to meet you, too."
+ },
+ {
+  "id": 8,
+  "start": 56.579,
+  "end": 58.979,
+  "text": "Great music, isn't it?"
+ },
+ {
+  "id": 9,
+  "start": 61.179,
+  "end": 63.219,
+  "text": "How about you?"
+ },
+ {
+  "id": 10,
+  "start": 65.34,
+  "end": 68.879,
+  "text": "I think I'll leave it."
+ },
+ {
+  "id": 11,
+  "start": 71.019,
+  "end": 73.12,
+  "text": "I'll take these."
+ },
+ {
+  "id": 12,
+  "start": 75.219,
+  "end": 77.459,
+  "text": "How much are these?"
+ },
+ {
+  "id": 13,
+  "start": 79.48,
+  "end": 84.12,
+  "text": "I'll have the soup and then a steak."
+ },
+ {
+  "id": 14,
+  "start": 86.48,
+  "end": 88.76,
+  "text": "Can I have the bill, please?"
+ },
+ {
+  "id": 15,
+  "start": 90.879,
+  "end": 93.019,
+  "text": "Can I order now?"
+ },
+ {
+  "id": 16,
+  "start": 95.239,
+  "end": 99.06,
+  "text": "Can you give me a cheque, please?"
+ },
+ {
+  "id": 17,
+  "start": 101.04,
+  "end": 103.4,
+  "text": "Do you accept cheques?"
+ },
+ {
+  "id": 18,
+  "start": 105.48,
+  "end": 108.519,
+  "text": "Can I pay this cheque in, please?"
+ },
+ {
+  "id": 19,
+  "start": 110.719,
+  "end": 116.14,
+  "text": "Helen, I'd like you to meet some of my friends."
+ },
+ {
+  "id": 20,
+  "start": 118.12,
+  "end": 120.68,
+  "text": "Pleased to meet you, Helen."
+ },
+ {
+  "id": 21,
+  "start": 122.719,
+  "end": 125.84,
+  "text": "You don't know my friends, Helen."
+ },
+ {
+  "id": 22,
+  "start": 129.06,
+  "end": 131.979,
+  "text": "Where were these jeans made?"
+ },
+ {
+  "id": 23,
+  "start": 134.099,
+  "end": 136.819,
+  "text": "What size are these jeans?"
+ },
+ {
+  "id": 24,
+  "start": 138.919,
+  "end": 141.539,
+  "text": "How much are these jeans?"
+ },
+ {
+  "id": 25,
+  "start": 143.219,
+  "end": 144.06,
+  "text": "Yes, that's fine."
+ },
+ {
+  "id": 26,
+  "start": 144.78,
+  "end": 151.84,
+  "text": "I'll think about it, thanks."
+ },
+ {
+  "id": 27,
+  "start": 153.919,
+  "end": 156.979,
+  "text": "Can I change this into euros, please?"
+ }
+]

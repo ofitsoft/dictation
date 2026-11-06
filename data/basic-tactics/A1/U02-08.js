@@ -1,0 +1,80 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U02-08"]=[
+ {
+  "id": 1,
+  "start": 6.5,
+  "end": 9.339,
+  "text": "What does your girlfriend look like, Tony?"
+ },
+ {
+  "id": 2,
+  "start": 10.119,
+  "end": 14.939,
+  "text": "Ella? Oh, she's tall. And she has long, dark brown hair."
+ },
+ {
+  "id": 3,
+  "start": 17.179,
+  "end": 20.64,
+  "text": "Tell me about your boyfriend, Anne."
+ },
+ {
+  "id": 4,
+  "start": 21.339,
+  "end": 36.079,
+  "text": "Well, his name's Daniel. He's 17. Let me see... Well, he has curly blonde hair. He's not very tall - about average. But he's really good-looking."
+ },
+ {
+  "id": 5,
+  "start": 38.46,
+  "end": 43.46,
+  "text": "So, Matt, what's the new girl in class look like?"
+ },
+ {
+  "id": 6,
+  "start": 44.299,
+  "end": 53.52,
+  "text": "She's pretty tall, about 170 centimeters. She wears glasses, and has short curly hair. I think she's about 20."
+ },
+ {
+  "id": 7,
+  "start": 54.34,
+  "end": 55.159,
+  "text": "What's her name?"
+ },
+ {
+  "id": 8,
+  "start": 55.5,
+  "end": 58.219,
+  "text": "I can't remember. Anne, I think."
+ },
+ {
+  "id": 9,
+  "start": 60.42,
+  "end": 63.7,
+  "text": "So tell me about your cousin, Paul."
+ },
+ {
+  "id": 10,
+  "start": 64.219,
+  "end": 65.959,
+  "text": "Well, she's very pretty."
+ },
+ {
+  "id": 11,
+  "start": 66.379,
+  "end": 68.42,
+  "text": "Really! Is she blonde?"
+ },
+ {
+  "id": 12,
+  "start": 68.76,
+  "end": 73.859,
+  "text": "No, she has dark brown hair. Everybody likes her. She's an actress."
+ },
+ {
+  "id": 13,
+  "start": 74.34,
+  "end": 76.879,
+  "text": "Really? I'd like to meet her."
+ }
+];

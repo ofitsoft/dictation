@@ -1,0 +1,92 @@
+[
+ {
+  "id": 1,
+  "start": 5.299,
+  "end": 13.039,
+  "text": "Hello. Can I help you?"
+ },
+ {
+  "id": 2,
+  "start": 13.119,
+  "end": 21.039,
+  "text": "Yes, you can try this cream. It's very good."
+ },
+ {
+  "id": 3,
+  "start": 21.039,
+  "end": 22.96,
+  "text": "Just a small amount, twice a day."
+ },
+ {
+  "id": 4,
+  "start": 27.1,
+  "end": 36.42,
+  "text": "Hello. Can I help you?"
+ },
+ {
+  "id": 5,
+  "start": 36.42,
+  "end": 44.92,
+  "text": "Yes, you can try these throat tablets. They're very good."
+ },
+ {
+  "id": 6,
+  "start": 45.219,
+  "end": 46.719,
+  "text": "Take one every four hours."
+ },
+ {
+  "id": 7,
+  "start": 50.34,
+  "end": 59.399,
+  "text": "Can I help you?"
+ },
+ {
+  "id": 8,
+  "start": 59.399,
+  "end": 62.6,
+  "text": "Take these tablets. They'll soon bring your temperature down."
+ },
+ {
+  "id": 9,
+  "start": 64.78,
+  "end": 73.599,
+  "text": "You can take two tablets twice a day."
+ },
+ {
+  "id": 10,
+  "start": 75.76,
+  "end": 82.379,
+  "text": "Hello. Can I help you?"
+ },
+ {
+  "id": 11,
+  "start": 82.379,
+  "end": 87.799,
+  "text": "This medicine is very good."
+ },
+ {
+  "id": 12,
+  "start": 87.799,
+  "end": 90.54,
+  "text": "Take one spoonful three times a day."
+ },
+ {
+  "id": 13,
+  "start": 92.579,
+  "end": 96.62,
+  "text": "Can I help you?"
+ },
+ {
+  "id": 14,
+  "start": 100.799,
+  "end": 106.239,
+  "text": "You could try this cream. It's very good for sunburn."
+ },
+ {
+  "id": 15,
+  "start": 111.319,
+  "end": 113.42,
+  "text": "You can use quite a lot. It's not very strong."
+ }
+]

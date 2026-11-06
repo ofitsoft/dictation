@@ -1,0 +1,74 @@
+window.DICT=window.DICT||{};DICT["basic-tactics/A1/U07-37"]=[
+ {
+  "id": 1,
+  "start": 7.2,
+  "end": 7.32,
+  "text": "1."
+ },
+ {
+  "id": 2,
+  "start": 8.4,
+  "end": 23.179,
+  "text": "This website is great. They have a great selection rock, rap, jazz... old, new, international ---and it's not as expensive as other sites. I've downloaded hundreds of songs!"
+ },
+ {
+  "id": 3,
+  "start": 24.46,
+  "end": 25.579,
+  "text": "2."
+ },
+ {
+  "id": 4,
+  "start": 26.899,
+  "end": 39.14,
+  "text": "This is my favorite website because it helps me stay in touch with my friends and family. Also I've made lots of new friends. The only problem is that I spend too much time on it when I should be studying!"
+ },
+ {
+  "id": 5,
+  "start": 40.119,
+  "end": 41.719,
+  "text": "3."
+ },
+ {
+  "id": 6,
+  "start": 42.82,
+  "end": 51.799,
+  "text": "This site is so much fun! I'm always finding really funny videos. I haven't posted any of my own videos yet, though. I'll probably start doing that soon."
+ },
+ {
+  "id": 7,
+  "start": 53.56,
+  "end": 54.38,
+  "text": "4."
+ },
+ {
+  "id": 8,
+  "start": 55.5,
+  "end": 64.12,
+  "text": "This is a great website for planning vacations. It has lots of terrific information about interesting places to visit, hotels, and how to get good deals."
+ },
+ {
+  "id": 9,
+  "start": 64.4,
+  "end": 65.2,
+  "text": "5."
+ },
+ {
+  "id": 10,
+  "start": 65.2,
+  "end": 83.219,
+  "text": "I hardly ever go to the mall. Why should I? I can buy almost everything I need at this website. They have a big selection, they deliver quickly, and their prices are the best on the Internet. Sometimes they offer free shipping, too."
+ },
+ {
+  "id": 11,
+  "start": 85.659,
+  "end": 85.92,
+  "text": "6."
+ },
+ {
+  "id": 12,
+  "start": 86.98,
+  "end": 101.519,
+  "text": "I like to know what's happening in the world, so I check out this site every day while I'm eating breakfast. I also really like the celebrity gossip news! I just found out today that Jeb Hawkes and Alison Romano broke up last week while they were starring in a movie together."
+ }
+];

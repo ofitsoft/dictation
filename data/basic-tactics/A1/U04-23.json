@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "start": 4.36,
+  "end": 7.759,
+  "text": "You look tired, Jake."
+ },
+ {
+  "id": 2,
+  "start": 9.019,
+  "end": 14.259,
+  "text": "Yeah, I'm always tired. I have to get up at five fifteen every day."
+ },
+ {
+  "id": 3,
+  "start": 15.22,
+  "end": 18.219,
+  "text": "Five fifty? Why so early?"
+ },
+ {
+  "id": 4,
+  "start": 18.98,
+  "end": 27.48,
+  "text": "Not five fifty, five fifteen. Anyway, I go running before work, then I have to catch a six fifty train to the city."
+ },
+ {
+  "id": 5,
+  "start": 28.14,
+  "end": 32.42,
+  "text": "Oh, I see. So, do you go to bed early?"
+ },
+ {
+  "id": 6,
+  "start": 32.82,
+  "end": 37.74,
+  "text": "No, I'm a night owl. Last night I was up until one fifteen."
+ },
+ {
+  "id": 7,
+  "start": 38.34,
+  "end": 42.719,
+  "text": "That's not enough sleep, Jake! Maybe you should get a new job."
+ }
+]
