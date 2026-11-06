@@ -122,24 +122,24 @@
  {
   "id": 21,
   "start": 55.6,
-  "end": 57.69,
+  "end": 56.64,
   "text": "He’s taking us there! Can I go now?"
  },
  {
   "id": 22,
-  "start": 57.69,
-  "end": 61.53,
+  "start": 56.71,
+  "end": 63.5,
   "text": "Mom said I could, and mom knows his parents."
  },
  {
   "id": 23,
-  "start": 61.58,
-  "end": 66.91,
+  "start": 64.07,
+  "end": 66.18,
   "text": "Okay, but be home by 8:00."
  },
  {
   "id": 24,
-  "start": 67.01,
+  "start": 66.25,
   "end": 70.64,
   "text": "Eight!? The movie doesn’t start until 7:30. Come on, Dad."
  },
@@ -158,7 +158,7 @@
  {
   "id": 27,
   "start": 73.77,
-  "end": 75.99,
+  "end": 74.66,
   "text": "Love you, too."
  }
 ]

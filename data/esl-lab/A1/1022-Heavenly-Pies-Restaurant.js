@@ -1,7 +1,7 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1022-Heavenly-Pies-Restaurant"]=[
  {
   "id": 1,
-  "start": 0.7,
+  "start": 0.0,
   "end": 3.64,
   "text": "Hi. Welcome to Heavenly Pies. May I take your order?"
  },

@@ -62,12 +62,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1011-College-Life"]=[
  {
   "id": 11,
   "start": 33.38,
-  "end": 35.45,
+  "end": 34.68,
   "text": "Uh… I haven’t decided for sure."
  },
  {
   "id": 12,
-  "start": 35.45,
+  "start": 34.68,
   "end": 38.92,
   "text": "But I think I’d like to work for a hotel or travel agency in this area."
  },

@@ -1,13 +1,13 @@
 [
  {
   "id": 1,
-  "start": 4.04,
-  "end": 6.62,
+  "start": 2.33,
+  "end": 5.16,
   "text": "Hey. John. This looks like a great party."
  },
  {
   "id": 2,
-  "start": 6.66,
+  "start": 5.2,
   "end": 7.82,
   "text": "[Yeah!] Thanks for inviting me."
  },
@@ -86,12 +86,12 @@
  {
   "id": 15,
   "start": 43.95,
-  "end": 48.36,
+  "end": 47.72,
   "text": "And then there is Georgina, the Great."
  },
  {
   "id": 16,
-  "start": 48.4,
+  "start": 47.87,
   "end": 50.86,
   "text": "Georgina . . . and great for what?"
  },
@@ -128,18 +128,18 @@
  {
   "id": 22,
   "start": 68.29,
-  "end": 73.3,
+  "end": 70.78,
   "text": "And, and there is Brad Pitt . . ."
  },
  {
   "id": 23,
-  "start": 73.34,
-  "end": 73.61,
+  "start": 70.89,
+  "end": 73.3,
   "text": "Now, there’s someone I recognize . . ."
  },
  {
   "id": 24,
-  "start": 73.64,
+  "start": 73.34,
   "end": 76.19,
   "text": "The captain of the national Yo-Yo team [What?]."
  },

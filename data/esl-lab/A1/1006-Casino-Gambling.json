@@ -1,7 +1,7 @@
 [
  {
   "id": 1,
-  "start": 0.0,
+  "start": 0.38,
   "end": 5.69,
   "text": "Wait. I thought you were just walking through the hotel to go outside and get something to eat."
  },
@@ -38,12 +38,12 @@
  {
   "id": 7,
   "start": 18.87,
-  "end": 24.18,
+  "end": 23.52,
   "text": "About what? I just have some change in my pocket, and I thought I’d get rid of it."
  },
  {
   "id": 8,
-  "start": 24.23,
+  "start": 23.62,
   "end": 26.69,
   "text": "See, look. I have about five bucks or so."
  },
@@ -104,7 +104,7 @@
  {
   "id": 18,
   "start": 54.8,
-  "end": 60.35,
+  "end": 59.01,
   "text": "No. Let’s use that credit card to get dinner for the rest of the group."
  }
 ]

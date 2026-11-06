@@ -1,13 +1,13 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1007-Christmas-is-Coming"]=[
  {
   "id": 1,
-  "start": 0.0,
-  "end": 3.32,
+  "start": 0.35,
+  "end": 2.89,
   "text": "Well, Christmas is almost here."
  },
  {
   "id": 2,
-  "start": 3.32,
+  "start": 2.89,
   "end": 4.94,
   "text": "So, what do you want from Santa this year?"
  },

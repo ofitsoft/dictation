@@ -44,12 +44,12 @@
  {
   "id": 8,
   "start": 22.93,
-  "end": 27.75,
+  "end": 27.43,
   "text": "Well, we have one suite available, complete with a kitchenette and a sauna bath."
  },
  {
   "id": 9,
-  "start": 27.75,
+  "start": 27.43,
   "end": 29.55,
   "text": "And the view of the city is great, too."
  },
@@ -86,12 +86,12 @@
  {
   "id": 15,
   "start": 43.19,
-  "end": 45.43,
+  "end": 44.56,
   "text": "Non-smoking, please."
  },
  {
   "id": 16,
-  "start": 45.59,
+  "start": 44.64,
   "end": 51.14,
   "text": "Okay, we do have a few rooms available on the 20th; we’re full on the 22nd, unless you want a smoking room."
  },
@@ -128,18 +128,18 @@
  {
   "id": 22,
   "start": 62.25,
-  "end": 68.83,
+  "end": 64.23,
   "text": "How do you spell your last name, Mr. Maexner?"
  },
  {
   "id": 23,
-  "start": 69.15,
-  "end": 69.71,
+  "start": 64.27,
+  "end": 67.31,
   "text": "M-A-E-X-N-E-R."
  },
  {
   "id": 24,
-  "start": 69.89,
+  "start": 67.71,
   "end": 73.24,
   "text": "Okay, Mr. Maexner, we look forward to seeing you on March 20th."
  },

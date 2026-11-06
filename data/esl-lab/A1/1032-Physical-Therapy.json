@@ -1,7 +1,7 @@
 [
  {
   "id": 1,
-  "start": 3.71,
+  "start": 1.5,
   "end": 4.9,
   "text": "Hey, what happened to you?"
  },
@@ -98,13 +98,13 @@
  {
   "id": 17,
   "start": 56.08,
-  "end": 58.91,
+  "end": 58.5,
   "text": "Well, maybe now, at least I have a chance to beat you."
  },
  {
   "id": 18,
-  "start": 59.03,
-  "end": 60.63,
+  "start": 58.51,
+  "end": 60.27,
   "text": "In your dreams."
  }
 ]

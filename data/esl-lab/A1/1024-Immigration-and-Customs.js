@@ -2,18 +2,18 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1024-Immigration-and-Customs"]=[
  {
   "id": 1,
   "start": 0.02,
-  "end": 3.78,
+  "end": 3.07,
   "text": "Next. Uh, your passport please."
  },
  {
   "id": 2,
-  "start": 3.9,
-  "end": 4.04,
+  "start": 3.15,
+  "end": 3.78,
   "text": "Okay."
  },
  {
   "id": 3,
-  "start": 4.04,
+  "start": 3.9,
   "end": 5.93,
   "text": "Uh, what is the purpose of your visit?"
  },
@@ -50,18 +50,18 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1024-Immigration-and-Customs"]=[
  {
   "id": 9,
   "start": 27.57,
-  "end": 34.91,
+  "end": 29.64,
   "text": "Okay. Uh, please open your bag."
  },
  {
   "id": 10,
-  "start": 34.93,
-  "end": 35.46,
+  "start": 29.83,
+  "end": 30.29,
   "text": "Sure."
  },
  {
   "id": 11,
-  "start": 35.46,
+  "start": 30.37,
   "end": 37.42,
   "text": "Okay . . . Everything’s fine. [Great]."
  },

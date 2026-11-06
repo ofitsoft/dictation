@@ -1,7 +1,7 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1012-Daily-Schedule"]=[
  {
   "id": 1,
-  "start": 0.08,
+  "start": 0.0,
   "end": 1.65,
   "text": "So, what’s your usual day like?"
  },

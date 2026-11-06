@@ -8,12 +8,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1038-Sightseeing-Tours"]=[
  {
   "id": 2,
   "start": 2.3,
-  "end": 4.79,
+  "end": 4.18,
   "text": "Well, let’s look at this city guide here."
  },
  {
   "id": 3,
-  "start": 4.89,
+  "start": 4.23,
   "end": 7.4,
   "text": "Uh, here’s something interesting."
  },

@@ -1,7 +1,7 @@
 [
  {
   "id": 1,
-  "start": 0.6,
+  "start": 0.12,
   "end": 2.83,
   "text": "Dad. Allowance day. Can I have my allowance?"
  },
@@ -14,12 +14,12 @@
  {
   "id": 3,
   "start": 4.89,
-  "end": 7.41,
+  "end": 7.0,
   "text": "You ALWAYS forget."
  },
  {
   "id": 4,
-  "start": 7.41,
+  "start": 7.0,
   "end": 9.66,
   "text": "I guess I do. How much do I owe you?"
  },
@@ -56,12 +56,12 @@
  {
   "id": 10,
   "start": 25.16,
-  "end": 28.72,
+  "end": 28.02,
   "text": "Go to the bank. You have lots of money."
  },
  {
   "id": 11,
-  "start": 28.76,
+  "start": 28.1,
   "end": 30.25,
   "text": "Lots of money, uh?"
  },

@@ -1,7 +1,7 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1037-Shopping-for-the-Day"]=[
  {
   "id": 1,
-  "start": 0.39,
+  "start": 0.0,
   "end": 2.46,
   "text": "Hi young lady. How may I help you?"
  },
@@ -92,12 +92,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1037-Shopping-for-the-Day"]=[
  {
   "id": 16,
   "start": 39.36,
-  "end": 43.26,
+  "end": 42.52,
   "text": "I’m not sure [money falling on the table]."
  },
  {
   "id": 17,
-  "start": 43.75,
+  "start": 42.56,
   "end": 45.56,
   "text": "Probably about ten dollars or so."
  },
@@ -140,7 +140,7 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1037-Shopping-for-the-Day"]=[
  {
   "id": 24,
   "start": 68.09,
-  "end": 69.94,
+  "end": 69.55,
   "text": "Oh, thanks. I’ll take it."
  }
 ];

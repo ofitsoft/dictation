@@ -1,19 +1,19 @@
 [
  {
   "id": 1,
-  "start": 1.9,
-  "end": 6.64,
+  "start": 3.88,
+  "end": 6.29,
   "text": "Uh, where am I? Tsk, hum . . ."
  },
  {
   "id": 2,
-  "start": 6.64,
-  "end": 9.44,
+  "start": 6.29,
+  "end": 8.69,
   "text": "Excuse me. Do you need any help?"
  },
  {
   "id": 3,
-  "start": 9.44,
+  "start": 8.69,
   "end": 12.29,
   "text": "Nah, I . . . I’m just looking . . . well . . . [Okay . . .]"
  },

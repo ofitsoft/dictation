@@ -1,7 +1,7 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1017-Family-Relationships"]=[
  {
   "id": 1,
-  "start": 0.53,
+  "start": 0.0,
   "end": 2.49,
   "text": "Hi. My name’s Carl. Nice to meet you."
  },
@@ -98,7 +98,7 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1017-Family-Relationships"]=[
  {
   "id": 17,
   "start": 51.79,
-  "end": 55.07,
+  "end": 53.84,
   "text": "Things that people buy every day."
  }
 ];

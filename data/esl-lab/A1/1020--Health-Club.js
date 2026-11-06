@@ -26,12 +26,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1020--Health-Club"]=[
  {
   "id": 5,
   "start": 8.43,
-  "end": 11.29,
+  "end": 13.89,
   "text": "No, let me help you. Uh, Oh, Hmpf."
  },
  {
   "id": 6,
-  "start": 11.7,
+  "start": 13.93,
   "end": 15.59,
   "text": "Oh, it’s okay."
  },
@@ -86,12 +86,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1020--Health-Club"]=[
  {
   "id": 15,
   "start": 36.0,
-  "end": 38.41,
+  "end": 38.25,
   "text": "I’m originally from California . . ."
  },
  {
   "id": 16,
-  "start": 38.41,
+  "start": 38.25,
   "end": 39.91,
   "text": "Are you sure you’re okay?"
  },
@@ -104,12 +104,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1020--Health-Club"]=[
  {
   "id": 18,
   "start": 44.84,
-  "end": 50.47,
+  "end": 49.35,
   "text": "Um, I spent most of my life in a small town in Utah called Spanish Fork actually."
  },
  {
   "id": 19,
-  "start": 51.02,
+  "start": 49.63,
   "end": 55.21,
   "text": "Oh, um, I just need to lie here."
  },
@@ -146,12 +146,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1020--Health-Club"]=[
  {
   "id": 25,
   "start": 69.64,
-  "end": 72.56,
+  "end": 71.37,
   "text": "No, no, no. Not Spanish . . . ."
  },
  {
   "id": 26,
-  "start": 72.76,
+  "start": 71.41,
   "end": 74.63,
   "text": "Ah, No, I’m from Salt Lake City."
  },
@@ -182,18 +182,18 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1020--Health-Club"]=[
  {
   "id": 31,
   "start": 85.73,
-  "end": 91.69,
+  "end": 90.54,
   "text": "I teach math and science, and it doesn’t take a science teacher to tell me that you need a doctor."
  },
  {
   "id": 32,
-  "start": 91.89,
-  "end": 97.09,
+  "start": 90.7,
+  "end": 95.82,
   "text": "No, I’m okay, I’m okay. I’ll stand here in a minute."
  },
  {
   "id": 33,
-  "start": 97.21,
+  "start": 96.42,
   "end": 98.84,
   "text": "Uh, could I have your phone number?"
  },
@@ -206,7 +206,7 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1020--Health-Club"]=[
  {
   "id": 35,
   "start": 101.02,
-  "end": 106.27,
+  "end": 104.52,
   "text": "I don’t think so. I think 911 is the number you need at this point."
  }
 ];

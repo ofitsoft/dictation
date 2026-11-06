@@ -1,19 +1,19 @@
 [
  {
   "id": 1,
-  "start": 0.74,
+  "start": 0.0,
   "end": 3.07,
   "text": "Hi. I don’t think we’ve met. My name’s Tom."
  },
  {
   "id": 2,
   "start": 3.11,
-  "end": 5.64,
+  "end": 3.8,
   "text": "Hi, Tom. Nice to meet you."
  },
  {
   "id": 3,
-  "start": 5.73,
+  "start": 3.83,
   "end": 7.15,
   "text": "My name is Juanita, but everybody calls me Jenny."
  },
@@ -74,12 +74,12 @@
  {
   "id": 13,
   "start": 31.89,
-  "end": 38.23,
+  "end": 37.49,
   "text": "We spent ten years in Korea, Germany, and Okinawa, Japan, and then, we were transferred back to the States three years ago."
  },
  {
   "id": 14,
-  "start": 38.39,
+  "start": 37.53,
   "end": 40.4,
   "text": "Wow. It sounds like you’ve had an interesting life."
  },

@@ -1,13 +1,13 @@
 [
  {
   "id": 1,
-  "start": 1.18,
-  "end": 5.28,
+  "start": 0.56,
+  "end": 4.73,
   "text": "Sara, I’ve been looking forward to our yearly campout for three weeks."
  },
  {
   "id": 2,
-  "start": 5.46,
+  "start": 4.76,
   "end": 7.8,
   "text": "It’s going to be a wonderful day for hiking tomorrow."
  },
@@ -26,12 +26,12 @@
  {
   "id": 5,
   "start": 11.0,
-  "end": 12.74,
+  "end": 11.95,
   "text": "This is the life."
  },
  {
   "id": 6,
-  "start": 13.17,
+  "start": 12.05,
   "end": 15.47,
   "text": "Yeah, but Paul, I’m a little bit worried about the weather though."
  },
@@ -62,12 +62,12 @@
  {
   "id": 11,
   "start": 25.98,
-  "end": 32.95,
+  "end": 31.47,
   "text": "Ah. Don’t worry."
  },
  {
   "id": 12,
-  "start": 33.46,
+  "start": 32.4,
   "end": 37.3,
   "text": "Paul. Paul. Did you remember to bring our raincoats just in case, like I told you?"
  },
@@ -86,12 +86,12 @@
  {
   "id": 15,
   "start": 44.01,
-  "end": 47.38,
+  "end": 46.56,
   "text": "We’ll have to sleep in the car! Hurry get in!"
  },
  {
   "id": 16,
-  "start": 47.72,
+  "start": 46.98,
   "end": 49.64,
   "text": "So, Paul, what are we going to do now?"
  },
@@ -104,18 +104,18 @@
  {
   "id": 18,
   "start": 52.71,
-  "end": 56.46,
+  "end": 55.73,
   "text": "Uhh. I left them next to the picnic table."
  },
  {
   "id": 19,
-  "start": 56.83,
-  "end": 61.76,
+  "start": 55.77,
+  "end": 60.8,
   "text": "Hey, you don’t want me to go out in this rain and get them, do you?"
  },
  {
   "id": 20,
-  "start": 62.18,
+  "start": 60.84,
   "end": 64.47,
   "text": "No. That’s okay. So what now?"
  },
@@ -134,7 +134,7 @@
  {
   "id": 23,
   "start": 73.89,
-  "end": 76.8,
+  "end": 75.03,
   "text": "That’s a good idea."
  }
 ]

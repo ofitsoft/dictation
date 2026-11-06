@@ -8,24 +8,24 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1010-College-Graduation"]=[
  {
   "id": 2,
   "start": 6.72,
-  "end": 9.43,
+  "end": 7.96,
   "text": "Hey, why are you so happy?"
  },
  {
   "id": 3,
-  "start": 9.58,
-  "end": 10.23,
+  "start": 7.96,
+  "end": 9.43,
   "text": "Did you win a million dollars?"
  },
  {
   "id": 4,
-  "start": 10.37,
-  "end": 11.32,
+  "start": 9.58,
+  "end": 10.23,
   "text": "What? No!"
  },
  {
   "id": 5,
-  "start": 11.32,
+  "start": 10.37,
   "end": 14.38,
   "text": "Well, did you finally move out of your parents house?"
  },

@@ -1,7 +1,7 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1013-Donating-Cars"]=[
  {
   "id": 1,
-  "start": 1.24,
+  "start": 0.0,
   "end": 2.77,
   "text": "Hey, how are things going?"
  },
@@ -116,7 +116,7 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1013-Donating-Cars"]=[
  {
   "id": 20,
   "start": 50.5,
-  "end": 51.98,
+  "end": 51.37,
   "text": "Okay, thanks."
  }
 ];

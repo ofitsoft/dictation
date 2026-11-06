@@ -1,13 +1,13 @@
 [
  {
   "id": 1,
-  "start": 3.5,
-  "end": 3.9,
+  "start": 2.21,
+  "end": 3.26,
   "text": "Hello."
  },
  {
   "id": 2,
-  "start": 3.94,
+  "start": 3.5,
   "end": 7.12,
   "text": "He, he.., hello? Uh, yeah. Is . . . uh . . . your dad home?"
  },
@@ -26,12 +26,12 @@
  {
   "id": 5,
   "start": 10.38,
-  "end": 14.97,
+  "end": 14.54,
   "text": "Uh . . . yeah . . . uh hello? Yeah, um . . . is . . . uh . . . Nick home please?"
  },
  {
   "id": 6,
-  "start": 15.01,
+  "start": 14.58,
   "end": 16.85,
   "text": "Oh, he can’t come to the phone right now."
  },
@@ -44,18 +44,18 @@
  {
   "id": 8,
   "start": 20.8,
-  "end": 24.23,
+  "end": 23.46,
   "text": "Um, yeah, could you . . . um . . . take a message?"
  },
  {
   "id": 9,
-  "start": 24.27,
-  "end": 24.65,
+  "start": 23.54,
+  "end": 24.23,
   "text": "Yeah."
  },
  {
   "id": 10,
-  "start": 24.65,
+  "start": 24.27,
   "end": 28.07,
   "text": "Yeah. This is . . . my name’s Nick Johnson. And if . . ."
  },

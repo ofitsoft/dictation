@@ -50,12 +50,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1015-DVD-Movie-Rentals"]=[
  {
   "id": 9,
   "start": 16.03,
-  "end": 19.97,
+  "end": 19.35,
   "text": "Fine. Well, what do you think of horror movies or love stories?"
  },
  {
   "id": 10,
-  "start": 20.27,
+  "start": 19.45,
   "end": 21.87,
   "text": "Uh . . . I’m not really crazy about horror movies."
  },
@@ -74,7 +74,7 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1015-DVD-Movie-Rentals"]=[
  {
   "id": 13,
   "start": 26.8,
-  "end": 30.17,
+  "end": 29.93,
   "text": "Okay. I’ll go to the video store and see what I can find. Thanks."
  }
 ];

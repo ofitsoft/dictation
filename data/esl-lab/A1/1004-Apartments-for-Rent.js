@@ -2,12 +2,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1004-Apartments-for-Rent"]=[
  {
   "id": 1,
   "start": 0.19,
-  "end": 1.14,
+  "end": 0.82,
   "text": "Hello?"
  },
  {
   "id": 2,
-  "start": 1.14,
+  "start": 0.86,
   "end": 2.83,
   "text": "Hello Roger? This is Ann."
  },

@@ -1,7 +1,7 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1002-A-Fun-Day"]=[
  {
   "id": 1,
-  "start": 0.63,
+  "start": 0.19,
   "end": 1.3,
   "text": "Dad, I’m bored today."
  },

@@ -1,7 +1,7 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1033-Private-Language-Tutor"]=[
  {
   "id": 1,
-  "start": 6.27,
+  "start": 5.58,
   "end": 8.64,
   "text": "Hi. Uh, are you Sarah?"
  },
@@ -128,18 +128,18 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1033-Private-Language-Tutor"]=[
  {
   "id": 22,
   "start": 55.39,
-  "end": 57.86,
+  "end": 57.41,
   "text": "Are you sure you have the right guy?"
  },
  {
   "id": 23,
-  "start": 57.91,
-  "end": 62.2,
+  "start": 57.47,
+  "end": 61.44,
   "text": "Listen. Are you sure? [I’m sure, I’m sure.] Listen."
  },
  {
   "id": 24,
-  "start": 62.24,
+  "start": 61.48,
   "end": 64.43,
   "text": "I’m leaving. I don’t need the money THAT much."
  },
@@ -170,12 +170,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1033-Private-Language-Tutor"]=[
  {
   "id": 29,
   "start": 82.09,
-  "end": 87.07,
+  "end": 85.52,
   "text": "[No!] The one with the large tattoo of a large snake across his back?"
  },
  {
   "id": 30,
-  "start": 87.31,
+  "start": 85.52,
   "end": 89.02,
   "text": "No! What? You’ve got the wrong guy."
  },

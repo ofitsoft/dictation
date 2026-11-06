@@ -1,7 +1,7 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1014-Drugs-and-Medication"]=[
  {
   "id": 1,
-  "start": 0.66,
+  "start": 0.74,
   "end": 1.68,
   "text": "So, how are things going, Steve?"
  },

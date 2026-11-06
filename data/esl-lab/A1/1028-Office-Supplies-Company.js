@@ -122,7 +122,7 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1028-Office-Supplies-Company"]=[
  {
   "id": 21,
   "start": 89.14,
-  "end": 89.86,
+  "end": 89.51,
   "text": "Okay, bye."
  }
 ];

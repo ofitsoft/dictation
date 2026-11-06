@@ -26,12 +26,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1019-Gourmet-Cooking"]=[
  {
   "id": 5,
   "start": 15.29,
-  "end": 17.97,
+  "end": 16.98,
   "text": "Um, what’s . . . what’s the deal?"
  },
  {
   "id": 6,
-  "start": 18.01,
+  "start": 17.02,
   "end": 19.96,
   "text": "I worked really hard. Look, Look."
  },
@@ -62,12 +62,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1019-Gourmet-Cooking"]=[
  {
   "id": 11,
   "start": 31.86,
-  "end": 33.59,
+  "end": 33.36,
   "text": "Well, to be honest . . ."
  },
  {
   "id": 12,
-  "start": 33.63,
+  "start": 33.4,
   "end": 37.54,
   "text": "What’s wrong? Don’t you like my cooking?"
  },
@@ -92,18 +92,18 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1019-Gourmet-Cooking"]=[
  {
   "id": 16,
   "start": 46.34,
-  "end": 50.9,
+  "end": 49.19,
   "text": "Why? WHY?"
  },
  {
   "id": 17,
-  "start": 50.94,
-  "end": 52.11,
+  "start": 49.19,
+  "end": 50.9,
   "text": "I’m sorry. I didn’t know."
  },
  {
   "id": 18,
-  "start": 52.11,
+  "start": 50.94,
   "end": 54.56,
   "text": "I told you this morning I was making something nice."
  },

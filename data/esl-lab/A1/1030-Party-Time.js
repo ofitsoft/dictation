@@ -1,13 +1,13 @@
 window.DICT=window.DICT||{};DICT["esl-lab/A1/1030-Party-Time"]=[
  {
   "id": 1,
-  "start": 2.74,
-  "end": 7.42,
+  "start": 2.12,
+  "end": 6.91,
   "text": "Hi Dave. [Hi] Happy to see you could make it. Come on in."
  },
  {
   "id": 2,
-  "start": 7.48,
+  "start": 7.07,
   "end": 9.98,
   "text": "Wow. Looks like the party is in full swing."
  },
@@ -20,12 +20,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1030-Party-Time"]=[
  {
   "id": 4,
   "start": 13.58,
-  "end": 16.2,
+  "end": 15.21,
   "text": "Oh, I’d like you to meet my sister, Carol."
  },
  {
   "id": 5,
-  "start": 16.23,
+  "start": 15.25,
   "end": 17.1,
   "text": "She’s visiting for the weekend."
  },
@@ -50,12 +50,12 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1030-Party-Time"]=[
  {
   "id": 9,
   "start": 22.74,
-  "end": 25.72,
+  "end": 25.04,
   "text": "Yeah. That’s right. Let me introduce you to her."
  },
  {
   "id": 10,
-  "start": 26.06,
+  "start": 25.07,
   "end": 27.75,
   "text": "I just know you two will hit it off."
  },

@@ -8,18 +8,18 @@ window.DICT=window.DICT||{};DICT["esl-lab/A1/1027-Nice-to-Meet-You"]=[
  {
   "id": 2,
   "start": 2.04,
-  "end": 5.28,
+  "end": 5.29,
   "text": "I can’t keep straight all the students’ names this being the second day of school."
  },
  {
   "id": 3,
-  "start": 5.28,
-  "end": 8.13,
+  "start": 5.29,
+  "end": 8.12,
   "text": "It’s okay. I have a hard time remembering names myself."
  },
  {
   "id": 4,
-  "start": 8.13,
+  "start": 8.12,
   "end": 10.24,
   "text": "How, uh, Karen, right?"
  },
