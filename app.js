@@ -295,27 +295,53 @@
   }
 
   /* ---------- so khớp từ ---------- */
+  // Hoa/thường không tính. Nhãn người nói (Man:, Woman:, Ann:) không đưa vào so sánh.
   const norm = (w) => w.toLowerCase().replace(/[’‘`]/g, "'").replace(/[^a-z0-9']/g, "");
+  const touchUi = () => window.matchMedia("(hover: none), (pointer: coarse)").matches;
+
+  function speakerBits(raw) {
+    const m = /^([A-Za-z][A-Za-z'.-]{1,40}:)(.*)$/.exec(raw);
+    if (!m || /\d/.test(m[1])) return [{ text: raw, skip: false }];
+    const out = [{ text: m[1], skip: true }];
+    const rest = m[2].trim();
+    if (rest) out.push({ text: rest, skip: false });
+    return out;
+  }
+  function expandWords(raw, keepLabels) {
+    const out = [];
+    for (const w of raw.split(/\s+/).filter(Boolean)) {
+      for (const p of speakerBits(w)) {
+        if (p.skip && !keepLabels) continue;
+        out.push(p);
+      }
+    }
+    return out;
+  }
 
   function diff(text, typed) {
-    const orig = text.split(/\s+/).filter(Boolean);
-    const a = orig.map(norm);
-    const rawTyped = typed.split(/\s+/).filter(Boolean);
+    const orig = expandWords(text, true);
+    const typedWords = expandWords(typed, false).map((w) => w.text);
+    const scored = [];
+    orig.forEach((w, k) => { if (!w.skip) scored.push(k); });
+    const a = scored.map((k) => norm(orig[k].text));
+    const rawTyped = typedWords;
     const b = rawTyped.map(norm);
     const dp = Array.from({ length: a.length + 1 }, () => new Array(b.length + 1).fill(0));
     for (let i = a.length - 1; i >= 0; i--)
       for (let j = b.length - 1; j >= 0; j--)
         dp[i][j] = a[i] === b[j] && a[i] ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
-    const hit = new Array(a.length).fill(false);
+    const scoredHit = new Array(a.length).fill(false);
     const used = new Array(b.length).fill(false);
     let i = 0, j = 0;
     while (i < a.length && j < b.length) {
-      if (a[i] === b[j] && a[i]) { hit[i] = used[j] = true; i++; j++; }
+      if (a[i] === b[j] && a[i]) { scoredHit[i] = used[j] = true; i++; j++; }
       else if (dp[i + 1][j] >= dp[i][j + 1]) i++;
       else j++;
     }
+    const hit = orig.map((w, k) => w.skip || scoredHit[scored.indexOf(k)]);
     const extra = rawTyped.filter((_, k) => !used[k] && b[k]);
-    return { orig, hit, extra, perfect: hit.every(Boolean) && extra.length === 0 };
+    const scoredOk = scored.every((k) => hit[k]);
+    return { orig, hit, extra, perfect: scoredOk && extra.length === 0 };
   }
 
   /* ================= Cấp 3: bài nghe ================= */
@@ -384,6 +410,7 @@
       if (b) b.textContent = v ? "Đang phát" : "Nghe lại";
     }
     function playSeg(k) {
+      if (touchUi()) { const el = document.activeElement; if (el && el.id === "ans") el.blur(); }
       stop();
       const tok = ++playTok;
       const s = sents[k];
@@ -461,7 +488,7 @@
       $ans.addEventListener("keydown", (e) => {
         if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); checked ? next() : check(); }
       });
-      $ans.focus({ preventScroll: true });
+      if (!touchUi()) $ans.focus({ preventScroll: true });
     }
 
     function check() {
@@ -470,11 +497,11 @@
       const d = diff(s.text, typed);
       checked = true;
       setResult(s, d.perfect ? "ok" : "bad");
-      const wrong = d.hit.filter((h) => !h).length;
+      const wrong = d.orig.filter((w, k) => !w.skip && !d.hit[k]).length;
       $pane.querySelector("#result").innerHTML = `
         <div class="result ${d.perfect ? "ok" : "bad"}">
           <div class="status">${d.perfect ? "Chính xác" : typed.trim() ? `Chưa đúng, thiếu hoặc sai ${wrong} từ` : "Đáp án"}</div>
-          <div class="sentence">${d.orig.map((w, k) => `<span class="w ${typed.trim() ? (d.hit[k] ? "ok" : "bad") : ""}">${esc(w)}</span>`).join("")}</div>
+          <div class="sentence">${d.orig.map((w, k) => `<span class="w ${w.skip ? "skip" : typed.trim() ? (d.hit[k] ? "ok" : "bad") : ""}">${esc(w.text)}</span>`).join("")}</div>
           ${d.extra.length ? `<div class="extra">Từ thừa: ${d.extra.map((w) => `<s>${esc(w)}</s>`).join("")}</div>` : ""}
         </div>`;
       $pane.querySelector("#check").textContent = i === sents.length - 1 ? "Hoàn thành" : "Câu tiếp";

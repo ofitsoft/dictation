@@ -127,23 +127,28 @@ details.section[open] > summary::after { transform: rotate(-135deg); }
 .player label { color: var(--muted); font-size: 15px; display: flex; gap: 8px; align-items: center; }
 .player select { font: inherit; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--card); color: var(--ink); }
 textarea {
-  width: 100%; font: inherit; font-size: 19px; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--radius);
-  background: var(--paper); color: var(--ink); resize: vertical; min-height: 96px;
+  width: 100%; max-width: 100%; font: inherit; font-size: 19px; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--paper); color: var(--ink); resize: vertical; min-height: 96px; max-height: 9.5em; overflow: auto;
+  overflow-wrap: anywhere;
 }
 textarea:focus { outline: 3px solid var(--focus); outline-offset: 1px; }
 .actions { display: flex; gap: 10px; margin-top: 12px; flex-wrap: wrap; align-items: center; }
 .hint { margin-left: auto; font-size: 14px; color: var(--muted); }
 
-.result { margin-top: 18px; padding: 14px 16px; border-radius: var(--radius); border: 1px solid var(--line); }
+.result { margin-top: 18px; padding: 14px 16px; border-radius: var(--radius); border: 1px solid var(--line); max-width: 100%; overflow: auto; }
 .result.ok { background: var(--ok-bg); border-color: var(--ok); }
 .result.bad { background: var(--bad-bg); border-color: var(--bad); }
 .result .status { font-weight: 700; margin-bottom: 6px; }
 .result.ok .status { color: var(--ok); }
 .result.bad .status { color: var(--bad); }
-.sentence { font-size: 22px; line-height: 1.5; }
-.sentence .w { margin-right: .28em; }
+.sentence {
+  display: flex; flex-wrap: wrap; column-gap: .28em; row-gap: .15em; align-items: baseline;
+  max-width: 100%; max-height: 11em; overflow: auto; font-size: 22px; line-height: 1.5;
+}
+.sentence .w { max-width: 100%; overflow-wrap: anywhere; }
 .sentence .w.ok { color: var(--ok); font-weight: 700; }
 .sentence .w.bad { color: var(--bad); text-decoration: underline wavy; text-underline-offset: 5px; }
+.sentence .w.skip { color: var(--muted); font-weight: 400; text-decoration: none; }
 .extra { margin-top: 8px; font-size: 15px; color: var(--muted); }
 .extra s { color: var(--bad); margin-right: .5em; }
 
