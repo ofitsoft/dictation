@@ -113,6 +113,7 @@ details.section[open] > summary::after { transform: rotate(-135deg); }
 .pane { background: var(--card); border: 1px solid var(--line); border-top: 0; border-radius: 0 0 var(--radius) var(--radius); padding: 20px; }
 
 .stepper { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+.stepper #restart { margin-left: auto; }
 .stepper b { min-width: 64px; text-align: center; font-variant-numeric: tabular-nums; }
 .btn {
   font: inherit; padding: 8px 16px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--card);
@@ -122,10 +123,15 @@ details.section[open] > summary::after { transform: rotate(-135deg); }
 .btn:disabled { opacity: .45; cursor: default; }
 .btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 700; }
 .btn.icon { padding: 6px 12px; }
-.player { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 14px; }
-.player .btn { min-width: 112px; }
+.player { display: flex; align-items: center; gap: 12px 14px; flex-wrap: wrap; margin-bottom: 14px; }
+.player .btn { min-width: 0; }
+#play { min-width: 104px; }
 .player label { color: var(--muted); font-size: 15px; display: flex; gap: 8px; align-items: center; }
 .player select { font: inherit; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--card); color: var(--ink); }
+.player .time { font-variant-numeric: tabular-nums; font-size: 15px; color: var(--muted); white-space: nowrap; }
+.player .seek { flex: 1 1 140px; width: 140px; min-width: 100px; }
+.player input[type="range"] { accent-color: var(--accent); }
+.player .voln { font-variant-numeric: tabular-nums; min-width: 2.2em; display: inline-block; }
 textarea {
   width: 100%; max-width: 100%; font: inherit; font-size: 19px; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--radius);
   background: var(--paper); color: var(--ink); resize: vertical; min-height: 96px; max-height: 9.5em; overflow: auto;

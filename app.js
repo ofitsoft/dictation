@@ -1,6 +1,6 @@
 (() => {
   const app = document.getElementById("app");
-  const LS = "dict:v1", LS_SPEED = "dict:speed";
+  const LS = "dict:v1", LS_SPEED = "dict:speed", LS_VOL = "dict:volume";
 
   /* ---------- tiến độ (localStorage), khoá = "<chủ đề>/<bài>" ---------- */
   let prog = {};
@@ -14,6 +14,11 @@
   const nDone = (topic, id) => Object.keys((prog[`${topic}/${id}`] || (topic === "short-stories" && prog[id]) || { res: {} }).res).length;
   let speed = 1;
   try { speed = parseFloat(localStorage.getItem(LS_SPEED)) || 1; } catch {}
+  let volume = 1;
+  try {
+    const v = parseFloat(localStorage.getItem(LS_VOL));
+    if (Number.isFinite(v)) volume = Math.min(1, Math.max(0, v));
+  } catch {}
 
   /* ---------- nhật ký Google Sheet (laptop và điện thoại dùng chung) ---------- */
   const LOG_CFG = "dict:log:cfg", LOG_QUEUE = "dict:log:queue", LOG_SUM = "dict:log:summary";
@@ -364,6 +369,7 @@
     let loopAll = false, autoScroll = true;
     const audio = new Audio(`data/${base}.mp3`);
     audio.preload = "auto";
+    audio.volume = volume;
     audio.addEventListener("pause", () => setPlaying(false));
     audio.addEventListener("ended", () => setPlaying(false));
     document.title = `${meta.title} – ${tinfo.title} – Nghe chép`;
@@ -403,37 +409,131 @@
       return [Math.max(0, s.start - lead), s.end + tail];
     }
     let playTok = 0;             // mỗi lần phát/dừng tăng 1, để callback của lần cũ tự bỏ qua
+    let seg = null;              // {tok, t0, t1} khi đang phát một câu
+    let endTimer = 0;
+    let resumeRatio = null;      // tua trong câu rồi mới bấm nghe
 
-    function stop() { playTok++; cancelAnimationFrame(raf); audio.pause(); setPlaying(false); contState = "idle"; syncCont(); }
+    function fmtTime(sec) {
+      const s = Math.max(0, Math.round(Number(sec) || 0));
+      return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+    }
+    function paintTime(elapsed, total) {
+      const el = document.getElementById("ptime");
+      if (el) el.textContent = fmtTime(elapsed) + " / " + fmtTime(total);
+      const sk = document.getElementById("seek");
+      if (!sk || document.activeElement === sk || !(total > 0)) return;
+      sk.value = String(Math.max(0, Math.min(1000, Math.round(1000 * Math.max(0, elapsed) / total))));
+    }
+    function setSpeed(v) {
+      speed = v;
+      try { localStorage.setItem(LS_SPEED, String(speed)); } catch {}
+      audio.playbackRate = speed;
+      armEnd();
+    }
+    function setVolume(v) {
+      volume = Math.min(1, Math.max(0, v));
+      audio.volume = volume;
+      try { localStorage.setItem(LS_VOL, String(volume)); } catch {}
+    }
+    function volControl() {
+      return `<label>Âm lượng <span class="voln">${Math.round(volume * 100)}</span>%
+        <input class="vol" type="range" min="0" max="100" step="1" value="${Math.round(volume * 100)}" aria-label="Âm lượng"></label>`;
+    }
+    function bindVolume(root) {
+      const input = root.querySelector("input.vol");
+      if (!input) return;
+      input.addEventListener("input", () => {
+        setVolume(input.value / 100);
+        const n = input.parentElement.querySelector(".voln");
+        if (n) n.textContent = String(Math.round(volume * 100));
+      });
+    }
+    function armEnd() {
+      clearTimeout(endTimer);
+      if (!seg || seg.tok !== playTok) return;
+      const tok = seg.tok;
+      const total = seg.t1 - seg.t0;
+      const now = audio.currentTime;
+      const at = now >= seg.t0 - 0.05 && now <= seg.t1 + 0.05 ? now : seg.t0;
+      const left = Math.max(0, seg.t1 - at);
+      const ms = Math.max(80, (left / (audio.playbackRate || 1)) * 1000 + 150);
+      endTimer = setTimeout(() => { if (tok === playTok) finishSeg(total); }, ms);
+    }
+    function finishSeg(total) {
+      seg = null;
+      playTok++;
+      clearTimeout(endTimer);
+      cancelAnimationFrame(raf);
+      audio.pause();
+      setPlaying(false);
+      paintTime(total, total);
+    }
+    // requestAnimationFrame dừng khi mất focus, audio thì vẫn chạy — kẹp cuối câu bằng timeupdate + hẹn giờ
+    audio.addEventListener("timeupdate", () => {
+      if (!seg || seg.tok !== playTok || !seg.ready) return;
+      const total = seg.t1 - seg.t0;
+      const t = audio.currentTime;
+      if (t + 0.02 < seg.t0) return;
+      // lệch xa khỏi câu (seek chưa ăn) thì để vòng thử lại xử lý, không cắt nhầm
+      if (t >= seg.t1 && t < seg.t1 + 0.35) finishSeg(total);
+      else if (t < seg.t1) paintTime(t - seg.t0, total);
+    });
+
+    function stop() {
+      playTok++; seg = null; clearTimeout(endTimer);
+      cancelAnimationFrame(raf); audio.pause(); setPlaying(false); contState = "idle"; syncCont();
+    }
+    // Rời trang / sang cửa sổ khác thì dừng, kẻo file mp3 cả bài chạy tiếp sang các câu sau
+    function pauseForBlur() {
+      const segmentLive = !!(seg && seg.tok === playTok);
+      const contLive = contState === "play";
+      if (!segmentLive && !contLive) return;
+      clearTimeout(endTimer);
+      cancelAnimationFrame(raf);
+      if (segmentLive) { seg = null; playTok++; }
+      audio.pause();
+      setPlaying(false);
+      if (contLive) { contState = "pause"; syncCont(); }
+    }
     function setPlaying(v) {
       const b = document.getElementById("play");
       if (b) b.textContent = v ? "Đang phát" : "Nghe lại";
     }
     function playSeg(k) {
       if (touchUi()) { const el = document.activeElement; if (el && el.id === "ans") el.blur(); }
+      const ratio = resumeRatio;
+      resumeRatio = null;
       stop();
       const tok = ++playTok;
-      const s = sents[k];
       if (tab === "full") { from = k; markCur(k); }
       const [t0, t1] = playWin(k);
+      const startAt = ratio == null ? t0 : Math.min(t1, Math.max(t0, t0 + (t1 - t0) * ratio));
+      seg = { tok, t0, t1 };
       audio.playbackRate = speed;
+      audio.volume = volume;
       let started = false, tries = 0;
-      const seek = () => { try { audio.currentTime = t0; } catch {} };
+      const seek = () => { try { audio.currentTime = startAt; } catch {} };
       // iOS: chưa có metadata thì currentTime bị bỏ qua và audio phát từ đầu file -> đợi metadata rồi seek lại
       if (audio.readyState >= 1) seek();
       else audio.addEventListener("loadedmetadata", () => { if (tok === playTok) seek(); }, { once: true });
-      audio.addEventListener("playing", () => { if (tok === playTok) started = true; }, { once: true });
+      audio.addEventListener("playing", () => {
+        if (tok !== playTok) return;
+        started = true;
+        if (seg && seg.tok === tok) seg.ready = true;
+        armEnd();
+      }, { once: true });
       audio.play().then(() => { if (tok === playTok) setPlaying(true); })
-        .catch(() => { if (tok === playTok) { playTok++; cancelAnimationFrame(raf); setPlaying(false); } });
+        .catch(() => { if (tok === playTok) { playTok++; seg = null; clearTimeout(endTimer); cancelAnimationFrame(raf); setPlaying(false); } });
       const tick = () => {
         if (tok !== playTok) return;
         const t = audio.currentTime;
         if (started && !audio.seeking && (t < t0 - 0.3 || t > t1 + 0.3)) {
           // seek không trúng (hay gặp trên iOS) -> thử lại tối đa 3 lần
           if (tries++ < 3) { seek(); raf = requestAnimationFrame(tick); return; }
-          audio.pause(); setPlaying(false); return;
+          finishSeg(t1 - t0); return;
         }
-        if (started && (t >= t1 || audio.ended)) { audio.pause(); setPlaying(false); return; }
+        if (started && (t >= t1 || audio.ended)) { finishSeg(t1 - t0); return; }
+        if (started) paintTime(t - t0, t1 - t0);
         raf = requestAnimationFrame(tick);
       };
       raf = requestAnimationFrame(tick);
@@ -460,9 +560,13 @@
           <button class="btn icon" id="prev" aria-label="Câu trước" ${i === 0 ? "disabled" : ""}>←</button>
           <b>${i + 1} / ${sents.length}</b>
           <button class="btn icon" id="nextArrow" aria-label="Câu sau" ${i === sents.length - 1 ? "disabled" : ""}>→</button>
+          <button class="btn" id="restart" type="button">Từ đầu</button>
         </div>
         <div class="player">
           <button class="btn" id="play">Nghe</button>
+          <span class="time" id="ptime">0:00 / 0:00</span>
+          <input class="seek" id="seek" type="range" min="0" max="1000" value="0" aria-label="Vị trí trong câu">
+          ${volControl()}
           <label>Tốc độ
             <select id="speed">${[0.5, 0.75, 1, 1.25].map((v) => `<option value="${v}" ${v === speed ? "selected" : ""}>${v}x</option>`).join("")}</select>
           </label>
@@ -475,12 +579,28 @@
         </div>
         <div id="result" aria-live="polite"></div>`;
       const $ans = $pane.querySelector("#ans");
+      const [win0, win1] = playWin(i);
+      paintTime(0, win1 - win0);
       $pane.querySelector("#play").onclick = () => playSeg(i);
-      $pane.querySelector("#speed").onchange = (e) => {
-        speed = parseFloat(e.target.value);
-        try { localStorage.setItem(LS_SPEED, speed); } catch {}
-        audio.playbackRate = speed;
-      };
+      $pane.querySelector("#restart").onclick = () => goto(0, true);
+      $pane.querySelector("#speed").onchange = (e) => setSpeed(parseFloat(e.target.value));
+      bindVolume($pane);
+      const seekEl = $pane.querySelector("#seek");
+      seekEl.addEventListener("input", (e) => {
+        const ratio = e.target.value / 1000;
+        const [a, b] = playWin(i);
+        const total = b - a;
+        paintTime(total * ratio, total);
+        if (seg && seg.tok === playTok && !audio.paused) {
+          try { audio.currentTime = a + total * ratio; } catch {}
+          armEnd();
+        }
+      });
+      seekEl.addEventListener("change", (e) => {
+        if (seg && seg.tok === playTok && !audio.paused) return;
+        resumeRatio = e.target.value / 1000;
+        playSeg(i);
+      });
       $pane.querySelector("#prev").onclick = () => goto(i - 1, true);
       $pane.querySelector("#nextArrow").onclick = () => goto(i + 1, true);
       $pane.querySelector("#check").onclick = () => (checked ? next() : check());
@@ -618,6 +738,7 @@
         <div class="player fullbar">
           <button class="btn primary" id="playall"></button>
           <button class="btn" id="fromtop">⏮ Từ đầu</button>
+          ${volControl()}
           <label>Tốc độ
             <select id="speedF">${[0.5, 0.75, 1, 1.25].map((v) => `<option value="${v}" ${v === speed ? "selected" : ""}>${v}x</option>`).join("")}</select>
           </label>
@@ -633,11 +754,8 @@
       syncCont();
       $pane.querySelector("#playall").onclick = toggleCont;
       $pane.querySelector("#fromtop").onclick = () => playAll(0);
-      $pane.querySelector("#speedF").onchange = (e) => {
-        speed = parseFloat(e.target.value);
-        try { localStorage.setItem(LS_SPEED, speed); } catch {}
-        audio.playbackRate = speed;
-      };
+      $pane.querySelector("#speedF").onchange = (e) => setSpeed(parseFloat(e.target.value));
+      bindVolume($pane);
       $pane.querySelector("#loopF").onchange = (e) => { loopAll = e.target.checked; };
       $pane.querySelector("#autoF").onchange = (e) => { autoScroll = e.target.checked; };
       $pane.onclick = (e) => {
@@ -676,7 +794,22 @@
       else if (e.altKey && e.key === "ArrowRight") { e.preventDefault(); goto(i + 1, true); }
     };
     addEventListener("keydown", onKey);
-    cleanup = () => { stop(); removeEventListener("keydown", onKey); audio.src = ""; };
+    const onHide = () => { if (document.visibilityState === "hidden") pauseForBlur(); };
+    const onBlur = () => {
+      // Chờ một nhịp: mở danh sách tốc độ cũng có thể làm cửa sổ mất focus trong chốc lát.
+      setTimeout(() => {
+        if (document.visibilityState === "hidden" || !document.hasFocus()) pauseForBlur();
+      }, 0);
+    };
+    document.addEventListener("visibilitychange", onHide);
+    window.addEventListener("blur", onBlur);
+    cleanup = () => {
+      stop();
+      removeEventListener("keydown", onKey);
+      document.removeEventListener("visibilitychange", onHide);
+      window.removeEventListener("blur", onBlur);
+      audio.src = "";
+    };
 
     renderAll();
     const known = studyTimes(topic, id);
