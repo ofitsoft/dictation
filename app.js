@@ -937,7 +937,7 @@
         <div class="scrub">
           <input class="seek" id="seek" type="range" min="0" max="1000" value="0" aria-label="Vị trí trong câu">
         </div>
-        <div class="focusrow" role="group" aria-label="Đánh dấu câu này">${focusHtml(topic, id, s.id)}</div>
+        <div class="focusrow" role="group" aria-label="Đánh dấu câu này">${focusHtml(topic, id, s.id)}<button class="addnote" id="addnote" type="button" aria-label="Ghi chú" title="Ghi chú">+</button></div>
         <textarea id="ans" rows="3" placeholder="Gõ những gì bạn nghe được" spellcheck="false" autocomplete="off" autocapitalize="off" autocorrect="off"></textarea>
         <div class="actions hear">
           <button class="btn" id="skip">Bỏ qua</button>
@@ -979,6 +979,7 @@
       $pane.querySelector("#replay").onclick = () => playSeg(i);
       $pane.querySelector("#skip").onclick = () => { setResult(s, "skip"); next(); };
       $pane.querySelector("#note").onclick = () => openNote(i);
+      $pane.querySelector("#addnote").onclick = () => openNote(i);
       paintNoteBits();
       $ans.addEventListener("keydown", (e) => {
         if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); checked ? next() : check(); }
@@ -1160,6 +1161,12 @@
       if (btn) {
         btn.textContent = note ? "Sửa ghi chú" : "Ghi chú";
         btn.classList.toggle("has", !!note);
+      }
+      const add = document.getElementById("addnote");
+      if (add) {
+        add.classList.toggle("has", !!note);
+        add.title = note ? "Sửa ghi chú" : "Ghi chú";
+        add.setAttribute("aria-label", note ? "Sửa ghi chú" : "Ghi chú");
       }
       const strip = document.getElementById("notestrip");
       if (strip) {
