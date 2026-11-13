@@ -930,7 +930,6 @@
             <button class="btn icon" id="nextArrow" aria-label="Câu sau" ${i === sents.length - 1 ? "disabled" : ""}>→</button>
           </div>
           ${moreMenu(`
-            <button type="button" role="menuitem" data-act="replay">Nghe lại</button>
             <button type="button" role="menuitem" data-act="restart">Từ đầu</button>
             <button type="button" role="menuitem" id="note" data-act="note">Ghi chú</button>
             ${volSlider()}`, "Thêm", moreIcon)}
@@ -940,8 +939,9 @@
         </div>
         <div class="focusrow" role="group" aria-label="Đánh dấu câu này">${focusHtml(topic, id, s.id)}</div>
         <textarea id="ans" rows="3" placeholder="Gõ những gì bạn nghe được" spellcheck="false" autocomplete="off" autocapitalize="off" autocorrect="off"></textarea>
-        <div class="actions">
+        <div class="actions hear">
           <button class="btn" id="skip">Bỏ qua</button>
+          <button class="btn" id="replay">Nghe lại</button>
           <button class="btn primary" id="check">Kiểm tra</button>
         </div>
         <p class="hint">Enter: kiểm tra hoặc câu tiếp. Ctrl+Space: nghe lại.</p>
@@ -954,7 +954,6 @@
       bindSpeed($pane);
       bindVolume($pane);
       bindMore($pane, {
-        replay: () => playSeg(i),
         restart: () => goto(0, true),
         note: () => openNote(i),
       });
@@ -977,6 +976,7 @@
       $pane.querySelector("#prev").onclick = () => goto(i - 1, true);
       $pane.querySelector("#nextArrow").onclick = () => goto(i + 1, true);
       $pane.querySelector("#check").onclick = () => (checked ? next() : check());
+      $pane.querySelector("#replay").onclick = () => playSeg(i);
       $pane.querySelector("#skip").onclick = () => { setResult(s, "skip"); next(); };
       $pane.querySelector("#note").onclick = () => openNote(i);
       paintNoteBits();

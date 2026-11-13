@@ -193,6 +193,17 @@ textarea {
 textarea:focus { outline: 3px solid var(--focus); outline-offset: 1px; }
 .actions { display: flex; gap: 10px; margin-top: 12px; flex-wrap: wrap; align-items: center; justify-content: space-between; }
 .actions .btn { min-width: 108px; }
+.actions.hear {
+  flex-wrap: nowrap;
+  gap: 8px;
+  width: 100%;
+  max-width: 480px;
+  margin-left: auto;
+}
+.actions.hear .btn { flex: 1 1 auto; min-width: 0; text-align: center; padding: 10px 8px; white-space: nowrap; }
+@media (max-width: 560px) {
+  .actions.hear .btn { padding: 10px 4px; font-size: 15px; }
+}
 .hint { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
 
 .result { margin-top: 18px; padding: 14px 16px; border-radius: var(--radius); border: 1px solid var(--line); max-width: 100%; overflow: auto; }
