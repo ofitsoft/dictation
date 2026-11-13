@@ -120,8 +120,8 @@ details.section[open] > summary::after { transform: rotate(-135deg); }
 .pane { background: var(--card); border: 1px solid var(--line); border-top: 0; border-radius: 0 0 var(--radius) var(--radius); padding: 14px 16px 16px; }
 
 .transport { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
-.transport .stepper { flex: 0 1 auto; min-width: 0; }
-.transport .speedpill { margin-left: auto; }
+.transport .stepper { flex: none; min-width: 0; }
+.transport .more { margin-left: auto; }
 .stepper { display: flex; align-items: center; gap: 4px; margin: 0; }
 .stepmeta { display: flex; flex-direction: column; align-items: center; line-height: 1.15; min-width: 5.8em; }
 .stepmeta b { font-variant-numeric: tabular-nums; }
@@ -170,6 +170,18 @@ details.section[open] > summary::after { transform: rotate(-135deg); }
 .morevollab { display: block; }
 .morevol input { width: 100%; accent-color: var(--accent); }
 .morevol .voln { font-variant-numeric: tabular-nums; }
+.morespeed {
+  display: flex; flex-direction: column; align-items: stretch; gap: 6px;
+  padding: 6px 12px 8px; color: var(--muted); font-size: 15px;
+}
+.speedopts { display: flex; gap: 6px; }
+.speedopt {
+  flex: 1; min-width: 0; min-height: 36px; padding: 0 4px;
+  font: inherit; font-weight: 700; font-variant-numeric: tabular-nums;
+  border: 1px solid var(--line); border-radius: 999px;
+  background: var(--paper); color: var(--ink); cursor: pointer;
+}
+.speedopt.on { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
 .scrub { display: flex; align-items: center; gap: 10px; margin: 2px 0 10px; }
 .scrub .seek { flex: 1; width: auto; min-width: 0; accent-color: var(--accent); }
 .btn {
@@ -309,6 +321,9 @@ textarea:focus { outline: 3px solid var(--focus); outline-offset: 1px; }
   main { padding: 16px; }
   .lhead h1 { font-size: 20px; }
   .hint { display: none; }
+  .transport { gap: 6px; }
+  .playbtn { width: 40px; height: 40px; }
+  .stepmeta { min-width: 0; }
 }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }

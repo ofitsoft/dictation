@@ -739,9 +739,19 @@
       return `<label class="morevol"><span class="morevollab">Âm lượng <span class="voln">${Math.round(volume * 100)}</span>%</span>
         <input class="vol" type="range" min="0" max="100" step="1" value="${Math.round(volume * 100)}" aria-label="Âm lượng"></label>`;
     }
+    function currentSpeed() {
+      return SPEEDS.reduce((best, v) => Math.abs(v - speed) < Math.abs(best - speed) ? v : best, SPEEDS[2]);
+    }
     function speedButton() {
-      const cur = SPEEDS.reduce((best, v) => Math.abs(v - speed) < Math.abs(best - speed) ? v : best, SPEEDS[2]);
+      const cur = currentSpeed();
       return `<select class="speedpill" data-speed aria-label="Tốc độ">${SPEEDS.map((v) => `<option value="${v}"${v === cur ? " selected" : ""}>${speedText(v)}</option>`).join("")}</select>`;
+    }
+    function speedChoices() {
+      const cur = currentSpeed();
+      return `<div class="morespeed">
+        <span class="morevollab">Tốc độ</span>
+        <div class="speedopts" role="group" aria-label="Tốc độ">${SPEEDS.map((v) => `<button type="button" class="speedopt${v === cur ? " on" : ""}" data-speed="${v}" aria-pressed="${v === cur}">${speedText(v)}</button>`).join("")}</div>
+      </div>`;
     }
     const playIcon = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M8.2 5.4v13.2L19 12z"/></svg>`;
     const micIcon = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3" fill="currentColor"/><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M6.5 11a5.5 5.5 0 0 0 11 0M12 16.5V20M8.5 20h7"/></svg>`;
@@ -758,13 +768,22 @@
       document.querySelectorAll("[data-more]").forEach((b) => b.setAttribute("aria-expanded", "false"));
     }
     function bindSpeed(root) {
-      const b = root.querySelector("[data-speed]");
-      if (!b) return;
-      b.onchange = () => {
-        const v = parseFloat(b.value);
-        if (!Number.isFinite(v)) return;
-        setSpeed(v);
-      };
+      root.querySelectorAll("[data-speed]").forEach((b) => {
+        const apply = () => {
+          const v = parseFloat(b.tagName === "SELECT" ? b.value : b.dataset.speed);
+          if (!Number.isFinite(v)) return;
+          setSpeed(v);
+          const group = b.closest(".speedopts");
+          if (!group) return;
+          group.querySelectorAll("[data-speed]").forEach((x) => {
+            const on = parseFloat(x.dataset.speed) === currentSpeed();
+            x.classList.toggle("on", on);
+            x.setAttribute("aria-pressed", String(on));
+          });
+        };
+        if (b.tagName === "SELECT") b.onchange = apply;
+        else b.onclick = (e) => { e.stopPropagation(); apply(); };
+      });
     }
     function bindVolume(root) {
       const input = root.querySelector("input.vol");
@@ -1027,10 +1046,10 @@
             </span>
             <button class="btn icon" id="nextArrow" aria-label="Câu sau" ${i === sents.length - 1 ? "disabled" : ""}>→</button>
           </div>
-          ${speedButton()}
           ${moreMenu(`
             <button type="button" role="menuitem" data-act="restart">Từ đầu</button>
             <button type="button" role="menuitem" id="note" data-act="note">Ghi chú</button>
+            ${speedChoices()}
             ${volSlider()}`, "Thêm", moreIcon)}
         </div>
         <div class="scrub">
