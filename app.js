@@ -653,6 +653,8 @@
     const pr = P(topic, id);
     let i = Math.min(startIdx ?? pr.pos ?? 0, sents.length - 1);
     let checked = false, tab = "dict", raf = 0;
+    let hearing = false, rec = null;
+    const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
     // phát liên tục ở tab "Toàn bộ transcript"
     let contState = "idle";      // idle | play | pause
     let from = 0, cur = -1;      // from: câu sẽ phát khi bấm Phát; cur: câu đang được tô sáng
@@ -852,7 +854,110 @@
       b.setAttribute("aria-label", label);
       b.title = label;
     }
+    function stopHear() {
+      hearing = false;
+      const r = rec;
+      rec = null;
+      if (r) {
+        r.onresult = null;
+        r.onerror = null;
+        r.onend = null;
+        try { r.abort(); } catch {}
+      }
+      const b = document.getElementById("speak");
+      if (b) {
+        b.classList.remove("on");
+        b.disabled = false;
+        b.textContent = "Đọc thử";
+        b.setAttribute("aria-pressed", "false");
+      }
+    }
+    function paintPron(heard, err) {
+      const box = document.getElementById("pron");
+      if (!box) return;
+      if (err) {
+        box.innerHTML = `<p class="pronnote">${esc(err)}</p>`;
+        return;
+      }
+      const s = sents[i];
+      if (!s || !heard) return;
+      const d = diff(s.text, heard);
+      const wrong = d.orig.filter((w, k) => !w.skip && !d.hit[k]).length;
+      box.innerHTML = `
+        <div class="result ${d.perfect ? "ok" : "bad"}">
+          <div class="status">${d.perfect ? "Máy nghe khớp cả câu" : `Máy nghe lệch ${wrong} từ`}</div>
+          <div class="sentence">${d.orig.map((w, k) => `<span class="w ${w.skip ? "skip" : (d.hit[k] ? "ok" : "bad")}">${esc(w.text)}</span>`).join("")}</div>
+          ${d.extra.length ? `<div class="extra">Máy nghe thêm: ${d.extra.map((w) => `<s>${esc(w)}</s>`).join("")}</div>` : ""}
+          <p class="pronheard">Máy nghe: ${esc(heard)}</p>
+        </div>`;
+    }
+    function startHear() {
+      stopHear();
+      if (!SpeechRec) {
+        paintPron("", "Nhận dạng giọng nói chỉ chạy trên Chrome hoặc Edge, và trang phải mở bằng https.");
+        return;
+      }
+      stop();
+      const old = document.getElementById("pron");
+      if (old) old.innerHTML = "";
+      const r = new SpeechRec();
+      rec = r;
+      r.lang = "en-US";
+      r.interimResults = true;
+      r.continuous = true;
+      let finalText = "";
+      const btn = document.getElementById("speak");
+      const status = document.getElementById("speakstatus");
+      hearing = true;
+      if (btn) {
+        btn.classList.add("on");
+        btn.textContent = "Dừng";
+        btn.setAttribute("aria-pressed", "true");
+      }
+      if (status) status.textContent = "Đang nghe… nói cả câu, rồi bấm Dừng.";
+      r.onresult = (ev) => {
+        if (r !== rec) return;
+        let interim = "";
+        for (let k = ev.resultIndex; k < ev.results.length; k++) {
+          const t = ev.results[k][0].transcript;
+          if (ev.results[k].isFinal) finalText += t + " ";
+          else interim += t;
+        }
+        const heard = (finalText + interim).trim();
+        if (heard) paintPron(heard);
+      };
+      r.onerror = (ev) => {
+        if (r !== rec || ev.error === "aborted") return;
+        const msg = {
+          "not-allowed": "Trình duyệt chặn micro. Cho phép micro rồi thử lại.",
+          "service-not-allowed": "Trình duyệt chặn nhận dạng giọng nói trên trang này.",
+          "audio-capture": "Không mở được micro.",
+          "network": "Cần mạng để nhận dạng giọng nói.",
+          "no-speech": "Không nghe thấy tiếng. Thử lại."
+        }[ev.error] || "Không nhận dạng được. Thử lại.";
+        paintPron("", msg);
+      };
+      r.onend = () => {
+        if (r !== rec) return;
+        hearing = false;
+        rec = null;
+        const b = document.getElementById("speak");
+        if (b) {
+          b.classList.remove("on");
+          b.textContent = "Đọc thử";
+          b.setAttribute("aria-pressed", "false");
+        }
+        const st = document.getElementById("speakstatus");
+        if (st) st.textContent = "Đọc to câu vừa nghe. Máy chép lại và tô từ khớp — làm vậy sẽ hiện đáp án.";
+      };
+      try { r.start(); }
+      catch {
+        stopHear();
+        paintPron("", "Không bật được micro. Thử lại.");
+      }
+    }
     function playSeg(k) {
+      stopHear();
       if (touchUi()) { const el = document.activeElement; if (el && el.id === "ans") el.blur(); }
       const ratio = resumeRatio;
       resumeRatio = null;
@@ -920,7 +1025,6 @@
       $pane.innerHTML = `
         <div class="transport">
           <button class="playbtn" id="play" type="button" aria-label="Nghe" title="Nghe">${playIcon}</button>
-          ${speedButton()}
           <div class="stepper">
             <button class="btn icon" id="prev" aria-label="Câu trước" ${i === 0 ? "disabled" : ""}>←</button>
             <span class="stepmeta">
@@ -929,6 +1033,7 @@
             </span>
             <button class="btn icon" id="nextArrow" aria-label="Câu sau" ${i === sents.length - 1 ? "disabled" : ""}>→</button>
           </div>
+          ${speedButton()}
           ${moreMenu(`
             <button type="button" role="menuitem" data-act="restart">Từ đầu</button>
             <button type="button" role="menuitem" id="note" data-act="note">Ghi chú</button>
@@ -945,6 +1050,11 @@
           <button class="btn primary" id="check">Kiểm tra</button>
         </div>
         <p class="hint">Enter: kiểm tra hoặc câu tiếp. Ctrl+Space: nghe lại.</p>
+        <div class="speakrow">
+          <button class="btn speakbtn" id="speak" type="button" aria-pressed="false">Đọc thử</button>
+          <p class="speakhint" id="speakstatus"></p>
+        </div>
+        <div id="pron" aria-live="polite"></div>
         <div id="notestrip"></div>
         <div id="result" aria-live="polite"></div>`;
       const $ans = $pane.querySelector("#ans");
@@ -978,6 +1088,11 @@
       $pane.querySelector("#check").onclick = () => (checked ? next() : check());
       $pane.querySelector("#replay").onclick = () => playSeg(i);
       $pane.querySelector("#skip").onclick = () => { setResult(s, "skip"); next(); };
+      const speakStatus = $pane.querySelector("#speakstatus");
+      speakStatus.textContent = SpeechRec
+        ? "Đọc to câu vừa nghe. Máy chép lại và tô từ khớp — làm vậy sẽ hiện đáp án."
+        : "Nhận dạng giọng nói chỉ chạy trên Chrome hoặc Edge, và trang phải mở bằng https.";
+      $pane.querySelector("#speak").onclick = () => { if (hearing) stopHear(); else startHear(); };
       $pane.querySelector("#note").onclick = () => openNote(i);
       $pane.querySelector("#addnote").onclick = () => openNote(i);
       paintNoteBits();
@@ -1255,6 +1370,7 @@
     }
 
     function renderAll() {
+      stopHear();
       closeNote();
       renderBar();
       app.querySelectorAll(".tabs button").forEach((b) => b.setAttribute("aria-selected", b.dataset.tab === tab));
@@ -1305,6 +1421,7 @@
     window.addEventListener("blur", onBlur);
     cleanup = () => {
       stop();
+      stopHear();
       closeNote();
       closeMenus();
       document.removeEventListener("pointerdown", onDocPointer);

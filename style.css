@@ -120,7 +120,8 @@ details.section[open] > summary::after { transform: rotate(-135deg); }
 .pane { background: var(--card); border: 1px solid var(--line); border-top: 0; border-radius: 0 0 var(--radius) var(--radius); padding: 14px 16px 16px; }
 
 .transport { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
-.transport .stepper { flex: 1; min-width: 0; justify-content: center; }
+.transport .stepper { flex: 0 1 auto; min-width: 0; }
+.transport .speedpill { margin-left: auto; }
 .stepper { display: flex; align-items: center; gap: 4px; margin: 0; }
 .stepmeta { display: flex; flex-direction: column; align-items: center; line-height: 1.15; min-width: 5.8em; }
 .stepmeta b { font-variant-numeric: tabular-nums; }
@@ -205,6 +206,11 @@ textarea:focus { outline: 3px solid var(--focus); outline-offset: 1px; }
   .actions.hear .btn { padding: 10px 4px; font-size: 15px; }
 }
 .hint { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
+.speakrow { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-top: 12px; }
+.speakbtn.on { border-color: var(--bad); color: var(--bad); font-weight: 700; }
+.speakhint { margin: 0; flex: 1 1 220px; font-size: 13px; color: var(--muted); }
+.pronnote { margin: 10px 0 0; font-size: 15px; color: var(--bad); }
+.pronheard { margin: 8px 0 0; font-size: 15px; color: var(--muted); }
 
 .result { margin-top: 18px; padding: 14px 16px; border-radius: var(--radius); border: 1px solid var(--line); max-width: 100%; overflow: auto; }
 .result.ok { background: var(--ok-bg); border-color: var(--ok); }
