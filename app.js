@@ -740,9 +740,11 @@
         <input class="vol" type="range" min="0" max="100" step="1" value="${Math.round(volume * 100)}" aria-label="Âm lượng"></label>`;
     }
     function speedButton() {
-      return `<button class="speedpill" type="button" data-speed title="Đổi tốc độ" aria-label="Tốc độ ${speedText(speed)}, bấm để đổi">${speedText(speed)}</button>`;
+      const cur = SPEEDS.reduce((best, v) => Math.abs(v - speed) < Math.abs(best - speed) ? v : best, SPEEDS[2]);
+      return `<select class="speedpill" data-speed aria-label="Tốc độ">${SPEEDS.map((v) => `<option value="${v}"${v === cur ? " selected" : ""}>${speedText(v)}</option>`).join("")}</select>`;
     }
     const playIcon = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M8.2 5.4v13.2L19 12z"/></svg>`;
+    const micIcon = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3" fill="currentColor"/><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M6.5 11a5.5 5.5 0 0 0 11 0M12 16.5V20M8.5 20h7"/></svg>`;
     const moreIcon = `<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="12" cy="5.2" r="1.7" fill="currentColor"/><circle cx="12" cy="12" r="1.7" fill="currentColor"/><circle cx="12" cy="18.8" r="1.7" fill="currentColor"/></svg>`;
     const volIcon = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M4 9.2h3.2L12 5.2v13.6l-4.8-4H4z"/><path fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" d="M15.2 9.2a3.6 3.6 0 0 1 0 5.6M17.4 7a6.4 6.4 0 0 1 0 10"/></svg>`;
     function moreMenu(inner, btnLabel, icon) {
@@ -758,13 +760,10 @@
     function bindSpeed(root) {
       const b = root.querySelector("[data-speed]");
       if (!b) return;
-      b.onclick = () => {
-        const at = SPEEDS.findIndex((s) => Math.abs(s - speed) < 0.01);
-        setSpeed(SPEEDS[(at + 1) % SPEEDS.length]);
-        root.querySelectorAll("[data-speed]").forEach((el) => {
-          el.textContent = speedText(speed);
-          el.setAttribute("aria-label", `Tốc độ ${speedText(speed)}, bấm để đổi`);
-        });
+      b.onchange = () => {
+        const v = parseFloat(b.value);
+        if (!Number.isFinite(v)) return;
+        setSpeed(v);
       };
     }
     function bindVolume(root) {
@@ -864,13 +863,17 @@
         r.onend = null;
         try { r.abort(); } catch {}
       }
+      paintSpeakButton(false);
+    }
+    function paintSpeakButton(on) {
       const b = document.getElementById("speak");
-      if (b) {
-        b.classList.remove("on");
-        b.disabled = false;
-        b.textContent = "Đọc thử";
-        b.setAttribute("aria-pressed", "false");
-      }
+      if (!b) return;
+      b.classList.toggle("on", on);
+      b.disabled = false;
+      const label = on ? "Dừng ghi âm" : "Ghi âm";
+      b.setAttribute("aria-pressed", on ? "true" : "false");
+      b.setAttribute("aria-label", label);
+      b.title = label;
     }
     function paintPron(heard, err) {
       const box = document.getElementById("pron");
@@ -906,15 +909,10 @@
       r.interimResults = true;
       r.continuous = true;
       let finalText = "";
-      const btn = document.getElementById("speak");
       const status = document.getElementById("speakstatus");
       hearing = true;
-      if (btn) {
-        btn.classList.add("on");
-        btn.textContent = "Dừng";
-        btn.setAttribute("aria-pressed", "true");
-      }
-      if (status) status.textContent = "Đang nghe… nói cả câu, rồi bấm Dừng.";
+      paintSpeakButton(true);
+      if (status) status.textContent = "Đang nghe… nói cả câu, rồi bấm micro lần nữa.";
       r.onresult = (ev) => {
         if (r !== rec) return;
         let interim = "";
@@ -941,14 +939,9 @@
         if (r !== rec) return;
         hearing = false;
         rec = null;
-        const b = document.getElementById("speak");
-        if (b) {
-          b.classList.remove("on");
-          b.textContent = "Đọc thử";
-          b.setAttribute("aria-pressed", "false");
-        }
+        paintSpeakButton(false);
         const st = document.getElementById("speakstatus");
-        if (st) st.textContent = "Đọc to câu vừa nghe. Máy chép lại và tô từ khớp — làm vậy sẽ hiện đáp án.";
+        if (st) st.textContent = "Micro cạnh nút nghe: đọc to câu vừa nghe. Máy chép lại và tô từ khớp — làm vậy sẽ hiện đáp án.";
       };
       try { r.start(); }
       catch {
@@ -1025,6 +1018,7 @@
       $pane.innerHTML = `
         <div class="transport">
           <button class="playbtn" id="play" type="button" aria-label="Nghe" title="Nghe">${playIcon}</button>
+          <button class="playbtn micbtn" id="speak" type="button" aria-pressed="false" aria-label="Ghi âm" title="Ghi âm">${micIcon}</button>
           <div class="stepper">
             <button class="btn icon" id="prev" aria-label="Câu trước" ${i === 0 ? "disabled" : ""}>←</button>
             <span class="stepmeta">
@@ -1050,10 +1044,7 @@
           <button class="btn primary" id="check">Kiểm tra</button>
         </div>
         <p class="hint">Enter: kiểm tra hoặc câu tiếp. Ctrl+Space: nghe lại.</p>
-        <div class="speakrow">
-          <button class="btn speakbtn" id="speak" type="button" aria-pressed="false">Đọc thử</button>
-          <p class="speakhint" id="speakstatus"></p>
-        </div>
+        <p class="speakhint" id="speakstatus"></p>
         <div id="pron" aria-live="polite"></div>
         <div id="notestrip"></div>
         <div id="result" aria-live="polite"></div>`;
@@ -1090,7 +1081,7 @@
       $pane.querySelector("#skip").onclick = () => { setResult(s, "skip"); next(); };
       const speakStatus = $pane.querySelector("#speakstatus");
       speakStatus.textContent = SpeechRec
-        ? "Đọc to câu vừa nghe. Máy chép lại và tô từ khớp — làm vậy sẽ hiện đáp án."
+        ? "Micro cạnh nút nghe: đọc to câu vừa nghe. Máy chép lại và tô từ khớp — làm vậy sẽ hiện đáp án."
         : "Nhận dạng giọng nói chỉ chạy trên Chrome hoặc Edge, và trang phải mở bằng https.";
       $pane.querySelector("#speak").onclick = () => { if (hearing) stopHear(); else startHear(); };
       $pane.querySelector("#note").onclick = () => openNote(i);

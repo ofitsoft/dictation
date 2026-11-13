@@ -133,8 +133,10 @@ details.section[open] > summary::after { transform: rotate(-135deg); }
 }
 .playbtn:hover { filter: brightness(1.06); }
 .playbtn.on { box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 35%, transparent); }
+.micbtn { background: var(--card); color: var(--ink); border: 1px solid var(--line); }
+.micbtn.on { background: var(--bad); color: #fff; border-color: var(--bad); box-shadow: 0 0 0 3px color-mix(in srgb, var(--bad) 35%, transparent); }
 .speedpill {
-  flex: none; min-width: 44px; height: 36px; padding: 0 10px; border-radius: 999px;
+  flex: none; width: 4.8em; height: 36px; padding: 0 6px 0 10px; border-radius: 999px;
   border: 1px solid var(--line); background: var(--paper); color: var(--ink);
   font: inherit; font-weight: 700; font-variant-numeric: tabular-nums; cursor: pointer;
 }
@@ -206,9 +208,7 @@ textarea:focus { outline: 3px solid var(--focus); outline-offset: 1px; }
   .actions.hear .btn { padding: 10px 4px; font-size: 15px; }
 }
 .hint { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
-.speakrow { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-top: 12px; }
-.speakbtn.on { border-color: var(--bad); color: var(--bad); font-weight: 700; }
-.speakhint { margin: 0; flex: 1 1 220px; font-size: 13px; color: var(--muted); }
+.speakhint { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
 .pronnote { margin: 10px 0 0; font-size: 15px; color: var(--bad); }
 .pronheard { margin: 8px 0 0; font-size: 15px; color: var(--muted); }
 
