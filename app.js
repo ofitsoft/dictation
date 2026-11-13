@@ -12,8 +12,13 @@
     return prog[k] || (prog[k] = { pos: 0, res: {} });
   };
   const nDone = (topic, id) => Object.keys((prog[`${topic}/${id}`] || (topic === "short-stories" && prog[id]) || { res: {} }).res).length;
+  const SPEEDS = [0.5, 0.75, 1, 1.25];
   let speed = 1;
   try { speed = parseFloat(localStorage.getItem(LS_SPEED)) || 1; } catch {}
+  const speedText = (v) => {
+    const n = Number(v);
+    return (Number.isInteger(n) ? String(n) : String(n)) + "x";
+  };
   let volume = 1;
   try {
     const v = parseFloat(localStorage.getItem(LS_VOL));
@@ -77,7 +82,12 @@
       window[cb] = (data) => done(() => resolve(data || {}));
       s.onerror = () => done(() => reject(new Error("Không gọi được Google Sheet")));
       const q = new URLSearchParams({ ...params, token: cfg.token, callback: cb });
-      s.src = cfg.url + "?" + q.toString();
+      const src = cfg.url + "?" + q.toString();
+      if (src.length > 7500) {
+        done(() => reject(new Error("Ghi chú dài quá, rút ngắn rồi lưu lại")));
+        return;
+      }
+      s.src = src;
       document.head.appendChild(s);
     });
   }
@@ -122,6 +132,78 @@
     });
   }
 
+  /* ---------- ghi chú từng câu, cùng Google Sheet ---------- */
+  const NOTE_LS = "dict:notes", NOTE_Q = "dict:notes:q";
+  const NOTE_MAX = 1500;
+  let noteBook = {};
+  try { noteBook = JSON.parse(localStorage.getItem(NOTE_LS) || "{}"); } catch {}
+  let noteBusy = false;
+  const noteKey = (topic, lesson) => `${topic}/${lesson}`;
+  function writeNotes() {
+    try { localStorage.setItem(NOTE_LS, JSON.stringify(noteBook)); } catch {}
+  }
+  function readNoteQ() {
+    try { return JSON.parse(localStorage.getItem(NOTE_Q) || "[]"); } catch { return []; }
+  }
+  function writeNoteQ(q) {
+    try { localStorage.setItem(NOTE_Q, JSON.stringify(q.slice(-300))); } catch {}
+  }
+  function staleScript(data) {
+    return data && data.ok !== false && data.saved !== true && !data.notes;
+  }
+  function flushNotes() {
+    const cfg = logCfg();
+    if (!cfg.url || !cfg.token || noteBusy) return Promise.resolve();
+    const q = readNoteQ();
+    if (!q.length) return Promise.resolve();
+    noteBusy = true;
+    const row = q[0];
+    return callSheet({
+      action: "note", topic: row.topic, lesson: row.lesson, title: row.title || "",
+      sentence: row.sentence, text: String(row.text || "").slice(0, 500), note: row.note || ""
+    }).then((data) => {
+      noteBusy = false;
+      if (staleScript(data)) {
+        const err = new Error("Sheet chưa nhận ghi chú. Mở Apps Script, dán lại tools/study-log.gs (giữ nguyên TOKEN), rồi Deploy → Manage deployments → Edit → New version. URL giữ nguyên.");
+        err.stale = true;
+        throw err;
+      }
+      if (!data || data.ok === false || data.saved !== true) throw new Error((data && data.error) || "Sheet từ chối ghi chú");
+      writeNoteQ(readNoteQ().filter((x) => x.qid !== row.qid));
+      if (readNoteQ().length) return flushNotes();
+      return data;
+    }).catch((err) => {
+      noteBusy = false;
+      if (err && /dài quá/.test(err.message || "")) writeNoteQ(readNoteQ().filter((x) => x.qid !== row.qid));
+      throw err;
+    });
+  }
+  function queueNote(row) {
+    const q = readNoteQ().filter((x) => !(x.topic === row.topic && x.lesson === row.lesson && String(x.sentence) === String(row.sentence)));
+    q.push({ qid: eventId(), ...row });
+    writeNoteQ(q);
+    return flushNotes();
+  }
+  function pullNotes(topic, lesson) {
+    return callSheet({ action: "notes", topic, lesson }).then((data) => {
+      if (!data || data.ok === false) throw new Error((data && data.error) || "Không đọc được ghi chú");
+      if (!data.notes || typeof data.notes !== "object") {
+        const err = new Error("stale");
+        err.stale = true;
+        throw err;
+      }
+      const pending = readNoteQ().filter((x) => x.topic === topic && x.lesson === lesson);
+      const merged = { ...data.notes };
+      pending.forEach((x) => {
+        if (x.note) merged[String(x.sentence)] = x.note;
+        else delete merged[String(x.sentence)];
+      });
+      noteBook[noteKey(topic, lesson)] = merged;
+      writeNotes();
+      return merged;
+    });
+  }
+
   /* ---------- tiện ích ---------- */
   const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   window.DICT = window.DICT || {};
@@ -149,10 +231,60 @@
   const starSvg = (done) =>
     `<svg class="star ${done ? "done" : "todo"}" viewBox="0 0 24 24" stroke-width="1.6" stroke-linejoin="round" aria-hidden="true"><path d="M12 2.8l2.8 5.9 6.4.8-4.7 4.4 1.2 6.4L12 17.2 6.3 20.3l1.2-6.4L2.8 9.5l6.4-.8z"/></svg>`;
   const initials = (t) => t.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join("").toUpperCase();
+
+  /* ---------- dấu trên từng câu: V / S / LK / WF / CT ---------- */
+  const FOCUS = [
+    { id: "V", tip: "Từ vựng/nghĩa" },
+    { id: "S", tip: "Âm vị/âm cuối" },
+    { id: "LK", tip: "Linking" },
+    { id: "WF", tip: "Weak form" },
+    { id: "CT", tip: "Contraction" },
+  ];
+  const FOCUS_LS = "dict:focus";
+  let focusBook = {};
+  try { focusBook = JSON.parse(localStorage.getItem(FOCUS_LS) || "{}"); } catch {}
+  function writeFocus() {
+    try { localStorage.setItem(FOCUS_LS, JSON.stringify(focusBook)); } catch {}
+  }
+  function focusList(topic, lesson, sid) {
+    const book = focusBook[`${topic}/${lesson}`];
+    const arr = book && book[String(sid)];
+    return Array.isArray(arr) ? arr.filter((t) => FOCUS.some((f) => f.id === t)) : [];
+  }
+  function lessonMarks(topic, lesson) {
+    const book = focusBook[`${topic}/${lesson}`] || {};
+    const have = new Set();
+    Object.values(book).forEach((arr) => { if (Array.isArray(arr)) arr.forEach((t) => have.add(t)); });
+    return FOCUS.filter((f) => have.has(f.id)).map((f) => f.id);
+  }
+  function markLine(marks) {
+    return marks.length ? `<small class="markline">${marks.map((m) => m.toLowerCase()).join("/")}</small>` : "";
+  }
+  function setFocusTag(topic, lesson, sid, tag, on) {
+    if (!FOCUS.some((f) => f.id === tag)) return;
+    const k = `${topic}/${lesson}`;
+    const book = focusBook[k] || (focusBook[k] = {});
+    const cur = new Set(focusList(topic, lesson, sid));
+    if (on) cur.add(tag); else cur.delete(tag);
+    const next = FOCUS.map((f) => f.id).filter((id) => cur.has(id));
+    const sk = String(sid);
+    if (next.length) book[sk] = next;
+    else delete book[sk];
+    if (!Object.keys(book).length) delete focusBook[k];
+    writeFocus();
+  }
+  function focusHtml(topic, lesson, sid) {
+    const on = new Set(focusList(topic, lesson, sid));
+    return `<span class="marks" data-sid="${esc(sid)}">${FOCUS.map((f) =>
+      `<label class="mark${on.has(f.id) ? " on" : ""}" title="${esc(f.tip)}"><input type="checkbox" data-tag="${f.id}"${on.has(f.id) ? " checked" : ""} aria-label="${esc(f.id + " — " + f.tip)}"><span>${f.id}</span></label>`
+    ).join("")}</span>`;
+  }
   let cleanup = () => {};
+  let navGen = 0;
 
   /* ---------- router: #/  |  #/log  |  #/t/<chủ đề>  |  #/t/<chủ đề>/<bài>[/<câu>] ---------- */
   async function route() {
+    const gen = ++navGen;
     cleanup(); cleanup = () => {};
     const h = location.hash;
     const lm = h.match(/^#\/t\/([\w-]+)\/([\w-]+)(?:\/(\d+))?/);
@@ -163,12 +295,14 @@
       else if (tm) await showTopic(tm[1]);
       else await showHome();
     } catch (e) {
+      if (gen !== navGen) return;
       app.innerHTML = `<div class="error">Không tải được dữ liệu: ${esc(e.message)}</div>`;
     }
   }
   addEventListener("hashchange", route);
   route();
   flushLog().catch(() => {});
+  flushNotes().catch(() => {});
 
   /* ================= Nhật ký: bài nào, bao nhiêu lần ================= */
   async function showLog() {
@@ -184,7 +318,8 @@
         <nav class="crumbs"><a href="#/">Tất cả chủ đề</a></nav>
         <h1 class="page">Nhật ký học</h1>
         <div class="logbox">
-          <p class="muted">Mỗi lần mở một bài ghi một dòng «mở». Học đến hết bài ghi thêm một dòng «xong», kèm số câu đúng. Laptop và điện thoại gửi vào cùng một Google Sheet.</p>
+          <p class="muted">Mỗi lần mở một bài ghi một dòng «mở». Học đến hết bài ghi thêm một dòng «xong», kèm số câu đúng. Ghi chú từng câu nằm ở tab «Ghi chú» của cùng sheet. Laptop và điện thoại dùng chung.</p>
+          <p class="muted">Nếu nút ghi chú báo script cũ: dán lại <code>tools/study-log.gs</code> (giữ nguyên dòng TOKEN), rồi Deploy → Manage deployments → Edit → Version: New version. Đừng tạo deployment mới, URL giữ nguyên.</p>
           <ol class="steps">
             <li>Tạo một Google Sheet trống, chỉ để chứa nhật ký này.</li>
             <li>Extensions → Apps Script, xóa code cũ, dán file <code>tools/study-log.gs</code>. Đổi <code>TOKEN</code> thành một mật khẩu riêng (không dùng mật khẩu Google).</li>
@@ -272,7 +407,8 @@
       const items = lessons.map((l) => {
         const n = nDone(topic, l.id);
         const times = studyTimes(topic, l.id);
-        return { ...l, n, times, st: n === 0 ? "todo" : n >= l.parts ? "done" : "doing" };
+        const marks = lessonMarks(topic, l.id);
+        return { ...l, n, times, marks, st: n === 0 ? "todo" : n >= l.parts ? "done" : "doing" };
       }).filter((l) =>
         (!q || l.title.toLowerCase().includes(q)) && (!st.level || l.level === st.level) && (!st.status || l.st === st.status));
       const sections = groups.map((g) => ({ g, items: items.filter((l) => l.group === g.title) })).filter((s) => s.items.length);
@@ -283,8 +419,8 @@
         return `<details class="section" data-g="${esc(g.title)}" ${open ? "open" : ""}>
           <summary>${esc(g.title)} <span class="count">${done}/${all.length} bài đã xong</span></summary>
           <div class="grid">${its.map((l) => `
-            <a class="card" href="#/t/${topic}/${l.id}">
-              <h3>${starSvg(l.st === "done")}<span>${l.no}. ${esc(l.title)}</span></h3>
+            <a class="card${l.marks.length ? " marked" : ""}" href="#/t/${topic}/${l.id}">
+              <h3>${starSvg(l.st === "done")}<span>${l.no}. ${esc(l.title)}${markLine(l.marks)}</span></h3>
               <div class="meta"><span>${l.parts} câu</span>${l.level ? `<span class="lvl">${esc(l.level)}</span>` : ""}${l.times && l.times.open ? `<span>Đã học ${l.times.open} lần</span>` : ""}</div>
               ${l.n ? `<div class="bar"><i style="width:${Math.min(100, Math.round((100 * l.n) / l.parts))}%"></i></div>` : ""}
             </a>`).join("")}</div></details>`;
@@ -349,9 +485,123 @@
     return { orig, hit, extra, perfect: scoredOk && extra.length === 0 };
   }
 
+  function fmtAudioPair(loaded, total) {
+    const big = Math.max(loaded, total) >= 1048576;
+    const div = big ? 1048576 : 1024;
+    const n = (v) => (v / div).toLocaleString("vi-VN", {
+      maximumFractionDigits: big ? 1 : 0,
+      minimumFractionDigits: big ? 1 : 0
+    });
+    return `${n(loaded)} / ${n(total)} ${big ? "MB" : "KB"}`;
+  }
+
+  async function fetchAudio(url, onProgress, signal) {
+    const res = await fetch(url, { signal });
+    if (!res.ok) throw new Error(`không tải được audio (${res.status})`);
+    const total = Number(res.headers.get("content-length")) || 0;
+    if (!res.body) {
+      const blob = await res.blob();
+      onProgress(blob.size, total || blob.size);
+      return blob;
+    }
+    const reader = res.body.getReader();
+    const parts = [];
+    let loaded = 0;
+    for (;;) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      parts.push(value);
+      loaded += value.byteLength;
+      onProgress(loaded, total);
+    }
+    onProgress(loaded, total || loaded);
+    return new Blob(parts, { type: res.headers.get("content-type") || "audio/mpeg" });
+  }
+
+  function waitAudioReady(audio) {
+    // readyState 1 mới có thời lượng; tua currentTime chỉ ăn từ readyState 2, phát chắc từ 3
+    if (audio.readyState >= 3 && !audio.error) return Promise.resolve();
+    return new Promise((resolve) => {
+      let settled = false;
+      const cleanup = () => {
+        clearTimeout(timer);
+        audio.removeEventListener("canplay", onReady);
+        audio.removeEventListener("canplaythrough", onReady);
+        audio.removeEventListener("error", onReady);
+      };
+      const finish = () => {
+        if (settled) return;
+        settled = true;
+        cleanup();
+        resolve();
+      };
+      const onReady = () => {
+        if (audio.error || audio.readyState >= 3) finish();
+      };
+      const timer = setTimeout(finish, 8000);
+      audio.addEventListener("canplay", onReady);
+      audio.addEventListener("canplaythrough", onReady);
+      audio.addEventListener("error", onReady);
+    });
+  }
+
   /* ================= Cấp 3: bài nghe ================= */
   async function showLesson(topic, id, startIdx) {
+    const back = `#/t/${topic}`;
+    let cancelled = false;
+    const ac = new AbortController();
+    let objectUrl = "";
+    let audio = null;
+    const releaseAudio = () => {
+      if (audio) {
+        try { audio.pause(); } catch {}
+        audio.removeAttribute("src");
+        try { audio.load(); } catch {}
+        audio.remove();
+      }
+      if (objectUrl) {
+        URL.revokeObjectURL(objectUrl);
+        objectUrl = "";
+      }
+    };
+    cleanup = () => {
+      cancelled = true;
+      ac.abort();
+      releaseAudio();
+    };
+    const mountLoader = (text) => {
+      app.innerHTML = `
+        <div class="audioload" role="status" aria-live="polite">
+          <div class="spin" aria-hidden="true"></div>
+          <p id="aload">${esc(text)}</p>
+          <a class="pill" href="${back}">Hủy</a>
+        </div>`;
+    };
+    const setLoadText = (text) => {
+      const el = document.getElementById("aload");
+      if (el) {
+        if (el.textContent !== text) el.textContent = text;
+        return;
+      }
+      mountLoader(text);
+    };
+    const failAudio = (message) => {
+      releaseAudio();
+      app.innerHTML = `
+        <div class="audioload">
+          <p>Không tải được audio.</p>
+          <p class="muted">${esc(message || "Kiểm tra mạng rồi thử lại.")}</p>
+          <button class="btn primary" id="aretry" type="button">Thử lại</button>
+          <a class="pill" href="${back}">Quay lại</a>
+        </div>`;
+      const retry = document.getElementById("aretry");
+      if (retry) retry.onclick = () => { cleanup = () => {}; showLesson(topic, id, startIdx); };
+    };
+    mountLoader("Đang tải audio…");
+    document.title = "Đang tải audio – Nghe chép";
+
     const [topics, lessons] = await Promise.all([getData("topics"), getData(`${topic}/lessons`)]);
+    if (cancelled) return;
     const tinfo = topics.find((t) => t.id.toLowerCase() === topic.toLowerCase());
     const li = lessons.findIndex((l) => l.id === id);
     if (li < 0) throw new Error(`không có bài ${topic}/${id}`);
@@ -360,6 +610,46 @@
     // dữ liệu bài nằm ở data/<chủ đề>/<trình độ>/<id>.*  (meta.dir = thư mục trình độ, có thể rỗng)
     const base = meta.dir ? `${topic}/${meta.dir}/${id}` : `${topic}/${id}`;
     const sents = await getData(base);
+    if (cancelled) return;
+    const src = `data/${base}.mp3`;
+    if (location.protocol === "file:") {
+      audio = new Audio(src);
+      audio.preload = "auto";
+      audio.volume = volume;
+    } else {
+      let blob;
+      try {
+        blob = await fetchAudio(src, (loaded, total) => {
+          if (cancelled) return;
+          setLoadText(total
+            ? `Đang tải audio: ${fmtAudioPair(loaded, total)}`
+            : `Đang tải audio… ${fmtAudioPair(loaded, Math.max(loaded, 1))}`);
+        }, ac.signal);
+      } catch (e) {
+        if (cancelled || (e && e.name === "AbortError")) return;
+        failAudio(e.message);
+        return;
+      }
+      if (cancelled) return;
+      setLoadText("Đang chuẩn bị audio…");
+      objectUrl = URL.createObjectURL(blob);
+      audio = new Audio();
+      audio.preload = "auto";
+      audio.volume = volume;
+      audio.src = objectUrl;
+    }
+    audio.hidden = true;
+    audio.setAttribute("playsinline", "");
+    document.body.appendChild(audio);
+    audio.load();
+    await waitAudioReady(audio);
+    if (cancelled) return;
+    if (!audio || audio.error) {
+      failAudio("Trình duyệt không đọc được file audio.");
+      return;
+    }
+    audio.addEventListener("pause", () => setPlaying(false));
+    audio.addEventListener("ended", () => setPlaying(false));
     const pr = P(topic, id);
     let i = Math.min(startIdx ?? pr.pos ?? 0, sents.length - 1);
     let checked = false, tab = "dict", raf = 0;
@@ -367,17 +657,12 @@
     let contState = "idle";      // idle | play | pause
     let from = 0, cur = -1;      // from: câu sẽ phát khi bấm Phát; cur: câu đang được tô sáng
     let loopAll = false, autoScroll = true;
-    const audio = new Audio(`data/${base}.mp3`);
-    audio.preload = "auto";
-    audio.volume = volume;
-    audio.addEventListener("pause", () => setPlaying(false));
-    audio.addEventListener("ended", () => setPlaying(false));
     document.title = `${meta.title} – ${tinfo.title} – Nghe chép`;
 
     app.innerHTML = `
       <nav class="crumbs"><a href="#/">Tất cả chủ đề</a> <span aria-hidden="true">/</span>
         <a href="#/t/${topic}">${esc(tinfo.title)}</a> <span aria-hidden="true">/</span> <span>${esc(meta.group)}</span></nav>
-      <header class="lhead"><h1>${meta.no}. ${esc(meta.title)}</h1>${meta.level ? `<span class="lvl">${esc(meta.level)}</span>` : ""}<span class="muted" id="study-count"></span></header>
+      <header class="lhead"><h1>${meta.no}. ${esc(meta.title)}<span id="lesson-marks">${markLine(lessonMarks(topic, id))}</span></h1>${meta.level ? `<span class="lvl">${esc(meta.level)}</span>` : ""}<span class="muted" id="study-count"></span></header>
       <div class="segbar" id="bar" role="group" aria-label="Các câu trong bài"></div>
       <div class="legend"><span class="l-ok">Đúng</span><span class="l-bad">Chưa đúng</span><span class="l-skip">Bỏ qua</span></div>
       <div class="tabs" role="tablist">
@@ -386,6 +671,19 @@
       </div>
       <section class="pane" id="pane"></section>`;
     const $bar = app.querySelector("#bar"), $pane = app.querySelector("#pane");
+    function paintLessonMarks() {
+      const el = document.getElementById("lesson-marks");
+      if (el) el.innerHTML = markLine(lessonMarks(topic, id));
+    }
+    $pane.addEventListener("change", (e) => {
+      const box = e.target.closest("input[data-tag]");
+      if (!box) return;
+      const wrap = box.closest("[data-sid]");
+      if (!wrap) return;
+      setFocusTag(topic, id, wrap.dataset.sid, box.dataset.tag, box.checked);
+      box.parentElement.classList.toggle("on", box.checked);
+      paintLessonMarks();
+    });
 
     function renderBar() {
       $bar.innerHTML = sents.map((s, k) => {
@@ -435,9 +733,37 @@
       audio.volume = volume;
       try { localStorage.setItem(LS_VOL, String(volume)); } catch {}
     }
-    function volControl() {
-      return `<label>Âm lượng <span class="voln">${Math.round(volume * 100)}</span>%
+    function volSlider() {
+      return `<label class="morevol"><span class="morevollab">Âm lượng <span class="voln">${Math.round(volume * 100)}</span>%</span>
         <input class="vol" type="range" min="0" max="100" step="1" value="${Math.round(volume * 100)}" aria-label="Âm lượng"></label>`;
+    }
+    function speedButton() {
+      return `<button class="speedpill" type="button" data-speed title="Đổi tốc độ" aria-label="Tốc độ ${speedText(speed)}, bấm để đổi">${speedText(speed)}</button>`;
+    }
+    const playIcon = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M8.2 5.4v13.2L19 12z"/></svg>`;
+    const moreIcon = `<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="12" cy="5.2" r="1.7" fill="currentColor"/><circle cx="12" cy="12" r="1.7" fill="currentColor"/><circle cx="12" cy="18.8" r="1.7" fill="currentColor"/></svg>`;
+    const volIcon = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M4 9.2h3.2L12 5.2v13.6l-4.8-4H4z"/><path fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" d="M15.2 9.2a3.6 3.6 0 0 1 0 5.6M17.4 7a6.4 6.4 0 0 1 0 10"/></svg>`;
+    function moreMenu(inner, btnLabel, icon) {
+      return `<div class="more">
+        <button class="iconbtn" type="button" data-more aria-haspopup="menu" aria-expanded="false" aria-label="${btnLabel}">${icon}</button>
+        <div class="moremenu" hidden role="menu">${inner}</div>
+      </div>`;
+    }
+    function closeMenus() {
+      document.querySelectorAll(".moremenu").forEach((m) => { m.hidden = true; });
+      document.querySelectorAll("[data-more]").forEach((b) => b.setAttribute("aria-expanded", "false"));
+    }
+    function bindSpeed(root) {
+      const b = root.querySelector("[data-speed]");
+      if (!b) return;
+      b.onclick = () => {
+        const at = SPEEDS.findIndex((s) => Math.abs(s - speed) < 0.01);
+        setSpeed(SPEEDS[(at + 1) % SPEEDS.length]);
+        root.querySelectorAll("[data-speed]").forEach((el) => {
+          el.textContent = speedText(speed);
+          el.setAttribute("aria-label", `Tốc độ ${speedText(speed)}, bấm để đổi`);
+        });
+      };
     }
     function bindVolume(root) {
       const input = root.querySelector("input.vol");
@@ -446,6 +772,28 @@
         setVolume(input.value / 100);
         const n = input.parentElement.querySelector(".voln");
         if (n) n.textContent = String(Math.round(volume * 100));
+      });
+    }
+    function bindMore(root, actions) {
+      const btn = root.querySelector("[data-more]");
+      const menu = root.querySelector(".moremenu");
+      if (!btn || !menu) return;
+      btn.onclick = (e) => {
+        e.stopPropagation();
+        const willOpen = menu.hidden;
+        closeMenus();
+        menu.hidden = !willOpen;
+        btn.setAttribute("aria-expanded", String(willOpen));
+        if (willOpen) {
+          const first = menu.querySelector("[role='menuitem']");
+          if (first) first.focus();
+        }
+      };
+      menu.addEventListener("click", (e) => {
+        const act = e.target.closest("[data-act]");
+        if (!act || !actions || !actions[act.dataset.act]) return;
+        closeMenus();
+        actions[act.dataset.act]();
       });
     }
     function armEnd() {
@@ -497,7 +845,12 @@
     }
     function setPlaying(v) {
       const b = document.getElementById("play");
-      if (b) b.textContent = v ? "Đang phát" : "Nghe lại";
+      if (!b) return;
+      if (v) b.dataset.heard = "1";
+      b.classList.toggle("on", v);
+      const label = v ? "Đang phát" : (b.dataset.heard ? "Nghe lại" : "Nghe");
+      b.setAttribute("aria-label", label);
+      b.title = label;
     }
     function playSeg(k) {
       if (touchUi()) { const el = document.activeElement; if (el && el.id === "ans") el.blur(); }
@@ -511,15 +864,24 @@
       seg = { tok, t0, t1 };
       audio.playbackRate = speed;
       audio.volume = volume;
-      let started = false, tries = 0;
-      const seek = () => { try { audio.currentTime = startAt; } catch {} };
-      // iOS: chưa có metadata thì currentTime bị bỏ qua và audio phát từ đầu file -> đợi metadata rồi seek lại
-      if (audio.readyState >= 1) seek();
-      else audio.addEventListener("loadedmetadata", () => { if (tok === playTok) seek(); }, { once: true });
+      let started = false;
+      const begun = performance.now();
+      const seek = () => {
+        if (audio.readyState < 2) return;
+        try { audio.currentTime = startAt; } catch {}
+      };
+      // iOS bỏ qua currentTime khi chưa có dữ liệu (readyState < 2) và phát từ đầu file
+      if (audio.readyState >= 2) seek();
+      else {
+        const onData = () => { if (tok === playTok) seek(); };
+        audio.addEventListener("loadeddata", onData, { once: true });
+        audio.addEventListener("canplay", onData, { once: true });
+      }
       audio.addEventListener("playing", () => {
         if (tok !== playTok) return;
         started = true;
         if (seg && seg.tok === tok) seg.ready = true;
+        if (Math.abs(audio.currentTime - startAt) > 0.35) seek();
         armEnd();
       }, { once: true });
       audio.play().then(() => { if (tok === playTok) setPlaying(true); })
@@ -528,8 +890,8 @@
         if (tok !== playTok) return;
         const t = audio.currentTime;
         if (started && !audio.seeking && (t < t0 - 0.3 || t > t1 + 0.3)) {
-          // seek không trúng (hay gặp trên iOS) -> thử lại tối đa 3 lần
-          if (tries++ < 3) { seek(); raf = requestAnimationFrame(tick); return; }
+          // seek chưa ăn: thử lại cho đến khi có dữ liệu, không cắt câu ngay
+          if (performance.now() - begun < 4000) { seek(); raf = requestAnimationFrame(tick); return; }
           finishSeg(t1 - t0); return;
         }
         if (started && (t >= t1 || audio.ended)) { finishSeg(t1 - t0); return; }
@@ -556,35 +918,46 @@
     function renderDict() {
       const s = sents[i];
       $pane.innerHTML = `
-        <div class="stepper">
-          <button class="btn icon" id="prev" aria-label="Câu trước" ${i === 0 ? "disabled" : ""}>←</button>
-          <b>${i + 1} / ${sents.length}</b>
-          <button class="btn icon" id="nextArrow" aria-label="Câu sau" ${i === sents.length - 1 ? "disabled" : ""}>→</button>
-          <button class="btn" id="restart" type="button">Từ đầu</button>
+        <div class="transport">
+          <button class="playbtn" id="play" type="button" aria-label="Nghe" title="Nghe">${playIcon}</button>
+          ${speedButton()}
+          <div class="stepper">
+            <button class="btn icon" id="prev" aria-label="Câu trước" ${i === 0 ? "disabled" : ""}>←</button>
+            <span class="stepmeta">
+              <b>${i + 1} / ${sents.length}</b>
+              <span class="time" id="ptime">0:00 / 0:00</span>
+            </span>
+            <button class="btn icon" id="nextArrow" aria-label="Câu sau" ${i === sents.length - 1 ? "disabled" : ""}>→</button>
+          </div>
+          ${moreMenu(`
+            <button type="button" role="menuitem" data-act="replay">Nghe lại</button>
+            <button type="button" role="menuitem" data-act="restart">Từ đầu</button>
+            <button type="button" role="menuitem" id="note" data-act="note">Ghi chú</button>
+            ${volSlider()}`, "Thêm", moreIcon)}
         </div>
-        <div class="player">
-          <button class="btn" id="play">Nghe</button>
-          <span class="time" id="ptime">0:00 / 0:00</span>
+        <div class="scrub">
           <input class="seek" id="seek" type="range" min="0" max="1000" value="0" aria-label="Vị trí trong câu">
-          ${volControl()}
-          <label>Tốc độ
-            <select id="speed">${[0.5, 0.75, 1, 1.25].map((v) => `<option value="${v}" ${v === speed ? "selected" : ""}>${v}x</option>`).join("")}</select>
-          </label>
         </div>
+        <div class="focusrow" role="group" aria-label="Đánh dấu câu này">${focusHtml(topic, id, s.id)}</div>
         <textarea id="ans" rows="3" placeholder="Gõ những gì bạn nghe được" spellcheck="false" autocomplete="off" autocapitalize="off" autocorrect="off"></textarea>
         <div class="actions">
-          <button class="btn primary" id="check">Kiểm tra</button>
           <button class="btn" id="skip">Bỏ qua</button>
-          <span class="hint">Enter: kiểm tra / câu tiếp. Ctrl+Space: nghe lại</span>
+          <button class="btn primary" id="check">Kiểm tra</button>
         </div>
+        <p class="hint">Enter: kiểm tra hoặc câu tiếp. Ctrl+Space: nghe lại.</p>
+        <div id="notestrip"></div>
         <div id="result" aria-live="polite"></div>`;
       const $ans = $pane.querySelector("#ans");
       const [win0, win1] = playWin(i);
       paintTime(0, win1 - win0);
       $pane.querySelector("#play").onclick = () => playSeg(i);
-      $pane.querySelector("#restart").onclick = () => goto(0, true);
-      $pane.querySelector("#speed").onchange = (e) => setSpeed(parseFloat(e.target.value));
+      bindSpeed($pane);
       bindVolume($pane);
+      bindMore($pane, {
+        replay: () => playSeg(i),
+        restart: () => goto(0, true),
+        note: () => openNote(i),
+      });
       const seekEl = $pane.querySelector("#seek");
       seekEl.addEventListener("input", (e) => {
         const ratio = e.target.value / 1000;
@@ -605,6 +978,8 @@
       $pane.querySelector("#nextArrow").onclick = () => goto(i + 1, true);
       $pane.querySelector("#check").onclick = () => (checked ? next() : check());
       $pane.querySelector("#skip").onclick = () => { setResult(s, "skip"); next(); };
+      $pane.querySelector("#note").onclick = () => openNote(i);
+      paintNoteBits();
       $ans.addEventListener("keydown", (e) => {
         if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); checked ? next() : check(); }
       });
@@ -737,36 +1112,143 @@
       $pane.innerHTML = `
         <div class="player fullbar">
           <button class="btn primary" id="playall"></button>
-          <button class="btn" id="fromtop">⏮ Từ đầu</button>
-          ${volControl()}
-          <label>Tốc độ
-            <select id="speedF">${[0.5, 0.75, 1, 1.25].map((v) => `<option value="${v}" ${v === speed ? "selected" : ""}>${v}x</option>`).join("")}</select>
-          </label>
+          <button class="btn" id="fromtop">Từ đầu</button>
+          ${speedButton()}
+          ${moreMenu(volSlider(), "Âm lượng", volIcon)}
           <label class="chk"><input type="checkbox" id="loopF" ${loopAll ? "checked" : ""}> Lặp lại cả bài</label>
           <label class="chk"><input type="checkbox" id="autoF" ${autoScroll ? "checked" : ""}> Tự cuộn</label>
         </div>
         <ol class="full">${sents.map((s, k) => `
           <li data-k="${k}"><span class="n">${k + 1}</span>
             <button class="btn icon p" data-play="${k}" aria-label="Nghe câu ${k + 1}">Nghe</button>
-            <span class="t">${esc(s.text)}</span>
+            <span class="t">${esc(s.text)}${focusHtml(topic, id, s.id)}</span>
+            <button class="btn icon nbtn" data-note="${k}" type="button" aria-label="Ghi chú câu ${k + 1}">Ghi chú</button>
             <span class="dot ${pr.res[s.id] || ""}"></span></li>`).join("")}</ol>
         <p class="muted fullhint">Space: phát / tạm dừng. ← →: chuyển câu. Bấm vào một câu để nhảy tới đó, nút "Nghe" chỉ nghe riêng câu đó.</p>`;
       syncCont();
       $pane.querySelector("#playall").onclick = toggleCont;
       $pane.querySelector("#fromtop").onclick = () => playAll(0);
-      $pane.querySelector("#speedF").onchange = (e) => setSpeed(parseFloat(e.target.value));
+      bindSpeed($pane);
       bindVolume($pane);
+      bindMore($pane);
       $pane.querySelector("#loopF").onchange = (e) => { loopAll = e.target.checked; };
       $pane.querySelector("#autoF").onchange = (e) => { autoScroll = e.target.checked; };
       $pane.onclick = (e) => {
+        if (e.target.closest(".marks")) return;
+        const n = e.target.closest("[data-note]");
+        if (n) { openNote(+n.dataset.note); return; }
         const b = e.target.closest("[data-play]");
         if (b) { playSeg(+b.dataset.play); return; }
         const li = e.target.closest("li[data-k]");
         if (li) jumpTo(+li.dataset.k);
       };
+      paintNoteBits();
+    }
+
+    let lessonNotes = { ...(noteBook[noteKey(topic, id)] || {}) };
+    const sentenceNote = (s) => (s && lessonNotes[String(s.id)]) || "";
+    function closeNote() {
+      const dlg = document.querySelector(".notemask");
+      if (!dlg) return;
+      if (dlg._esc) document.removeEventListener("keydown", dlg._esc, true);
+      dlg.remove();
+    }
+    function paintNoteBits() {
+      const s = sents[i];
+      const note = sentenceNote(s);
+      const btn = document.getElementById("note");
+      if (btn) {
+        btn.textContent = note ? "Sửa ghi chú" : "Ghi chú";
+        btn.classList.toggle("has", !!note);
+      }
+      const strip = document.getElementById("notestrip");
+      if (strip) {
+        strip.innerHTML = note ? `<button type="button" class="noteprev">${esc(note)}</button>` : "";
+        const prev = strip.querySelector("button");
+        if (prev) prev.onclick = () => openNote(i);
+      }
+      $pane.querySelectorAll("li[data-k]").forEach((li) => {
+        const k = +li.dataset.k;
+        const text = sentenceNote(sents[k]);
+        const b = li.querySelector("[data-note]");
+        if (b) b.classList.toggle("has", !!text);
+        let sn = li.querySelector(".snote");
+        if (text) {
+          if (!sn) {
+            sn = document.createElement("span");
+            sn.className = "snote";
+            li.querySelector(".t").appendChild(sn);
+          }
+          sn.textContent = text;
+        } else if (sn) sn.remove();
+      });
+    }
+    function openNote(k) {
+      const s = sents[k];
+      if (!s) return;
+      closeNote();
+      const dlg = document.createElement("div");
+      dlg.className = "notemask";
+      dlg.innerHTML = `
+        <div class="notecard" role="dialog" aria-modal="true" aria-labelledby="notetitle">
+          <div class="notehead">
+            <svg class="noteico" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" d="M7 3.5h7.1L19 8.3V20a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4.5a1 1 0 0 1 1-1z"/><path fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" d="M14 3.7V8.4h4.4"/></svg>
+            <h2 id="notetitle">Ghi chú cho câu ${k + 1}</h2>
+            <button class="x" type="button" data-close aria-label="Đóng">×</button>
+          </div>
+          <form>
+            <textarea maxlength="${NOTE_MAX}" placeholder="Viết ghi chú ở đây" aria-label="Ghi chú"></textarea>
+            <p class="notestatus" aria-live="polite"></p>
+            <div class="notefoot">
+              <p>Chỉ mình bạn xem được ghi chú này.</p>
+              <button class="btn primary" type="submit">Lưu</button>
+            </div>
+          </form>
+        </div>`;
+      document.body.appendChild(dlg);
+      const ta = dlg.querySelector("textarea");
+      const status = dlg.querySelector(".notestatus");
+      ta.value = sentenceNote(s);
+      ta.focus();
+      const onEsc = (e) => {
+        if (e.key !== "Escape") return;
+        e.preventDefault();
+        e.stopPropagation();
+        closeNote();
+      };
+      dlg._esc = onEsc;
+      document.addEventListener("keydown", onEsc, true);
+      dlg.querySelector("[data-close]").onclick = closeNote;
+      dlg.addEventListener("click", (e) => { if (e.target === dlg) closeNote(); });
+      dlg.querySelector("form").onsubmit = (e) => {
+        e.preventDefault();
+        const text = ta.value.replace(/\s+$/g, "");
+        if (text.length > NOTE_MAX) { status.textContent = `Ghi chú tối đa ${NOTE_MAX} ký tự.`; return; }
+        if (text) lessonNotes[String(s.id)] = text;
+        else delete lessonNotes[String(s.id)];
+        noteBook[noteKey(topic, id)] = lessonNotes;
+        writeNotes();
+        paintNoteBits();
+        if (!logCfg().url) {
+          status.textContent = "Đã lưu trên máy này. Vào Nhật ký để gắn Google Sheet.";
+          return;
+        }
+        status.textContent = "Đang lưu lên Google Sheet…";
+        const saveBtn = dlg.querySelector("button[type=submit]");
+        saveBtn.disabled = true;
+        queueNote({ topic, lesson: id, title: meta.title, sentence: String(s.id), text: s.text, note: text })
+          .then(() => closeNote())
+          .catch((err) => {
+            saveBtn.disabled = false;
+            status.textContent = err.stale
+              ? "Đã lưu trên máy này. Sheet chưa nhận vì Apps Script chưa được cập nhật — xem trang Nhật ký."
+              : err.message;
+          });
+      };
     }
 
     function renderAll() {
+      closeNote();
       renderBar();
       app.querySelectorAll(".tabs button").forEach((b) => b.setAttribute("aria-selected", b.dataset.tab === tab));
       $pane.onclick = null;
@@ -778,7 +1260,18 @@
       stop(); tab = b.dataset.tab; renderAll();
     });
 
+    const onDocPointer = (e) => {
+      if (e.target.closest(".more")) return;
+      closeMenus();
+    };
+    document.addEventListener("pointerdown", onDocPointer);
     const onKey = (e) => {
+      if (e.key === "Escape" && $pane.querySelector(".moremenu:not([hidden])")) {
+        e.preventDefault();
+        closeMenus();
+        return;
+      }
+      if (document.querySelector(".notemask")) return;
       if (tab === "full") {
         const tg = (e.target && e.target.tagName) || "";
         if (e.code === "Space" && !/INPUT|SELECT|TEXTAREA|BUTTON/.test(tg)) { e.preventDefault(); toggleCont(); }
@@ -805,13 +1298,21 @@
     window.addEventListener("blur", onBlur);
     cleanup = () => {
       stop();
+      closeNote();
+      closeMenus();
+      document.removeEventListener("pointerdown", onDocPointer);
       removeEventListener("keydown", onKey);
       document.removeEventListener("visibilitychange", onHide);
       window.removeEventListener("blur", onBlur);
-      audio.src = "";
+      releaseAudio();
     };
 
     renderAll();
+    pullNotes(topic, id).then((notes) => {
+      if (cancelled) return;
+      lessonNotes = notes;
+      paintNoteBits();
+    }).catch(() => {});
     const known = studyTimes(topic, id);
     const countEl = document.getElementById("study-count");
     if (countEl && known && known.open) countEl.textContent = `Đã mở ${known.open} lần`;
